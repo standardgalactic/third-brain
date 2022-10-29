@@ -28,7 +28,7 @@
 | ---- | Past success cannot be relied upon to be repeatable
 
 ## Lessons to keep in mind
-- [[Being financially unbreakable > Big returns]]
+- [[Being financially unbreakable trumps Big returns]]
 - [[Planning is important, but always plan on the plan not going - Margin of safety]]
 - [[Be optimistic about the future; but paranoid about the short term]]
 

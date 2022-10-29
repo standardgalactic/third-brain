@@ -1,7 +1,7 @@
 ## Main content
 - [[About success in finance]]
-- [[Why do people get buried in debts?]]
-- [[Why do investors sell at the bottom of a bear market?]]
+- [[Why do people get buried in debts]]
+- [[Why do investors sell at the bottom of a bear market]]
 - [[Our experiences shape our behaviour with money]]
 - [[Topic of finance is new]]
 - [[Luck and Risk]]
@@ -18,7 +18,7 @@
 - [[Richard Fuscone - brilliant, but greedy]]
 - [[How Bill Gates got lucky]]
 - [[Unluckiness of Kent Evans]]
-- [[Rajat Gupta - Who never had "enough"]]
+- [[Rajat Gupta - Who never had 'enough']]
 - [[Jesse Livermore - Who earned when the Great Depression happened]]
 - [[Carolco - From big corporation to bankrupt]]
 
