@@ -41,5 +41,14 @@
       ],
       "key": "Backspace"
     }
-  ]
+  ],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "switcher:open": []
 }

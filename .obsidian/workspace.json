@@ -11,8 +11,13 @@
             "id": "e1e3998db9fa9984",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Personal Finance/Why do people get buried in debts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 Areas/Personal Finance/Why do people get buried in debts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 Areas/Personal Finance/Why do people get buried in debts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 Areas/Personal Finance/Why do people get buried in debts.md"
+              }
             }
           },
           {
