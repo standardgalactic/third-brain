@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ignore",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,16 +171,24 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "eaf60755f5ff4a31",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "1efe92f58a0bfcb0",
+  "active": "eaf60755f5ff4a31",
   "lastOpenFiles": [
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
     "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
