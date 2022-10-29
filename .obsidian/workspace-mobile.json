@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "a9f5a51015f69921",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1649d5ddbc578de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c828226de174050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Personal Finance/Having a sense of enough.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d51538fae60f3bb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3aab665126f334b8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ca94263f01f165fb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Rajat",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4cf1d9c7a0a32c26",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "5cdba6e2200327d6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7568a5ed2697ca7a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2 Areas/Personal Finance/Having a sense of enough.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cb81247037f55099",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2 Areas/Personal Finance/Having a sense of enough.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8b182b3f7b59c159",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2 Areas/Personal Finance/Having a sense of enough.md"
+          }
+        }
+      },
+      {
+        "id": "e79e67c5905ca064",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3c828226de174050",
+  "lastOpenFiles": [
+    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "2 Areas/Personal Finance/Our experiences shape our behaviour with money.md",
+    "2 Areas/Personal Finance/There are many things never worth risking, no matter the potential gain.md",
+    "2 Areas/NodeJS/Process and Threads.md",
+    "Assets/Pasted image 20221017125021.png",
+    "2 Areas/NodeJS/0 Map of Contents.md",
+    "2 Areas/NodeJS/Architecture.md",
+    "2 Areas/NodeJS/About NodeJS.md",
+    "3 Resources/Financial news/RBI regulates payment aggregators.md",
+    "4 Archives/Facts/Origin of money.md"
+  ]
+}

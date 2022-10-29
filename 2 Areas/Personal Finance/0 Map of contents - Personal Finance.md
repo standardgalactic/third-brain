@@ -1,0 +1,25 @@
+## Main content
+- [[About success in finance]]
+- [[Why do people get buried in debts?]]
+- [[Why do investors sell at the bottom of a bear market?]]
+- [[Our experiences shape our behaviour with money]]
+- [[Topic of finance is new]]
+- [[Luck and Risk]]
+	- [[Choose your role models wisely]]
+	- [[Case studies and broad patters over individuals]]
+	- [[Diversify your investments]]
+- [[Having a sense of enough]]
+- [[Tremendous results don't need tremendous force - The Power of Compounding]]
+- [[Staying wealthy]]
+- [[Small number of events account for majority of outcomes]]
+
+## Stories
+- [[Ronald Read - Janitor who died a millionaire]]
+- [[Richard Fuscone - brilliant, but greedy]]
+- [[How Bill Gates got lucky]]
+- [[Unluckiness of Kent Evans]]
+- [[Rajat Gupta - Who never had "enough"]]
+- [[Jesse Livermore - Who earned when the Great Depression happened]]
+- [[Carolco - From big corporation to bankrupt]]
+
+## [[Quotes - Personal Finance]]

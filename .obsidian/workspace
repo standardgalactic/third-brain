@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "a9f5a51015f69921",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c828226de174050",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2 Areas/NodeJS/Process and Threads.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00ca629f06c815eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a39e9585379de5e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f44df2bcee27d4e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bd2c181ec1b7d32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "insurance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "right": {
+    "id": "7cdf0d47f41af4b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "66ce87f7e4faff49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0716784f223abd96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Areas/NodeJS/Process and Threads.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "18d4944d196f0793",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Areas/NodeJS/Process and Threads.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "82c7d4f17e2b801f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 Areas/NodeJS/Process and Threads.md"
+              }
+            }
+          },
+          {
+            "id": "bda1d89271c317d7",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "8865ae4b6202a524",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3c828226de174050",
+  "lastOpenFiles": [
+    "Assets/Pasted image 20221017125021.png",
+    "2 Areas/NodeJS/Process and Threads.md",
+    "2 Areas/NodeJS/0 Map of Contents.md",
+    "2 Areas/NodeJS/Architecture.md",
+    "2 Areas/NodeJS/About NodeJS.md",
+    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "3 Resources/Financial news/RBI regulates payment aggregators.md",
+    "4 Archives/Facts/Origin of money.md",
+    "4 Archives/Facts/Germany during World War 2.md",
+    "4 Archives/Life lessons/What may seem atrocious to you, may make sense to someone else.md"
+  ]
+}
