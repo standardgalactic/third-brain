@@ -19,40 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4ceb17639d06212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/Personal Finance/Be optimistic about the future; but paranoid about the short term.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aefc5016252ae597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b75f3972675ee13b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -112,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Personal Finance/Carolco - From big corporation to bankrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +94,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Personal Finance/Carolco - From big corporation to bankrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,16 +104,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 Areas/Personal Finance/Carolco - From big corporation to bankrupt.md"
-              }
-            }
-          },
-          {
-            "id": "bda1d89271c317d7",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
               "state": {}
             }
           },
@@ -165,7 +119,7 @@
             }
           },
           {
-            "id": "41563672868d4efc",
+            "id": "eaf60755f5ff4a31",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -173,32 +127,31 @@
             }
           },
           {
-            "id": "eaf60755f5ff4a31",
+            "id": "4b0bb263e5d79822",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "git-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "eaf60755f5ff4a31",
   "lastOpenFiles": [
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "2 Areas/Personal Finance/Be optimistic about the future; but paranoid about the short term.md",
     "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
+    "2 Areas/Personal Finance/Carolco - From big corporation to bankrupt.md",
     "2 Areas/Personal Finance/Why do investors sell at the bottom of a bear market?.md",
     "2 Areas/Personal Finance/Why do people get buried in debts?.md",
     "2 Areas/Personal Finance/Having \"enough\" is not too little.md",
     "2 Areas/Personal Finance/Rajat Gupta - Who never had \"enough\".md",
     "2 Areas/Personal Finance/Being financially unbreakable > Big returns.md",
-    "2 Areas/Personal Finance/Be optimistic about the future; but paranoid about the short term.md",
-    "2 Areas/Personal Finance/About success in finance.md",
-    "2 Areas/Personal Finance/Carolco - From big corporation to bankrupt.md"
+    "2 Areas/Personal Finance/About success in finance.md"
   ]
 }

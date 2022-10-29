@@ -6,5 +6,7 @@
   "fileSortOrder": "alphabetical",
   "spellcheck": true,
   "attachmentFolderPath": "Assets",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "vimMode": true
 }
