@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68f6c81e27597098",
+        "id": "aebff27790fb8cd0",
         "type": "tabs",
         "children": [
           {
-            "id": "1efe92f58a0bfcb0",
+            "id": "452b7428993ed292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Personal Finance/Carolco - From big corporation to bankrupt.md",
+                "file": "2 Areas/Personal Finance/Having \"enough\" is not too little.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 Areas/Personal Finance/Having \"enough\" is not too little.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 Areas/Personal Finance/Having \"enough\" is not too little.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -104,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 Areas/Personal Finance/Having \"enough\" is not too little.md"
+              }
             }
           },
           {
@@ -141,8 +145,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eaf60755f5ff4a31",
+  "active": "452b7428993ed292",
   "lastOpenFiles": [
+    "2 Areas/Personal Finance/Staying wealthy.md",
+    "2 Areas/Personal Finance/Being financially unbreakable > Big returns.md",
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
     "2 Areas/Personal Finance/Be optimistic about the future; but paranoid about the short term.md",
     "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
@@ -150,8 +156,6 @@
     "2 Areas/Personal Finance/Why do investors sell at the bottom of a bear market?.md",
     "2 Areas/Personal Finance/Why do people get buried in debts?.md",
     "2 Areas/Personal Finance/Having \"enough\" is not too little.md",
-    "2 Areas/Personal Finance/Rajat Gupta - Who never had \"enough\".md",
-    "2 Areas/Personal Finance/Being financially unbreakable > Big returns.md",
-    "2 Areas/Personal Finance/About success in finance.md"
+    "2 Areas/Personal Finance/Rajat Gupta - Who never had \"enough\".md"
   ]
 }

@@ -118,11 +118,19 @@
           "type": "graph-analysis",
           "state": {}
         }
+      },
+      {
+        "id": "ba03cb898ce37752",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
   },
-  "active": "3c828226de174050",
+  "active": "ba03cb898ce37752",
   "lastOpenFiles": [
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
     "2 Areas/Personal Finance/Our experiences shape our behaviour with money.md",
