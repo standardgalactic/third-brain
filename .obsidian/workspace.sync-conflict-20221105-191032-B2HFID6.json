@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/NodeJS/Caching.md",
-                "mode": "preview",
+                "file": "2 Areas/NodeJS/NodeJS module system.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,17 +184,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e8a552084af4cb8e",
+  "active": "bdcb79ed2616f611",
   "lastOpenFiles": [
-    "2 Areas/NodeJS/Caching.md",
-    "2 Areas/NodeJS/NodeJS module system.md",
     "2 Areas/NodeJS/exports + destructuring.md",
+    "2 Areas/NodeJS/NodeJS module system.md",
     "2 Areas/NodeJS/Using exports only.md",
     "2 Areas/NodeJS/module.exports being used.md",
     "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
     "2 Areas/NodeJS/Streams.md",
     "2 Areas/NodeJS/Reading a file and outputting its contents as a response to a HTTP requests (using streams).md",
     "2 Areas/NodeJS/Process and Threads.md",
-    "2 Areas/NodeJS/Architecture.md"
+    "2 Areas/NodeJS/Architecture.md",
+    "2 Areas/NodeJS/Path to the required module is resolved and file is loaded..md"
   ]
 }

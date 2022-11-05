@@ -8,3 +8,8 @@
 - [[Module exports are returned]]
 - [[Caching]]
 
+## Example code
+- [[module.exports being used]]
+- [[Using exports only]]
+- [[exports + destructuring]]
+

@@ -31,6 +31,11 @@
 	- Duplex streams that transform data as it is written or read
 	- Example: `zlib` Gzip creation
 
+## Example code
+
+[[Reading a file and outputting its contents as a response to a HTTP requests (using streams)]]
+
+
 ## Sources
 
 ## Keywords

@@ -11,21 +11,9 @@ module.exports = () => console.log("logging some text 😍");
 ```
 
 ```js
-// modules.js
+//Caching
 console.log("learning caching")
 require("./test-module-3")();
 require("./test-module-3")();
 require("./test-module-3")();
 ```
-
-```bash
-node modules.js
-
-=> learning caching
-hello from module 3
-logging some text 😍
-logging some text 😍
-logging some text 😍
-```
-
-- As one can easily see, the text `learning caching` is outputted only once, even though the module is required thrice.
