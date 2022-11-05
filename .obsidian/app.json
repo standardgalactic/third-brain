@@ -8,5 +8,5 @@
   "attachmentFolderPath": "Assets",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "vimMode": true
+  "vimMode": false
 }

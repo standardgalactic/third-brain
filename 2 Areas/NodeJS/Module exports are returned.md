@@ -1,3 +1,7 @@
+![[Pasted image 20221020170930.png]]
+
+## Example of multiple objects being exported
+
 ```js
 // example_module.js
 

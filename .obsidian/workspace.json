@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Personal Finance/Why do people get buried in debts.md",
+                "file": "2 Areas/NodeJS/NodeJS module system.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1996b1dc045d5bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Personal Finance/Why do people get buried in debts.md",
+                "file": "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Personal Finance/Why do people get buried in debts.md",
+                "file": "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Personal Finance/Why do people get buried in debts.md"
+                "file": "2 Areas/NodeJS/0 Map of Contents - NodeJS.md"
               }
             }
           },
@@ -145,17 +159,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e1e3998db9fa9984",
+  "active": "e1996b1dc045d5bf",
   "lastOpenFiles": [
-    "2 Areas/Personal Finance/Why do people get buried in debts.md",
-    "2 Areas/Personal Finance/Why do investors sell at the bottom of a bear market.md",
-    "2 Areas/Personal Finance/Rajat Gupta - Who never had 'enough'.md",
-    "2 Areas/Personal Finance/Being financially unbreakable trumps Big returns.md",
-    "2 Areas/Personal Finance/Having a sense of enough.md",
-    "2 Areas/Personal Finance/Having 'enough' is not too little.md",
-    "2 Areas/Personal Finance/Staying wealthy.md",
-    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-    "2 Areas/Personal Finance/Be optimistic about the future; but paranoid about the short term.md",
-    "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md"
+    "2 Areas/NodeJS/Process and Threads.md",
+    "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
+    "2 Areas/NodeJS/Architecture.md",
+    "2 Areas/NodeJS/NodeJS module system.md",
+    "2 Areas/NodeJS/Path to the required module is resolved and file is loaded..md",
+    "2 Areas/NodeJS/Caching.md",
+    "2 Areas/NodeJS/Module exports are returned.md",
+    "Assets/Example module code.md",
+    "2 Areas/NodeJS/Execution.md",
+    "2 Areas/NodeJS/Wrapping.md"
   ]
 }
