@@ -1,0 +1,4 @@
+- Pending promise
+- Resolved promise
+	- Fulfilled promise
+	- Rejected promise
