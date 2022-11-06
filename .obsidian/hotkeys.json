@@ -16,22 +16,8 @@
       "key": "G"
     }
   ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "O"
-    }
-  ],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "I"
-    }
-  ],
+  "app:go-back": [],
+  "app:go-forward": [],
   "editor:open-search-replace": [],
   "app:delete-file": [
     {
