@@ -10,4 +10,3 @@
 
 ## Extras
 - [[Difference between PUT and PATCH request]]
-- [[Difference between JSON and JavaScript object]]
