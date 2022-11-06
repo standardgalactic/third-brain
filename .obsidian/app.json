@@ -8,5 +8,8 @@
   "attachmentFolderPath": "Assets",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "vimMode": true
+  "vimMode": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "tabSize": 2
 }

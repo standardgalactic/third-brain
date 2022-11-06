@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/NodeJS/Promises \"the\".md",
-                "mode": "source",
+                "file": "2 Areas/NodeJS/Promises.sync-conflict-20221106-134453-B2HFID6.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/NodeJS/Promises \"the\".md",
+                "file": "2 Areas/NodeJS/Promises.sync-conflict-20221106-134453-B2HFID6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/NodeJS/Promises \"the\".md",
+                "file": "2 Areas/NodeJS/Promises.sync-conflict-20221106-134453-B2HFID6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/NodeJS/Promises \"the\".md"
+                "file": "2 Areas/NodeJS/Promises.sync-conflict-20221106-134453-B2HFID6.md"
               }
             }
           },
@@ -199,15 +199,15 @@
   },
   "active": "f7b2b78776504754",
   "lastOpenFiles": [
-    "2 Areas/NodeJS/Using exports only.md",
-    "2 Areas/NodeJS/Wrapping.md",
-    "2 Areas/NodeJS/Module exports are returned.md",
+    "0 Fleeting notes/Nanosecond precision in linux.md",
+    "2 Areas/NodeJS/Promises.md",
+    "2 Areas/NodeJS/NodeJS module system.md",
+    "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
+    "2 Areas/NodeJS/Caching.md",
     "2 Areas/NodeJS/exports + destructuring.md",
-    "2 Areas/NodeJS/exports + destructuring.sync-conflict-20221105-191012-B2HFID6.md",
-    "2 Areas/NodeJS/Promises \"the\".md",
-    "2 Areas/NodeJS/Promises.sync-conflict-20221106-134453-B2HFID6.md",
-    "2 Areas/NodeJS/Promises.sync-conflict-20221106-141234-B2HFID6.md",
-    "2 Areas/NodeJS/Promises.sync-conflict-20221106-134602-B2HFID6.md",
-    "0 Fleeting notes/Nanosecond precision in linux.md"
+    "2 Areas/NodeJS/Using exports only.md",
+    "2 Areas/NodeJS/module.exports being used.md",
+    "2 Areas/NodeJS/Streams.md",
+    "2 Areas/NodeJS/Reading a file and outputting its contents as a response to a HTTP requests (using streams).md"
   ]
 }
