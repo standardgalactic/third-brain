@@ -47,6 +47,14 @@
             }
           },
           {
+            "id": "4d1cd79d7ace9def",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "bdcb79ed2616f611",
             "type": "leaf",
             "state": {
@@ -73,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/NodeJS/Promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/NodeJS/Promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 Areas/NodeJS/Promises.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,8 +201,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f7b2b78776504754",
+  "active": "f44df2bcee27d4e4",
   "lastOpenFiles": [
+    "2 Areas/NodeJS/Promises.md",
     "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
     "2 Areas/NodeJS/NodeJS module system.md",
     "2 Areas/NodeJS/Caching.md",
@@ -207,7 +212,6 @@
     "2 Areas/NodeJS/module.exports being used.md",
     "2 Areas/NodeJS/Streams.md",
     "2 Areas/NodeJS/Reading a file and outputting its contents as a response to a HTTP requests (using streams).md",
-    "2 Areas/NodeJS/Process and Threads.md",
-    "2 Areas/NodeJS/Architecture.md"
+    "2 Areas/NodeJS/Process and Threads.md"
   ]
 }

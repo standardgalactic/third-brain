@@ -6,6 +6,7 @@ Fortune
 Fear
 Focus
 From
+Fulfilled
 outcomes
 of
 old
@@ -403,6 +404,7 @@ provided
 plug
 problem
 pressure
+promise
 Sources
 Stories
 Sat
@@ -574,6 +576,8 @@ Read
 Repeat
 Readable
 Reading
+Resolved
+Rejected
 United
 Nations
 NOT
@@ -607,6 +611,7 @@ Path
 Parsing
 Perfect
 Problem
+Pending
 Gates
 Gupta
 Goldman
