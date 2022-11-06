@@ -47,6 +47,32 @@
             }
           },
           {
+            "id": "107ed96f58d6a263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/NodeJS/Using async and await.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c71210bd649828b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/NodeJS/Using then and catch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bdcb79ed2616f611",
             "type": "leaf",
             "state": {
@@ -73,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/NodeJS/Promises.md",
+                "file": "2 Areas/NodeJS/Using async and await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/NodeJS/Promises.md",
+                "file": "2 Areas/NodeJS/Using async and await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/NodeJS/Promises.md"
+                "file": "2 Areas/NodeJS/Using async and await.md"
               }
             }
           },
@@ -200,15 +226,15 @@
   },
   "active": "82c7d4f17e2b801f",
   "lastOpenFiles": [
-    "2 Areas/NodeJS/Promises.sync-conflict-20221106-145537-B2HFID6.md",
     "2 Areas/NodeJS/Promises.md",
+    "2 Areas/NodeJS/Using then and catch.md",
+    "2 Areas/NodeJS/Promises.sync-conflict-20221106-145537-B2HFID6.md",
     "0 Fleeting notes/Promise - then.md",
     "2 Areas/NodeJS/Caching.md",
     "2 Areas/NodeJS/NodeJS module system.md",
     "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
     "0 Fleeting notes/Nanosecond precision in linux.md",
     "2 Areas/NodeJS/Using exports only.md",
-    "2 Areas/NodeJS/exports + destructuring.md",
-    "2 Areas/NodeJS/Caching.sync-conflict-20221105-191232-B2HFID6.md"
+    "2 Areas/NodeJS/exports + destructuring.md"
   ]
 }

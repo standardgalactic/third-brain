@@ -37,9 +37,9 @@ readFilePromise("some-file.txt")
 ```
 
 ## How to use promises
-## Using `then` and `catch`
+- [[Using then and catch]]
+- [[Using async and await]]
 
-TBD: [[Promise - then]]
 
 ## Async and await
 ## States of promises
