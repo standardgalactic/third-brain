@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/NodeJS/NodeJS module system.md",
+                "file": "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7b2b78776504754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/NodeJS/Promises.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/NodeJS/NodeJS module system.md",
-                "mode": "source",
+                "file": "2 Areas/NodeJS/Caching.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/NodeJS/NodeJS module system.md",
+                "file": "2 Areas/NodeJS/Promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/NodeJS/NodeJS module system.md",
+                "file": "2 Areas/NodeJS/Promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/NodeJS/NodeJS module system.md"
+                "file": "2 Areas/NodeJS/Promises.md"
               }
             }
           },
@@ -184,17 +197,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bdcb79ed2616f611",
+  "active": "f7b2b78776504754",
   "lastOpenFiles": [
-    "2 Areas/NodeJS/exports + destructuring.md",
+    "0 Fleeting notes/Promise - then.md",
+    "2 Areas/NodeJS/Caching.md",
     "2 Areas/NodeJS/NodeJS module system.md",
-    "2 Areas/NodeJS/Using exports only.md",
-    "2 Areas/NodeJS/module.exports being used.md",
     "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
-    "2 Areas/NodeJS/Streams.md",
-    "2 Areas/NodeJS/Reading a file and outputting its contents as a response to a HTTP requests (using streams).md",
-    "2 Areas/NodeJS/Process and Threads.md",
-    "2 Areas/NodeJS/Architecture.md",
-    "2 Areas/NodeJS/Path to the required module is resolved and file is loaded..md"
+    "0 Fleeting notes/Nanosecond precision in linux.md",
+    "2 Areas/NodeJS/Promises.md",
+    "2 Areas/NodeJS/Using exports only.md",
+    "2 Areas/NodeJS/exports + destructuring.md",
+    "2 Areas/NodeJS/Caching.sync-conflict-20221105-191232-B2HFID6.md",
+    "2 Areas/NodeJS/Wrapping.md"
   ]
 }

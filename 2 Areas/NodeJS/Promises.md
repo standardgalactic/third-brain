@@ -36,10 +36,12 @@ readFilePromise("some-file.txt")
 	})
 ```
 
+## How to use promises
 ## Using `then` and `catch`
 
-[This documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then) is a better place to read more about them
+TBD: [[Promise - then]]
 
+## Async and await
 ## States of promises
 - **Pending promise**: The code inside the promise has not been executed yet.
 - **Resolved promise**: The code execution inside the promise has finished. There are two ways a promise can be marked as resolved:
