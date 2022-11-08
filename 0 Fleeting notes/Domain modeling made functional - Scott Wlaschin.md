@@ -37,4 +37,19 @@ In the above image, there is no persistence (database). It just defines the doma
 - ![[Pasted image 20221108164130.png]]
 - This is kind of self documenting
 - ![[Pasted image 20221108164435.png]]
-- 
+- ![[Pasted image 20221108164542.png]]
+- ![[Pasted image 20221108164751.png]]
+- ![[Pasted image 20221108164800.png]]
+- ![[Pasted image 20221108164941.png]]
+- New requirement: 
+- ![[Pasted image 20221108165023.png]]
+- ![[Pasted image 20221108165058.png]]
+- ![[Pasted image 20221108165134.png]]
+- ![[Pasted image 20221108165146.png]]
+- ![[Pasted image 20221108165238.png]]
+- One more tweak:
+- ![[Pasted image 20221108165356.png]]
+- ![[Pasted image 20221108165429.png]]
+
+## source
+https://fsharpforfunandprofit.com/ddd/
