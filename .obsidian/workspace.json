@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1e3998db9fa9984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/NodeJS/NodeJS module system.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e8a552084af4cb8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
+                "file": "0 Fleeting notes/Nanosecond precision in linux.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -34,90 +21,12 @@
             }
           },
           {
-            "id": "f7b2b78776504754",
+            "id": "4b59b330cf9eb166",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/NodeJS/Promises.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "107ed96f58d6a263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb8731a6fac0170c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe7b5236c1378e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c71210bd649828b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/NodeJS/Using then and catch.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdcb79ed2616f611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/NodeJS/Caching.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f413a8a5e62265d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/NodeJS/module.exports being used.md",
+                "file": "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -183,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
+                "file": "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
+                "file": "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -212,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/NodeJS/Difference between PUT and PATCH request.md"
+                "file": "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md"
               }
             }
           },
@@ -256,10 +165,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e8a552084af4cb8e",
+  "active": "4b59b330cf9eb166",
   "lastOpenFiles": [
+    "0 Fleeting notes/Nanosecond precision in linux.md",
+    "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
     "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
     "2 Areas/NodeJS/Difference between JSON and JavaScript object.md",
     "2 Areas/NodeJS/Promises.md",
@@ -267,8 +179,6 @@
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
     "2 Areas/Personal Finance/Quotes - Personal Finance.md",
     "Templates/0 Map of Contents.md",
-    "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
-    "3 Resources/Financial news/RBI regulates payment aggregators.md",
-    "2 Areas/NodeJS/Using async and await.md"
+    "3 Resources/Financial news/RBI regulates payment aggregators.md"
   ]
 }

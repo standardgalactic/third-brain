@@ -1,0 +1,4 @@
+- Functional programming is good for boring line of business applications (BLOBAs)
+	- Must haves for BLOBA
+		- Express requirements clearly
+		- Rapid develop
