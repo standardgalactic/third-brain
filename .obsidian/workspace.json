@@ -45,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "625d04b1bacf424f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Resources/CLARK/0 Map of Contents - CLARK.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4504cd9ed4dca442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Resources/CLARK/Using splunk.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -105,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md",
+                "file": "3 Resources/CLARK/Using splunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md",
+                "file": "3 Resources/CLARK/Using splunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md"
+                "file": "3 Resources/CLARK/Using splunk.md"
               }
             }
           },
@@ -181,8 +207,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1878a04a2a2e2b63",
+  "active": "4504cd9ed4dca442",
   "lastOpenFiles": [
+    "3 Resources/CLARK/0 Map of Contents - CLARK.md",
+    "2 Areas/NodeJS/Technical dive into MongoDB.md",
     "2 Areas/NodeJS/MongoDB.md",
     "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
     "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
@@ -190,8 +218,6 @@
     "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
     "2 Areas/NodeJS/Difference between JSON and JavaScript object.md",
     "2 Areas/NodeJS/Promises.md",
-    "2 Areas/General coding/0 Map of Contents - General coding.md",
-    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-    "2 Areas/Personal Finance/Quotes - Personal Finance.md"
+    "2 Areas/General coding/0 Map of Contents - General coding.md"
   ]
 }

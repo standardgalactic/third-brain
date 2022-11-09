@@ -1,0 +1,2 @@
+- Be more specific with the queries to get faster results.
+- To get clark-de production logs, use `index=clark_de_production_kubernetes`
