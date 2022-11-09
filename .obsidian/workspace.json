@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1878a04a2a2e2b63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/NodeJS/MongoDB.md",
+                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/NodeJS/MongoDB.md",
+                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/NodeJS/MongoDB.md"
+                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md"
               }
             }
           },
@@ -168,8 +181,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54c372b15260a025",
+  "active": "1878a04a2a2e2b63",
   "lastOpenFiles": [
+    "2 Areas/NodeJS/MongoDB.md",
     "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
     "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
     "0 Fleeting notes/Nanosecond precision in linux.md",
@@ -178,7 +192,6 @@
     "2 Areas/NodeJS/Promises.md",
     "2 Areas/General coding/0 Map of Contents - General coding.md",
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-    "2 Areas/Personal Finance/Quotes - Personal Finance.md",
-    "Templates/0 Map of Contents.md"
+    "2 Areas/Personal Finance/Quotes - Personal Finance.md"
   ]
 }

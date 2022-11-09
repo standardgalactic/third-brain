@@ -21,3 +21,6 @@
 - **Performant**: Embedded data models, indexing, sharding, flexible documents, native duplications
 - Free and open source; SSPL license
 - **Embedded/Denormalizing documents**: Any document can hold a list of documents in a field. Allows quicker access and easier data models. *In relational databases, data is always normalized* 
+
+## Technical dive into Mongo
+[[Technical dive into MongoDB]]
