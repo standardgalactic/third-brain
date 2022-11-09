@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
-                "mode": "preview",
+                "file": "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54c372b15260a025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/NodeJS/MongoDB.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
+                "file": "2 Areas/NodeJS/MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
+                "file": "2 Areas/NodeJS/MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md"
+                "file": "2 Areas/NodeJS/MongoDB.md"
               }
             }
           },
@@ -154,12 +168,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8a552084af4cb8e",
+  "active": "54c372b15260a025",
   "lastOpenFiles": [
-    "0 Fleeting notes/Nanosecond precision in linux.md",
-    "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
-    "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
     "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
+    "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
+    "0 Fleeting notes/Nanosecond precision in linux.md",
+    "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
     "2 Areas/NodeJS/Difference between JSON and JavaScript object.md",
     "2 Areas/NodeJS/Promises.md",
     "2 Areas/General coding/0 Map of Contents - General coding.md",
