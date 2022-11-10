@@ -30,7 +30,7 @@ db.tours.insertOne({
 ---
 **List all databases**
 
-`dbs`
+`show dbs`
 
 ---
 **List all collections in a DB**
@@ -43,3 +43,10 @@ db.collections
 
 //=> tours
 ```
+
+---
+**List all documents within a collection**
+
+`db.<collection-name>.find()`
+
+Example: `db.tours.find()`
