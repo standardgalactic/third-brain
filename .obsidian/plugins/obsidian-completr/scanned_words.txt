@@ -8,6 +8,10 @@ Focus
 From
 Fulfilled
 Functional
+Fields
+Features
+Flexible
+Free
 outcomes
 of
 old
@@ -39,6 +43,7 @@ owes
 otehr
 operations
 optional
+open
 are
 and
 an
@@ -86,6 +91,8 @@ applicants
 archive
 aggregator
 accepted
+auto
+across
 driven
 doesn
 directors
@@ -118,6 +125,14 @@ database
 defines
 documenting
 ddd
+defined
+document
+documents
+distribute
+different
+duplications
+databases
+dive
 by
 behaviour
 be
@@ -152,6 +167,7 @@ business
 boring
 bound
 basic
+based
 luck
 long
 life
@@ -177,6 +193,7 @@ lessons
 line
 language
 languages
+list
 independent
 intelligence
 is
@@ -210,6 +227,8 @@ issues
 issuecomment
 invited
 image
+increase
+indexing
 effort
 even
 efficient
@@ -248,6 +267,7 @@ experienced
 experts
 email
 exist
+easier
 success
 science
 soft
@@ -304,6 +324,11 @@ scaled
 self
 start
 switch
+size
+structures
+scalability
+schema
+sharding
 not
 number
 neural
@@ -315,6 +340,8 @@ network
 next
 new
 name
+native
+normalized
 hard
 half
 havoc
@@ -342,6 +369,7 @@ https
 happened
 how
 haves
+hold
 It
 In
 Instinct
@@ -429,6 +457,8 @@ me
 maybe
 model
 mean
+machines
+models
 than
 to
 that
@@ -481,6 +511,7 @@ types
 type
 tweak
 terminal
+typed
 knowledge
 know
 keep
@@ -499,6 +530,7 @@ give
 github
 generally
 given
+generated
 people
 progress
 pathways
@@ -540,6 +572,8 @@ plain
 programming
 product
 persistence
+pre
+pair
 Sources
 Stories
 Sat
@@ -555,6 +589,9 @@ Solution
 States
 See
 Sales
+Similar
+Stores
+SSPL
 Keywords
 Kolkata
 understand
@@ -606,6 +643,10 @@ foolish
 finance
 functional
 fsharpforfunandprofit
+format
+field
+fields
+flexible
 Destruction
 Difference
 DNS
@@ -614,6 +655,9 @@ Demo
 Defining
 Domain
 Divide
+Documents
+Document
+Denormalizing
 reality
 rid
 redundant
@@ -654,6 +698,7 @@ resource
 risked
 requirements
 requirement
+relational
 connections
 clears
 chaos
@@ -710,6 +755,8 @@ Types
 Transform
 TBD
 Tags
+Tables
+Technical
 Compounding
 CEO
 Combination
@@ -723,6 +770,8 @@ Can
 Contents
 Communication
 Composable
+Collections
+Columns
 Merely
 Main
 McKinsey
@@ -738,6 +787,11 @@ Map
 Must
 Marketing
 Mongo
+Most
+Maximum
+MB
+Mapping
+MongoDB
 Orphaned
 October
 One
@@ -758,6 +812,8 @@ Batnick
 BLOBAs
 BLOBA
 Bounded
+BSON
+Built
 Retired
 Rajat
 Raj
@@ -777,11 +833,14 @@ Rejected
 Reference
 RBI
 Rapid
+Relational
+Rows
 United
 Using
 US
 UNIONIZE
 Ubiquitous
+Uses
 Nations
 NOT
 NodeJS
@@ -791,6 +850,7 @@ No
 Name
 Not
 New
+NoSQL
 World
 Why
 Went
@@ -813,6 +873,8 @@ Emitted
 Extras
 Express
 Every
+Easy
+Embedded
 Partnered
 Produced
 Putting
@@ -824,6 +886,7 @@ Problem
 Pending
 Promises
 Promise
+Performant
 Gates
 Gupta
 Goldman
@@ -841,6 +904,7 @@ High
 quick
 quit
 quality
+quicker
 As
 An
 Anything
@@ -852,11 +916,13 @@ Allows
 Async
 After
 And
+Any
 You
 Your
 ve
 value
 volumes
+values
 just
 javascript
 js
@@ -864,3 +930,4 @@ Lessons
 Quotes
 Javascript
 JavaScript
+JSON
