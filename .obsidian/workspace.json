@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1d3944a12b83761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Personal Finance/Why people don't feel much happier even though we have more money.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Personal Finance/Wealth gives you freedom.md",
+                "file": "2 Areas/Personal Finance/Why people don't feel much happier even though we have more money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Personal Finance/Wealth gives you freedom.md",
+                "file": "2 Areas/Personal Finance/Why people don't feel much happier even though we have more money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Personal Finance/Wealth gives you freedom.md"
+                "file": "2 Areas/Personal Finance/Why people don't feel much happier even though we have more money.md"
               }
             }
           },
@@ -168,8 +181,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "57a7b9433212f377",
+  "active": "b1d3944a12b83761",
   "lastOpenFiles": [
+    "2 Areas/Personal Finance/Wealth gives you freedom.md",
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
     "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
     "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
@@ -178,7 +192,6 @@
     "3 Resources/CLARK/Using splunk.md",
     "3 Resources/CLARK/0 Map of Contents - CLARK.md",
     "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
-    "0 Fleeting notes/Nanosecond precision in linux.md",
-    "2 Areas/NodeJS/Difference between PUT and PATCH request.md"
+    "0 Fleeting notes/Nanosecond precision in linux.md"
   ]
 }
