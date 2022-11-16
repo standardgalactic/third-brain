@@ -12,6 +12,7 @@
 - [[Tremendous results don't need tremendous force - The Power of Compounding]]
 - [[Staying wealthy]]
 - [[Small number of events account for majority of outcomes]]
+- [[Wealth gives you freedom]]
 
 ## Stories
 - [[Ronald Read - Janitor who died a millionaire]]

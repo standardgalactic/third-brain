@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8a552084af4cb8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1878a04a2a2e2b63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md",
+                "file": "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "4504cd9ed4dca442",
+            "id": "57a7b9433212f377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/NodeJS/MongoDB.md",
+                "file": "2 Areas/Personal Finance/Wealth gives you freedom.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md",
+                "file": "2 Areas/Personal Finance/Wealth gives you freedom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md",
+                "file": "2 Areas/Personal Finance/Wealth gives you freedom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/NodeJS/Technical dive into MongoDB.md"
+                "file": "2 Areas/Personal Finance/Wealth gives you freedom.md"
               }
             }
           },
@@ -181,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1878a04a2a2e2b63",
+  "active": "57a7b9433212f377",
   "lastOpenFiles": [
-    "2 Areas/NodeJS/MongoDB.md",
+    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
     "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
+    "2 Areas/NodeJS/Technical dive into MongoDB.md",
+    "2 Areas/NodeJS/MongoDB.md",
     "3 Resources/CLARK/Using splunk.md",
     "3 Resources/CLARK/0 Map of Contents - CLARK.md",
-    "2 Areas/NodeJS/Technical dive into MongoDB.md",
     "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
     "0 Fleeting notes/Nanosecond precision in linux.md",
-    "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
-    "2 Areas/NodeJS/Difference between JSON and JavaScript object.md",
-    "2 Areas/NodeJS/Promises.md"
+    "2 Areas/NodeJS/Difference between PUT and PATCH request.md"
   ]
 }

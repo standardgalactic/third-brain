@@ -3,12 +3,12 @@
   "nlp",
   "cmenu-plugin",
   "highlightr-plugin",
-  "obsidian-completr",
   "note-refactor-obsidian",
   "darlal-switcher-plus",
   "obsidian-git",
   "taskbone-ocr-plugin",
   "obsidian-vimrc-support",
   "obsidian-relative-line-numbers",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "execute-code"
 ]

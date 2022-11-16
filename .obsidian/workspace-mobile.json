@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Personal Finance/Having a sense of enough.md",
-                "mode": "source",
+                "file": "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -45,10 +45,10 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Rajat",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical"
           }
@@ -66,7 +66,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "5cdba6e2200327d6",
@@ -78,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2 Areas/Personal Finance/Having a sense of enough.md",
+            "file": "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2 Areas/Personal Finance/Having a sense of enough.md",
+            "file": "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +107,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2 Areas/Personal Finance/Having a sense of enough.md"
+            "file": "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md"
           }
         }
       },
@@ -130,17 +130,17 @@
     ],
     "currentTab": 0
   },
-  "active": "ba03cb898ce37752",
+  "active": "3aab665126f334b8",
   "lastOpenFiles": [
+    "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
+    "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "2 Areas/Personal Finance/Having a sense of enough.md",
     "2 Areas/Personal Finance/Our experiences shape our behaviour with money.md",
     "2 Areas/Personal Finance/There are many things never worth risking, no matter the potential gain.md",
     "2 Areas/NodeJS/Process and Threads.md",
     "Assets/Pasted image 20221017125021.png",
     "2 Areas/NodeJS/0 Map of Contents.md",
-    "2 Areas/NodeJS/Architecture.md",
-    "2 Areas/NodeJS/About NodeJS.md",
-    "3 Resources/Financial news/RBI regulates payment aggregators.md",
-    "4 Archives/Facts/Origin of money.md"
+    "2 Areas/NodeJS/Architecture.md"
   ]
 }
