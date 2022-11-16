@@ -12,6 +12,7 @@ Fields
 Features
 Flexible
 Free
+Following
 outcomes
 of
 old
@@ -93,6 +94,7 @@ aggregator
 accepted
 auto
 across
+array
 driven
 doesn
 directors
@@ -229,6 +231,7 @@ invited
 image
 increase
 indexing
+insert
 effort
 even
 efficient
@@ -421,6 +424,7 @@ warehouse
 who
 would
 want
+within
 your
 year
 years
@@ -658,6 +662,7 @@ Divide
 Documents
 Document
 Denormalizing
+DB
 reality
 rid
 redundant
@@ -739,6 +744,8 @@ concept
 constructed
 combining
 client
+collection
+collections
 This
 Touched
 The
@@ -772,6 +779,7 @@ Communication
 Composable
 Collections
 Columns
+Create
 Merely
 Main
 McKinsey
@@ -927,6 +935,7 @@ just
 javascript
 js
 Lessons
+List
 Quotes
 Javascript
 JavaScript
