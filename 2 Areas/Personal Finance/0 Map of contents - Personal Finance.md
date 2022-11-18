@@ -13,6 +13,10 @@
 - [[Staying wealthy]]
 - [[Small number of events account for majority of outcomes]]
 - [[Wealth gives you freedom]]
+- [[Wealth has a minor role to play in getting admiration and respect]]
+
+## Investments
+- 
 
 ## Stories
 - [[Ronald Read - Janitor who died a millionaire]]
