@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md",
+                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5171d646699acf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd4510190460c8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/General coding/Ruby - raise and rescue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md",
+                "file": "2 Areas/General coding/Ruby - raise and rescue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md",
+                "file": "2 Areas/General coding/Ruby - raise and rescue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md"
+                "file": "2 Areas/General coding/Ruby - raise and rescue.md"
               }
             }
           },
@@ -154,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b8d7b7d1526a5c95",
+  "active": "dd4510190460c8cc",
   "lastOpenFiles": [
+    "Ruby - raise/rescue.md",
+    "2 Areas/General coding/Ruby - raise and rescue.md",
+    "2 Areas/General coding/0 Map of Contents - General coding.md",
+    "2 Areas/NodeJS/Difference between PUT and PATCH request.md",
+    "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md",
     "Readwise/Articles/Why VPF Remains a Cut Above the Rest - Ayush.mail.id@gmail.com - Gmail.md",
     "Readwise/Books/Toba Tek Singh Aur Anya Kahaniyaan.md",
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
     "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md",
-    "2 Areas/Personal Finance/Why people don't feel much happier even though we have more money.md",
-    "2 Areas/Personal Finance/Wealth gives you freedom.md",
-    "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
-    "2 Areas/NodeJS/0 Map of Contents - NodeJS.md",
-    "2 Areas/NodeJS/Technical dive into MongoDB.md",
-    "2 Areas/NodeJS/MongoDB.md"
+    "2 Areas/Personal Finance/Why people don't feel much happier even though we have more money.md"
   ]
 }
