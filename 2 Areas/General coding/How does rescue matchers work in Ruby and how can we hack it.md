@@ -19,6 +19,25 @@ rescue FoobarMatcher
   puts "rescued!"
 end
 ```
+
+### Syntactic sugar - Ruby always provides better ways to do things 😉
+```ruby
+def exceptions_matching(&block)
+  Class.new do
+    def self.===(other)
+      @block.call(other)
+    end
+  end.tap do |c|
+    c.instance_variable_set(:@block, block)
+  end
+end
+
+begin
+  raise "FOOBAR: We're all doomed!"
+rescue exceptions_matching { |e| e.message =~ /^FOOBAR/ }
+  puts "rescued!"
+end
+```
 ## Related information
 - [[Ruby triple equal operator]]
 
