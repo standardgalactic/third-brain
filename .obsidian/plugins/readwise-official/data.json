@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 6256081,
+  "lastSavedStatusID": 6286518,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -24,7 +24,8 @@
     "Readwise/Books/Money Wise.md": "16555572",
     "Readwise/Books/The Psychology of Money.md": "16711995",
     "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md": "20878540",
-    "Readwise/Articles/A Tax-Saver With Many Strings Attached.md": "20923156"
+    "Readwise/Articles/A Tax-Saver With Many Strings Attached.md": "20923156",
+    "Readwise/Articles/The Forever Magic of Reinvesting.md": "21246635"
   },
   "reimportShowConfirmation": true
 }
