@@ -4,13 +4,16 @@
   "cmenu-plugin",
   "highlightr-plugin",
   "obsidian-git",
-  "taskbone-ocr-plugin",
   "obsidian-vimrc-support",
   "obsidian-relative-line-numbers",
   "table-editor-obsidian",
-  "execute-code",
   "readwise-official",
   "omnisearch",
   "better-pdf-plugin",
-  "obsidian-smart-typography"
+  "obsidian-smart-typography",
+  "tag-word-cloud",
+  "file-tree-alternative",
+  "obsidian-journey-plugin",
+  "no-dupe-leaves",
+  "obsidian-recall"
 ]

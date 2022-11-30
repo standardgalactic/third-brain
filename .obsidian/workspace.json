@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5171d646699acf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "505cc54bce745c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Archives/Objects/0 Map of Contents - Objects.md",
+                "file": "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +57,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "71bdc56b4f04e8ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
+                "file": "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
+                "file": "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md"
+                "file": "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md"
               }
             }
           },
@@ -181,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5171d646699acf7",
+  "active": "b8d7b7d1526a5c95",
   "lastOpenFiles": [
-    "2 Areas/General coding/Ruby - raise and rescue.md",
-    "2 Areas/General coding/0 Map of Contents - General coding.md",
-    "2 Areas/General coding/Ruby - Multiple ways to raise exceptions.md",
+    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "2 Areas/Personal Finance/Decisions are based on experiences.md",
+    "2 Areas/Personal Finance/Being financially unbreakable trumps Big returns.md",
     "Assets/exception method on an object.md",
+    "2 Areas/General coding/0 Map of Contents - General coding.md",
+    "2 Areas/General coding/Ruby - raise and rescue.md",
+    "2 Areas/General coding/Ruby - Multiple ways to raise exceptions.md",
     "2 Areas/General coding/How does rescue matchers work in Ruby and how can we hack it.md",
     "2 Areas/General coding/Ruby triple equal operator.md",
-    "4 Archives/Objects/0 Map of Contents - Objects.md",
-    "4 Archives/Objects/The Psychology of Money.md",
-    "Readwise/Books/The Psychology of Money.md",
-    "Ruby - raise/rescue.md"
+    "4 Archives/Objects/0 Map of Contents - Objects.md"
   ]
 }

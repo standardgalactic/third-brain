@@ -3,7 +3,7 @@
   "ignoreDiacritics": true,
   "indexedFileTypes": [],
   "PDFIndexing": false,
-  "imagesIndexing": false,
+  "imagesIndexing": true,
   "showShortName": false,
   "ribbonIcon": true,
   "showExcerpt": true,

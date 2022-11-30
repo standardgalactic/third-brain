@@ -1,0 +1,7 @@
+{
+  "maxNewPerDay": 5,
+  "repeatItems": true,
+  "dataLocation": "In Plugin Folder",
+  "locationPath": "",
+  "algorithm": "Anki"
+}
