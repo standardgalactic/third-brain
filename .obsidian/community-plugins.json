@@ -3,12 +3,14 @@
   "nlp",
   "cmenu-plugin",
   "highlightr-plugin",
-  "darlal-switcher-plus",
   "obsidian-git",
   "taskbone-ocr-plugin",
   "obsidian-vimrc-support",
   "obsidian-relative-line-numbers",
   "table-editor-obsidian",
   "execute-code",
-  "readwise-official"
+  "readwise-official",
+  "omnisearch",
+  "better-pdf-plugin",
+  "obsidian-smart-typography"
 ]
