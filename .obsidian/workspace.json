@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md",
-                "mode": "source",
+                "file": "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md",
+                "file": "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md",
+                "file": "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md"
+                "file": "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md"
               }
             }
           },
@@ -165,15 +165,15 @@
   },
   "active": "b8d7b7d1526a5c95",
   "lastOpenFiles": [
-    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-    "2 Areas/Personal Finance/Decisions are based on experiences.md",
+    "Templates/Object page.md",
+    "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
+    "2 Areas/Personal Finance/Having 'enough' is not too little.md",
+    "2 Areas/Personal Finance/Few people use spreadsheets to make financial decisions.md",
+    "2 Areas/Personal Finance/Diversify your investments.md",
     "2 Areas/Personal Finance/Being financially unbreakable trumps Big returns.md",
-    "Assets/exception method on an object.md",
-    "2 Areas/General coding/0 Map of Contents - General coding.md",
-    "2 Areas/General coding/Ruby - raise and rescue.md",
-    "2 Areas/General coding/Ruby - Multiple ways to raise exceptions.md",
-    "2 Areas/General coding/How does rescue matchers work in Ruby and how can we hack it.md",
-    "2 Areas/General coding/Ruby triple equal operator.md",
-    "4 Archives/Objects/0 Map of Contents - Objects.md"
+    "2 Areas/Personal Finance/Be optimistic about the future; but paranoid about the short term.md",
+    "2 Areas/Personal Finance/About success in finance.md",
+    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md"
   ]
 }

@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 6286518,
+  "lastSavedStatusID": 6330145,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -25,7 +25,9 @@
     "Readwise/Books/The Psychology of Money.md": "16711995",
     "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md": "20878540",
     "Readwise/Articles/A Tax-Saver With Many Strings Attached.md": "20923156",
-    "Readwise/Articles/The Forever Magic of Reinvesting.md": "21246635"
+    "Readwise/Articles/The Forever Magic of Reinvesting.md": "21246635",
+    "Readwise/Articles/Why Is India Trying to Decarbonize Steel.md": "21323219",
+    "Readwise/Articles/Why Are India’s Cities in Such a Mess.md": "21379696"
   },
   "reimportShowConfirmation": true
 }
