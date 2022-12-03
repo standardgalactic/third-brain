@@ -13,14 +13,93 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-                "mode": "preview",
+                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cb00de27a37681b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b14871ffdc3a8c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Fitness/How to gain stamina.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3f1a958ae35947f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Fitness/How to lose fat.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "898be840d2b7f578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Fitness/How to gain muscle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6169bf416d8ab96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Fitness/How to gain strength.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2de4f4a8b5be938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Information.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+                "file": "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+                "file": "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md"
+                "file": "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md"
               }
             }
           },
@@ -156,24 +235,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b8d7b7d1526a5c95",
+  "active": "0cb00de27a37681b",
   "lastOpenFiles": [
+    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+    "2 Areas/Fitness/How to gain stamina.md",
+    "2 Areas/Fitness/How to lose fat.md",
+    "2 Areas/Fitness/How to gain muscle.md",
+    "2 Areas/Fitness/How to gain strength.md",
+    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "Templates/Information.md",
     "Templates/Object page.md",
     "0 Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
-    "2 Areas/Personal Finance/Having 'enough' is not too little.md",
-    "2 Areas/Personal Finance/Few people use spreadsheets to make financial decisions.md",
-    "2 Areas/Personal Finance/Diversify your investments.md",
-    "2 Areas/Personal Finance/Being financially unbreakable trumps Big returns.md",
-    "2 Areas/Personal Finance/Be optimistic about the future; but paranoid about the short term.md",
-    "2 Areas/Personal Finance/About success in finance.md",
-    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-    "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md"
+    "2 Areas/Personal Finance/Having 'enough' is not too little.md"
   ]
 }

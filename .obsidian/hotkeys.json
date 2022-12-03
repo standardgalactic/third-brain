@@ -16,8 +16,14 @@
       "key": "G"
     }
   ],
-  "app:go-back": [],
-  "app:go-forward": [],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "I"
+    }
+  ],
   "editor:open-search-replace": [],
   "app:delete-file": [
     {
@@ -36,5 +42,49 @@
       "key": "O"
     }
   ],
-  "switcher:open": []
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "global-search:open": [],
+  "editor:open-search": [],
+  "omnisearch:show-modal-infile": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "O"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ]
 }
