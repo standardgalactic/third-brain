@@ -1,11 +1,11 @@
 | **Day**   | **Exercise 1** | **Exercise 2**       |
 | --------- | -------------- | -------------------- |
-| Monday    | Pushups        | Leg Raises |
-| Tuesday   | Pullups        | Squats               |
-| Wednesday | Bridges        | Twists               |
-| Thursday  | Pushups        | Leg Raises           |
-| Friday    | Pullups        | Squats               |
-| Saturday  | Bridges        | Twists               |
+| Monday    | [[Pushups]]        | [[Leg Raises]] |
+| Tuesday   | [[Pullups]]    | [[Squats]]   |
+| Wednesday | [[Bridges]]    | [[Twists]]           |
+| Thursday  | [[Pushups]]    | [[Leg Raises]]           |
+| Friday    | [[Pullups]]    | [[Squats]]       |
+| Saturday  | [[Bridges]]    | [[Twists]]           |
 
 - **Number of sets for each exercise**: 2-3 sets
 - **Repetition speed**: 2 Seconds Down, 1 Second Pause, 2 Seconds Up, 1 Second Pause
@@ -17,6 +17,19 @@
 	- [[How to gain muscle|Gaining muscle]]
 	- [[How to gain strength|Gaining strength]]
 	- [[How to lose fat|Losing fat]]
+## Alternative routine (fewer days)
+
+[[Hybrid Routine - Alternative]]
+| **Day**   | **Exercise 1** | **Exercise 2** |
+| --------- | -------------- | -------------- |
+| Monday    | [[Pushups]]    | [[Leg Raises]] |
+| Tuesday   | Rest           | Rest           |
+| Wednesday | [[Pullups]]    | [[Squats]]     |
+| Thursday  | Rest           | Rest           |
+| Friday    | [[Bridges]]    | N/A            |
+| Saturday  | Rest           | Rest     |
+
+- Same rules as above
 ## Sources
 - https://www.hybridcalisthenics.com/programs
 ## Keywords

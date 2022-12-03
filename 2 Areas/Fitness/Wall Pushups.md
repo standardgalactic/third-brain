@@ -22,7 +22,7 @@ Once you achieve level 3, move on to [[Incline pushups]]
 ![[wall pushups.mp4]]
 
 ## Making this exercise harder
-
+Doing this through a doorframe or gymnastic rings will increase the range of motion.
 ## Sources
 ```embed
 title: 'Hybrid Calisthenics'
