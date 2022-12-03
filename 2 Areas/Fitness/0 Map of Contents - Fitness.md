@@ -4,8 +4,9 @@
 - [[How to lose fat]]
 - [[How to gain stamina]]
 
-## Routines
+## Exercises
 - [[Hybrid Routine 2 - From Hybrid Calisthenics]]
+- [[Exercises with progression]]
 
 ## Stories
 

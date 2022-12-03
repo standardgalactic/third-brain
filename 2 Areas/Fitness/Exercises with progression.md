@@ -1,0 +1,6 @@
+1. [[Pushups]]
+2. [[Leg Raises]]
+3. [[Pullups]]
+4. [[Squats]]
+5. [[Bridges]]
+6. [[Twists]]
