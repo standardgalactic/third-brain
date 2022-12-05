@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
+                "file": "2 Areas/Fitness/Knee Raises.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -64,6 +64,14 @@
             "useHierarchy": true
           }
         }
+      },
+      {
+        "id": "1d7143ee06edfbeb",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -78,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
+            "file": "2 Areas/Fitness/Knee Raises.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
+            "file": "2 Areas/Fitness/Knee Raises.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md"
+            "file": "2 Areas/Fitness/Knee Raises.md"
           }
         }
       },
@@ -130,17 +138,17 @@
     ],
     "currentTab": 0
   },
-  "active": "3aab665126f334b8",
+  "active": "3c828226de174050",
   "lastOpenFiles": [
-    "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
-    "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
+    "2 Areas/Fitness/Wall Pushups.md",
+    "2 Areas/Fitness/Knee Raises.md",
+    "2 Areas/Fitness/Leg Raises.md",
+    "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
+    "2 Areas/Fitness/Pushups.md",
+    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-    "2 Areas/Personal Finance/Having a sense of enough.md",
-    "2 Areas/Personal Finance/Our experiences shape our behaviour with money.md",
-    "2 Areas/Personal Finance/There are many things never worth risking, no matter the potential gain.md",
-    "2 Areas/NodeJS/Process and Threads.md",
-    "Assets/Pasted image 20221017125021.png",
-    "2 Areas/NodeJS/0 Map of Contents.md",
-    "2 Areas/NodeJS/Architecture.md"
+    "2 Areas/Fitness/Hybrid Routine - Alternative.md",
+    "2 Areas/Personal Finance/Small number of events account for majority of outcomes.md",
+    "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md"
   ]
 }

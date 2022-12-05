@@ -6,6 +6,7 @@
 
 ## Exercises
 - [[Hybrid Routine 2 - From Hybrid Calisthenics]]
+- [[Hybrid Routine - Alternative]]
 - [[Exercises with progression]]
 
 ## Stories

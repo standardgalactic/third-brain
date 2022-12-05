@@ -18,18 +18,7 @@
 	- [[How to gain strength|Gaining strength]]
 	- [[How to lose fat|Losing fat]]
 ## Alternative routine (fewer days)
-
 [[Hybrid Routine - Alternative]]
-| **Day**   | **Exercise 1** | **Exercise 2** |
-| --------- | -------------- | -------------- |
-| Monday    | [[Pushups]]    | [[Leg Raises]] |
-| Tuesday   | Rest           | Rest           |
-| Wednesday | [[Pullups]]    | [[Squats]]     |
-| Thursday  | Rest           | Rest           |
-| Friday    | [[Bridges]]    | N/A            |
-| Saturday  | Rest           | Rest     |
-
-- Same rules as above
 ## Sources
 - https://www.hybridcalisthenics.com/programs
 ## Keywords

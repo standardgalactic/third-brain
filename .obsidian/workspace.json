@@ -34,39 +34,13 @@
             }
           },
           {
-            "id": "ceb5cf44861bc889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/Fitness/Pushups.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2253d96c7f8c6561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/Fitness/Leg Raises.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4d32689f95065754",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
-                "mode": "source",
+                "file": "2 Areas/Fitness/Pushups.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -78,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md",
+                "file": "2 Areas/Fitness/Pullups.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md",
+                "file": "2 Areas/Fitness/Pullups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md",
+                "file": "2 Areas/Fitness/Pullups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md"
+                "file": "2 Areas/Fitness/Pullups.md"
               }
             }
           },
@@ -230,15 +204,15 @@
   },
   "active": "1e39b42ca58fa6d9",
   "lastOpenFiles": [
-    "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
-    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
-    "2 Areas/Fitness/Exercises with progression.md",
     "2 Areas/Fitness/Pushups.md",
+    "2 Areas/Fitness/Hybrid Routine - Alternative.md",
+    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+    "2 Areas/Fitness/Pullups.md",
+    "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
+    "2 Areas/Fitness/Exercises with progression.md",
+    "2 Areas/Fitness/Leg Raises.md",
     "2 Areas/Fitness/Wall Pushups.md",
     "2 Areas/Fitness/Knee Raises.md",
-    "2 Areas/Fitness/Leg Raises.md",
-    "2 Areas/Fitness/Knee pushups.md",
-    "2 Areas/Fitness/How to gain stamina.md",
-    "2 Areas/Fitness/How to lose fat.md"
+    "2 Areas/Fitness/Knee pushups.md"
   ]
 }
