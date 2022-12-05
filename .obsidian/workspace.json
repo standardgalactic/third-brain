@@ -13,8 +13,60 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e8526f46ae9b1a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d333a6a2f8cca846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Fitness/Before a workout.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56caed67d3a7afe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Fitness/Warming up.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ff5292d23b65c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -33,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md",
+                "file": "2 Areas/Fitness/Warming up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md",
+                "file": "2 Areas/Fitness/Warming up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md"
+                "file": "2 Areas/Fitness/Warming up.md"
               }
             }
           },
@@ -175,17 +228,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d2d5e8a78ede021c",
+  "active": "56caed67d3a7afe7",
   "lastOpenFiles": [
+    "2 Areas/Fitness/Before a workout.md",
+    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+    "2 Areas/Fitness/Hybrid Routine - Alternative.md",
+    "2 Areas/Fitness/Difference between set and repetition (rep).md",
+    "Assets/Pasted image 20221205200450.png",
     "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
     "2 Areas/Fitness/Twists.md",
     "2 Areas/Fitness/Straight Leg Twists.md",
     "Bridges.md",
-    "2 Areas/Fitness/Squats.md",
-    "Glute Bridges.md",
-    "2 Areas/Fitness/Hybrid Routine - Alternative.md",
-    "2 Areas/Fitness/Jackknife Squats.md",
-    "2 Areas/Fitness/Wall Pullups.md",
-    "2 Areas/Fitness/Wall Pushups.md"
+    "2 Areas/Fitness/Squats.md"
   ]
 }

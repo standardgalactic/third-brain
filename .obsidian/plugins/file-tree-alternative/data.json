@@ -14,7 +14,7 @@
   "evernoteView": true,
   "filePreviewOnHover": true,
   "iconBeforeFileName": true,
-  "sortFilesBy": "name",
+  "sortFilesBy": "created",
   "sortFoldersBy": "name",
   "fixedHeaderInFileList": true,
   "createdYaml": false,

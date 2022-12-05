@@ -7,6 +7,7 @@
 | Friday    | [[Bridges]]    | [[Twists]]       |
 | Saturday  | Rest           | Rest           |
 
+- 
 - **Number of sets for each exercise**: 2-3 sets
 - **Repetition speed**: 2 Seconds Down, 1 Second Pause, 2 Seconds Up, 1 Second Pause
 - **Rest times**:

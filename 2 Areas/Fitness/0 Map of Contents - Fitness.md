@@ -4,6 +4,10 @@
 - [[How to lose fat]]
 - [[How to gain stamina]]
 
+## FAQs
+- [[Difference between set and repetition (rep)]]
+- [[Before a workout]]
+
 ## Exercises
 - [[Hybrid Routine 2 - From Hybrid Calisthenics]]
 - [[Hybrid Routine - Alternative]]
