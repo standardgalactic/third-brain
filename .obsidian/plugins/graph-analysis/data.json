@@ -12,12 +12,6 @@
   "exclusionTags": [],
   "algsToShow": [
     "Co-Citations",
-    "HITS",
-    "Overlap",
-    "Label Propagation",
-    "Clustering Coefficient",
-    "BoW",
-    "Otsuka-Chiai",
-    "Sentiment"
+    "Overlap"
   ]
 }

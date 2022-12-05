@@ -8,52 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8d7b7d1526a5c95",
+            "id": "d2d5e8a78ede021c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "594ee6703dc4ed6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2 Areas/Fitness/Squats.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0d69a9c3b35690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/Fitness/Jackknife Squats.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d32689f95065754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/Fitness/Wall Pushups.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2d5e8a78ede021c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/Fitness/Wall Pullups.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -127,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Fitness/Jackknife Squats.md",
+                "file": "2 Areas/Fitness/Squats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Fitness/Jackknife Squats.md",
+                "file": "2 Areas/Fitness/Squats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Fitness/Jackknife Squats.md"
+                "file": "2 Areas/Fitness/Squats.md"
               }
             }
           },
@@ -195,24 +169,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1a0d69a9c3b35690",
+  "active": "594ee6703dc4ed6b",
   "lastOpenFiles": [
+    "2 Areas/Fitness/Twists.md",
+    "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
+    "Glute Bridges.md",
+    "Bridges.md",
+    "2 Areas/Fitness/Hybrid Routine - Alternative.md",
     "2 Areas/Fitness/Squats.md",
     "2 Areas/Fitness/Jackknife Squats.md",
-    "2 Areas/Fitness/Pushups.md",
-    "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
-    "2 Areas/Fitness/Hybrid Routine - Alternative.md",
-    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+    "2 Areas/Fitness/Wall Pullups.md",
     "2 Areas/Fitness/Wall Pushups.md",
-    "Assets/knee raises.mp4",
-    "2 Areas/Fitness/Pullups.md",
-    "2 Areas/Fitness/Wall Pullups.md"
+    "2 Areas/Fitness/Pushups.md"
   ]
 }
