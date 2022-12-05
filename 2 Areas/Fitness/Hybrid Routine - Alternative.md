@@ -4,7 +4,7 @@
 | Tuesday   | Rest           | Rest           |
 | Wednesday | [[Pullups]]    | [[Squats]]     |
 | Thursday  | Rest           | Rest           |
-| Friday    | [[Bridges]]    | N/A            |
+| Friday    | [[Bridges]]    | [[Twists]]       |
 | Saturday  | Rest           | Rest           |
 
 - **Number of sets for each exercise**: 2-3 sets

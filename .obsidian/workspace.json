@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
-                "mode": "source",
+                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Fitness/Squats.md",
+                "file": "Bridges.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Fitness/Squats.md",
+                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Fitness/Squats.md",
+                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Fitness/Squats.md"
+                "file": "2 Areas/Fitness/Hybrid Routine - Alternative.md"
               }
             }
           },
@@ -169,23 +168,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "594ee6703dc4ed6b",
+  "active": "d2d5e8a78ede021c",
   "lastOpenFiles": [
-    "2 Areas/Fitness/Twists.md",
     "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
-    "Glute Bridges.md",
+    "2 Areas/Fitness/Twists.md",
+    "2 Areas/Fitness/Straight Leg Twists.md",
     "Bridges.md",
-    "2 Areas/Fitness/Hybrid Routine - Alternative.md",
     "2 Areas/Fitness/Squats.md",
+    "Glute Bridges.md",
+    "2 Areas/Fitness/Hybrid Routine - Alternative.md",
     "2 Areas/Fitness/Jackknife Squats.md",
     "2 Areas/Fitness/Wall Pullups.md",
-    "2 Areas/Fitness/Wall Pushups.md",
-    "2 Areas/Fitness/Pushups.md"
+    "2 Areas/Fitness/Wall Pushups.md"
   ]
 }

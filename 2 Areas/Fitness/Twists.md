@@ -1,4 +1,9 @@
+- Train the sides of your body, reduce muscular imbalance, and increase spinal mobility!
 
+## Progression exercises
+1. [[Straight Leg Twists]]
+2. [[Bent Leg Twists]]
+3. [[Full Twists]]
 
 ## Sources
 
