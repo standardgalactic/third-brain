@@ -10,6 +10,9 @@
 9. [[Archer Pullups]]
 10. [[One Arm Pullups]]
 
+## If you don't have a pull up bar
+[[Alternatives to pullups]]
+
 
 ## Sources
 ```embed

@@ -12,5 +12,7 @@
   "file-tree-alternative",
   "no-dupe-leaves",
   "obsidian-recall",
-  "obsidian-link-embed"
+  "obsidian-link-embed",
+  "convert-url-to-iframe",
+  "oz-clear-unused-images"
 ]

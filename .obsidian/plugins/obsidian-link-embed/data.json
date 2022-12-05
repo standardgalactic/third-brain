@@ -1,7 +1,7 @@
 {
   "popup": true,
   "rmDismiss": false,
-  "autoEmbedWhenEmpty": true,
+  "autoEmbedWhenEmpty": false,
   "primary": "microlink",
   "backup": "jsonlink",
   "inPlace": false,

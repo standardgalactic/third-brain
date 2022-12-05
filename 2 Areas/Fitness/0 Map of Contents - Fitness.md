@@ -7,11 +7,13 @@
 ## FAQs
 - [[Difference between set and repetition (rep)]]
 - [[Before a workout]]
+- [[Warming up]]
 
 ## Exercises
 - [[Hybrid Routine 2 - From Hybrid Calisthenics]]
 - [[Hybrid Routine - Alternative]]
 - [[Exercises with progression]]
+- [[Alternatives to pullups]]
 
 ## Stories
 
