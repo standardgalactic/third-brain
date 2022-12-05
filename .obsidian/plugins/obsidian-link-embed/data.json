@@ -2,8 +2,8 @@
   "popup": true,
   "rmDismiss": false,
   "autoEmbedWhenEmpty": true,
-  "primary": "jsonlink",
-  "backup": "microlink",
+  "primary": "microlink",
+  "backup": "jsonlink",
   "inPlace": false,
   "debug": false,
   "delay": 200
