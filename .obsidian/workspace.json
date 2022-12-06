@@ -13,8 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80a06e66b3df6806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/General coding/Substituting text while reviewing all change at once.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -30,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+                "file": "2 Areas/General coding/Substituting text while reviewing all change at once.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+                "file": "2 Areas/General coding/Substituting text while reviewing all change at once.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md"
+                "file": "2 Areas/General coding/Substituting text while reviewing all change at once.md"
               }
             }
           },
@@ -165,24 +179,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4b0bb263e5d79822",
+  "active": "0716784f223abd96",
   "lastOpenFiles": [
+    "2 Areas/General coding/0 Map of Contents - General coding.md",
+    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
     "2 Areas/Fitness/Pullups.md",
     "Assets/alternative to pullup.mp4",
     "2 Areas/Fitness/Alternatives to pullups.md",
-    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
     "Bridges.md",
     "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
     "2 Areas/Fitness/Before a workout.md",
     "2 Areas/Fitness/Warming up.md",
-    "2 Areas/Fitness/Hybrid Routine - Alternative.md",
-    "2 Areas/Fitness/Difference between set and repetition (rep).md"
+    "2 Areas/Fitness/Hybrid Routine - Alternative.md"
   ]
 }
