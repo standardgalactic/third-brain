@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "0714dede6b2a5797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/General coding/Changing older or multiple commits.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "28c277ccfa679a17",
             "type": "leaf",
             "state": {
@@ -65,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,17 +220,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3760d9e404941c8d",
+  "active": "0714dede6b2a5797",
   "lastOpenFiles": [
+    "2 Areas/General coding/Using git rebase onto.md",
+    "2 Areas/General coding/Changing older or multiple commits.md",
     "2 Areas/General coding/0 Map of Contents - General coding.md",
     "2 Areas/General coding/Pasted image 20221208152014.png =200x.md",
-    "2 Areas/General coding/Changing older or multiple commits.md",
     "2 Areas/General coding/Change the last commit.md",
     "2 Areas/Fitness/0 Map of Contents - Fitness.md",
     "2 Areas/Fitness/Pullups.md",
     "Assets/alternative to pullup.mp4",
     "2 Areas/Fitness/Alternatives to pullups.md",
-    "Bridges.md",
-    "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md"
+    "Bridges.md"
   ]
 }
