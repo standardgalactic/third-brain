@@ -11,7 +11,7 @@
 
 - Rebasing is changing the base of your branch from one commit to another making it appear as if you'd created your branch from a different commit
 
-> [!NOTE] Rebase the current branch on master
+> [!tip] Rebase the current branch on master
 > `git rebase master`
 > This will change the commits in such a way that it would appear that your current branch was created off the latest `master` commit
 
@@ -44,8 +44,8 @@ git rebase -i <baseBranch>
 - `f, fixup` - like "squash", but discard this commit's log message
 
 
-> [!NOTE] Things to keep in mind
-> - commits modified with a rebase command have a different ID than either of the original commits.
+> [!info] Things to keep in mind
+> - Commits modified with a rebase command have a different ID than either of the original commits.
 > - Commits marked with pick will have a new ID if the previous commits have been rewritten.
 
 
