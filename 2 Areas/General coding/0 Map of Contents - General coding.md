@@ -5,5 +5,9 @@
 ## VIM tricks
 - [[Substituting text while reviewing all change at once]]
 
+## Git
+- [[Change the last commit]]
+- [[Changing older or multiple commits]]
+
 ## Stories
 
