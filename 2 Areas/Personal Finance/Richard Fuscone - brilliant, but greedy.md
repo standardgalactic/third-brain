@@ -1,4 +1,3 @@
-# Richard Fuscone - brilliant, but greedy
 - Was everything that [[Ronald Read - Janitor who died a millionaire|Ronald Read]] wasn't
 - Harvard-educated
 - Merrill Lynch executive with an MBA
