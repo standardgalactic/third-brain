@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
-                "mode": "source",
+                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
+                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
+                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md"
+                "file": "2 Areas/Fitness/0 Map of Contents - Fitness.md"
               }
             }
           },
@@ -164,15 +164,15 @@
   },
   "active": "d6c719e4443d6201",
   "lastOpenFiles": [
+    "2 Areas/Fitness/How to lose fat.md",
+    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+    "2 Areas/Fitness/How to gain strength.md",
+    "2 Areas/Fitness/How to gain muscle.md",
+    "2 Areas/General coding/0 Map of Contents - General coding.md",
     "Assets/alternative to pullup.mp4",
     "2 Areas/General coding/Substituting text while reviewing all change at once.md",
     "2 Areas/General coding/Changing older or multiple commits.md",
-    "2 Areas/General coding/0 Map of Contents - General coding.md",
     "2 Areas/General coding/Using git rebase onto.md",
-    "2 Areas/General coding/Pasted image 20221208152014.png =200x.md",
-    "2 Areas/General coding/Change the last commit.md",
-    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
-    "2 Areas/Fitness/Pullups.md",
-    "2 Areas/Fitness/Alternatives to pullups.md"
+    "2 Areas/General coding/Pasted image 20221208152014.png =200x.md"
   ]
 }
