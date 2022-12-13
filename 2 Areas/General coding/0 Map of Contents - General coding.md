@@ -4,6 +4,7 @@
 
 ## VIM tricks
 - [[Substituting text while reviewing all change at once]]
+- [[Vim Expression Register - Calculator in Vim]]
 
 ## Git
 - [[Change the last commit]]

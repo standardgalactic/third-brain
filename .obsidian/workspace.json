@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/General coding/Substituting text while reviewing all change at once.md",
+                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ee19b331129a644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/General coding/Vim Expression Register - Calculator in Vim.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,17 +71,8 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "71bdc56b4f04e8ce",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/General coding/Substituting text while reviewing all change at once.md",
+                "file": "2 Areas/General coding/Vim Expression Register - Calculator in Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/General coding/Substituting text while reviewing all change at once.md",
+                "file": "2 Areas/General coding/Vim Expression Register - Calculator in Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/General coding/Substituting text while reviewing all change at once.md"
+                "file": "2 Areas/General coding/Vim Expression Register - Calculator in Vim.md"
               }
             }
           },
@@ -162,8 +167,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6c719e4443d6201",
+  "active": "0ee19b331129a644",
   "lastOpenFiles": [
+    "2 Areas/General coding/0 Map of Contents - General coding.md",
+    "2 Areas/General coding/Substituting text while reviewing all change at once.md",
     "2 Areas/Personal Finance/Richard Fuscone - brilliant, but greedy.md",
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
     "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md",
@@ -171,8 +178,6 @@
     "2 Areas/Fitness/0 Map of Contents - Fitness.md",
     "2 Areas/Fitness/How to lose fat.md",
     "2 Areas/Fitness/How to gain strength.md",
-    "2 Areas/Fitness/How to gain muscle.md",
-    "2 Areas/General coding/0 Map of Contents - General coding.md",
-    "Assets/alternative to pullup.mp4"
+    "2 Areas/Fitness/How to gain muscle.md"
   ]
 }
