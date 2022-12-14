@@ -1,0 +1,7 @@
+## New highlights added December 14, 2022 at 9:18 PM
+- There are 13,000 direct-benefit transfer (DBT) schemes listed with the Reserve Bank of India. Most of these are notified by the Centre while some by the states. Over and above this, there are at least 10,000 more that are not DBT. So, we are looking at a universe of 20,000-25,000 schemes.
+- Government schemes impact 900 million out of 1.4 billion people and 55 million micro businesses of the 62 million in the country.
+  Financially, their budget is about Rs 20 lakh crore (~US$241 billion). Budgeting in India happens in a way that about 8-9% of our overall GDP is factored for social security, including farm loans
+- In the tribal belt in Maharashtra’s Palghar, there’s a scheme for pregnant mothers where they are given money to set up a kitchen garden. Because there’s a tradition to eat local plants and fruits so that the child is not anaemic
+- In the mining belts in Orissa, Jharkhand, Chattisgarh, and Bihar, there’s a District Mineral Foundation Fund where all miners are supposed to deposit money. It’s enshrined in the Constitution: India needs mining but people in the belt need development schemes designed for them, too. That fund is now worth Rs 50,000 crore (~US$6 billion) but the local agencies cannot use that fund, it must be aligned with the Centre
+- there’s a BOCW [Building and Other Construction Workers] Fund where construction companies are supposed to deposit a certain percentage of their project budget. I’m told it’s reached Rs 80,000 crore (~US$10 billion).

@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 6439276,
+  "lastSavedStatusID": 6452809,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -28,7 +28,8 @@
     "Readwise/Articles/The Forever Magic of Reinvesting.md": "21246635",
     "Readwise/Articles/Why Is India Trying to Decarbonize Steel.md": "21323219",
     "Readwise/Articles/Why Are India’s Cities in Such a Mess.md": "21379696",
-    "Readwise/Articles/Cracking the Gift-Tax Code.md": "21480054"
+    "Readwise/Articles/Cracking the Gift-Tax Code.md": "21480054",
+    "Readwise/Articles/Passages Saved From Android.md": "21061720"
   },
   "reimportShowConfirmation": true
 }
