@@ -26,15 +26,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Personal Finance/Richard Fuscone - brilliant, but greedy.md",
+                "file": "2 Areas/Fitness/Glute Bridges.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39cdd2d7f1fcfdc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Projects/Blogs/0 Map of Contents - Blogs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07443abd8c4399ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Projects/Blogs/Things I have learnt at CLARK.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Personal Finance/Richard Fuscone - brilliant, but greedy.md",
+                "file": "1 Projects/Blogs/Things I have learnt at CLARK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Personal Finance/Richard Fuscone - brilliant, but greedy.md",
+                "file": "1 Projects/Blogs/Things I have learnt at CLARK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Personal Finance/Richard Fuscone - brilliant, but greedy.md"
+                "file": "1 Projects/Blogs/Things I have learnt at CLARK.md"
               }
             }
           },
@@ -167,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ee19b331129a644",
+  "active": "07443abd8c4399ed",
   "lastOpenFiles": [
+    "1 Projects/Blogs/0 Map of Contents - Blogs.md",
+    "2 Areas/Fitness/Glute Bridges.md",
+    "2 Areas/Fitness/Bridges.md",
+    "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
+    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
+    "2 Areas/Personal Finance/Richard Fuscone - brilliant, but greedy.md",
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
     "2 Areas/Personal Finance/Ronald Read - Janitor who died a millionaire.md",
     "2 Areas/General coding/Vim Expression Register - Calculator in Vim.md",
-    "3 Resources/Programming/0 Map of Contents - Programming.md",
-    "3 Resources/Programming/How to get the Puma worker index within a rails index.md",
-    "2 Areas/General coding/0 Map of Contents - General coding.md",
-    "2 Areas/General coding/Substituting text while reviewing all change at once.md",
-    "2 Areas/Personal Finance/Richard Fuscone - brilliant, but greedy.md",
-    "2 Areas/Personal Finance/Wealth has a minor role to play in getting admiration and respect.md",
-    "2 Areas/Personal Finance/Having a sense of enough.md"
+    "3 Resources/Programming/0 Map of Contents - Programming.md"
   ]
 }
