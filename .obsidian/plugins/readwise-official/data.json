@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 6452809,
+  "lastSavedStatusID": 6517505,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -29,7 +29,8 @@
     "Readwise/Articles/Why Is India Trying to Decarbonize Steel.md": "21323219",
     "Readwise/Articles/Why Are India’s Cities in Such a Mess.md": "21379696",
     "Readwise/Articles/Cracking the Gift-Tax Code.md": "21480054",
-    "Readwise/Articles/Passages Saved From Android.md": "21061720"
+    "Readwise/Articles/Passages Saved From Android.md": "21061720",
+    "Readwise/Articles/Getting Started With Reader.md": "22133844"
   },
   "reimportShowConfirmation": true
 }
