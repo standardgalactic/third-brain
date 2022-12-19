@@ -87,13 +87,7 @@
       "key": "]"
     }
   ],
-  "convert-url-to-iframe:url-to-iframe": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ]
+  "convert-url-to-iframe:url-to-iframe": [],
+  "table-editor-obsidian:table-control-bar": [],
+  "dangerzone-writing-plugin:dangerzone-session-start": []
 }

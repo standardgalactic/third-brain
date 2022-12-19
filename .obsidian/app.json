@@ -11,5 +11,6 @@
   "vimMode": true,
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "trashOption": "local"
 }
