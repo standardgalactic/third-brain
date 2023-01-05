@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 6517505,
+  "lastSavedStatusID": 6731730,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -30,7 +30,19 @@
     "Readwise/Articles/Why Are India’s Cities in Such a Mess.md": "21379696",
     "Readwise/Articles/Cracking the Gift-Tax Code.md": "21480054",
     "Readwise/Articles/Passages Saved From Android.md": "21061720",
-    "Readwise/Articles/Getting Started With Reader.md": "22133844"
+    "Readwise/Articles/Getting Started With Reader.md": "22133844",
+    "Readwise/Articles/AI Markets for Lemons, and the Great Logging Off.md": "22648386",
+    "Readwise/Articles/How the 11,400 Cr. Import Ponzi Scam at PNB Unfolded.md": "22683428",
+    "Readwise/Articles/How Will the E-Rupee Beat UPI.md": "22760238",
+    "Readwise/Articles/India Is Ready to Lend Big in 2023.md": "22760704",
+    "Readwise/Articles/Weekly Wrapup - The Issue With DFM Foods.md": "22762099",
+    "Readwise/Articles/Economists Hate Secret Santa!.md": "22765866",
+    "Readwise/Articles/Who Are You Calling Financially Illiterate.md": "22766472",
+    "Readwise/Articles/Why Colgate’s Growth in India Is Tied to Catching ‘Em Young.md": "22766646",
+    "Readwise/Articles/Fwd Why Investors Can’t Really Be Friends With Founders.md": "22767871",
+    "Readwise/Articles/Fwd Why Meta Is Losing Its Leaders in India.md": "22769122",
+    "Readwise/Articles/Fwd Groww’s Curious U-Turn on Fixed Deposits.md": "22870765",
+    "Readwise/Articles/A Brief History of Divestments.md": "22870782"
   },
   "reimportShowConfirmation": true
 }
