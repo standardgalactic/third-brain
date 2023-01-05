@@ -5,7 +5,10 @@
 	- And for as long as you want to
 - Money can give you control over your time
 	- Doing something on a schedule you can't control in order to earn more money is just <u>not worth it</u>
-	- 
+
+## Value of wealth
+- The value of wealth lies in offering us with options, flexibility and growth.
+- It promises us to one day purchase more stuff than we could right now [[The Psychology of Money#^35b7e7|(Source)]]
 
 ## Research by Angus Campbell
 

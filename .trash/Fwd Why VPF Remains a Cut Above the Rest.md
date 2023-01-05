@@ -1,11 +1,10 @@
-# Fwd: Why VPF Remains a Cut Above the Rest
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[The Ken]]
 - Full Title: Fwd: Why VPF Remains a Cut Above the Rest
 - Category: #articles
+- Document Tags: [[read]] 
 - URL: https://www.publishthis.email/fwd-why-vpf-remains-a-cut-above-the-rest-BJ8HpxHLj
 
 ## Highlights

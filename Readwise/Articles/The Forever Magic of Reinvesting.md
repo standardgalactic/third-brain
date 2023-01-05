@@ -1,5 +1,3 @@
-# The Forever Magic of Reinvesting
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata

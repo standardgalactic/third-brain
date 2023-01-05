@@ -1,5 +1,3 @@
-# Why Are India’s Cities in Such a Mess?
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata

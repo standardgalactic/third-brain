@@ -14,9 +14,14 @@
 - [[Small number of events account for majority of outcomes]]
 - [[Wealth gives you freedom]]
 - [[Wealth has a minor role to play in getting admiration and respect]]
+- [[Feeling rich vs being rich]]
+- [[The importance of savings]]
 
 ## Investments
-- 
+- [[Voluntary Provident Fund]]
+
+## Taxation
+- [[Income Tax on Gifts]]
 
 ## Stories
 - [[Ronald Read - Janitor who died a millionaire]]

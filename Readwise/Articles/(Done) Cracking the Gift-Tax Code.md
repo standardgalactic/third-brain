@@ -1,5 +1,3 @@
-# Cracking the Gift-Tax Code
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
@@ -11,7 +9,7 @@
 ## Highlights
 - If the value of gifts you receive in a financial year is more than Rs 50,000 (~US$600), there are tax implications. Whether that gift is in cash or kind. 
   If that limit has been crossed, you have to include these gifts under ‘income from other sources’ in your tax filings and pay tax on them.
-- Say you get a gift from friend A that’s valued at Rs 30,000 (~US$360) and another from friend B that’s worth Rs 25,000 (~US$300). Even though the individual value of these gifts is below Rs 50,000, you still have to pay tax on the entire Rs 55,000 (US$670)
+- Say you get a gift from friend A that’s valued at Rs 30,000 (~US$360) and another from friend B that’s worth Rs 25,000 (~US$300). Even though the individual value of these gifts is below Rs 50,000, you still have to pay tax on the entire Rs 55,000 (US$670) ^7e2ec7
 - There’s no tax on gifts you receive for your wedding. Whether that’s from relatives or someone unrelated. Even gifts received during the run-up to the wedding and a few days later are exempt from tax.
 - taxman doesn’t poke his nose into gifts given between family members. Any such gift, however big, does not attract tax. 
   As we all know, Indian families tend to be quite big with scores of relatives. And they are all accommodated under the tax tent—parents, grandparents, brothers, sisters, grand-children, and, of course, spouses. So are the parents, brothers, and sisters of your spouse, and the brothers and sisters of your parents. And the spouses of all the persons mentioned above.

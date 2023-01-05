@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Projects/Blogs/Things I have learnt at CLARK.md",
+                "file": "Readwise/Articles/Why Is India Trying to Decarbonize Steel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Projects/Blogs/Things I have learnt at CLARK.md",
+                "file": "Readwise/Articles/Why Is India Trying to Decarbonize Steel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Projects/Blogs/Things I have learnt at CLARK.md",
+                "file": "Readwise/Articles/Why Is India Trying to Decarbonize Steel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Projects/Blogs/Things I have learnt at CLARK.md"
+                "file": "Readwise/Articles/Why Is India Trying to Decarbonize Steel.md"
               }
             }
           },
@@ -195,15 +195,15 @@
   },
   "active": "07443abd8c4399ed",
   "lastOpenFiles": [
+    "Readwise/Articles/Why Are India’s Cities in Such a Mess.md",
+    "Readwise/Articles/(Done) Why Are India’s Cities in Such a Mess.md",
+    "Readwise/Articles/Cracking the Gift-Tax Code.md",
+    "Readwise/Articles/(Done) Why VPF Remains a Cut Above the Rest.md",
+    "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md",
+    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "1 Projects/Blogs/Things I have learnt at CLARK.md",
     "1 Projects/Blogs/0 Map of Contents - Blogs.md",
     "2 Areas/Fitness/Glute Bridges.md",
-    "2 Areas/Fitness/Bridges.md",
-    "2 Areas/Fitness/Hybrid Routine 2 - From Hybrid Calisthenics.md",
-    "2 Areas/Fitness/0 Map of Contents - Fitness.md",
-    "2 Areas/Personal Finance/Richard Fuscone - brilliant, but greedy.md",
-    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-    "2 Areas/Personal Finance/Ronald Read - Janitor who died a millionaire.md",
-    "2 Areas/General coding/Vim Expression Register - Calculator in Vim.md",
-    "3 Resources/Programming/0 Map of Contents - Programming.md"
+    "2 Areas/Fitness/Bridges.md"
   ]
 }
