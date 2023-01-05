@@ -5,12 +5,14 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 6731992,
+  "lastSavedStatusID": 6732064,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "21480054",
-    "21379696"
+    "21379696",
+    "21323219",
+    "20923156"
   ],
   "booksIDsMap": {
     "Readwise/Books/Harry Potter and the Half-Blood Prince.md": "16555583",
@@ -24,7 +26,6 @@
     "Readwise/Books/Discovery of India.md": "16555573",
     "Readwise/Books/Money Wise.md": "16555572",
     "Readwise/Books/The Psychology of Money.md": "16711995",
-    "Readwise/Articles/A Tax-Saver With Many Strings Attached.md": "20923156",
     "Readwise/Articles/Passages Saved From Android.md": "21061720",
     "Readwise/Articles/AI Markets for Lemons, and the Great Logging Off.md": "22648386",
     "Readwise/Articles/How the 11,400 Cr. Import Ponzi Scam at PNB Unfolded.md": "22683428",
@@ -39,8 +40,8 @@
     "Readwise/Articles/Fwd Groww’s Curious U-Turn on Fixed Deposits.md": "22870765",
     "Readwise/Articles/A Brief History of Divestments.md": "22870782",
     "Readwise/Articles/The Forever Magic of Reinvesting.md": "21246635",
-    "Readwise/Articles/Why Is India Trying to Decarbonize Steel.md": "21323219",
-    "Readwise/Articles/Getting Started With Reader.md": "22133844"
+    "Readwise/Articles/Getting Started With Reader.md": "22133844",
+    "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md": "20878540"
   },
   "reimportShowConfirmation": true
 }
