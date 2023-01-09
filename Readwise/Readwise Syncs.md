@@ -6,3 +6,8 @@
     - 5 highlights from Indian Pharma’s Quality-Quantity Balancing Act
     - 4 highlights from A $10 Billion Indian Call Centre Scam!
 
+- [[2023-01-09]] 11:13 PM — Synced 12 highlights from 3 documents.
+    - 2 highlights from A $10 Billion Indian Call Centre Scam!
+    - 8 highlights from What Makes Zomato Different From Swiggy
+    - 2 highlights from Sunny Side Up 🍳: Yezdi’s, New Year’s Resolutions & Daydreams
+
