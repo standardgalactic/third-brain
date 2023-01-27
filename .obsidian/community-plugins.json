@@ -4,7 +4,6 @@
   "obsidian-vimrc-support",
   "obsidian-relative-line-numbers",
   "table-editor-obsidian",
-  "readwise-official",
   "omnisearch",
   "file-tree-alternative",
   "no-dupe-leaves",
@@ -12,5 +11,6 @@
   "convert-url-to-iframe",
   "oz-clear-unused-images",
   "dangerzone-writing-plugin",
-  "remotely-save"
+  "remotely-save",
+  "readwise-official"
 ]

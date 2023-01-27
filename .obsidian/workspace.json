@@ -45,32 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "07443abd8c4399ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Articles/Passages Saved From Android.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a826ec56c9532b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 Projects/Blogs/0 Map of Contents - Blogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 Projects/Blogs/0 Map of Contents - Blogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 Projects/Blogs/0 Map of Contents - Blogs.md"
+              }
             }
           },
           {
@@ -215,10 +196,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0a826ec56c9532b4",
+  "active": "39cdd2d7f1fcfdc9",
   "lastOpenFiles": [
-    "2 Areas/Personal Finance/Feeling rich vs being rich.md",
     "Readwise/Articles/Passages Saved From Android.md",
+    "2 Areas/Personal Finance/Feeling rich vs being rich.md",
     "Readwise/Articles/Why the Proposed Telecom Bill Is of the Telcos, by the Telcos, for the Telcos.md",
     "Readwise/Articles/Economists Hate Secret Santa!.md",
     "Readwise/Articles/Who Are You Calling Financially Illiterate.md",
