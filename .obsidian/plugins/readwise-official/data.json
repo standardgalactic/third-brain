@@ -4,7 +4,7 @@
   "frequency": "720",
   "triggerOnLoad": true,
   "isSyncing": false,
-  "lastSyncFailed": false,
+  "lastSyncFailed": true,
   "lastSavedStatusID": 6795730,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
