@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/Passages Saved From Android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/Passages Saved From Android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readwise/Articles/Passages Saved From Android.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,6 +217,8 @@
   },
   "active": "0a826ec56c9532b4",
   "lastOpenFiles": [
+    "2 Areas/Personal Finance/Feeling rich vs being rich.md",
+    "Readwise/Articles/Passages Saved From Android.md",
     "Readwise/Articles/Why the Proposed Telecom Bill Is of the Telcos, by the Telcos, for the Telcos.md",
     "Readwise/Articles/Economists Hate Secret Santa!.md",
     "Readwise/Articles/Who Are You Calling Financially Illiterate.md",
@@ -228,8 +226,6 @@
     "Readwise/Articles/Fwd Why Investors Can’t Really Be Friends With Founders.md",
     "Readwise/Articles/Fwd Why Meta Is Losing Its Leaders in India.md",
     "Readwise/Articles/Fwd Groww’s Curious U-Turn on Fixed Deposits.md",
-    "Readwise/Articles/A Brief History of Divestments.md",
-    "Readwise/Articles/AI Markets for Lemons, and the Great Logging Off.md",
-    "Readwise/Articles/A Tax-Saver With Many Strings Attached by.md"
+    "Readwise/Articles/A Brief History of Divestments.md"
   ]
 }
