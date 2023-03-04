@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Areas/Personal Finance/Staying wealthy.md",
+                "file": "_Notes/Wealth gives you freedom.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec7d2a771ac099b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Quotes/Jonah Berger on feeling in control - Quote.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 Finance/00 Financial philosophies.md",
+                "file": "_Notes/Why people don't feel much happier even though we have more money.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,25 +53,25 @@
             }
           },
           {
-            "id": "44734ae68f626120",
+            "id": "70b46a6ec9920a1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/How to stay wealthy.md",
-                "mode": "source",
+                "file": "_Quotes/You never switch off from modern day work - Quote.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "eeae47135ff5a8b8",
+            "id": "f2b0a40dcb7268d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Staying wealthy is different than getting wealthy.md",
+                "file": "_Notes/The Sense of Wellbeing in America, 1981 - Angus Campbell.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/How to stay wealthy.md",
+                "file": "_Notes/Why people don't feel much happier even though we have more money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/How to stay wealthy.md",
+                "file": "_Notes/Why people don't feel much happier even though we have more money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/How to stay wealthy.md"
+                "file": "_Notes/Why people don't feel much happier even though we have more money.md"
               }
             }
           },
@@ -237,34 +249,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "44734ae68f626120",
+  "active": "298ffe961d6e6282",
   "lastOpenFiles": [
-    "_Notes/Staying wealthy is different than getting wealthy.md",
-    "_Notes/How to stay wealthy.md",
+    "_Quotes/You never switch off from modern day work - Quote.md",
+    "_Notes/Why people don't feel much happier even though we have more money.md",
+    "_Notes/Wealth gives you freedom.md",
     "00-09 Finance/00 Financial philosophies.md",
+    "_Quotes/Jonah Berger on feeling in control - Quote.md",
+    "_Notes/The Sense of Wellbeing in America, 1981 - Angus Campbell.md",
+    "_Notes/Multiple ice ages on Earth.md",
+    "10-19 Miscellaneous/12 Historical Events.md",
+    "_Notes/Tremendous results don't need tremendous force - The Power of Compounding.md",
+    "10-19 Miscellaneous/11 Life Philosophies.md",
+    "_Areas/Personal Finance/Voluntary Provident Fund.md",
+    "_Notes/Being financially consistent is more important than huge returns.md",
+    "_Notes/Be more forgiving - topic of finance is new.md",
+    "_Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "_Notes/Be more forgiving - Topic of finance is new.md",
     "_Areas/Personal Finance/Staying wealthy.md",
+    "_Notes/Staying wealthy is different than getting wealthy.md",
+    "_Notes/Learn to stay wealthy from Warren Buffet.md",
+    "_Notes/How to stay wealthy.md",
+    "_Quotes/Tomorrow will never the same as yesterday - Quote.md",
     "_Notes/Good investing is NOT about making good decisions.md",
     "_Notes/Being financially unbreakable trumps Big returns.md",
     "_Areas/Personal Finance/Small number of events account for majority of outcomes.md",
     "_Notes/Small number of events account for majority of outcomes - Tail events.md",
     "_Notes/Grow your profits, cut your losses.md",
-    "10-19 Miscellaneous/11 Life Philosophies.md",
     "_Notes/Ronald Read - Janitor who died a millionaire.md",
-    "_Notes/Jesse Livermore - Who earned when the Great Depression happened and then declined.md",
-    "_Notes/Richard Fuscone - brilliant, but greedy.md",
-    "_Areas/Personal Finance/Planning is important, but always plan on the plan not going - Margin of safety.md",
-    "_Notes/Keep a margin of safety when planning.md",
-    "_Notes/Good plans plan on the plan not working.md",
-    "_Notes/Appreciate the role of luck.md",
-    "_Areas/Personal Finance/Luck and Risk.md",
-    "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
-    "_Notes/info_at_the-ken.com_fdsepe6r@duck.com.md",
-    "_Notes/app.sparkmailapp.com.md",
-    "_Notes/Majority of wealth earned by Benjamin Graham is owed to his lucky investment in one stock.md",
-    "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md",
-    "10-19 Miscellaneous/12 Historical Events.md",
-    "_Notes/Unluckiness of Kent Evans, best friend of Bill Gates.md",
-    "_Notes/How Lakeside school got a computer.md",
     "_Quotes",
     "Assets/Depression babies.pdf",
     "_Notes",

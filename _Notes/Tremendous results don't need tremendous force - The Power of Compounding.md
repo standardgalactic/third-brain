@@ -9,4 +9,8 @@
 
 ## Sources
 - [[The Psychology of Money - Highlights]]
-## Keywords
+
+## Related notes
+- [[Being financially consistent is more important than huge returns]]
+- [[How to stay wealthy]]
+- [[Small number of events account for majority of outcomes - Tail events]]

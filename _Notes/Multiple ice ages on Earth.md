@@ -11,7 +11,7 @@
 - During parts of this cycle, which can last tens of thousands of years, each of the Earth's hemispheres gets a little more or a little less solar radiation than they're used to
 - Milutin Milanković's theory initially assumed that "the tilt" caused the ravenous winters
 
-### Addendum by Wladimir Köppen
+## Addendum by Wladimir Köppen
 - Russian meteorologist
 - He dug deeper into Milutin's work
 
@@ -22,10 +22,8 @@
 - This increases the odds of snow sticking around in the following summer
 - Perpetual snow reflects more sunlight which makes things even cooler
 - A few hundred years -> a seasonal icepack grows into a continental ice sheet
-
 - The same thing happens in reverse; when orbital tilt lets in more sunlight
 - Slowly, temperatures increase
 
 ## Sources
 - [[The Psychology of Money - Highlights]]
-## Keywords

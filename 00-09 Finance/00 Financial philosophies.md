@@ -6,6 +6,7 @@
 
 ## Financial principles
 - [[Being financially consistent is more important than huge returns]]
+	- [[Tremendous results don't need tremendous force - The Power of Compounding]]
 - [[Diversify your investments]]
 - [[Save More Money]]
 - [[Good investing is NOT about making good decisions]]
@@ -18,6 +19,7 @@
 - [[Being rich is different from feeling rich]]
 	- [[Staying wealthy is different than getting wealthy]]
 	- [[How to stay wealthy]]
+		- [[Learn to stay wealthy from Warren Buffet]]
 - [[Wealth is generally hidden]]
 - [[Keep the goalpost constant]]
 	- [[Risk with a moving goalpost]]
@@ -26,13 +28,16 @@
 - [[Somethings are never worth risking]]
 - [[Appreciate the role of luck]]
 - [[Small number of events account for majority of outcomes - Tail events]]
+- [[Wealth gives you freedom]]
 
 ## Others
+- [[Be more forgiving - topic of finance is new]]
 - [[Factors that influence our decisions with money]]
 - [[Why do smart people disagree in their analyses, predictions]]
 - [[How do people generally make financial decisions]]
 - [[How to know how much is enough]]
 - [[Why should we save money]]
+- [[Why people don't feel much happier even though we have more money]]
 
 ## Research and Case studies
 - [[Depression Babies - Do Macro-economic Experiences Affect Risk-Taking]]
@@ -44,6 +49,7 @@
 - [[Rajat Gupta - Who never had 'enough']]
 - [[Richard Fuscone - brilliant, but greedy]]
 - [[Jesse Livermore - Who earned when the Great Depression happened and then declined]]
+- [[The Sense of Wellbeing in America, 1981 - Angus Campbell]]
 
 ## Quotes
 - [[Everyone has a unique experience - Quote]]

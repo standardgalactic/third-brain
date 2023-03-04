@@ -6,11 +6,7 @@ Compared to prior generations, we are more into jobs like the marketing professi
 
 And since [[Wealth gives you freedom#^8262f1|control over our time is such a key happiness influencer]], we don't feel much happier even though we are, on average, richer.
 
-
-> [!quote]- If the operating equipment of the 21st century is a portable device, this means the modern factory is not a place at all. It is the day itself. The computer age has liberated the tools of productivity from the office. Most knowledge workers, whose laptops and smartphones are portable all-purpose media-making machines, can theoretically be as productive at 2 p.m. in the main office as at 2 a.m. in a Tokyo WeWork or at midnight on the couch.
-> Source: https://www.theatlantic.com/ideas/archive/2019/12/how-internet-enables-workaholism/602917/
-> Related page: [[The Psychology of Money - Highlights]]
-> Author: Derek Thompson, The Atlantic
+## Related work 
 
 ## Karl Pillemer on happiness
 - Wrote the book **30 Lessons for Living**
@@ -24,4 +20,6 @@ And since [[Wealth gives you freedom#^8262f1|control over our time is such a key
 
 ## Sources
 - [[The Psychology of Money - Highlights]]
-## Keywords
+
+## Related notes
+- [[You never switch off from modern day work - Quote]]

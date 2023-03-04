@@ -3,7 +3,7 @@
 - [[Why do people get buried in debts]]
 - [[Why do investors sell at the bottom of a bear market]]
 - [[Our experiences shape our behaviour with money]]
-- [[Topic of finance is new]]
+- [[Be more forgiving - topic of finance is new]]
 - [[Luck and Risk]]
 	- [[Choose your role models wisely]]
 	- [[Case studies and broad patterns over individuals]]

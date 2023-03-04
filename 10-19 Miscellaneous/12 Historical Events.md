@@ -2,3 +2,4 @@
 - [[How Bill Gates got lucky]]
 	- [[How Lakeside school got a computer]]
 	- [[Unluckiness of Kent Evans, best friend of Bill Gates]]
+- [[Multiple ice ages on Earth]]
