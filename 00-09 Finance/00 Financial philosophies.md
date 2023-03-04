@@ -12,10 +12,11 @@
 - [[Why do smart people disagree in their analyses, predictions]]
 - [[How do people generally make financial decisions]]
 - [[Being rich is different from feeling rich]]
+- [[Wealth is generally hidden]]
 
 ## Research and Case studies
 - [[Depression Babies - Do Macro-economic Experiences Affect Risk-Taking]]
 
 ## Quotes
-- [[Quote - Everyone has a unique experience]]
-- [[Quote - Personal experience make up infinitesimal of reality]]
+- [[Everyone has a unique experience - Quote]]
+- [[Personal experience make up infinitesimal of reality - Quote]]

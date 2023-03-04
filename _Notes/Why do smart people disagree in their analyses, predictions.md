@@ -5,5 +5,5 @@
 - [[The Psychology of Money - Highlights]]
 
 ## Related notes
-- [[Quote - Everyone has a unique experience]]
-- [[Quote - Personal experience make up infinitesimal of reality]]
+- [[Everyone has a unique experience - Quote]]
+- [[Personal experience make up infinitesimal of reality - Quote]]
