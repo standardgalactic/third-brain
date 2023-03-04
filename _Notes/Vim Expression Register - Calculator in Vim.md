@@ -23,4 +23,3 @@
 
 ## Sources
 - https://vimtricks.com/p/vim-calculator/
-## Keywords

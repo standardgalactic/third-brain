@@ -38,9 +38,9 @@ rescue exceptions_matching { |e| e.message =~ /^FOOBAR/ }
   puts "rescued!"
 end
 ```
+
 ## Related information
 - [[Ruby triple equal operator]]
 
 ## Sources
 - https://www.exceptionalcreatures.com/guides/advanced-rescue-and-raise
-## Keywords

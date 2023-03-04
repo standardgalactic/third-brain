@@ -70,4 +70,3 @@ No. Using `git reflog` can help restore those "lost" commits
 ## Sources
 - https://www.atlassian.com/git/tutorials/rewriting-history
 - https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
-## Keywords

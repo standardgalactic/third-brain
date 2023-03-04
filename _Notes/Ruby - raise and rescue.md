@@ -59,3 +59,6 @@ end
 ## Advanced topics
 - [[How does rescue matchers work in Ruby and how can we hack it]]
 - [[Ruby - Multiple ways to raise exceptions]]
+
+## Sources
+- https://www.exceptionalcreatures.com/guides/advanced-rescue-and-raise

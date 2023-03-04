@@ -16,4 +16,3 @@ git commit --amend -m "an updated commit message"
 
 ## Sources
 - https://www.atlassian.com/git/tutorials/rewriting-history
-## Keywords

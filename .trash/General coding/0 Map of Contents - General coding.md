@@ -8,7 +8,7 @@
 
 ## Git
 - [[Change the last commit]]
-- [[Changing older or multiple commits]]
+- [[Changing older or multiple commits - using rebase]]
 
 ## Stories
 

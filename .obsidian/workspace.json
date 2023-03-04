@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Areas/General coding/Ruby - raise and rescue.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "Readwise/Articles/Unnamed Document - Highlights.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Areas/General coding/Ruby - raise and rescue.md",
+                "file": "Readwise/Articles/Unnamed Document - Highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Areas/General coding/Ruby - raise and rescue.md",
+                "file": "Readwise/Articles/Unnamed Document - Highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Areas/General coding/Ruby - raise and rescue.md"
+                "file": "Readwise/Articles/Unnamed Document - Highlights.md"
               }
             }
           },
@@ -211,34 +211,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "02454cde66cf9339",
+  "active": "b9fff63beaf6007a",
   "lastOpenFiles": [
+    "Readwise/Articles/Regex for Lazy Developers - Highlights.md",
+    "Readwise/Articles/Regex for Lazy Developers - DEV Community 👩‍💻👨‍💻 - Highlights.md",
+    "Readwise/Articles/Getting Started With Reader.md",
+    "Readwise/Articles/Fwd Groww’s Curious U-Turn on Fixed Deposits.md",
+    "Readwise/Articles/AI Markets for Lemons, and the Great Logging Off.md",
+    "Readwise/Articles/A Tax-Saver With Many Strings Attached - Highlights.md",
+    "Readwise/Articles/A Tax-Saver With Many Strings Attached by.md",
+    "Readwise/Articles/A Court Case That Could Change the Internet Forever - Highlights.md",
+    "Readwise/Articles/A Brief History of Divestments.md",
+    "Readwise/Articles/A Brief History of Divestments - Highlights.md",
+    "Readwise/Articles/(Done) Why Are India’s Cities in Such a Mess - Highlights.md",
+    "_Projects/Blogs/Things I have learnt at CLARK.md",
+    "_Projects/Blogs/0 Map of Contents - Blogs.md",
     "_Areas/General coding/0 Map of Contents - General coding.md",
-    "_Areas/General coding/Change the last commit.md",
-    "_Notes/Difference between PUT and PATCH request.md",
+    "_Notes/Vim Expression Register - Calculator in Vim.md",
     "2 Science and technology/Software engineering.md",
+    "_Notes/Substituting text while reviewing all change at once.md",
+    "_Notes/Using git rebase onto.md",
+    "_Notes/Changing older or multiple commits - using rebase.md",
+    "_Notes/Change the last commit.md",
+    "_Notes/Ruby triple equal operator.md",
+    "_Notes/How does rescue matchers work in Ruby and how can we hack it.md",
+    "_Notes/Ruby - Multiple ways to raise exceptions.md",
+    "_Notes/Ruby - raise and rescue.md",
+    "_Notes/Difference between PUT and PATCH request.md",
     "_Archives/Life lessons/0 Map of Contents - Life Lessons.md",
-    "_Notes/What may seem atrocious to you, may make sense to someone else.md",
-    "1 Miscellaneous/Life Philosophies.md",
-    "1 Miscellaneous/Events, anecdotes and facts.md",
-    "_Archives/Facts/0 Map of Contents - Facts.md",
-    "_Notes/Germany struggled to produce enough food after World War 2.md",
-    "_Notes/Origin of money.md",
-    "_Notes/Synaptic connections of 20 year old is half of a 2 year old.md",
-    "_Resources/Climate Change and environmentalism/0 Map of Contents - Climate Change and Environmentalism.md",
-    "2 Science and technology/Climate change.md",
-    "Readwise/Articles/(Done) Why Is India Trying to Decarbonize Steel - Highlights.md",
-    "_Notes/Emissions related to steel production.md",
-    "_Notes/India is a major culprit in emissions due to steel production.md",
-    "_Notes/How electric arc furnace reduces emissions during steel production.md",
-    "_Notes/How is steel produced.md",
-    "2 Science and technology/Industrial production.md",
-    "_Notes/India is the second largest producer of steel.md",
-    "_Resources/Climate Change and environmentalism/Steel production.md",
-    "Readwise/Articles/Why Is India Trying to Decarbonize Steel.md",
-    "Readwise/Articles/(Done) Why Is India Trying to Decarbonize Steel.md",
-    "1 Miscellaneous/Facts.md",
-    "1 Miscellaneous/Politics and governance.md",
     "2 Science and technology",
     "_Quotes",
     "Assets/Depression babies.pdf",

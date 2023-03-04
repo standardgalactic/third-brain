@@ -19,6 +19,6 @@ Command that will help us get it 👇
 ```git
 git rebase --onto main featureA featureB
 ```
+
 ## Sources
 - https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
-## Keywords

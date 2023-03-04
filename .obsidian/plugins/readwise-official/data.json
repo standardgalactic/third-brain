@@ -9,7 +9,8 @@
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
-    "20878540"
+    "20878540",
+    "22133844"
   ],
   "booksIDsMap": {
     "Readwise/Books/Harry Potter and the Half-Blood Prince.md": "16555583",
@@ -36,7 +37,6 @@
     "Readwise/Articles/Fwd Groww’s Curious U-Turn on Fixed Deposits.md": "22870765",
     "Readwise/Articles/A Brief History of Divestments.md": "22870782",
     "Readwise/Articles/The Forever Magic of Reinvesting.md": "21246635",
-    "Readwise/Articles/Getting Started With Reader.md": "22133844",
     "Readwise/Articles/The Mystery of India’s Missing Monuments - Highlights.md": "22942995",
     "Readwise/Articles/Indian Pharma’s Quality-Quantity Balancing Act - Highlights.md": "22943298",
     "Readwise/Articles/A $10 Billion Indian Call Centre Scam! - Highlights.md": "22943532",

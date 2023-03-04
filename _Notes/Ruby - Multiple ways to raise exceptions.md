@@ -12,6 +12,6 @@ raise RuntimeError.new("hello")
 - Else, the first argument should be an object returns an Exception object when the `exception` method is called on the object. The object should look like this 👇
 	![[exception method on an object#^edcdc4]]
 - All exception objects have a method `exception` which returns `self`
+
 ## Sources
 - https://www.exceptionalcreatures.com/guides/advanced-rescue-and-raise
-## Keywords
