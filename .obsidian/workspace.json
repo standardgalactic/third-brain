@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Areas/Personal Finance/Luck and Risk.md",
+                "file": "_Areas/Personal Finance/Staying wealthy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,7 +27,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a09b390ea9c7e67",
+            "id": "298ffe961d6e6282",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,12 +40,12 @@
             }
           },
           {
-            "id": "298ffe961d6e6282",
+            "id": "44734ae68f626120",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
+                "file": "_Notes/How to stay wealthy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,25 +53,12 @@
             }
           },
           {
-            "id": "6d03764b5d5683ad",
+            "id": "eeae47135ff5a8b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e93427550f24014c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Know how much is enough.md",
+                "file": "_Notes/Staying wealthy is different than getting wealthy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
+                "file": "_Notes/How to stay wealthy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
+                "file": "_Notes/How to stay wealthy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md"
+                "file": "_Notes/How to stay wealthy.md"
               }
             }
           },
@@ -250,34 +237,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6d03764b5d5683ad",
+  "active": "44734ae68f626120",
   "lastOpenFiles": [
-    "_Notes/Appreciate the role of luck.md",
+    "_Notes/Staying wealthy is different than getting wealthy.md",
+    "_Notes/How to stay wealthy.md",
     "00-09 Finance/00 Financial philosophies.md",
-    "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md",
-    "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
-    "_Areas/Personal Finance/Luck and Risk.md",
+    "_Areas/Personal Finance/Staying wealthy.md",
+    "_Notes/Good investing is NOT about making good decisions.md",
+    "_Notes/Being financially unbreakable trumps Big returns.md",
+    "_Areas/Personal Finance/Small number of events account for majority of outcomes.md",
+    "_Notes/Small number of events account for majority of outcomes - Tail events.md",
+    "_Notes/Grow your profits, cut your losses.md",
     "10-19 Miscellaneous/11 Life Philosophies.md",
+    "_Notes/Ronald Read - Janitor who died a millionaire.md",
+    "_Notes/Jesse Livermore - Who earned when the Great Depression happened and then declined.md",
+    "_Notes/Richard Fuscone - brilliant, but greedy.md",
+    "_Areas/Personal Finance/Planning is important, but always plan on the plan not going - Margin of safety.md",
+    "_Notes/Keep a margin of safety when planning.md",
+    "_Notes/Good plans plan on the plan not working.md",
+    "_Notes/Appreciate the role of luck.md",
+    "_Areas/Personal Finance/Luck and Risk.md",
+    "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
+    "_Notes/info_at_the-ken.com_fdsepe6r@duck.com.md",
+    "_Notes/app.sparkmailapp.com.md",
+    "_Notes/Majority of wealth earned by Benjamin Graham is owed to his lucky investment in one stock.md",
+    "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md",
     "10-19 Miscellaneous/12 Historical Events.md",
     "_Notes/Unluckiness of Kent Evans, best friend of Bill Gates.md",
     "_Notes/How Lakeside school got a computer.md",
-    "_Notes/How Bill Gates got lucky.md",
-    "_Areas/Personal Finance/Having a sense of enough.md",
-    "_Notes/Somethings are never worth risking.md",
-    "_Notes/Know how much is enough.md",
-    "_Notes/Rajat Gupta - Who never had 'enough'.md",
-    "_Areas/Personal Finance/There are many things never worth risking, no matter the potential gain.md",
-    "_Areas/Personal Finance/Having 'enough' is not too little.md",
-    "_Areas/Personal Finance/Social comparison.md",
-    "_Notes/Modern capitalism keeps trying to push the goalpost.md",
-    "_Notes/Avoid social comparison.md",
-    "_Notes/Keep the goalpost constant.md",
-    "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
-    "_Notes/The happiness equation.md",
-    "_Notes/Risk with a moving goalpost.md",
-    "_Notes/How to know how much is enough.md",
-    "_Areas/Personal Finance/The importance of savings.md",
-    "_Notes/Save More Money.md",
     "_Quotes",
     "Assets/Depression babies.pdf",
     "_Notes",

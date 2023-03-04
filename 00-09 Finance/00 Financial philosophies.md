@@ -8,10 +8,16 @@
 - [[Being financially consistent is more important than huge returns]]
 - [[Diversify your investments]]
 - [[Save More Money]]
+- [[Good investing is NOT about making good decisions]]
 - [[Know how much is enough]]
+- [[Good plans plan on the plan not working]]
+	- [[Keep a margin of safety when planning]]
+- [[Grow your profits, cut your losses]]
 
 ## Financial lessons for life
 - [[Being rich is different from feeling rich]]
+	- [[Staying wealthy is different than getting wealthy]]
+	- [[How to stay wealthy]]
 - [[Wealth is generally hidden]]
 - [[Keep the goalpost constant]]
 	- [[Risk with a moving goalpost]]
@@ -19,6 +25,7 @@
 - [[The happiness equation]]
 - [[Somethings are never worth risking]]
 - [[Appreciate the role of luck]]
+- [[Small number of events account for majority of outcomes - Tail events]]
 
 ## Others
 - [[Factors that influence our decisions with money]]
@@ -29,8 +36,14 @@
 
 ## Research and Case studies
 - [[Depression Babies - Do Macro-economic Experiences Affect Risk-Taking]]
-- [[Rajat Gupta - Who never had 'enough']]
 - [[The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings]]
+- [[Majority of wealth earned by Benjamin Graham is owed to his lucky investment in one stock]]
+
+## Case studies
+- [[Ronald Read - Janitor who died a millionaire]]
+- [[Rajat Gupta - Who never had 'enough']]
+- [[Richard Fuscone - brilliant, but greedy]]
+- [[Jesse Livermore - Who earned when the Great Depression happened and then declined]]
 
 ## Quotes
 - [[Everyone has a unique experience - Quote]]

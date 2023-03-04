@@ -13,4 +13,5 @@
 - [[The Psychology of Money - Highlights]]
 
 ## Related Notes
-- 
+- [[How Bill Gates got lucky]]
+- [[Unluckiness of Kent Evans, best friend of Bill Gates]]

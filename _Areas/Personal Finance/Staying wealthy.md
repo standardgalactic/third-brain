@@ -1,6 +1,6 @@
-> [!note] Good investing isn't about making good decisions. It is about not consistently screwing up
 
-> [!important] Getting wealthy is one thing; keeping the wealth is another
+
+
 
 ## How to "stay" wealthy?
 - Combination of frugality and paranoia

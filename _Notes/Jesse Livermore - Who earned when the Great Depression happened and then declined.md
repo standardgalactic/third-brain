@@ -14,4 +14,6 @@
 
 ## Sources
 - [[The Psychology of Money - Highlights]]
-## Keywords
+
+## Related Notes
+- [[Richard Fuscone - brilliant, but greedy]]

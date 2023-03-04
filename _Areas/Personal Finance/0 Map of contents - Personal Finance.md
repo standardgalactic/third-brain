@@ -29,7 +29,7 @@
 - [[How Bill Gates got lucky]]
 - [[Unluckiness of Kent Evans, best friend of Bill Gates]]
 - [[Rajat Gupta - Who never had 'enough']]
-- [[Jesse Livermore - Who earned when the Great Depression happened]]
+- [[Jesse Livermore - Who earned when the Great Depression happened and then declined]]
 - [[Carolco - From big corporation to bankrupt]]
 
 ## [[Quotes - Personal Finance]]

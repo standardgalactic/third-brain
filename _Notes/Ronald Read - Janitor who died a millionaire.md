@@ -1,4 +1,3 @@
-# Ronald Read - Janitor who died a millionaire
 - Wikipedia entry reads: “Ronald James Read was an American philanthropist, investor, janitor, and gas station attendant.”
 - Born in rural Vermont. 
 - First in the family to graduate
@@ -20,4 +19,5 @@
 ## Sources
 - [[The Psychology of Money - Highlights]]
 
-## Keywords
+## Related notes
+- [[Save More Money]]
