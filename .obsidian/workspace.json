@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4953619f10aa7367",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "beec5cdfcd896afa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "699b6fccfe58a68b",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed6d152e12bd129",
+            "id": "cbdfaec3ee03472f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Finance/Taxation.md",
+                "file": "1 Miscellaneous/Events, anecdotes and facts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,51 +21,12 @@
             }
           },
           {
-            "id": "53bc36cbdb95721d",
+            "id": "02454cde66cf9339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Articles/Why Are India’s Cities in Such a Mess - Highlights.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6b4fa0b8f022cee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Miscellaneous/Politics and governance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dd0c7c906e740ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Articles/(Done) Why VPF Remains a Cut Above the Rest.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50ff96d1ca0e16d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
+                "file": "_Areas/General coding/Ruby - raise and rescue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,6 +35,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "fcebd5b84056607d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9fff63beaf6007a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Science and technology/Software engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/Why Are India’s Cities in Such a Mess - Highlights.md",
+                "file": "_Areas/General coding/Ruby - raise and rescue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/Why Are India’s Cities in Such a Mess - Highlights.md",
+                "file": "_Areas/General coding/Ruby - raise and rescue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Articles/Why Are India’s Cities in Such a Mess - Highlights.md"
+                "file": "_Areas/General coding/Ruby - raise and rescue.md"
               }
             }
           },
@@ -250,35 +211,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "53bc36cbdb95721d",
+  "active": "02454cde66cf9339",
   "lastOpenFiles": [
-    "_Notes/India’s municipal corporations.md",
-    "1 Miscellaneous/Politics and governance.md",
-    "_Resources/General Knowledge/0 Map of Contents - General Knowledge.md",
-    "_Resources/Programming/0 Map of Contents - Programming.md",
-    "_Notes/How to get the Puma worker index within a rails index.md",
-    "2 Software engineering/Ruby on Rails.md",
-    "2 Software engineering",
+    "_Areas/General coding/0 Map of Contents - General coding.md",
+    "_Areas/General coding/Change the last commit.md",
+    "_Notes/Difference between PUT and PATCH request.md",
+    "2 Science and technology/Software engineering.md",
+    "_Archives/Life lessons/0 Map of Contents - Life Lessons.md",
+    "_Notes/What may seem atrocious to you, may make sense to someone else.md",
     "1 Miscellaneous/Life Philosophies.md",
-    "1 Miscellaneous/Historical Events.md",
+    "1 Miscellaneous/Events, anecdotes and facts.md",
+    "_Archives/Facts/0 Map of Contents - Facts.md",
+    "_Notes/Germany struggled to produce enough food after World War 2.md",
+    "_Notes/Origin of money.md",
+    "_Notes/Synaptic connections of 20 year old is half of a 2 year old.md",
+    "_Resources/Climate Change and environmentalism/0 Map of Contents - Climate Change and Environmentalism.md",
+    "2 Science and technology/Climate change.md",
+    "Readwise/Articles/(Done) Why Is India Trying to Decarbonize Steel - Highlights.md",
+    "_Notes/Emissions related to steel production.md",
+    "_Notes/India is a major culprit in emissions due to steel production.md",
+    "_Notes/How electric arc furnace reduces emissions during steel production.md",
+    "_Notes/How is steel produced.md",
+    "2 Science and technology/Industrial production.md",
+    "_Notes/India is the second largest producer of steel.md",
+    "_Resources/Climate Change and environmentalism/Steel production.md",
+    "Readwise/Articles/Why Is India Trying to Decarbonize Steel.md",
+    "Readwise/Articles/(Done) Why Is India Trying to Decarbonize Steel.md",
     "1 Miscellaneous/Facts.md",
-    "0 Finance/Investments.md",
-    "0 Finance/Taxation.md",
-    "_Areas/Personal Finance/Quotes - Personal Finance.md",
-    "_Notes/Voluntary Provident Fund (VPF).md",
-    "Readwise/Articles/(Done) Why VPF Remains a Cut Above the Rest.md",
-    "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md",
-    "0 Finance/Financial philosophies and lessons.md",
-    "_Quotes/Dont risk everything in pursuit of wealth - Quote.md",
-    "_Notes/Somethings are never worth risking.md",
-    "_Notes/Income Tax on Gifts.md",
-    "Readwise/Articles/(Done) Cracking the Gift-Tax Code.md",
-    "Readwise/Articles/(Done) Cracking the Gift-Tax Code - Highlights.md",
-    "Templates/Map of Contents.md",
-    "_Areas/Personal Finance/Why do people get buried in debts.md",
-    "_Notes/Why do investors sell at the bottom of a bear market.md",
-    "_Notes/Wealth does not get you admiration and respect.md",
-    "_Notes/How to get admiration and respect.md",
+    "1 Miscellaneous/Politics and governance.md",
+    "2 Science and technology",
     "_Quotes",
     "Assets/Depression babies.pdf",
     "_Notes",

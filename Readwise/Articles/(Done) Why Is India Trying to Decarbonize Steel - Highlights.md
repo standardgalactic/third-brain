@@ -1,7 +1,6 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
-- Author: [[finshots.in]]
 - Full Title: Why Is India Trying to Decarbonize Steel?
 - Category: #articles
 - URL: https://finshots.in/archive/why-is-india-trying-to-decarbonize-steel/

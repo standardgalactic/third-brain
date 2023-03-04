@@ -10,6 +10,7 @@
 - [[Small number of events account for majority of outcomes - Tail events]]
 - [[Tremendous results don't need tremendous force - The Power of Compounding]]
 - [[How to get admiration and respect]]
+- [[What may seem atrocious to you, may make sense to someone else]]
 
 ## Quotes
 - [[You never switch off from modern day work - Quote]]

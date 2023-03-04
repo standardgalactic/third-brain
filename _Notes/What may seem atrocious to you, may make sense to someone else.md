@@ -1,4 +1,3 @@
-# What may seem atrocious to you, may make sense to someone else
 - New York Times wrote a story on the atrocious working conditions of Foxconn (Taiwanese electronics manufacturer)
 - Readers were, justifiably, upset.
 
@@ -11,6 +10,7 @@
 
 ## Sources
 - [[The Psychology of Money - Highlights]]
-- 
 
-## Keywords
+## Related notes
+- [[Everyone has a unique experience - Quote]]
+- [[Why do smart people disagree in their analyses, predictions]]

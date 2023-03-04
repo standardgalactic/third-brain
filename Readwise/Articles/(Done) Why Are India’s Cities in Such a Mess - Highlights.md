@@ -1,7 +1,6 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
-- Author: [[Firefox Relay]]
 - Full Title: Why Are India’s Cities in Such a Mess?
 - Category: #articles
 - URL: https://www.publishthis.email/why-are-india’s-cities-in-such-a-mess-HkxVy8Xvj
