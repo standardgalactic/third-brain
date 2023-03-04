@@ -8,5 +8,10 @@
 	- Does not depend on intelligence, education or sophistication
 	- It just depends on dumb luck of when and where you were born
 
+## Research paper
+- [PDF file](https://drive.google.com/open?id=1dfz8rvXkklpcN_peWnec-MKlng59UcxD&authuser=ayush.mail.id%40gmail.com&usp=drive_fs)
+
+![[Depression babies.pdf]]
+
 ## Sources
 - [[The Psychology of Money - Highlights]]

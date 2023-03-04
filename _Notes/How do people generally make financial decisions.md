@@ -6,5 +6,6 @@
 ## Sources
 - [[The Psychology of Money - Highlights]]
 
-## Related pages
+## Related notes
 - [[Why do smart people disagree in their analyses, predictions]]
+- Backed by research: [[Depression Babies - Do Macro-economic Experiences Affect Risk-Taking]]
