@@ -6,11 +6,13 @@
   "fileSortOrder": "alphabetical",
   "spellcheck": true,
   "attachmentFolderPath": "Assets",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "showUnsupportedFiles": true,
   "vimMode": true,
   "strictLineBreaks": true,
   "showLineNumber": true,
   "tabSize": 2,
-  "trashOption": "local"
+  "trashOption": "local",
+  "newLinkFormat": "shortest",
+  "newFileFolderPath": "_Notes"
 }

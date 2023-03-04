@@ -1,1 +1,0 @@
-- [[Optimism for the future; paranoia about the short term]]

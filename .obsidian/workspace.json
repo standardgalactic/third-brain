@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Areas/Personal Finance/Being financially unbreakable trumps Big returns.md",
+                "file": "_Areas/Personal Finance/Our experiences shape our behaviour with money.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,19 +27,80 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a42d2c3826ad4bb9",
+            "id": "6d5c2cb7dd697349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 Finance/00 General philosophies/_Finance - General Philosophies - Map of Contents.md",
+                "file": "00-09 Finance/00 Financial philosophies.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "737c45d27930e9ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d291faba880c8553",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd5120c8c89f533e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/How do people generally make financial decisions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a09b390ea9c7e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-19 Miscellaneous/11 Life Philosophies.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa7bcf3a8ef1610b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Factors that influence our decisions with money.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 Finance/00 General philosophies/_Finance - General Philosophies - Map of Contents.md",
+                "file": "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-09 Finance/00 General philosophies/_Finance - General Philosophies - Map of Contents.md",
+                "file": "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 Finance/00 General philosophies/_Finance - General Philosophies - Map of Contents.md"
+                "file": "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md"
               }
             }
           },
@@ -197,38 +258,40 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a42d2c3826ad4bb9",
+  "active": "737c45d27930e9ab",
   "lastOpenFiles": [
+    "_Areas/Personal Finance/Our experiences shape our behaviour with money.md",
+    "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md",
+    "00-09 Finance/00 Financial philosophies.md",
+    "_Areas/Personal Finance/Few people use spreadsheets to make financial decisions.md",
+    "_Notes/How do people generally make financial decisions.md",
+    "_Areas/Personal Finance/Decisions are based on experiences.md",
+    "10-19 Miscellaneous/11 Life Philosophies.md",
+    "10-19 Miscellaneous/10 Facts.md",
+    "_Notes/Optimism for the future; paranoia about the short term.md",
+    "_Notes/Case studies and broad patterns over individuals.md",
+    "_Notes/Synaptic connections of 20 year old is half of a 2 year old.md",
+    "_Notes/Why do smart people disagree in their analyses, predictions.md",
+    "_Notes/Finance is driven by people's behaviour.md",
+    "_Notes/Factors that influence our decisions with money.md",
+    "_Notes/Being financially consistent is more important than huge returns.md",
+    "_Notes",
+    "_Areas/Personal Finance/Quotes - Personal Finance.md",
+    "_Areas/Personal Finance/Choose your role models wisely.md",
+    "_Areas/Personal Finance/Luck and Risk.md",
+    "_Areas/Personal Finance/Carolco - From big corporation to bankrupt.md",
     "_Areas/Personal Finance/Being financially unbreakable trumps Big returns.md",
-    "00-09 Finance/00 General philosophies/_Finance - General Philosophies - Map of Contents.md",
-    "10-19 Miscellaneous/11 Life philosophies/Optimism for the future; paranoia about the short term.md",
     "_Areas/Personal Finance/Be optimistic about the future; but paranoid about the short term.md",
-    "10-19 Miscellaneous/11 Life philosophies/_Miscellaneous - Life Philosophies - Map of Contents.md",
     "10-19 Miscellaneous/11 Life philosophies",
-    "10-19 Miscellaneous/10 Facts/_Miscellaneous - Facts - Map of Contents.md",
     "Templates/_Map of Contents.md",
-    "10-19 Miscellaneous/10 Facts/Synaptic connections of 20 year old is half of a 2 year old.md",
     "10-19 Miscellaneous/10 Facts",
     "10-19 Miscellaneous",
-    "00-09 Finance/00 General philosophies/Finance is driven by people's behaviour.md",
     "2 Areas/Personal Finance/About success in finance.md",
     "Templates/Information.md",
     "00-09 Finance/General philosophies/General philosophies.md",
     "00-09 Finance/00 General philosophies/00 General philosophies.md",
-    "_Fleeting notes/Promise - then.md",
     "00-09 Finance/00 General philosophies",
     "00-09 Finance",
-    "_Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
-    "_Projects/Blogs/0 Map of Contents - Blogs.md",
-    "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
-    "4 Archives/Facts/0 Map of Contents - Facts.md",
-    "4 Archives/Facts/Steel production in India.md",
-    "Readwise/Articles/Untitled.canvas",
-    "_Areas/Personal Finance/The importance of savings.md",
-    "_Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-    "3 Resources/Financial news/RBI regulates payment aggregators.md",
-    "pink.md",
-    "Readwise/Books/The Psychology of Money - Highlights.md",
-    "Readwise/Articles/Indian Pharma’s Quality-Quantity Balancing Act - Highlights.md"
+    "Readwise/Articles/Untitled.canvas"
   ]
 }

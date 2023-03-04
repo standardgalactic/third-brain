@@ -6,7 +6,7 @@
 - [[Topic of finance is new]]
 - [[Luck and Risk]]
 	- [[Choose your role models wisely]]
-	- [[Case studies and broad patters over individuals]]
+	- [[Case studies and broad patterns over individuals]]
 	- [[Diversify your investments]]
 - [[Having a sense of enough]]
 - [[Tremendous results don't need tremendous force - The Power of Compounding]]
