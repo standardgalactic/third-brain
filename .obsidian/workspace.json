@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
+                "file": "2 Areas/Personal Finance/About success in finance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1545150e8a47c077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d515349731ec9559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Personal Finance/About success in finance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
+                "file": "2 Areas/Personal Finance/About success in finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
+                "file": "2 Areas/Personal Finance/About success in finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md"
+                "file": "2 Areas/Personal Finance/About success in finance.md"
               }
             }
           },
@@ -159,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1249.5
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +196,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3f68bef422768527",
+  "active": "d515349731ec9559",
   "lastOpenFiles": [
+    "_Fleeting notes/Promise - then.md",
+    "00-09 Finance/00 General philosophies",
+    "00-09 Finance",
+    "_Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
+    "1 Projects/Blogs/0 Map of Contents - Blogs.md",
+    "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
     "4 Archives/Facts/0 Map of Contents - Facts.md",
     "4 Archives/Facts/Steel production in India.md",
-    "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
     "Readwise/Articles/Untitled.canvas",
     "2 Areas/Personal Finance/The importance of savings.md",
     "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
