@@ -57,3 +57,6 @@
     - 12 highlights from Cracking the Gift-Tax Code
     - 102 highlights from The Psychology of Money
 
+- [[2023-03-04]] 12:42 PM — Synced 102 highlights from 1 document.
+    - 102 highlights from The Psychology of Money
+

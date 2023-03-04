@@ -145,13 +145,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "813d82c99682678e",
+            "type": "leaf",
+            "state": {
+              "type": "ObsiDOOM Side Panel",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 1249.5
   },
   "left-ribbon": {
     "hiddenItems": {

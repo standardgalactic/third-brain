@@ -5,9 +5,9 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 7598091,
+  "lastSavedStatusID": 7598413,
   "currentSyncStatusID": 0,
-  "refreshBooks": true,
+  "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
     "Readwise/Books/Harry Potter and the Half-Blood Prince.md": "16555583",
