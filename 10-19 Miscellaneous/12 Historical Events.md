@@ -1,1 +1,4 @@
 - [[How did the world avert the oil crisis in 1970s]]
+- [[How Bill Gates got lucky]]
+	- [[How Lakeside school got a computer]]
+	- [[Unluckiness of Kent Evans, best friend of Bill Gates]]

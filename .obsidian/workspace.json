@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Areas/Personal Finance/Having a sense of enough.md",
+                "file": "_Areas/Personal Finance/Luck and Risk.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,12 +27,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b387f5ea3624acf",
+            "id": "0a09b390ea9c7e67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
+                "file": "00-09 Finance/00 Financial philosophies.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,46 @@
             }
           },
           {
-            "id": "0a09b390ea9c7e67",
+            "id": "298ffe961d6e6282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d03764b5d5683ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e93427550f24014c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Know how much is enough.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ed6d152e12bd129",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
+                "file": "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
+                "file": "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md"
+                "file": "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md"
               }
             }
           },
@@ -210,35 +250,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2b387f5ea3624acf",
+  "active": "6d03764b5d5683ad",
   "lastOpenFiles": [
+    "_Notes/Appreciate the role of luck.md",
     "00-09 Finance/00 Financial philosophies.md",
+    "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md",
+    "_Notes/The Growing Importance of Family and Community - An Analysis of Changes in the Sibling Correlation in Earnings.md",
+    "_Areas/Personal Finance/Luck and Risk.md",
+    "10-19 Miscellaneous/11 Life Philosophies.md",
+    "10-19 Miscellaneous/12 Historical Events.md",
+    "_Notes/Unluckiness of Kent Evans, best friend of Bill Gates.md",
+    "_Notes/How Lakeside school got a computer.md",
+    "_Notes/How Bill Gates got lucky.md",
     "_Areas/Personal Finance/Having a sense of enough.md",
+    "_Notes/Somethings are never worth risking.md",
     "_Notes/Know how much is enough.md",
+    "_Notes/Rajat Gupta - Who never had 'enough'.md",
+    "_Areas/Personal Finance/There are many things never worth risking, no matter the potential gain.md",
+    "_Areas/Personal Finance/Having 'enough' is not too little.md",
+    "_Areas/Personal Finance/Social comparison.md",
+    "_Notes/Modern capitalism keeps trying to push the goalpost.md",
+    "_Notes/Avoid social comparison.md",
+    "_Notes/Keep the goalpost constant.md",
+    "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
+    "_Notes/The happiness equation.md",
+    "_Notes/Risk with a moving goalpost.md",
     "_Notes/How to know how much is enough.md",
     "_Areas/Personal Finance/The importance of savings.md",
     "_Notes/Save More Money.md",
-    "Readwise/Books/The Psychology of Money - Highlights.md",
-    "_Areas/Personal Finance/Reasons for saving money.md",
-    "_Areas/Personal Finance/Wealth gives you freedom.md",
-    "_Notes/Why should we save money.md",
-    "10-19 Miscellaneous/11 Life Philosophies.md",
-    "10-19 Miscellaneous/12 Historical Events.md",
-    "_Notes/How did the world avert the oil crisis in 1970s.md",
-    "10-19 Miscellaneous/10 Facts.md",
-    "_Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-    "_Areas/Personal Finance/Having 'enough' is not too little.md",
-    "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
-    "_Notes/Keep the goalpost constant.md",
-    "_Quotes/Personal experience make up infinitesimal of reality - Quote.md",
-    "_Quotes/Everyone has a unique experience - Quote.md",
     "_Quotes",
-    "_Notes/Wealth is generally hidden.md",
-    "_Areas/Personal Finance/Feeling rich vs being rich.md",
-    "_Notes/Being rich is different from feeling rich.md",
-    "_Notes/Diversify your investments.md",
-    "_Areas/Personal Finance/Quotes - Personal Finance.md",
-    "_Areas/Personal Finance/Our experiences shape our behaviour with money.md",
     "Assets/Depression babies.pdf",
     "_Notes",
     "10-19 Miscellaneous/11 Life philosophies",

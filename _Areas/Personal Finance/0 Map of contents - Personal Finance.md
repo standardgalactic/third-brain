@@ -27,7 +27,7 @@
 - [[Ronald Read - Janitor who died a millionaire]]
 - [[Richard Fuscone - brilliant, but greedy]]
 - [[How Bill Gates got lucky]]
-- [[Unluckiness of Kent Evans]]
+- [[Unluckiness of Kent Evans, best friend of Bill Gates]]
 - [[Rajat Gupta - Who never had 'enough']]
 - [[Jesse Livermore - Who earned when the Great Depression happened]]
 - [[Carolco - From big corporation to bankrupt]]

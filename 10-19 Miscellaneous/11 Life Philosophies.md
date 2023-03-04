@@ -2,3 +2,7 @@
 - [[Case studies and broad patterns over individuals]]
 - [[Why do smart people disagree in their analyses, predictions]]
 - [[Keep the goalpost constant]]
+- [[The happiness equation]]
+- [[Avoid social comparison]]
+- [[Somethings are never worth risking]]
+- [[Appreciate the role of luck]]
