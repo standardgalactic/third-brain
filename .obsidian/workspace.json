@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f68bef422768527",
+            "id": "37dc300cf48d2c8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Personal Finance/About success in finance.md",
+                "file": "_Areas/Personal Finance/Being financially unbreakable trumps Big returns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -23,15 +23,20 @@
         ]
       },
       {
-        "id": "1545150e8a47c077",
+        "id": "699b6fccfe58a68b",
         "type": "tabs",
         "children": [
           {
-            "id": "d515349731ec9559",
+            "id": "a42d2c3826ad4bb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00-09 Finance/00 General philosophies/_Finance - General Philosophies - Map of Contents.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-09 Finance/00 General philosophies/_Finance - General Philosophies - Map of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-09 Finance/00 General philosophies/_Finance - General Philosophies - Map of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-09 Finance/00 General philosophies/_Finance - General Philosophies - Map of Contents.md"
+              }
             }
           },
           {
@@ -188,22 +197,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4b0bb263e5d79822",
+  "active": "a42d2c3826ad4bb9",
   "lastOpenFiles": [
+    "_Areas/Personal Finance/Being financially unbreakable trumps Big returns.md",
+    "00-09 Finance/00 General philosophies/_Finance - General Philosophies - Map of Contents.md",
+    "10-19 Miscellaneous/11 Life philosophies/Optimism for the future; paranoia about the short term.md",
+    "_Areas/Personal Finance/Be optimistic about the future; but paranoid about the short term.md",
+    "10-19 Miscellaneous/11 Life philosophies/_Miscellaneous - Life Philosophies - Map of Contents.md",
+    "10-19 Miscellaneous/11 Life philosophies",
+    "10-19 Miscellaneous/10 Facts/_Miscellaneous - Facts - Map of Contents.md",
+    "Templates/_Map of Contents.md",
+    "10-19 Miscellaneous/10 Facts/Synaptic connections of 20 year old is half of a 2 year old.md",
+    "10-19 Miscellaneous/10 Facts",
+    "10-19 Miscellaneous",
+    "00-09 Finance/00 General philosophies/Finance is driven by people's behaviour.md",
+    "2 Areas/Personal Finance/About success in finance.md",
+    "Templates/Information.md",
     "00-09 Finance/General philosophies/General philosophies.md",
     "00-09 Finance/00 General philosophies/00 General philosophies.md",
-    "2 Areas/Personal Finance/About success in finance.md",
     "_Fleeting notes/Promise - then.md",
-    "00-09 Finance/General philosophies",
+    "00-09 Finance/00 General philosophies",
     "00-09 Finance",
     "_Fleeting notes/Domain modeling made functional - Scott Wlaschin.md",
-    "1 Projects/Blogs/0 Map of Contents - Blogs.md",
+    "_Projects/Blogs/0 Map of Contents - Blogs.md",
     "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
     "4 Archives/Facts/0 Map of Contents - Facts.md",
     "4 Archives/Facts/Steel production in India.md",
     "Readwise/Articles/Untitled.canvas",
-    "2 Areas/Personal Finance/The importance of savings.md",
-    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "_Areas/Personal Finance/The importance of savings.md",
+    "_Areas/Personal Finance/0 Map of contents - Personal Finance.md",
     "3 Resources/Financial news/RBI regulates payment aggregators.md",
     "pink.md",
     "Readwise/Books/The Psychology of Money - Highlights.md",
