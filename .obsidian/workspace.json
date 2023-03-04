@@ -165,11 +165,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +188,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f44df2bcee27d4e4",
+  "active": "4b0bb263e5d79822",
   "lastOpenFiles": [
-    "00-09 Finance/00 General philosophies/00 General philosophies.md",
     "00-09 Finance/General philosophies/General philosophies.md",
+    "00-09 Finance/00 General philosophies/00 General philosophies.md",
     "2 Areas/Personal Finance/About success in finance.md",
     "_Fleeting notes/Promise - then.md",
     "00-09 Finance/General philosophies",
