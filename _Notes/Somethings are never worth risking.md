@@ -9,3 +9,4 @@
 
 ## Related Notes
 - [[Rajat Gupta - Who never had 'enough']]
+- [[Dont risk everything in pursuit of wealth - Quote]]

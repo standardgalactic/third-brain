@@ -8,7 +8,9 @@
   "lastSavedStatusID": 7598413,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
-  "booksToRefresh": [],
+  "booksToRefresh": [
+    "20878540"
+  ],
   "booksIDsMap": {
     "Readwise/Books/Harry Potter and the Half-Blood Prince.md": "16555583",
     "Readwise/Books/Things to Make and Do in the Fourth Dimension.md": "16555582",
@@ -35,7 +37,6 @@
     "Readwise/Articles/A Brief History of Divestments.md": "22870782",
     "Readwise/Articles/The Forever Magic of Reinvesting.md": "21246635",
     "Readwise/Articles/Getting Started With Reader.md": "22133844",
-    "Readwise/Articles/Fwd Why VPF Remains a Cut Above the Rest.md": "20878540",
     "Readwise/Articles/The Mystery of India’s Missing Monuments - Highlights.md": "22942995",
     "Readwise/Articles/Indian Pharma’s Quality-Quantity Balancing Act - Highlights.md": "22943298",
     "Readwise/Articles/A $10 Billion Indian Call Centre Scam! - Highlights.md": "22943532",
@@ -78,8 +79,8 @@
     "Readwise/Articles/A Tax-Saver With Many Strings Attached - Highlights.md": "20923156",
     "Readwise/Articles/Why Is India Trying to Decarbonize Steel - Highlights.md": "21323219",
     "Readwise/Articles/Why Are India’s Cities in Such a Mess - Highlights.md": "21379696",
-    "Readwise/Articles/Cracking the Gift-Tax Code - Highlights.md": "21480054",
-    "Readwise/Books/The Psychology of Money - Highlights.md": "16711995"
+    "Readwise/Books/The Psychology of Money - Highlights.md": "16711995",
+    "Readwise/Articles/(Done) Cracking the Gift-Tax Code - Highlights.md": "21480054"
   },
   "reimportShowConfirmation": true
 }

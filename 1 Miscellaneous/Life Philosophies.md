@@ -9,3 +9,8 @@
 - [[Good plans plan on the plan not working]]
 - [[Small number of events account for majority of outcomes - Tail events]]
 - [[Tremendous results don't need tremendous force - The Power of Compounding]]
+- [[How to get admiration and respect]]
+
+## Quotes
+- [[You never switch off from modern day work - Quote]]
+- [[Tomorrow will never the same as yesterday - Quote]]

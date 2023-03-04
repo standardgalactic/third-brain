@@ -22,4 +22,3 @@
 
 ## Sources
 - [[(Done) Why VPF Remains a Cut Above the Rest]]
-## Keywords

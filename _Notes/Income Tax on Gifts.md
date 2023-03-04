@@ -22,3 +22,6 @@
 - Gifts received from approved funds, hospitals, trusts, or institutions are also non-taxable
 - Some moveable assets are non-taxable. These include smartphones, Xbox, car.
 	- Customary gifts such as sweets and chocolates are also exempted
+
+## Sources
+- [[(Done) Cracking the Gift-Tax Code - Highlights]]

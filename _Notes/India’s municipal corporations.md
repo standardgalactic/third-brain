@@ -30,7 +30,3 @@
 
 ## Sources
 - [[(Done) Why Are India’s Cities in Such a Mess]]
-## Keywords
-
-
-
