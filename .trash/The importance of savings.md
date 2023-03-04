@@ -2,9 +2,7 @@
 - It has lots to do with your savings rate
 
 ## A little story: How did we avert the oil crisis in 1970s?
-- It looked like the world is running out of oil
-- We averted the crisis not because we found more oil.
-- We averted the crisis because we built machines that were more energy efficient
+- 
 
 ### Lesson
 ![[The Psychology of Money - Highlights#^f21b10]]

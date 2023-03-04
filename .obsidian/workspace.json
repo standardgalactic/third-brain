@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37dc300cf48d2c8f",
+            "id": "beec5cdfcd896afa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
-                "mode": "preview",
+                "file": "_Areas/Personal Finance/Having a sense of enough.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -32,59 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quotes/Personal experience make up infinitesimal of reality - Quote.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff0452ecbb778f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Wealth is generally hidden.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efa97454c9c78adb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Being rich is different from feeling rich.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "737c45d27930e9ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd5120c8c89f533e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/How do people generally make financial decisions.md",
+                "file": "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -162,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Quotes/Personal experience make up infinitesimal of reality - Quote.md",
+                "file": "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Quotes/Personal experience make up infinitesimal of reality - Quote.md",
+                "file": "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quotes/Personal experience make up infinitesimal of reality - Quote.md"
+                "file": "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md"
               }
             }
           },
@@ -264,33 +212,34 @@
   },
   "active": "2b387f5ea3624acf",
   "lastOpenFiles": [
-    "_Quotes/Everyone has a unique experience - Quote.md",
-    "_Quotes/Personal experience make up infinitesimal of reality - Quote.md",
     "00-09 Finance/00 Financial philosophies.md",
-    "_Quotes",
-    "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
     "_Areas/Personal Finance/Having a sense of enough.md",
+    "_Notes/Know how much is enough.md",
+    "_Notes/How to know how much is enough.md",
+    "_Areas/Personal Finance/The importance of savings.md",
+    "_Notes/Save More Money.md",
+    "Readwise/Books/The Psychology of Money - Highlights.md",
+    "_Areas/Personal Finance/Reasons for saving money.md",
+    "_Areas/Personal Finance/Wealth gives you freedom.md",
+    "_Notes/Why should we save money.md",
+    "10-19 Miscellaneous/11 Life Philosophies.md",
+    "10-19 Miscellaneous/12 Historical Events.md",
+    "_Notes/How did the world avert the oil crisis in 1970s.md",
+    "10-19 Miscellaneous/10 Facts.md",
+    "_Areas/Personal Finance/0 Map of contents - Personal Finance.md",
     "_Areas/Personal Finance/Having 'enough' is not too little.md",
+    "_Areas/Personal Finance/The hardest financial skill is getting the goalpost to stop moving.md",
+    "_Notes/Keep the goalpost constant.md",
+    "_Quotes/Personal experience make up infinitesimal of reality - Quote.md",
+    "_Quotes/Everyone has a unique experience - Quote.md",
+    "_Quotes",
     "_Notes/Wealth is generally hidden.md",
     "_Areas/Personal Finance/Feeling rich vs being rich.md",
     "_Notes/Being rich is different from feeling rich.md",
-    "Readwise/Books/The Psychology of Money - Highlights.md",
     "_Notes/Diversify your investments.md",
     "_Areas/Personal Finance/Quotes - Personal Finance.md",
     "_Areas/Personal Finance/Our experiences shape our behaviour with money.md",
-    "_Notes/Why do smart people disagree in their analyses, predictions.md",
-    "Templates/Quote - Template.md",
-    "Templates/Information.md",
-    "_Notes/How do people generally make financial decisions.md",
-    "_Areas/Personal Finance/0 Map of contents - Personal Finance.md",
-    "10-19 Miscellaneous/11 Life Philosophies.md",
-    "_Notes/Factors that influence our decisions with money.md",
-    "_Notes/Depression Babies - Do Macro-economic Experiences Affect Risk-Taking.md",
     "Assets/Depression babies.pdf",
-    "_Areas/Personal Finance/Few people use spreadsheets to make financial decisions.md",
-    "_Areas/Personal Finance/Decisions are based on experiences.md",
-    "10-19 Miscellaneous/10 Facts.md",
-    "_Notes/Optimism for the future; paranoia about the short term.md",
     "_Notes",
     "10-19 Miscellaneous/11 Life philosophies",
     "10-19 Miscellaneous/10 Facts",

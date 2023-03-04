@@ -6,13 +6,20 @@
 ## Financial principles
 - [[Being financially consistent is more important than huge returns]]
 - [[Diversify your investments]]
+- [[Save More Money]]
+- [[Know how much is enough]]
+
+## Financial lessons for life
+- [[Being rich is different from feeling rich]]
+- [[Wealth is generally hidden]]
+- [[Keep the goalpost constant]]
 
 ## Others
 - [[Factors that influence our decisions with money]]
 - [[Why do smart people disagree in their analyses, predictions]]
 - [[How do people generally make financial decisions]]
-- [[Being rich is different from feeling rich]]
-- [[Wealth is generally hidden]]
+- [[How to know how much is enough]]
+- [[Why should we save money]]
 
 ## Research and Case studies
 - [[Depression Babies - Do Macro-economic Experiences Affect Risk-Taking]]

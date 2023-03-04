@@ -1,3 +1,4 @@
 - [[Optimism for the future; paranoia about the short term]]
 - [[Case studies and broad patterns over individuals]]
 - [[Why do smart people disagree in their analyses, predictions]]
+- [[Keep the goalpost constant]]
