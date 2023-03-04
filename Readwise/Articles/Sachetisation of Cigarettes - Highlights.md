@@ -1,0 +1,17 @@
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+
+## Metadata
+- Author: [[Finshots]]
+- Full Title: Sachetisation of Cigarettes?
+- Category: #articles
+
+## Highlights
+- So ITC, India’s largest tobacco manufacturer, had a brainwave. It decided that small is better. It introduced a [smaller pack](https://rn619dmj.r.us-east-1.awstrack.me/L0/https:%2F%2Fwww.bqprime.com%2Fweb-stories%2Fitc-brings-sachet-revolution-to-cigarettes-2/1/01000185c3354386-4e5308c2-be6d-43ac-b999-4acdedaa2617-000000/Le9AAPAbbqh7dEo_Lh7M4l4YCXo=305) of just 5 cigarettes! ([View Highlight](https://read.readwise.io/read/01gr11d4k029wy83cqp34krtqz))
+    - Note: Anticipating that the indian government may ban single cigarette
+^rwID-466224629
+- If you were expecting the [trend of sachetisation](https://rn619dmj.r.us-east-1.awstrack.me/L0/https:%2F%2Ftheprint.in%2Fpageturner%2Fexcerpt%2Fcavinkare-shampoo-sachet-that-was-the-true-pioneer-of-middle-india-market%2F1209049%2F/1/01000185c3354386-4e5308c2-be6d-43ac-b999-4acdedaa2617-000000/hxmtd9B-CmcG8JuvRADX_jUOocI=305) to emerge from a gigantic corporation run by MBAs, you’d be dead wrong. It actually began in the small town of Cuddalore in Tamil Nadu 50 years ago. A farmer-turned-entrepreneur named Chinni Krishnan noticed that stuff like talcum powder and Epsom salts were sold in 100g tin packs. But people from low-income communities who worked in the fields and factories didn’t buy them. They simply couldn’t afford them. ([View Highlight](https://read.readwise.io/read/01gr13cz8852rvac638v1kwdye))
+^rwID-466235271
+- A few years later, his son C K Ranganathan capitalized on the sachet strategy. He realised that most people didn’t buy shampoo because even the other sachets available in the market cost ₹2. And after some ground research, he found that most folks in rural areas would have to spend around ₹8–10 a month to clean their hair. It wasn’t economical. So he started a humble business called Chik — and sold shampoo sachets for just [50 paise](https://rn619dmj.r.us-east-1.awstrack.me/L0/https:%2F%2Fwww.business-standard.com%2Farticle%2Fmanagement%2Fchik-mate-103060301078_1.html/1/01000185c3354386-4e5308c2-be6d-43ac-b999-4acdedaa2617-000000/9JXw4QUJL4wAgsd-I5k0SEfhfYw=305) . And it changed the game forever. That business soon evolved into CavinKare ― a [$1 billion dollar](https://rn619dmj.r.us-east-1.awstrack.me/L0/https:%2F%2Fwww.thehindu.com%2Fbusiness%2FIndustry%2Fcavinkare-plans-public-offer-by-2020-eyes-acquisitions%2Farticle24097491.ece/1/01000185c3354386-4e5308c2-be6d-43ac-b999-4acdedaa2617-000000/uE0KCaA3CGZI6s_lGRScofrpgVk=305) brand that makes Chik shampoo, Indica hair dyes, and a whole host of other products today. ([View Highlight](https://read.readwise.io/read/01gr13dsakyeg3ss7hygkswaax))
+^rwID-466235290
+- [In 2014](https://rn619dmj.r.us-east-1.awstrack.me/L0/https:%2F%2Fonlinelibrary.wiley.com%2Fdoi%2Ffull%2F10.1111%2Fadd.14770/1/01000185c3354386-4e5308c2-be6d-43ac-b999-4acdedaa2617-000000/PXSO2bd7fVjNldtF4eIcke8lTr8=305) , the EU issued the Tobacco Products Directive (TPD). It said that the minimum pack size should be 20 cigarettes. Both Russia and Georgia only allow 20 cigarette packs too. Countries across the world are enacting such legislation to ensure that cigarettes aren’t exactly affordable for the youth. ([View Highlight](https://read.readwise.io/read/01gr13grv5wfjdf4gryqwervnx))
+^rwID-466235659

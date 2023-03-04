@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7fbf1cd0456a2a",
+        "id": "4953619f10aa7367",
         "type": "tabs",
         "children": [
           {
-            "id": "d6c719e4443d6201",
+            "id": "3f68bef422768527",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/General coding/0 Map of Contents - General coding.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ee19b331129a644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/Fitness/Glute Bridges.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39cdd2d7f1fcfdc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/Blogs/0 Map of Contents - Blogs.md",
+                "file": "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +51,7 @@
               "state": {
                 "query": "",
                 "matchingCase": true,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -105,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Projects/Blogs/0 Map of Contents - Blogs.md",
+                "file": "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Projects/Blogs/0 Map of Contents - Blogs.md",
+                "file": "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Projects/Blogs/0 Map of Contents - Blogs.md"
+                "file": "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md"
               }
             }
           },
@@ -173,12 +146,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,17 +169,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "39cdd2d7f1fcfdc9",
+  "active": "3f68bef422768527",
   "lastOpenFiles": [
-    "Readwise/Articles/Passages Saved From Android.md",
-    "2 Areas/Personal Finance/Feeling rich vs being rich.md",
-    "Readwise/Articles/Why the Proposed Telecom Bill Is of the Telcos, by the Telcos, for the Telcos.md",
-    "Readwise/Articles/Economists Hate Secret Santa!.md",
-    "Readwise/Articles/Who Are You Calling Financially Illiterate.md",
-    "Readwise/Articles/Why Colgate’s Growth in India Is Tied to Catching ‘Em Young.md",
-    "Readwise/Articles/Fwd Why Investors Can’t Really Be Friends With Founders.md",
-    "Readwise/Articles/Fwd Why Meta Is Losing Its Leaders in India.md",
-    "Readwise/Articles/Fwd Groww’s Curious U-Turn on Fixed Deposits.md",
-    "Readwise/Articles/A Brief History of Divestments.md"
+    "4 Archives/Facts/0 Map of Contents - Facts.md",
+    "4 Archives/Facts/Steel production in India.md",
+    "4 Archives/Life lessons/0 Map of Contents - Life Lessons.md",
+    "Readwise/Articles/Untitled.canvas",
+    "2 Areas/Personal Finance/The importance of savings.md",
+    "2 Areas/Personal Finance/0 Map of contents - Personal Finance.md",
+    "3 Resources/Financial news/RBI regulates payment aggregators.md",
+    "pink.md",
+    "Readwise/Books/The Psychology of Money - Highlights.md",
+    "Readwise/Articles/Indian Pharma’s Quality-Quantity Balancing Act - Highlights.md"
   ]
 }

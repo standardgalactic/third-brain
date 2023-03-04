@@ -8,5 +8,5 @@
 > Good investing isn't about the highest returns (because the highest returns tend to be one-off hits). Its about earning good returns that you can stick with and can be **repeated for a long time**.
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 ## Keywords

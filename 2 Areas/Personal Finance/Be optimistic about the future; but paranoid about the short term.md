@@ -4,5 +4,5 @@
 - This principle of long-term optimism and short-term paranoia applies to almost every aspect of life
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 ## Keywords

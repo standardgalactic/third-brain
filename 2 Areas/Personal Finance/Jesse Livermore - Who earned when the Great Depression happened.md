@@ -13,5 +13,5 @@
 - His debt increased and eventually he lost everything
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 ## Keywords

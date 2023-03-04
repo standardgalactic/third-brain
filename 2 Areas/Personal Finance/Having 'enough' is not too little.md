@@ -2,6 +2,6 @@
 - It is realizing that the opposite - the insatiable appetite for more - will push you to the point of regret
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 - 
 ## Keywords

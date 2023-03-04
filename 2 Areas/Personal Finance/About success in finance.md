@@ -3,6 +3,6 @@
 	- Finance is guided by people's behaviour
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 
 ## Keywords

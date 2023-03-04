@@ -35,10 +35,10 @@
 ## Words of Michael Moritz, billionaire head of Sequoia
 
 > [!quote]- We assume that tomorrow won’t be like yesterday. We can’t afford to rest on our laurels. We can’t be complacent. We can’t assume that yesterday’s success translates into tomorrow’s good fortune.
-> Source: [[The Psychology of Money]]
+> Source: [[The Psychology of Money - Highlights]]
 > Related page:
 > Author: Michael Moritz
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 ## Keywords

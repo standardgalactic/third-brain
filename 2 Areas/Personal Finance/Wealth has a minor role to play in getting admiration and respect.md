@@ -14,5 +14,5 @@ Instead, we think that **"if I had that car people would think I'm cool"**
 The above things 👆🏽 will get you more respect and admiration than wealth ever will
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 ## Keywords

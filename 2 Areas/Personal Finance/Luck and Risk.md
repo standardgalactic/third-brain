@@ -26,6 +26,6 @@
 > \- Benjamin Graham
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 
 ## Keywords

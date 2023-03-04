@@ -4,6 +4,6 @@
 - This mixture forms a narrative that works for you
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 
 ## Keywords

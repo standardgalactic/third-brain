@@ -28,7 +28,7 @@
 	- It just depends on dumb luck of when and where you were born
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 - U. Malmendier, S. Nagel, "Depression Babies: Do Macroe- conomic Experiences Affect Risk-Taking?" (August 2007). ^328f5e
 
 ## Keywords

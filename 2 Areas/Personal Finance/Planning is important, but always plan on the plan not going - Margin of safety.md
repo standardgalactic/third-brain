@@ -13,5 +13,5 @@
 	- It is about raising the **odds** of succcess
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 ## Keywords

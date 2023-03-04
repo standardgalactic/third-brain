@@ -33,3 +33,27 @@
     - 1 highlights from Regex for Lazy Developers - DEV Community 👩‍💻👨‍💻
     - 19 highlights from Regex for Lazy Developers
 
+- [[2023-03-04]] 11:52 AM — Synced 78 highlights from 15 documents.
+    - 1 highlights from Harry Potter and the Prisoner of Azkaban
+    - 17 highlights from Unnamed Document
+    - 3 highlights from Tax the Rich?!
+    - 3 highlights from Amazon Is a Logistics Company
+    - 4 highlights from Sachetisation of Cigarettes?
+    - 7 highlights from ITC Has the Might to Pull Off an SRK. Will It?
+    - 4 highlights from Stoa School Is the Ultimate Anti-Brand
+    - 10 highlights from Why We Don't Tax Agricultural Income
+    - 3 highlights from A Court Case That Could Change the Internet Forever?
+    - 3 highlights from Apple: The Only Big Tech Giant Going Against the Job Cuts Tide
+    - 8 highlights from The Silent Crisis of Light Pollution
+    - 4 highlights from Is India’s Sustainable Fashion Moment Here?
+    - 5 highlights from An Explainer on Transfer Pricing
+    - 5 highlights from The Debate Over Stock Buybacks
+    - 1 highlights from JioCinema and an IPL Make-Over
+
+- [[2023-03-04]] 12:02 PM — Synced 141 highlights from 5 documents.
+    - 11 highlights from A Tax-Saver With Many Strings Attached
+    - 8 highlights from Why Is India Trying to Decarbonize Steel?
+    - 8 highlights from Why Are India’s Cities in Such a Mess?
+    - 12 highlights from Cracking the Gift-Tax Code
+    - 102 highlights from The Psychology of Money
+

@@ -3,5 +3,5 @@
 - Be careful who you look down upon because a significant part of failure is due to risk (unluckiness)
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 ## Keywords

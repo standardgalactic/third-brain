@@ -14,5 +14,5 @@
 - At the Berkshire Hathaway shareholder meeting in 2013, Warren Buffet said that most of his wealth came from around 10 of his 300 to 400 stocks
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 ## Keywords

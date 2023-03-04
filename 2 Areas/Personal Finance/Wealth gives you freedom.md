@@ -8,7 +8,7 @@
 
 ## Value of wealth
 - The value of wealth lies in offering us with options, flexibility and growth.
-- It promises us to one day purchase more stuff than we could right now [[The Psychology of Money#^35b7e7|(Source)]]
+- It promises us to one day purchase more stuff than we could right now [[The Psychology of Money - Highlights#^35b7e7|(Source)]]
 
 ## Research by Angus Campbell
 
@@ -31,5 +31,5 @@
 - [[Why people don't feel much happier even though we have more money]]
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 ## Keywords

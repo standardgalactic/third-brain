@@ -17,7 +17,7 @@ There are three levels of requirements a man has:
 2. Comfortable basics
 3. Basics that are comfortable, entertaining and enlightening.
 
-Spending beyond this (low level of materialism) is mostly a sign of ego approaching income. It becomes a way to spend money to show people that you have (or had). [[The Psychology of Money#^dedbbd|(Source)]]
+Spending beyond this (low level of materialism) is mostly a sign of ego approaching income. It becomes a way to spend money to show people that you have (or had). [[The Psychology of Money - Highlights#^dedbbd|(Source)]]
 
 > [!NOTE] Lesser you care about what others think of you, lesser your desires, lesser your expenses, more [[The importance of savings|savings]] and more chances of you knowing when you have enough
 
@@ -26,6 +26,6 @@ Spending beyond this (low level of materialism) is mostly a sign of ego approach
 
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 
 ## Keywords

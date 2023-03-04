@@ -7,10 +7,10 @@
 - We averted the crisis because we built machines that were more energy efficient
 
 ### Lesson
-![[The Psychology of Money#^f21b10]]
+![[The Psychology of Money - Highlights#^f21b10]]
 
 > [!fact]- United States uses 60% less energy per dollar of GDP today (2021) that it did in 1950
-> Source: [[The Psychology of Money#^0d89d1]]
+> Source: [[The Psychology of Money - Highlights#^0d89d1]]
 
 ## The rationale behind this
 - Investment returns and strategies are always in doubt. They can make you rich, sure. But the results are uncertain.
@@ -25,5 +25,5 @@
 - [[Reasons for saving money]]
 
 ## Sources
-- [[The Psychology of Money]]
+- [[The Psychology of Money - Highlights]]
 ## Keywords
