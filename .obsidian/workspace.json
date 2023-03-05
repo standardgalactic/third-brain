@@ -14,27 +14,39 @@
               "type": "markdown",
               "state": {
                 "file": "2 Science and technology/Software engineering.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "48976512e30c2867",
+            "id": "68eef9d252f6275d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Information.md",
+                "file": "_Notes/Same data bits can mean different things in different context.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64a468d05de1232c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/How is a computer program stored in memory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Information.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Information.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Information.md"
+                "file": "2 Science and technology/Software engineering.md"
               }
             }
           },
@@ -199,10 +211,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "48976512e30c2867",
+  "active": "a76c3445bda0d3c3",
   "lastOpenFiles": [
+    "_Notes/Same data bits can mean different things in different context.md",
     "_Notes/How is a computer program stored in memory.md",
+    "Assets/Pasted image 20230305194829.png",
     "2 Science and technology/Software engineering.md",
+    "Assets/Pasted image 20230305194609.png",
+    "Assets/Pasted image 20230305194502.png",
+    "Assets/Pasted image 20230305194425.png",
+    "Templates/Information.md",
+    "Assets/Randal E. Bryant, David R. O’Hallaron. Manasa S., Mohit Tahiliani (eds.) - Computer Systems A Programmer’s Perspective-Pearson (2016).pdf",
     "Readwise/Books/The Psychology of Money - Highlights.md",
     "_Notes/Why reasonable investor might have an edge over a rational investor.md",
     "0 Finance/Financial philosophies and lessons.md",
@@ -225,9 +244,6 @@
     "Readwise/Articles/(Done) Why Are India’s Cities in Such a Mess - Highlights.md",
     "_Quotes/Dont risk everything in pursuit of wealth - Quote.md",
     "_Notes/Diversify your investments.md",
-    "_Notes/Ruby triple equal operator.md",
-    "Finance.md",
-    "1 Miscellaneous/Politics and governance.md",
     "netlify.toml",
     "2 Science and technology",
     "_Quotes",
@@ -236,7 +252,6 @@
     "10-19 Miscellaneous/11 Life philosophies",
     "10-19 Miscellaneous/10 Facts",
     "1 Miscellaneous",
-    "00-09 Finance/00 General philosophies",
     "Readwise/Articles/Untitled.canvas"
   ]
 }

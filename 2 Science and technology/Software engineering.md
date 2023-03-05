@@ -21,3 +21,4 @@
 
 ## Computer systems
 - [[How is a computer program stored in memory]]
+- [[Same data bits can mean different things in different context]]
