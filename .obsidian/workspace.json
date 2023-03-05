@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "62c1ed45e28d53f3",
+        "id": "db6c6456376ced22",
         "type": "tabs",
         "children": [
           {
-            "id": "5bc8ccf787404d9f",
+            "id": "a76c3445bda0d3c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Books/The Psychology of Money - Highlights.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4f08ddd4a279ee08",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1608a9b2b109a758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,77 +21,12 @@
             }
           },
           {
-            "id": "96a78c0dfef2f567",
+            "id": "48976512e30c2867",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Why reasonable investor might have an edge over a rational investor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f94ef3bf629ac2f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ff446b2d94a45d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Aim to be reasonable, not rational.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26a491a4a73411e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Miscellaneous/Events, anecdotes and facts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d136424f56bc057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/The weirdity of fevers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0a9b2576131ed4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Julius Wagner-Jauregg won the Nobel Prize in medicine in 1927.md",
+                "file": "Templates/Information.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Books/The Psychology of Money - Highlights.md",
+                "file": "Templates/Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Books/The Psychology of Money - Highlights.md",
+                "file": "Templates/Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Books/The Psychology of Money - Highlights.md"
+                "file": "Templates/Information.md"
               }
             }
           },
@@ -283,10 +199,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5bc8ccf787404d9f",
+  "active": "48976512e30c2867",
   "lastOpenFiles": [
-    "_Notes/Why reasonable investor might have an edge over a rational investor.md",
+    "_Notes/How is a computer program stored in memory.md",
+    "2 Science and technology/Software engineering.md",
     "Readwise/Books/The Psychology of Money - Highlights.md",
+    "_Notes/Why reasonable investor might have an edge over a rational investor.md",
     "0 Finance/Financial philosophies and lessons.md",
     "_Notes/Aim to be reasonable, not rational.md",
     "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
@@ -304,14 +222,12 @@
     "_Areas/Fitness/0 Map of Contents - Fitness.md",
     "_Notes/How is steel produced.md",
     "2 Science and technology/Industrial production.md",
-    "2 Science and technology/Software engineering.md",
     "Readwise/Articles/(Done) Why Are India’s Cities in Such a Mess - Highlights.md",
     "_Quotes/Dont risk everything in pursuit of wealth - Quote.md",
     "_Notes/Diversify your investments.md",
     "_Notes/Ruby triple equal operator.md",
     "Finance.md",
     "1 Miscellaneous/Politics and governance.md",
-    "_Notes/Appreciate the role of luck.md",
     "netlify.toml",
     "2 Science and technology",
     "_Quotes",

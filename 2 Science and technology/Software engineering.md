@@ -19,4 +19,5 @@
 ## Web
 - [[Difference between PUT and PATCH request]]
 
-## Quotes
+## Computer systems
+- [[How is a computer program stored in memory]]
