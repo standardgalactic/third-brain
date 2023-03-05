@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Miscellaneous/Events, anecdotes and facts.md",
+                "file": "_Areas/Fitness/Before a workout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Areas/Fitness/Before a workout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Areas/Fitness/Before a workout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Areas/Fitness/Before a workout.md"
+              }
             }
           },
           {
@@ -194,9 +197,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "04f3a8a401775c0f",
+  "active": "cbdfaec3ee03472f",
   "lastOpenFiles": [
+    "_Areas/Fitness/Alternatives to pullups.md",
+    "_Notes/Being rich is different from feeling rich.md",
+    "Readwise/Articles/(Done) Cracking the Gift-Tax Code - Highlights.md",
     "1 Miscellaneous/Events, anecdotes and facts.md",
+    "_Notes/Avoid social comparison.md",
     "Readwise/Articles/A Brief History of Divestments - Highlights.md",
     "Readwise/Articles/A Brief History of Divestments.md",
     "Readwise/Books/The Psychology of Money - Highlights.md",
@@ -218,10 +225,6 @@
     "Readwise/Articles/(Done) Why Are India’s Cities in Such a Mess - Highlights.md",
     "_Projects/Blogs/Things I have learnt at CLARK.md",
     "_Projects/Blogs/0 Map of Contents - Blogs.md",
-    "_Areas/General coding/0 Map of Contents - General coding.md",
-    "_Notes/Vim Expression Register - Calculator in Vim.md",
-    "_Notes/Substituting text while reviewing all change at once.md",
-    "_Notes/Using git rebase onto.md",
     "2 Science and technology",
     "_Quotes",
     "Assets/Depression babies.pdf",
