@@ -21,25 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2be62805f246a97a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0cf319b7feaad85e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

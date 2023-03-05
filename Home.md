@@ -1,10 +1,16 @@
 The topics covered in these notes:
 
 ## Finance
-
-- [[0 Finance/Investments]]
-- [[0 Finance/Taxation]]
+- [[Financial philosophies and lessons]]
+- [[Investments]]
+- [[Taxation]]
 
 ## Science and technology
-- [[2 Science and technology/Climate change]]
-- [[]]
+- [[Climate change]]
+- [[Industrial production]]
+- [[Software engineering]]
+
+## Miscellaneous
+- [[Events, anecdotes and facts]]
+- [[Life Philosophies]]
+- [[Politics and governance]]
