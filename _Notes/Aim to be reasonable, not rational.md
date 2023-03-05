@@ -10,6 +10,14 @@
 ## Being reasonable in medicine
 - It is well known that [[The weirdity of fevers|fevers]] help in curing any infection. However, it does not give us peace of mind.
 
+## Rational investor vs Reasonable investor
+- Rational investor makes decisions based on numeric facts
+- These are the factors that influence a "reasonable" decision maker:
+	- Co-workers whom you want should think highly of you
+	- Spouse you don't want to let down
+	- Competitors in your family, neighbourhood
+	- Your personal doubts, insecurities, etc.
+
 ## Sources
 - [[The Psychology of Money - Highlights]]
 

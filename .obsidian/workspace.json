@@ -40,6 +40,19 @@
             }
           },
           {
+            "id": "96a78c0dfef2f567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Why reasonable investor might have an edge over a rational investor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f94ef3bf629ac2f9",
             "type": "leaf",
             "state": {
@@ -58,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
+                "file": "_Notes/Aim to be reasonable, not rational.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
+                "file": "Readwise/Books/The Psychology of Money - Highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
+                "file": "Readwise/Books/The Psychology of Money - Highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md"
+                "file": "Readwise/Books/The Psychology of Money - Highlights.md"
               }
             }
           },
@@ -270,12 +283,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4ff446b2d94a45d1",
+  "active": "5bc8ccf787404d9f",
   "lastOpenFiles": [
+    "_Notes/Why reasonable investor might have an edge over a rational investor.md",
     "Readwise/Books/The Psychology of Money - Highlights.md",
-    "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
-    "_Notes/Aim to be reasonable, not rational.md",
     "0 Finance/Financial philosophies and lessons.md",
+    "_Notes/Aim to be reasonable, not rational.md",
+    "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
     "_Notes/The weirdity of fevers.md",
     "1 Miscellaneous/Life Philosophies.md",
     "1 Miscellaneous/Events, anecdotes and facts.md",
@@ -298,7 +312,6 @@
     "Finance.md",
     "1 Miscellaneous/Politics and governance.md",
     "_Notes/Appreciate the role of luck.md",
-    "Readwise/Articles/A Brief History of Divestments.md",
     "netlify.toml",
     "2 Science and technology",
     "_Quotes",

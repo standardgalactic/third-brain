@@ -4,6 +4,7 @@
 - [[Case studies and broad patterns over individuals]]
 - [[Avoid social comparison]]
 - [[Aim to be reasonable, not rational]]
+	- [[Why reasonable investor might have an edge over a rational investor]]
 
 ## Financial principles
 - [[Being financially consistent is more important than huge returns]]

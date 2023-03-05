@@ -98,7 +98,6 @@
 - you don’t need a specific reason to save. ([Location 1203](https://readwise.io/to_kindle?action=open&asin=B08FHZ5L47&location=1203))
 - Saving is a hedge against life’s inevitable ability to surprise the hell out of you at the worst possible moment. ([Location 1207](https://readwise.io/to_kindle?action=open&asin=B08FHZ5L47&location=1207))
 - In a world where intelligence is hyper-competitive and many previous technical skills have become automated, competitive advantages tilt toward nuanced and soft skills—like communication, empathy, and, perhaps most of all, flexibility. ([Location 1237](https://readwise.io/to_kindle?action=open&asin=B08FHZ5L47&location=1237))
-**DONE TILL HERE**
 - Do not aim to be coldly rational when making financial decisions. Aim to just be pretty reasonable. Reasonable is more realistic and you have a better chance of sticking with it for the long run, which is what matters most when managing money. ([Location 1253](https://readwise.io/to_kindle?action=open&asin=B08FHZ5L47&location=1253))
 - Julius Wagner-Jauregg was a 19th-century psychiatrist with two unique skills: ([Location 1256](https://readwise.io/to_kindle?action=open&asin=B08FHZ5L47&location=1256))
     - Note: Story start
@@ -125,3 +124,4 @@
 - people prefer to invest in companies from the country they live in while ignoring the other 95%+ of the planet. It’s not rational, until you consider that investing is effectively giving money to strangers. If familiarity helps you take the leap of faith required to remain backing those strangers, it’s reasonable. ([Location 1341](https://readwise.io/to_kindle?action=open&asin=B08FHZ5L47&location=1341))
 - “We do some things for family reasons,” Bogle told The Wall Street Journal. “If it’s not consistent, well, life isn’t always consistent.” ([Location 1354](https://readwise.io/to_kindle?action=open&asin=B08FHZ5L47&location=1354))
     - Note: Quotation
+**DONE TILL HERE**
