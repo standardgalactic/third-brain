@@ -6,22 +6,22 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Explore the knowledge I have gathered"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = ""
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "Home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "I love obsidian-zola! 💖"
+LANDING_TITLE = "Welcome to my knowledge bank"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/ayushpoddar/third-brain"
 # (Optional) Site title in navbar
-SITE_TITLE = "Someone's Second 🧠"
+SITE_TITLE = "Ayush Poddar - Knowledge Keeper"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://startling-sunshine-41cf89.netlify.app/"
 # (Optional) Site Timezone
-TIMEZONE = "Asia/Hong_Kong"
+TIMEZONE = "Asia/Kolkata"
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
@@ -30,11 +30,15 @@ GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
-HOME_GRAPH = "y"
+HOME_GRAPH = ""
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
+# (Optional, default ""). Page graph only shows directly connected nodes
+LOCAL_GRAPH = "y"
+# If "y", clicking on graph link replaces current tab. Else, page is opened in new tab. Default: "".
+GRAPH_LINK_REPLACE = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
-SIDEBAR_COLLAPSED = ""
+SIDEBAR_COLLAPSED = "y"
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
