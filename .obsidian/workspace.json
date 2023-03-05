@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Readwise/Books/The Psychology of Money - Highlights.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +21,91 @@
             }
           }
         ]
+      },
+      {
+        "id": "4f08ddd4a279ee08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1608a9b2b109a758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Finance/Financial philosophies and lessons.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f94ef3bf629ac2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ff446b2d94a45d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26a491a4a73411e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Miscellaneous/Events, anecdotes and facts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d136424f56bc057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/The weirdity of fevers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0a9b2576131ed4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Julius Wagner-Jauregg won the Nobel Prize in medicine in 1927.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md"
               }
             }
           },
@@ -167,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,18 +270,25 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "54b7b943d0b07508",
+  "active": "4ff446b2d94a45d1",
   "lastOpenFiles": [
+    "Readwise/Books/The Psychology of Money - Highlights.md",
+    "_Notes/Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable.md",
+    "_Notes/Aim to be reasonable, not rational.md",
+    "0 Finance/Financial philosophies and lessons.md",
+    "_Notes/The weirdity of fevers.md",
+    "1 Miscellaneous/Life Philosophies.md",
+    "1 Miscellaneous/Events, anecdotes and facts.md",
+    "_Notes/Julius Wagner-Jauregg won the Nobel Prize in medicine in 1927.md",
     "Home.md",
+    "index.md",
+    "config.js",
     "_Notes/Why people do not feel much happier even though we have more money.md",
     "_Notes/Tremendous results do not need tremendous force - The Power of Compounding.md",
     "_Notes/Rajat Gupta - Who never had ENOUGH.md",
     "_Notes/Finance is driven by people behaviour.md",
-    "0 Finance/Financial philosophies and lessons.md",
-    "index.md",
     "_Areas/Fitness/0 Map of Contents - Fitness.md",
     "_Notes/How is steel produced.md",
-    "config.js",
     "2 Science and technology/Industrial production.md",
     "2 Science and technology/Software engineering.md",
     "Readwise/Articles/(Done) Why Are India’s Cities in Such a Mess - Highlights.md",
@@ -206,14 +299,7 @@
     "1 Miscellaneous/Politics and governance.md",
     "_Notes/Appreciate the role of luck.md",
     "Readwise/Articles/A Brief History of Divestments.md",
-    "_Areas/Fitness/Before a workout.md",
     "netlify.toml",
-    "_Areas/Fitness/Alternatives to pullups.md",
-    "_Notes/Being rich is different from feeling rich.md",
-    "Readwise/Articles/(Done) Cracking the Gift-Tax Code - Highlights.md",
-    "1 Miscellaneous/Events, anecdotes and facts.md",
-    "_Notes/Avoid social comparison.md",
-    "Readwise/Articles/A Brief History of Divestments - Highlights.md",
     "2 Science and technology",
     "_Quotes",
     "Assets/Depression babies.pdf",

@@ -3,6 +3,7 @@
 - [[Optimism for the future; paranoia about the short term]]
 - [[Case studies and broad patterns over individuals]]
 - [[Avoid social comparison]]
+- [[Aim to be reasonable, not rational]]
 
 ## Financial principles
 - [[Being financially consistent is more important than huge returns]]
@@ -54,6 +55,7 @@
 - [[Rajat Gupta - Who never had ENOUGH]]
 - [[Richard Fuscone - brilliant, but greedy]]
 - [[Jesse Livermore - Who earned when the Great Depression happened and then declined]]
+- [[Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable]]
 
 ## Quotes
 - [[Everyone has a unique experience - Quote]]

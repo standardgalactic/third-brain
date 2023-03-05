@@ -11,6 +11,7 @@
 - [[Tremendous results do not need tremendous force - The Power of Compounding]]
 - [[How to get admiration and respect]]
 - [[What may seem atrocious to you, may make sense to someone else]]
+- [[Aim to be reasonable, not rational]]
 
 ## Quotes
 - [[You never switch off from modern day work - Quote]]

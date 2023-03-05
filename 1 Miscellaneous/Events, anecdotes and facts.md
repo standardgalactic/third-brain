@@ -10,3 +10,5 @@
 	- [[Unluckiness of Kent Evans, best friend of Bill Gates]]
 - [[Multiple ice ages on Earth]]
 - [[Germany struggled to produce enough food after World War 2]]
+- [[Julius Wagner-Jauregg won the Nobel Prize in medicine in 1927]]
+- [[The weirdity of fevers]]
