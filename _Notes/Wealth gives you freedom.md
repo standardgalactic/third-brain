@@ -22,4 +22,4 @@
 ## Related notes
 - [[The Sense of Wellbeing in America, 1981 - Angus Campbell]]
 - [[Jonah Berger on feeling in control - Quote]]
-- [[Why people don't feel much happier even though we have more money]]
+- [[Why people do not feel much happier even though we have more money]]

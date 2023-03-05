@@ -1,6 +1,10 @@
 const config = {
   title: "Ayush Poddar - Knowledge Keeper",
   author: "Ayush Poddar",
-  contentInclude: ["_Notes", "_Quotes", "Home.md"]
+  contentExclude: [".smart-connections/*", "Readwise", "_Areas", "_Fleeting notes", "_Projects", "Templates", "Home.md"],
+  showToc: true,
+  search: {
+    provider: "kbar",
+  },
 };
 export default config;

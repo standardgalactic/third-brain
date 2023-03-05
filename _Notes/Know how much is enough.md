@@ -10,4 +10,4 @@
 - [[The Psychology of Money - Highlights]]
 
 ## Related Notes
-- [[Rajat Gupta - Who never had 'enough']]
+- [[Rajat Gupta - Who never had ENOUGH]]

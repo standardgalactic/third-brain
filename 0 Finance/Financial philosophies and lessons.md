@@ -1,12 +1,12 @@
 ## Behavioural principles
-- [[Finance is driven by people's behaviour]]
+- [[Finance is driven by people behaviour]]
 - [[Optimism for the future; paranoia about the short term]]
 - [[Case studies and broad patterns over individuals]]
 - [[Avoid social comparison]]
 
 ## Financial principles
 - [[Being financially consistent is more important than huge returns]]
-	- [[Tremendous results don't need tremendous force - The Power of Compounding]]
+	- [[Tremendous results do not need tremendous force - The Power of Compounding]]
 - [[Diversify your investments]]
 - [[Save More Money]]
 - [[Good investing is NOT about making good decisions]]
@@ -39,7 +39,7 @@
 - [[How do people generally make financial decisions]]
 - [[How to know how much is enough]]
 - [[Why should we save money]]
-- [[Why people don't feel much happier even though we have more money]]
+- [[Why people do not feel much happier even though we have more money]]
 - [[Why do investors sell at the bottom of a bear market]]
 
 ## Research
@@ -51,7 +51,7 @@
 
 ## Case studies
 - [[Ronald Read - Janitor who died a millionaire]]
-- [[Rajat Gupta - Who never had 'enough']]
+- [[Rajat Gupta - Who never had ENOUGH]]
 - [[Richard Fuscone - brilliant, but greedy]]
 - [[Jesse Livermore - Who earned when the Great Depression happened and then declined]]
 
