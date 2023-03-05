@@ -13,6 +13,6 @@
   "showLineNumber": true,
   "tabSize": 2,
   "trashOption": "local",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "newFileFolderPath": "_Notes"
 }
