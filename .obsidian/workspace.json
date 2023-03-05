@@ -147,7 +147,15 @@
             }
           },
           {
-            "id": "2e5ba53271c2c53a",
+            "id": "04625371c06e9a31",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d73ce5c3bb86241",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -155,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -163,20 +171,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "omnisearch:Omnisearch": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "5bc8ccf787404d9f",
+  "active": "1d73ce5c3bb86241",
   "lastOpenFiles": [
     "2 Science and technology/Industrial production.md",
     "2 Science and technology/Software engineering.md",
