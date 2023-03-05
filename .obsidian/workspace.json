@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "_Notes/How is steel produced.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "_Notes/How is steel produced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "_Notes/How is steel produced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "_Notes/How is steel produced.md"
               }
             }
           },
@@ -178,10 +178,16 @@
   },
   "active": "5bc8ccf787404d9f",
   "lastOpenFiles": [
-    "Finance.md",
+    "2 Science and technology/Industrial production.md",
+    "2 Science and technology/Software engineering.md",
+    "Readwise/Articles/(Done) Why Are India’s Cities in Such a Mess - Highlights.md",
+    "_Quotes/Dont risk everything in pursuit of wealth - Quote.md",
+    "_Notes/Diversify your investments.md",
     "0 Finance/Financial philosophies and lessons.md",
-    "1 Miscellaneous/Politics and governance.md",
+    "_Notes/Ruby triple equal operator.md",
     "Home.md",
+    "Finance.md",
+    "1 Miscellaneous/Politics and governance.md",
     "_Notes/Appreciate the role of luck.md",
     "Readwise/Articles/A Brief History of Divestments.md",
     "_Areas/Fitness/Before a workout.md",
@@ -199,12 +205,6 @@
     "Readwise/Articles/Sunny Side Up_ 2022’s Fav Words, Taj Mahal’s Taxes and Gift Cards by Finshots.md",
     "Readwise/Articles/Sunny Side Up Yezdi’s, New Year’s Resolutions & Daydreams - Highlights.md",
     "Readwise/Articles/Sunny Side Up Dhobis in Malls & the Everything Goes to Sh!t Financial Plan! - Highlights.md",
-    "2 Science and technology/Software engineering.md",
-    "Readwise/Articles/Unnamed Document - Highlights.md",
-    "Readwise/Articles/Regex for Lazy Developers - Highlights.md",
-    "Readwise/Articles/Getting Started With Reader.md",
-    "Readwise/Articles/Fwd Groww’s Curious U-Turn on Fixed Deposits.md",
-    "Readwise/Articles/AI Markets for Lemons, and the Great Logging Off.md",
     "2 Science and technology",
     "_Quotes",
     "Assets/Depression babies.pdf",
