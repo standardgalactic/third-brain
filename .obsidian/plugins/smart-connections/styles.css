@@ -1,0 +1,63 @@
+.sc-list .tree-item-self {
+  cursor: pointer;
+}
+.sc-list .tree-item-self small {
+  color: var(--color-gray-40);
+}
+.sc-brand {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: var(--titlebar-background);
+}
+.sc-brand > svg, .sc-brand > p {
+  display: inline;
+  margin: 0 0.1rem 0 0.3rem;
+  font-size: 0.77rem;
+  line-height: 1;
+  color: var(--tab-text-color-focused-active-current);
+  height: 0.88rem;
+  width: auto;
+}
+.sc-context {
+  color: var(--nav-item-color);
+  font-size: var(--nav-item-size);
+  margin: 0.5em 0.5em 1em;
+}
+.sc-list > .sc-collapsed ul {
+  display: none;
+}
+.sc-list > .sc-collapsed span svg {
+  transform: rotate(-90deg);
+}
+.sc-list > :not(.sc-collapsed) span svg {
+  transform: rotate(0deg);
+}
+.sc-list > div span svg {
+  height: auto;
+  margin: auto 0.5em auto 0;
+  flex: none;
+}
+.sc-list > div > span {
+  display: inline-flex;
+  width: 100%;
+}
+.sc-list > div > ul {
+  margin: 0;
+}
+.sc-list > div > a {
+  display: block;
+}
+.sc-list > div > ul > li {
+  display: block;
+}
+
+.sc-top-bar button {
+  position: fixed;
+  right: 1.33em;
+  top: 1.33em;
+}
+.sc-top-bar .search-input-container {
+  width: calc(100% - var(--size-4-8));
+  margin: 4px auto;
+}

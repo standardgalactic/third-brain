@@ -1,0 +1,16 @@
+{
+  "api_key": "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",
+  "file_exclusions": "",
+  "folder_exclusions": "Assets, Readwise, Templates",
+  "header_exclusions": "",
+  "path_only": "",
+  "show_full_path": false,
+  "expanded_view": true,
+  "log_render": false,
+  "log_render_files": false,
+  "skip_sections": false,
+  "results_count": 30,
+  "view_open": true,
+  "version": "1.2.8",
+  "failed_files": []
+}

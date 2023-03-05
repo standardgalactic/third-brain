@@ -92,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/A Brief History of Divestments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/A Brief History of Divestments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readwise/Articles/A Brief History of Divestments.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,21 +163,27 @@
               "type": "ObsiDOOM Side Panel",
               "state": {}
             }
+          },
+          {
+            "id": "04f3a8a401775c0f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "dangerzone-writing-plugin:Dangerzone Writing": false,
       "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -192,8 +194,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "02454cde66cf9339",
+  "active": "04f3a8a401775c0f",
   "lastOpenFiles": [
+    "1 Miscellaneous/Events, anecdotes and facts.md",
     "Readwise/Articles/A Brief History of Divestments - Highlights.md",
     "Readwise/Articles/A Brief History of Divestments.md",
     "Readwise/Books/The Psychology of Money - Highlights.md",
@@ -219,7 +222,6 @@
     "_Notes/Vim Expression Register - Calculator in Vim.md",
     "_Notes/Substituting text while reviewing all change at once.md",
     "_Notes/Using git rebase onto.md",
-    "_Notes/Changing older or multiple commits - using rebase.md",
     "2 Science and technology",
     "_Quotes",
     "Assets/Depression babies.pdf",
