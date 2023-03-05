@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Books/The Psychology of Money - Highlights.md",
+                "file": "Readwise/Articles/A Brief History of Divestments.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Books/The Psychology of Money - Highlights.md",
+                "file": "Readwise/Articles/A Brief History of Divestments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Books/The Psychology of Money - Highlights.md",
+                "file": "Readwise/Articles/A Brief History of Divestments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Books/The Psychology of Money - Highlights.md"
+                "file": "Readwise/Articles/A Brief History of Divestments.md"
               }
             }
           },
@@ -194,6 +194,9 @@
   },
   "active": "02454cde66cf9339",
   "lastOpenFiles": [
+    "Readwise/Articles/A Brief History of Divestments - Highlights.md",
+    "Readwise/Articles/A Brief History of Divestments.md",
+    "Readwise/Books/The Psychology of Money - Highlights.md",
     "Readwise/Articles/Regex for Lazy Developers - DEV Community - Highlights.md",
     "Readwise/Articles/The Silent Crisis of Light Pollution - Highlights.md",
     "Readwise/Articles/The Real Story Behind the Villain That’s India’s Population - Highlights.md",
@@ -209,8 +212,6 @@
     "Readwise/Articles/A Tax-Saver With Many Strings Attached - Highlights.md",
     "Readwise/Articles/A Tax-Saver With Many Strings Attached by.md",
     "Readwise/Articles/A Court Case That Could Change the Internet Forever - Highlights.md",
-    "Readwise/Articles/A Brief History of Divestments.md",
-    "Readwise/Articles/A Brief History of Divestments - Highlights.md",
     "Readwise/Articles/(Done) Why Are India’s Cities in Such a Mess - Highlights.md",
     "_Projects/Blogs/Things I have learnt at CLARK.md",
     "_Projects/Blogs/0 Map of Contents - Blogs.md",
@@ -219,7 +220,6 @@
     "_Notes/Substituting text while reviewing all change at once.md",
     "_Notes/Using git rebase onto.md",
     "_Notes/Changing older or multiple commits - using rebase.md",
-    "_Notes/Change the last commit.md",
     "2 Science and technology",
     "_Quotes",
     "Assets/Depression babies.pdf",
