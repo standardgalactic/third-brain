@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/How is steel produced.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/How is steel produced.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/How is steel produced.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/How is steel produced.md"
+                "file": "Home.md"
               }
             }
           },
@@ -184,8 +184,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1d73ce5c3bb86241",
+  "active": "5bc8ccf787404d9f",
   "lastOpenFiles": [
+    "index.md",
+    "_Areas/Fitness/0 Map of Contents - Fitness.md",
+    "_Notes/How is steel produced.md",
+    "config.js",
     "2 Science and technology/Industrial production.md",
     "2 Science and technology/Software engineering.md",
     "Readwise/Articles/(Done) Why Are India’s Cities in Such a Mess - Highlights.md",
@@ -210,9 +214,6 @@
     "Readwise/Articles/Regex for Lazy Developers - DEV Community - Highlights.md",
     "Readwise/Articles/The Silent Crisis of Light Pollution - Highlights.md",
     "Readwise/Articles/The Real Story Behind the Villain That’s India’s Population - Highlights.md",
-    "Readwise/Articles/Sunny Side Up_ 2022’s Fav Words, Taj Mahal’s Taxes and Gift Cards by Finshots.md",
-    "Readwise/Articles/Sunny Side Up Yezdi’s, New Year’s Resolutions & Daydreams - Highlights.md",
-    "Readwise/Articles/Sunny Side Up Dhobis in Malls & the Everything Goes to Sh!t Financial Plan! - Highlights.md",
     "2 Science and technology",
     "_Quotes",
     "Assets/Depression babies.pdf",
@@ -221,7 +222,6 @@
     "10-19 Miscellaneous/10 Facts",
     "1 Miscellaneous",
     "00-09 Finance/00 General philosophies",
-    "0 Finance",
     "Readwise/Articles/Untitled.canvas"
   ]
 }

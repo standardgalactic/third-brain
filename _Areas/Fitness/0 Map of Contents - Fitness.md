@@ -14,7 +14,3 @@
 - [[Hybrid Routine - Alternative]]
 - [[Exercises with progression]]
 - [[Alternatives to pullups]]
-
-## Stories
-
-## Quotes - <This should link to a page>
