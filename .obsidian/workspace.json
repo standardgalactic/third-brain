@@ -21,6 +21,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "2be62805f246a97a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cf319b7feaad85e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Finance/Financial philosophies and lessons.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,15 +166,7 @@
             }
           },
           {
-            "id": "813d82c99682678e",
-            "type": "leaf",
-            "state": {
-              "type": "ObsiDOOM Side Panel",
-              "state": {}
-            }
-          },
-          {
-            "id": "04f3a8a401775c0f",
+            "id": "2e5ba53271c2c53a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -163,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -186,9 +197,13 @@
   },
   "active": "5bc8ccf787404d9f",
   "lastOpenFiles": [
+    "Finance.md",
+    "0 Finance/Financial philosophies and lessons.md",
+    "1 Miscellaneous/Politics and governance.md",
+    "Home.md",
+    "_Notes/Appreciate the role of luck.md",
     "Readwise/Articles/A Brief History of Divestments.md",
     "_Areas/Fitness/Before a workout.md",
-    "Home.md",
     "netlify.toml",
     "_Areas/Fitness/Alternatives to pullups.md",
     "_Notes/Being rich is different from feeling rich.md",
@@ -209,10 +224,6 @@
     "Readwise/Articles/Getting Started With Reader.md",
     "Readwise/Articles/Fwd Groww’s Curious U-Turn on Fixed Deposits.md",
     "Readwise/Articles/AI Markets for Lemons, and the Great Logging Off.md",
-    "Readwise/Articles/A Tax-Saver With Many Strings Attached - Highlights.md",
-    "Readwise/Articles/A Tax-Saver With Many Strings Attached by.md",
-    "Readwise/Articles/A Court Case That Could Change the Internet Forever - Highlights.md",
-    "Readwise/Articles/(Done) Why Are India’s Cities in Such a Mess - Highlights.md",
     "2 Science and technology",
     "_Quotes",
     "Assets/Depression babies.pdf",

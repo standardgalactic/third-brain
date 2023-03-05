@@ -1,5 +1,10 @@
-My name is Ayush Poddar.
+The topics covered in these notes:
 
-Learn about Finances here:
-- [[0 Finance/Financial philosophies and lessons]]
+## Finance
+
 - [[0 Finance/Investments]]
+- [[0 Finance/Taxation]]
+
+## Science and technology
+- [[2 Science and technology/Climate change]]
+- [[]]
