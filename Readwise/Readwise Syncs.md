@@ -73,3 +73,6 @@
     - 9 highlights from Women’s Choice Between Savings and Investments to Gain Financial Freedom
     - 62 highlights from The Psychology of Money
 
+- [[2023-03-09]] 8:34 PM — Synced 26 highlights from 1 document.
+    - 26 highlights from The Psychology of Money
+

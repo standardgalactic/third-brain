@@ -16,6 +16,8 @@
 - [[Good plans plan on the plan not working]]
 	- [[Keep a margin of safety when planning]]
 - [[Grow your profits, cut your losses]]
+- [[History cannot be used to predict the future]]
+	- [[Experience leads to overconfidence more than forecasting ability]]
 
 ## Financial lessons for life
 - [[Being rich is different from feeling rich]]

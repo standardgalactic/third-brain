@@ -12,6 +12,9 @@
 - [[How to get admiration and respect]]
 - [[What may seem atrocious to you, may make sense to someone else]]
 - [[Aim to be reasonable, not rational]]
+- [[History cannot be used to predict the future]]
+	- [[What is history useful for?]]
+	- [[History can be used to predict future in case of hard sciences]]
 
 ## Quotes
 - [[You never switch off from modern day work - Quote]]

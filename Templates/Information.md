@@ -1,7 +1,7 @@
 
 
 ## Sources
-- [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
+- [[The Psychology of Money - Highlights]]
 
 ## Related Notes
 - 
