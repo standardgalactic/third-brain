@@ -5,22 +5,23 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 7612859,
+  "lastSavedStatusID": 7676797,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "20878540",
-    "22133844"
+    "22133844",
+    "16555583",
+    "16555584",
+    "16555575",
+    "16555578"
   ],
   "booksIDsMap": {
-    "Readwise/Books/Harry Potter and the Half-Blood Prince.md": "16555583",
     "Readwise/Books/Things to Make and Do in the Fourth Dimension.md": "16555582",
     "Readwise/Books/The Mom Test.md": "16555581",
     "Readwise/Books/Reality Is Broken.md": "16555580",
-    "Readwise/Books/Toba Tek Singh Aur Anya Kahaniyaan.md": "16555578",
     "Readwise/Books/How to Be Everything.md": "16555577",
     "Readwise/Books/Shoe Dog.md": "16555576",
-    "Readwise/Books/The Hitchhiker's Guide to the Galaxy Omnibus.md": "16555575",
     "Readwise/Books/Discovery of India.md": "16555573",
     "Readwise/Books/Money Wise.md": "16555572",
     "Readwise/Articles/Passages Saved From Android.md": "21061720",
@@ -58,7 +59,6 @@
     "Readwise/Articles/Ring Out the Old, Ring in the New Not So Fast - Highlights.md": "23695431",
     "Readwise/Articles/The Real Story Behind the Villain That’s India’s Population - Highlights.md": "23695474",
     "Readwise/Articles/Regex for Lazy Developers - Highlights.md": "23727325",
-    "Readwise/Books/Harry Potter and the Prisoner of Azkaban - Highlights.md": "16555584",
     "Readwise/Articles/Unnamed Document - Highlights.md": "23731915",
     "Readwise/Articles/Tax the Rich! - Highlights.md": "23840666",
     "Readwise/Articles/Amazon Is a Logistics Company - Highlights.md": "23840717",
@@ -80,7 +80,15 @@
     "Readwise/Articles/(Done) Why Is India Trying to Decarbonize Steel - Highlights.md": "21323219",
     "Readwise/Articles/Sunny Side Up Dhobis in Malls & the Everything Goes to Sh!t Financial Plan! - Highlights.md": "23373062",
     "Readwise/Articles/Sunny Side Up Yezdi’s, New Year’s Resolutions & Daydreams - Highlights.md": "23017451",
-    "Readwise/Articles/Regex for Lazy Developers - DEV Community - Highlights.md": "23727317"
+    "Readwise/Articles/Regex for Lazy Developers - DEV Community - Highlights.md": "23727317",
+    "Readwise/Articles/Computer Systems GE - Highlights.md": "25015193",
+    "Readwise/Articles/What Tech Companies Don’t Want You to Know About Layoffs - Highlights.md": "25076122",
+    "Readwise/Articles/The Byju’s Sales Pitch 2.0 - Highlights.md": "25076374",
+    "Readwise/Articles/Presumptive Tax (44AD, 44ADA and 44AB) Rule Changes in Budget 2023 - Highlights.md": "25076466",
+    "Readwise/Articles/Myntra's Missing Margins - Highlights.md": "25076579",
+    "Readwise/Articles/3 Things From the Blume Ventures Report - Highlights.md": "25081249",
+    "Readwise/Articles/Zomato's Blinkit Won’t Have an Easy Time Seizing Urban Company’s Home Turf - Highlights.md": "25081455",
+    "Readwise/Articles/Women’s Choice Between Savings and Investments to Gain Financial Freedom - Highlights.md": "25081535"
   },
   "reimportShowConfirmation": true
 }

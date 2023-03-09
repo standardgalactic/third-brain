@@ -62,3 +62,14 @@
 
 - [[2023-03-05]] 2:14 PM — Synced 0 highlights from 0 documents.
 
+- [[2023-03-09]] 8:06 PM — Synced 109 highlights from 9 documents.
+    - 1 highlights from Computer Systems GE
+    - 5 highlights from What Tech Companies Don’t Want You to Know About Layoffs
+    - 4 highlights from The Byju’s Sales Pitch 2.0
+    - 1 highlights from Presumptive Tax (44AD, 44ADA and 44AB) Rule Changes in Budget 2023
+    - 11 highlights from Myntra's Missing Margins
+    - 13 highlights from 3 Things From the Blume Ventures Report
+    - 3 highlights from Zomato's Blinkit Won’t Have an Easy Time Seizing Urban Company’s Home Turf
+    - 9 highlights from Women’s Choice Between Savings and Investments to Gain Financial Freedom
+    - 62 highlights from The Psychology of Money
+
