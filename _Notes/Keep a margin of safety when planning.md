@@ -11,6 +11,8 @@
 - Frugal budget
 - Flexible thinking
 - Loose timelines
+- Avoid single point of failures
+- Save money for the surprises that life will throw at you.
 
 ## Example of margin of safety
 - You could assume that the future returns you'll earn will be one-third of the historic average. This offers a margin of safety if you have a run of bad luck
@@ -25,3 +27,4 @@
 
 ## Related Notes
 - [[Good plans plan on the plan not working]] 
+- [[Save More Money]]
