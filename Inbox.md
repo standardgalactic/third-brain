@@ -1,5 +1,7 @@
 - Investors have different goals and time horizons.
 	- Prices that look ridiculous to one person can make sense to another, because the priorities for both of them are different.
+	- Everyone is playing their own game
+	- It is hard to grasp that other investors have different goals than we do, because an anchor of psychology is not realizing that rational people can see the world through a different lens than your own
 - If an asset is consistently moving up for a period of time *(has momentum)*, its not crazy for a short term trader to assume it will keep moving up.
 	- They don't need it to be moving up indefinitely, just for the short time that they will be invested *(typically a day to few weeks)*
 	- Even if an asset is over-valued, that is not a concern for a short-term trader since they just need it to move up slightly.
@@ -9,4 +11,21 @@
 	- As more short-term traders are attracted by the momentum of the asset, the valuation of the asset keeps going up - *feeding the momentum*.
 	- This leads to over-valuation of an asset and hence, bubbles forming.
 - **When do bubbles do the damage?**
-	- When long-term investors start taking 
+	- When long-term investors start taking their cues from short-term investors
+- Understand your own time horizon and don't get persuaded by the actions and behaviors of people playing different games 
+---
+- The world, in general, tends to get better in the long run. Hence, optimism is the best bet.
+- Optimism is a belief that the odds of a good outcome are in your favor over time, even when there will be setbacks along the way. The simple idea that most people wake up in the morning trying to make things a little better and more productive than wake up looking to cause trouble is the foundation of optimism. It’s not complicated. It’s not guaranteed, either.
+- Pessimism sounds smarter and hence, is given more importance than optimism.
+	- It is the way humans have evolved.
+	- When directly compared or weighed against each other, losses loom larger than gains.
+	- Progress happens slowly. Setbacks happen too quickly to ignore
+- Extremely good or bad circumstances rarely stay that way for long because the market (supply and demand) adapt in hard-to-predict ways to bring everything near balance.
+- The more we want something to be true, the more likely we are to believe a story that overestimates the odds of it being true.
+	- This is a big risk.
+	- Sometimes, we want something to be true so badly that even the worst potential outcome in our head is far from reality.
+---
+- We don't understand most of how the world works.
+	- To counter this, we come up with an explanation that makes sense based on our own unique perspective and experience.
+	- We tell ourselves stories to fill in the gaps.
+- We want to constantly make sense of the complicated world we live in.
