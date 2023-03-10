@@ -1,8 +1,12 @@
-- Sunk costs—anchoring decisions to past efforts that can’t be refunded—are a devil in a world where people change over time. They make our future selves prisoners to our past, different, selves. It’s the equivalent of a stranger making major life decisions for you.
-	- financial goals made when you were a different person should be abandoned without mercy versus put on life support and dragged on can be a good strategy to minimize future regret.
----
-- successful investing demands a price. The price is volatility, fear, doubt, uncertainty, and regret—all of which are easy to overlook until you’re dealing with them in real time.
-- **Example**: the bigger the returns, the higher the price. Netflix stock returned more than 35,000% from 2002 to 2018, but traded below its previous all-time high on 94% of days. Monster Beverage returned 319,000% from 1995 to 2018—among the highest returns in history—but traded below its previous high 95% of the time during that period.
-- The price of investing success is not immediately obvious. It’s not a price tag you can see, so when the bill comes due it doesn’t feel like a fee for getting something good. It feels like a fine for doing something wrong.
-	- The natural response for anyone who watches their wealth decline and views that drop as a fine is to avoid future fines.
-	- thinking of market volatility as a fee rather than a fine is an important part of developing the kind of mindset that lets you stick around long enough for investing gains to work in your favor. Few investors have the disposition to say, “I’m actually fine if I lose 20% of my money.”
+- Investors have different goals and time horizons.
+	- Prices that look ridiculous to one person can make sense to another, because the priorities for both of them are different.
+- If an asset is consistently moving up for a period of time *(has momentum)*, its not crazy for a short term trader to assume it will keep moving up.
+	- They don't need it to be moving up indefinitely, just for the short time that they will be invested *(typically a day to few weeks)*
+	- Even if an asset is over-valued, that is not a concern for a short-term trader since they just need it to move up slightly.
+	- However, a long-term investor would find it ridiculous to invest in such an asset
+- **How to bubbles form?**
+	- When the momentum of short-term returns attracts enough money that the makeup of investors shifts to mostly short-term.
+	- As more short-term traders are attracted by the momentum of the asset, the valuation of the asset keeps going up - *feeding the momentum*.
+	- This leads to over-valuation of an asset and hence, bubbles forming.
+- **When do bubbles do the damage?**
+	- When long-term investors start taking 

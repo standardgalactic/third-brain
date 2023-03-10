@@ -33,158 +33,26 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fb64ffc6b0f26d2c",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d18ac1d4efbff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Experience leads to overconfidence more than forecasting ability.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffdc63b4f0194012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/How should history be used to take financial decisions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9df78c21bc7e266",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Why do tail events have such immense impact.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27ea27133a80c042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/History cannot be used to predict the future.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2522a0897b03af03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4c37a0c9a0fef45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Avoid sunk costs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cc5878d4ddb48b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Dealing with end of history illusion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf0641df0809624e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/The world is full of surprises.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a3df45553c2ec8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "032e4e47dbdd9506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Keep a margin of safety when planning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a50f6b95947614f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Warren Buffet search for replacement.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Avoid sunk costs.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Avoid sunk costs.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -280,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Avoid sunk costs.md"
+                "file": "Inbox.md"
               }
             }
           },
@@ -336,12 +204,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,22 +225,26 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d4c37a0c9a0fef45",
+  "active": "a50f6b95947614f6",
   "lastOpenFiles": [
-    "0 Finance/Financial philosophies and lessons.md",
-    "_Notes/Avoid sunk costs.md",
-    "_Notes/Dealing with end of history illusion.md",
+    "Readwise/Books/The Psychology of Money - Highlights.md",
     "Inbox.md",
-    "1 Miscellaneous/Life Philosophies.md",
-    "_Notes/The End of History Illusion.md",
-    "_Quotes/Daniel Gilbert on End of History Illusion - Quote.md",
     "_Notes/Warren Buffet search for replacement.md",
     "_Notes/Keep a margin of safety when planning.md",
+    "0 Finance/Financial philosophies and lessons.md",
     "_Notes/The world is full of surprises.md",
+    "_Notes/Dealing with end of history illusion.md",
+    "_Notes/Experience leads to overconfidence more than forecasting ability.md",
+    "_Notes/How should history be used to take financial decisions.md",
+    "_Notes/Why do tail events have such immense impact.md",
+    "_Notes/History cannot be used to predict the future.md",
+    "_Notes/The price of successful investing.md",
+    "1 Miscellaneous/Life Philosophies.md",
+    "_Notes/Avoid sunk costs.md",
+    "_Notes/The End of History Illusion.md",
+    "_Quotes/Daniel Gilbert on End of History Illusion - Quote.md",
     "_Notes/The most dangerous risks - Surprises of life.md",
     "1 Miscellaneous/Events, anecdotes and facts.md",
-    "_Notes/Experience leads to overconfidence more than forecasting ability.md",
-    "Readwise/Books/The Psychology of Money - Highlights.md",
     "_Notes/Not all risks are worth it.md",
     "_Quotes/Dont risk everything in pursuit of wealth - Quote.md",
     "_Notes/Good plans plan on the plan not working.md",
@@ -382,10 +253,6 @@
     "0 Finance/Taxation.md",
     "1 Miscellaneous/Politics and governance.md",
     "2 Science and technology/Climate change.md",
-    "2 Science and technology/Industrial production.md",
-    "2 Science and technology/Software engineering.md",
-    "_Notes/How should history be used to take financial decisions.md",
-    "_Notes/Why do tail events have such immense impact.md",
     "Assets/Pasted image 20230305194829.png",
     "Assets/Pasted image 20230305194609.png",
     "Assets/Pasted image 20230305194502.png",

@@ -19,6 +19,7 @@
 	- [[History can be used to predict future in case of hard sciences]]
 	- [[The world is full of surprises]]
 - [[The End of History Illusion]]
+	- [[Avoid sunk costs]]
 
 ## Quotes
 - [[You never switch off from modern day work - Quote]]
