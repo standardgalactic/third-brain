@@ -15,6 +15,7 @@
 - [[History cannot be used to predict the future]]
 	- [[What is history useful for?]]
 	- [[History can be used to predict future in case of hard sciences]]
+	- [[The world is full of surprises]]
 
 ## Quotes
 - [[You never switch off from modern day work - Quote]]
