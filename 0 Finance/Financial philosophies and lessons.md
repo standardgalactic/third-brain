@@ -39,6 +39,8 @@
 - [[Wealth gives you freedom]]
 - [[Wealth does not get you admiration and respect]]
 	- [[How to get admiration and respect]]
+- [[Dealing with end of history illusion]]
+- [[Avoid sunk costs]]
 
 ## Others
 - [[Be more forgiving - topic of finance is new]]
