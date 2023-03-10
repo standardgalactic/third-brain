@@ -1,7 +1,5 @@
-- Investors have different goals and time horizons.
-	- Prices that look ridiculous to one person can make sense to another, because the priorities for both of them are different.
-	- Everyone is playing their own game
-	- It is hard to grasp that other investors have different goals than we do, because an anchor of psychology is not realizing that rational people can see the world through a different lens than your own
+- It is hard to grasp that other investors have different goals than we do, because an anchor of psychology is not realizing that rational people can see the world through a different lens than your own
+- Nobody can tell you what to do with your money unless they know your goals, your priorities, your emotional endurance, etc.
 - If an asset is consistently moving up for a period of time *(has momentum)*, its not crazy for a short term trader to assume it will keep moving up.
 	- They don't need it to be moving up indefinitely, just for the short time that they will be invested *(typically a day to few weeks)*
 	- Even if an asset is over-valued, that is not a concern for a short-term trader since they just need it to move up slightly.
@@ -29,3 +27,19 @@
 	- To counter this, we come up with an explanation that makes sense based on our own unique perspective and experience.
 	- We tell ourselves stories to fill in the gaps.
 - We want to constantly make sense of the complicated world we live in.
+	- We like to have the illusion of predictability since we have an emotional itch to believe that we are in control.
+	- We can be in control in fields of precision.
+		- NASA’s New Horizons spacecraft passed by Pluto two years ago. It was a three-billion mile trip that took nine and a half years. According to NASA, the trip “took about one minute less than predicted when the craft was launched in January 2006."
+		- It isn't impacted by human behaviour and emotions. These cannot be explained with mathematics like a trip to Pluto can.
+- The world is dictated by unforeseen events. Hence forecasts may do more harm than good since we can never predict these big events.
+---
+- Wealth is created by suppressing what you could buy today in order to have more stuff or options in the future.
+- Time is more powerful force in investing. It makes little things grow and big mistakes fade away.
+- Always look at your portfolio as a whole, rather than individual investments when trying to assess your investment profile.
+	- It is expected to have large chunk of poor investments and a few outstanding ones.
+- When dealing with complicated and emotional issues, there is no one right answer. There's only what works for you and your family that leaves you sleeping well at night.
+	- Hence, it is not necessarily a bad thing when there is a difference between what someone suggests you do and what they do for themselves.
+- Don't try to outperform the market if you can meet all your goals without having to take the added risk that comes from trying to outperform.
+- There is little correlation between investing effort and results since the world is driven by [[Small number of events account for majority of outcomes - Tail events|tails]].
+	- You won't do well if you miss that 2-3 things that move the needle.
+	- Simple investment strategies work great as long as they capture the few things that are important to that strategy's success.

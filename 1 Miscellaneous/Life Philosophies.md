@@ -13,6 +13,7 @@
 - [[Tremendous results do not need tremendous force - The Power of Compounding]]
 - [[How to get admiration and respect]]
 - [[What may seem atrocious to you, may make sense to someone else]]
+- [[Everyone is playing a different game]]
 - [[Aim to be reasonable, not rational]]
 - [[History cannot be used to predict the future]]
 	- [[What is history useful for?]]

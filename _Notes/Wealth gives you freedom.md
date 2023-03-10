@@ -5,6 +5,7 @@
 	- And for as long as you want to
 - Money can give you control over your time
 	- Doing something on a schedule you can't control in order to earn more money is just <u>not worth it</u>
+- It doesn't necessarily mean that you'll stop working
 
 ## Value of wealth
 - The value of wealth lies in offering us with options, flexibility and growth.

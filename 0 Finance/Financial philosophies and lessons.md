@@ -21,7 +21,7 @@
 - [[History cannot be used to predict the future]]
 	- [[Experience leads to overconfidence more than forecasting ability]]
 	- [[How should history be used to take financial decisions]]
-- [[The price of successful investing]]
+- [[The price of successful investing]]j
 
 ## Financial lessons for life
 - [[Being rich is different from feeling rich]]
