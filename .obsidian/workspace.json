@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
+                "file": "Readwise/Books/The Psychology of Money - Highlights.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,8 +116,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a3df45553c2ec8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,12 +168,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "fd7bc6c68a3f606e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "7cdf0d47f41af4b3",
@@ -259,8 +282,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,7 +295,7 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "command-palette:Open command palette": true,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -284,14 +306,22 @@
   },
   "active": "64a468d05de1232c",
   "lastOpenFiles": [
+    "Inbox.md",
+    "Readwise/Books/The Psychology of Money - Highlights.md",
     "0 Finance/Financial philosophies and lessons.md",
+    "0 Finance/Investments.md",
+    "0 Finance/Taxation.md",
+    "1 Miscellaneous/Events, anecdotes and facts.md",
+    "1 Miscellaneous/Life Philosophies.md",
+    "1 Miscellaneous/Politics and governance.md",
+    "2 Science and technology/Climate change.md",
+    "2 Science and technology/Industrial production.md",
+    "2 Science and technology/Software engineering.md",
     "_Notes/How should history be used to take financial decisions.md",
     "_Notes/Experience leads to overconfidence more than forecasting ability.md",
     "_Notes/Why do tail events have such immense impact.md",
     "_Notes/History cannot be used to predict the future.md",
-    "1 Miscellaneous/Life Philosophies.md",
     "_Notes/The world is full of surprises.md",
-    "Readwise/Books/The Psychology of Money - Highlights.md",
     "_Notes/History can be used to predict future in case of hard sciences.md",
     "_Notes/What is history useful for?.md",
     "Templates/Information.md",
@@ -302,14 +332,6 @@
     "Readwise/Books/Shoe Dog.md",
     "Readwise/Books/Reality Is Broken.md",
     "Readwise/Books/Money Wise.md",
-    "Readwise/Books/How to Be Everything.md",
-    "Readwise/Books/Harry Potter and the Prisoner of Azkaban - Highlights.md",
-    "Readwise/Books/Harry Potter and the Half-Blood Prince.md",
-    "Readwise/Articles/Women’s Choice Between Savings and Investments to Gain Financial Freedom - Highlights.md",
-    "Readwise/Articles/Zomato's Blinkit Won’t Have an Easy Time Seizing Urban Company’s Home Turf - Highlights.md",
-    "Readwise/Articles/3 Things From the Blume Ventures Report - Highlights.md",
-    "Readwise/Articles/Myntra's Missing Margins - Highlights.md",
-    "Readwise/Articles/Presumptive Tax (44AD, 44ADA and 44AB) Rule Changes in Budget 2023 - Highlights.md",
     "Assets/Pasted image 20230305194829.png",
     "Assets/Pasted image 20230305194609.png",
     "Assets/Pasted image 20230305194502.png",

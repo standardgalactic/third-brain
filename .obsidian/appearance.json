@@ -2,5 +2,7 @@
   "theme": "moonstone",
   "cssTheme": "Things",
   "baseFontSize": 14,
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": true,
+  "translucency": true
 }

@@ -89,5 +89,23 @@
   ],
   "convert-url-to-iframe:url-to-iframe": [],
   "table-editor-obsidian:table-control-bar": [],
-  "dangerzone-writing-plugin:dangerzone-session-start": []
+  "dangerzone-writing-plugin:dangerzone-session-start": [],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ]
 }

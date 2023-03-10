@@ -14,5 +14,6 @@
   "tabSize": 2,
   "trashOption": "local",
   "newLinkFormat": "shortest",
-  "newFileFolderPath": "_Notes"
+  "newFileFolderPath": "_Notes",
+  "defaultViewMode": "source"
 }

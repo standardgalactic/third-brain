@@ -13,9 +13,9 @@
   "command-palette",
   "slash-command",
   "editor-status",
+  "starred",
   "random-note",
   "outline",
-  "word-count",
   "audio-recorder",
   "file-recovery"
 ]

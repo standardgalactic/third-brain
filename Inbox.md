@@ -1,0 +1,3 @@
+- Uncertainty, randomness and chance are always part of life. They are the "unknowns"
+- **Margin of safety:** You can deal with them by keeping a margin of safety. Always account for the worst case scenario so that you can survive to fight another day when the odds go against you
+	- The world is governed by odds, not certainties. Forecasting with precision is hard.
