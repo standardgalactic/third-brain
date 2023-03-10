@@ -21,13 +21,12 @@
 - [[History cannot be used to predict the future]]
 	- [[Experience leads to overconfidence more than forecasting ability]]
 	- [[How should history be used to take financial decisions]]
-- [[The price of successful investing]]j
+- [[The price of successful investing]]
 
 ## Financial lessons for life
 - [[Being rich is different from feeling rich]]
 	- [[Staying wealthy is different than getting wealthy]]
 	- [[How to stay wealthy]]
-		- [[Learn to stay wealthy from Warren Buffet]]
 - [[Wealth is generally hidden]]
 - [[Keep the goalpost constant]]
 	- [[Risk with a moving goalpost]]
@@ -52,6 +51,7 @@
 - [[Why should we save money]]
 - [[Why people do not feel much happier even though we have more money]]
 - [[Why do investors sell at the bottom of a bear market]]
+- [[Everyone is playing a different game]]
 
 ## Research
 - [[Depression Babies - Do Macro-economic Experiences Affect Risk-Taking]]
