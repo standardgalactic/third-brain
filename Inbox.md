@@ -1,3 +1,27 @@
 - Uncertainty, randomness and chance are always part of life. They are the "unknowns"
 - **Margin of safety:** You can deal with them by keeping a margin of safety. Always account for the worst case scenario so that you can survive to fight another day when the odds go against you
 	- The world is governed by odds, not certainties. Forecasting with precision is hard.
+- Room for error lets you endure a range of potential outcomes, and endurance lets you stick around long enough to let the odds of benefiting from a low-probability outcome fall in your favor.
+- It also lets us endure volatility. Having a gap between what you can technically endure versus what’s emotionally possible is an overlooked version of room for error.
+- For example, you could assume that the future returns you'll earn will be one-third of the historic average. This offers a margin of safety if you have a run of bad luck
+- No risk is worth it if it can wipe you out, even if the odds are heavily stacked in your favor. You need to survive to fight another day when the odds are against you.
+- The most dangerous risks are the ones which were too crazy to cross your mind and you have no plan on how to deal with them.
+	- 2006 Warren Buffett announced a search for his eventual replacement. He said he needed someone “genetically programmed to recognize and avoid serious risks, including those never before encountered.”
+- Avoid single point of failures. 
+- Save money for the surprises that life will throw at you.
+---
+- Your desires and dreams will change with time.
+- **The End of History Illusion**: Tendency for people to be keenly aware of how much they’ve changed in the past, but to underestimate how much their personalities, desires, and goals are likely to change in the future.
+> At every stage of our lives we make decisions that will profoundly influence the lives of the people we’re going to become, and then when we become those people, we’re not always thrilled with the decisions we made. So young people pay good money to get tattoos removed that teenagers paid good money to get. Middle-aged people rushed to divorce people who young adults rushed to marry. Older adults work hard to lose what middle-aged adults worked hard to gain. On and on and on.
+> - Daniel Gilbert, Harvard Psychologist
+- Avoid extreme ends of financial planning.
+	- Assuming you’ll be happy with a very low income, or choosing to work endless hours in pursuit of a high one, increases the odds that you’ll one day find yourself at a point of regret.
+	- Compounding works best when it gets time. This is true for finance, careers and relationships. Balance at every point becomes a strategy to avoid future regret and encourage endurance.
+- Sunk costs—anchoring decisions to past efforts that can’t be refunded—are a devil in a world where people change over time. They make our future selves prisoners to our past, different, selves. It’s the equivalent of a stranger making major life decisions for you.
+	- financial goals made when you were a different person should be abandoned without mercy versus put on life support and dragged on can be a good strategy to minimize future regret.
+---
+- successful investing demands a price. The price is volatility, fear, doubt, uncertainty, and regret—all of which are easy to overlook until you’re dealing with them in real time.
+- **Example**: the bigger the returns, the higher the price. Netflix stock returned more than 35,000% from 2002 to 2018, but traded below its previous all-time high on 94% of days. Monster Beverage returned 319,000% from 1995 to 2018—among the highest returns in history—but traded below its previous high 95% of the time during that period.
+- The price of investing success is not immediately obvious. It’s not a price tag you can see, so when the bill comes due it doesn’t feel like a fee for getting something good. It feels like a fine for doing something wrong.
+	- The natural response for anyone who watches their wealth decline and views that drop as a fine is to avoid future fines.
+	- thinking of market volatility as a fee rather than a fine is an important part of developing the kind of mindset that lets you stick around long enough for investing gains to work in your favor. Few investors have the disposition to say, “I’m actually fine if I lose 20% of my money.”
