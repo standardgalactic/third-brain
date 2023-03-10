@@ -14,3 +14,4 @@
 - [[Germany struggled to produce enough food after World War 2]]
 - [[Julius Wagner-Jauregg won the Nobel Prize in medicine in 1927]]
 - [[The weirdity of fevers]]
+- [[Warren Buffet search for replacement]]

@@ -6,7 +6,7 @@
 - [[Keep the goalpost constant]]
 - [[The happiness equation]]
 - [[Avoid social comparison]]
-- [[Somethings are never worth risking]]
+- [[Not all risks are worth it]]
 - [[Appreciate the role of luck]]
 - [[Good plans plan on the plan not working]]
 - [[Small number of events account for majority of outcomes - Tail events]]
