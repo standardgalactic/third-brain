@@ -76,3 +76,5 @@
 - [[2023-03-09]] 8:34 PM — Synced 26 highlights from 1 document.
     - 26 highlights from The Psychology of Money
 
+- [[2023-03-11]] 12:50 PM — Synced 0 highlights from 0 documents.
+

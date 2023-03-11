@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/The riverine islands in Assam.md",
-                "mode": "source",
+                "file": "_Notes/The Climate Migrants (Protection and Rehabilitation) Bill - 2022.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -37,12 +37,9 @@
             "id": "4b381ce7aa009696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_Notes/The Climate Migrants (Protection and Rehabilitation) Bill - 2022.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Assets/Pasted image 20221017125021.png"
               }
             }
           },
@@ -60,26 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "d395d7b29fc24ace",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8e830e70abad5756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Articles/Why This Assam MP’s Doomed-to-Not-Pass Bill Could Still Hit a Home Run.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,15 +230,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4b381ce7aa009696",
+  "active": "0a56a8b2f8110e47",
   "lastOpenFiles": [
-    "Templates/Information.md",
-    "_Notes/The Climate Migrants (Protection and Rehabilitation) Bill - 2022.md",
-    "_Notes/Pradyut Bordoloi.md",
     "_Notes/The riverine islands in Assam.md",
+    "Assets/Pasted image 20221017125021.png",
+    "_Notes/The Climate Migrants (Protection and Rehabilitation) Bill - 2022.md",
+    "Readwise/Articles/(Done) Why This Assam MP’s Doomed-to-Not-Pass Bill Could Still Hit a Home Run.md",
+    "Readwise/Articles/Apple’s Momentous Sideloading Decision Won’t Be a Cure-All.md",
+    "Templates/Information.md",
+    "_Notes/Pradyut Bordoloi.md",
     "1 Miscellaneous/Politics and governance.md",
     "2 Science and technology/Climate change.md",
-    "Readwise/Articles/Why This Assam MP’s Doomed-to-Not-Pass Bill Could Still Hit a Home Run.md",
     "Readwise/Articles/Passages Saved From Android.md",
     "Readwise/Articles/3 Things From the Blume Ventures Report - Highlights.md",
     "Readwise/Books/(Done) The Psychology of Money - Highlights.md",
@@ -278,8 +258,6 @@
     "_Notes/How to stay wealthy.md",
     "_Notes/Learn to stay wealthy from Warren Buffet.md",
     "_Notes/Staying wealthy.md",
-    "_Notes/Staying wealthy is different than getting wealthy.md",
-    "_Notes/History can be used to predict future in case of hard sciences.md",
     "Assets/Pasted image 20230305194829.png",
     "Assets/Pasted image 20230305194609.png",
     "Assets/Pasted image 20230305194502.png",

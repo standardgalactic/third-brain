@@ -6,6 +6,7 @@
 - Author: [[Green Margins by The Ken]]
 - Full Title: Why This Assam MP’s Doomed-to-Not-Pass Bill Could Still Hit a Home Run
 - Category: #articles
+- Article link: https://readwise.io/reader/shared/01gms4vfyrn4j1s0qkb1v3px3a
 
 ## Highlights
 - Pradyut Bordoloi, first-time MP from Assam, who served three terms as MLA in the Assam Legislative Assembly before that, has introduced a Private Members Bill in the ongoing session of the Parliament. ([View Highlight](https://read.readwise.io/read/01gmtfkj8sgsdbsbsd8y8h4y72))
@@ -17,3 +18,4 @@
 - India, Philippines, Bangladesh, and China top the list of countries that face maximum displacement due to climate change-induced natural disasters. ([View Highlight](https://read.readwise.io/read/01gmtfstyb4mgsxzek1cckez03))
 - ![](https://the-ken.com/wp-content/uploads/2022/12/Screenshot-2022-12-21-at-1.44.50-AM.png) ([View Highlight](https://read.readwise.io/read/01gmtfrqg19600kvfvhs37abh0))
 - Under present international laws, there are few legal options available to such migrants since it is not always possible to pin down climatic reasons as the primary cause of migration. As per the 1951 Refugee Convention, legal protection is afforded only to those fleeing their home “owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion”. ([View Highlight](https://read.readwise.io/read/01gmtfv81ey4a0n5971zhgvjy0))
+
