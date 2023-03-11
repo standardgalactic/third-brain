@@ -21,6 +21,9 @@
 	- [[The world is full of surprises]]
 - [[The End of History Illusion]]
 	- [[Avoid sunk costs]]
+- [[Everyone is playing a different game]]
+- [[Optimism is a good investing strategy]]
+- [[Beware of the story that we tell ourselves]]
 
 ## Quotes
 - [[You never switch off from modern day work - Quote]]

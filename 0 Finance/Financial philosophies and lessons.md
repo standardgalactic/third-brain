@@ -22,6 +22,7 @@
 	- [[Experience leads to overconfidence more than forecasting ability]]
 	- [[How should history be used to take financial decisions]]
 - [[The price of successful investing]]
+- [[Optimism is a good investing strategy]]
 
 ## Financial lessons for life
 - [[Being rich is different from feeling rich]]
@@ -41,6 +42,8 @@
 	- [[How to get admiration and respect]]
 - [[Dealing with end of history illusion]]
 - [[Avoid sunk costs]]
+- [[Do not get influenced by the actions of others]]
+- [[Beware of the story that we tell ourselves]]
 
 ## Others
 - [[Be more forgiving - topic of finance is new]]
@@ -52,6 +55,7 @@
 - [[Why people do not feel much happier even though we have more money]]
 - [[Why do investors sell at the bottom of a bear market]]
 - [[Everyone is playing a different game]]
+- [[Market bubbles]]
 
 ## Research
 - [[Depression Babies - Do Macro-economic Experiences Affect Risk-Taking]]

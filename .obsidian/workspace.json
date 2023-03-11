@@ -46,46 +46,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Miscellaneous/Life Philosophies.md",
+                "file": "_Notes/History cannot be used to predict the future.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "19a21a108751fcf5"
           },
           {
-            "id": "e6bdb26bcdaec400",
+            "id": "d97773c5e7091357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Everyone is playing a different game.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc7adbac0218f0f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0237c74b3fb17ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Everyone is playing a different game.md",
+                "file": "_Notes/We do not understand how the world works.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +68,49 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "bfe63f3c91121009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d65c7add9350fd3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_Notes/History cannot be used to predict the future.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "19a21a108751fcf5"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Everyone is playing a different game.md",
+                "file": "_Notes/We do not understand how the world works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Everyone is playing a different game.md",
+                "file": "_Notes/We do not understand how the world works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Everyone is playing a different game.md"
+                "file": "_Notes/We do not understand how the world works.md"
               }
             }
           },
@@ -249,7 +266,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,14 +284,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0237c74b3fb17ecb",
+  "active": "d97773c5e7091357",
   "lastOpenFiles": [
-    "0 Finance/Financial philosophies and lessons.md",
-    "_Notes/What may seem atrocious to you, may make sense to someone else.md",
-    "_Notes/Everyone is playing a different game.md",
     "Inbox.md",
+    "_Notes/We do not understand how the world works.md",
     "_Notes/History cannot be used to predict the future.md",
     "1 Miscellaneous/Life Philosophies.md",
+    "_Notes/Everyone is playing a different game.md",
+    "0 Finance/Financial philosophies and lessons.md",
+    "_Notes/Market bubbles.md",
+    "_Notes/Beware of the story that we tell ourselves.md",
+    "_Notes/Optimism is a good investing strategy.md",
+    "_Notes/Do not get influenced by the actions of others.md",
+    "_Notes/What may seem atrocious to you, may make sense to someone else.md",
     "_Notes/Wealth gives you freedom.md",
     "_Notes/Save More Money.md",
     "_Notes/Why should we save money.md",
@@ -289,11 +312,6 @@
     "_Notes/Avoid sunk costs.md",
     "_Notes/The End of History Illusion.md",
     "_Quotes/Daniel Gilbert on End of History Illusion - Quote.md",
-    "_Notes/The most dangerous risks - Surprises of life.md",
-    "1 Miscellaneous/Events, anecdotes and facts.md",
-    "_Notes/Not all risks are worth it.md",
-    "_Quotes/Dont risk everything in pursuit of wealth - Quote.md",
-    "_Notes/Good plans plan on the plan not working.md",
     "Assets/Pasted image 20230305194829.png",
     "Assets/Pasted image 20230305194609.png",
     "Assets/Pasted image 20230305194502.png",
