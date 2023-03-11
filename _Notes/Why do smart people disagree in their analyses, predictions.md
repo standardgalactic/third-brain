@@ -2,7 +2,7 @@
 - Every expert (smart person) has a unique world view owing to this. Hence, they disagree in their analyses, predictions, etc
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related notes
 - [[Everyone has a unique experience - Quote]]

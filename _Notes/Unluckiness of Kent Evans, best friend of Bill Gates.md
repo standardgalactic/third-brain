@@ -9,5 +9,5 @@
 - Every year there are around 3 dozen mountaineering deaths in the United States. [[Unluckiness of Kent Evans, best friend of Bill Gates#^fdc338|Source]]
 - The odds of being killed on a mountain in high school are roughly one in a million.
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 - "How Many People Die Rock Climbing?" The Rockulus. ^fdc338

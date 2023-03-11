@@ -13,7 +13,7 @@
 - Extremely good or bad circumstances rarely stay that way for long because the market (supply and demand) adapt in hard-to-predict ways to bring everything near balance.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Optimism for the future; paranoia about the short term]]

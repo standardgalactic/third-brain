@@ -4,7 +4,7 @@
 - However, it is imperative that we don't let it get to our head and destroy our lives
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Risk with a moving goalpost]]

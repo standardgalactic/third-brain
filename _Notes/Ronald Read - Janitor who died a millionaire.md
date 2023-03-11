@@ -17,7 +17,7 @@
 > [!success] He was patient
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related notes
 - [[Save More Money]]

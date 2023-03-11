@@ -3,7 +3,7 @@
 ^a1ddb5
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Small number of events account for majority of outcomes - Tail events]]

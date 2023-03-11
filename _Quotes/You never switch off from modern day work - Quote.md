@@ -5,4 +5,4 @@
 
 ## Sources
 - https://www.theatlantic.com/ideas/archive/2019/12/how-internet-enables-workaholism/602917/
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]

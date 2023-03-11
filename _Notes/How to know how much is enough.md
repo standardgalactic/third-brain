@@ -10,7 +10,7 @@ Spending beyond this (low level of materialism) is mostly a sign of ego approach
 ^8139c7
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Know how much is enough]]

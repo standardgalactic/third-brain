@@ -4,7 +4,7 @@
 		- This leads to us keeping a [[Keep a margin of safety when planning|margin of safety]] that just does not account for reality
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[History cannot be used to predict the future]]

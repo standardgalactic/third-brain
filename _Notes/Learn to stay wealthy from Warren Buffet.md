@@ -7,7 +7,7 @@
 - **HE SURVIVED!**
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[How to stay wealthy]]

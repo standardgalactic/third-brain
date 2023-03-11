@@ -3,6 +3,6 @@
 	- The agony of looking at your family and trying to secure their future holds much more weight
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related notes

@@ -23,7 +23,7 @@
 	- The odds of success is increased by expanding the scope of **what success means**
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Good plans plan on the plan not working]] 

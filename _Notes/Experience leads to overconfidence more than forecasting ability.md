@@ -12,7 +12,7 @@
 - They surprise us. We can **never be prepared enough for them**
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[History cannot be used to predict the future]]

@@ -7,4 +7,4 @@ When we see someone driving a nice expensive car, we rarely think that the "**gu
 Instead, we think that **"if I had that car people would think I'm cool"**
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]

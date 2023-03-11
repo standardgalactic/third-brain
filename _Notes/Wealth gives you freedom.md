@@ -18,7 +18,7 @@
 ![[Jonah Berger on feeling in control - Quote#^4feeea]]
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related notes
 - [[The Sense of Wellbeing in America, 1981 - Angus Campbell]]

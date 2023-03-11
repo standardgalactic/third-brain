@@ -4,7 +4,7 @@
 - Offer a rough guide of what works
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[History cannot be used to predict the future]] 

@@ -17,7 +17,7 @@
 > This is an important update to our mindset that will let us stick around long enough for investing gains to work in our favor. After this update, we should be able to say: "I'm actually fine if I lose 20% of my money". 
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - 

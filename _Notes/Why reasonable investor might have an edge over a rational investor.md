@@ -6,7 +6,7 @@
 - There are few financial variables more correlated to performance than commitment to a strategy during its lean years—both the amount of performance and the odds of capturing it over a given period of time. 
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Aim to be reasonable, not rational]]

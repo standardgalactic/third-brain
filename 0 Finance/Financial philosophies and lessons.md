@@ -71,7 +71,7 @@
 - [[Richard Fuscone - brilliant, but greedy]]
 - [[Jesse Livermore - Who earned when the Great Depression happened and then declined]]
 - [[Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable]]
-- [[Investing strategy of Morgan House]]
+- [[Investing strategy of Morgan Housel]]
 
 ## Quotes
 - [[Everyone has a unique experience - Quote]]

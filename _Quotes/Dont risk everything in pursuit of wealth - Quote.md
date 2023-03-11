@@ -2,4 +2,4 @@
 > Author: Warren Buffet
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]

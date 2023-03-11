@@ -7,7 +7,7 @@
 - Assuming you’ll be happy with a very low income, or choosing to work endless hours in pursuit of a high one, increases the odds that you’ll one day find yourself at a point of regret.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[The End of History Illusion]]

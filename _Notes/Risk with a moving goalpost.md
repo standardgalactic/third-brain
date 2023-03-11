@@ -2,7 +2,7 @@
 	- This equates to moving the goal post two steps ahead with every step you take
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Keep the goalpost constant]]

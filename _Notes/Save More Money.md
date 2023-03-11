@@ -11,7 +11,7 @@
 ![[How to know how much is enough#^8139c7]]
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Know how much is enough]]

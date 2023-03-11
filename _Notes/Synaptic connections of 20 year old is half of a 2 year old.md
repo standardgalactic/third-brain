@@ -2,4 +2,4 @@
 - In those 18 years, the body clears out the inefficient and redundant neural pathways.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]

@@ -3,7 +3,7 @@
 -   Your skills might become outdated or replaced my automation, saving money offers you flexibility
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Save More Money]]

@@ -11,7 +11,7 @@
 	- This is a good strategy to minimise future regret
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 - [https://en.wikipedia.org/wiki/Sunk_cost](https://en.wikipedia.org/wiki/Sunk_cost)
 
 ## Related Notes

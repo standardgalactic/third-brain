@@ -9,7 +9,7 @@
 - The [[Rajat Gupta - Who never had ENOUGH|example of Rajat Gupta]] shows that having no sense of "enough" can make you lose it all
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Rajat Gupta - Who never had ENOUGH]]

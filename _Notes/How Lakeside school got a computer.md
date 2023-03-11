@@ -6,4 +6,4 @@
 - Lakeside's computer wasn't part of general curriculum. It was an independent study program
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]

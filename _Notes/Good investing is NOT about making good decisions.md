@@ -1,7 +1,7 @@
 > [!note] Good investing isn't about making good decisions. It is about not consistently screwing up
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Good plans plan on the plan not working]]

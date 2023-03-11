@@ -19,4 +19,4 @@
 
 ## Sources
 - D. McDonald, "Rajat Gupta: Touched by scandal," Fortune (October 1, 2010). ^a8eba5
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]

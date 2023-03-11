@@ -19,7 +19,7 @@
 	- Simple investment strategies work great as long as they capture the few things that are important to that strategy's success.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Grow your profits, cut your losses]]

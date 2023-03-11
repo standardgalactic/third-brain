@@ -6,7 +6,7 @@
 Having a strong sense of controlling one's life is a more dependable predictor of positive feelings of wellbeing than any of the objective conditions (income, geography, education, etc.) ^97be27
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Wealth gives you freedom]]

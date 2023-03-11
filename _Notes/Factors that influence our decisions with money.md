@@ -10,4 +10,4 @@
 All of the above factors combine to create a unique experience for an individual.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]

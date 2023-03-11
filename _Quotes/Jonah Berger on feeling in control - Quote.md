@@ -6,6 +6,6 @@
 ^4feeea
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 - PDF: https://drive.google.com/open?id=1aLP6sBaoDSbBkXq3fyh9qfWjDaHF4pgT&authuser=ayush.mail.id%40gmail.com&usp=drive_fs
 - Link: https://www.wsj.com/articles/how-to-change-anyones-mind-11582301073

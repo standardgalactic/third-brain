@@ -10,7 +10,7 @@
 | ----                       | Past success cannot be relied upon to be repeatable      
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Being rich is different from feeling rich]]

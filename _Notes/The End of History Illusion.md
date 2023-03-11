@@ -3,7 +3,7 @@ A psychological illusion which results in tendency for people to be keenly aware
 > Dreams, desires, goals, likes, dislikes, etc. always change with time
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - 

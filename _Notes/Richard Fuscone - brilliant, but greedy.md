@@ -12,5 +12,5 @@
 > [!warning] He got greedy
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 - L. Thomas Jr., "The Tale of the $8 Million 'Bargain' House in Greenwich," The New York Times (January 25, 2014).

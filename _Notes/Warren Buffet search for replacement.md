@@ -3,7 +3,7 @@
 -  He said he needed someone “genetically programmed to recognize and avoid serious risks, including those never before encountered.” ^abb735
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - 

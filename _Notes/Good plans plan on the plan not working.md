@@ -8,7 +8,7 @@
 - The world is governed by odds, not certainties. Forecasting with precision is hard.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[History cannot be used to predict the future]] 

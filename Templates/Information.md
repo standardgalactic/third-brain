@@ -1,7 +1,9 @@
 
+## Attachments
+- 
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - 

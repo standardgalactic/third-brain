@@ -10,7 +10,7 @@
 - Don't try to outperform the market if you can meet all your goals without having to take the added risk that comes from trying to outperform.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Rajat Gupta - Who never had ENOUGH]]

@@ -3,4 +3,4 @@
 - Time is more powerful force in investing. It makes little things grow and big mistakes fade away.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]

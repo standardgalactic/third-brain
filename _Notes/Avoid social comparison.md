@@ -6,7 +6,7 @@
 	- Accept that you might have enough
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Modern capitalism keeps trying to push the goalpost]]

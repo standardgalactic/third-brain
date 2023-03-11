@@ -6,7 +6,7 @@
 - [PDF File](https://drive.google.com/open?id=1dgbDc12yMIcdObfjk-kNV6f5AYVzc2bB&authuser=ayush.mail.id%40gmail.com&usp=drive_fs)
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Appreciate the role of luck]]

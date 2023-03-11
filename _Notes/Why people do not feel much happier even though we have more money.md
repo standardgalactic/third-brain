@@ -13,7 +13,7 @@ And since [[Wealth gives you freedom#^8262f1|control over our time is such a key
 ![[30 Lessons for Living - Karl Pillemer#^62cbe6]]
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related notes
 - [[You never switch off from modern day work - Quote]]

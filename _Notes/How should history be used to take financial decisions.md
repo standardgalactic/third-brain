@@ -3,7 +3,7 @@
 - Specific trends, trades, knowledge about markets should be derived from immediate past
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Experience leads to overconfidence more than forecasting ability]]

@@ -2,7 +2,7 @@
 
 ![[Warren Buffet search for replacement#^074947]]![[Warren Buffet search for replacement#^abb735]]
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[The world is full of surprises]]

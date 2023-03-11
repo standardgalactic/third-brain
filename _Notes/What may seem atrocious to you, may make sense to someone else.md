@@ -9,7 +9,7 @@
 > That is why I am upset by many Americans’ thinking. We do not have the same opportunities as the West. Our governmental infrastructure is different. The country is different. Yes, factory is hard labor. Could it be better? Yes, but only when you compare such to American jobs.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related notes
 - [[Everyone has a unique experience - Quote]]

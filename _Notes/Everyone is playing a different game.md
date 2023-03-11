@@ -11,7 +11,7 @@
 	- However, a long-term investor would find it ridiculous to invest in such an asset
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[What may seem atrocious to you, may make sense to someone else]]

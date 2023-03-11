@@ -3,7 +3,7 @@
 - You'll feel the same after putting in extra effort
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[The happiness equation]]

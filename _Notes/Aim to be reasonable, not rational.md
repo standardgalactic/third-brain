@@ -23,7 +23,7 @@
 	- Your personal doubts, insecurities, etc.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Being financially consistent is more important than huge returns]]

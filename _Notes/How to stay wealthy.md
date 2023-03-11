@@ -11,7 +11,7 @@
 ![[Tomorrow will never the same as yesterday - Quote#^bff53b]]
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Good investing is NOT about making good decisions]]

@@ -7,7 +7,7 @@
 - He, too, had to be reasonable when making investment decisions. He could not be coldly rational and sleep well at night
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Aim to be reasonable, not rational]]

@@ -6,7 +6,7 @@
 - The world grew its "energy wealth" not by increasing the energy it had, but by decreasing the energy it needed
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Save More Money]]

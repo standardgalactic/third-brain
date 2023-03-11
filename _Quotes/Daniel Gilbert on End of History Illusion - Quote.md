@@ -2,5 +2,5 @@
 > - Daniel Gilbert, Harvard psychologist
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 - [[The End of History Illusion]]

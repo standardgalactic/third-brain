@@ -13,7 +13,7 @@
 - His debt increased and eventually he lost everything
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Richard Fuscone - brilliant, but greedy]]

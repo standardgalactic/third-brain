@@ -10,7 +10,7 @@
 > [!important] 100% of outcomes cannot be attributed to effort, skills and decisions
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[How Bill Gates got lucky]]

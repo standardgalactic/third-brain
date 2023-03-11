@@ -7,7 +7,7 @@
 - The world is dictated by unforeseen events. Hence forecasts may do more harm than good since we can never predict these big events.
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Experience leads to overconfidence more than forecasting ability]]

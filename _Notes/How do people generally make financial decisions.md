@@ -4,7 +4,7 @@
 - This mixture forms a narrative that works for you
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related notes
 - [[Why do smart people disagree in their analyses, predictions]]

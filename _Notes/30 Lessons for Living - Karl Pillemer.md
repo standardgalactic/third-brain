@@ -10,7 +10,7 @@
 > - Karl Pillemer, Gerontologist
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[You never switch off from modern day work - Quote]]

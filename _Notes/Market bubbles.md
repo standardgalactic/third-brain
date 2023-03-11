@@ -7,7 +7,7 @@
 - When long term investors fail to understand that short term traders are playing a different game than them, and start taking their cues from short-term traders
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Everyone is playing a different game]]

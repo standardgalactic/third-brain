@@ -15,7 +15,7 @@
 - Fevers hurt. So, it may be rational to want a fever, but not [[Aim to be reasonable, not rational|reasonable]]
 
 ## Sources
-- [[The Psychology of Money - Highlights]]
+- [[(Done) The Psychology of Money - Highlights]]
 
 ## Related Notes
 - [[Julius Wagner-Jauregg won the Nobel Prize in medicine in 1927]] 
