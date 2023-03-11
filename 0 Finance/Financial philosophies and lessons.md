@@ -56,6 +56,7 @@
 - [[Why do investors sell at the bottom of a bear market]]
 - [[Everyone is playing a different game]]
 - [[Market bubbles]]
+- [[We do not understand how the world works]]
 
 ## Research
 - [[Depression Babies - Do Macro-economic Experiences Affect Risk-Taking]]
@@ -70,6 +71,7 @@
 - [[Richard Fuscone - brilliant, but greedy]]
 - [[Jesse Livermore - Who earned when the Great Depression happened and then declined]]
 - [[Harry Markowitz - Nobel Prize winner in Mathematics who was reasonable]]
+- [[Investing strategy of Morgan House]]
 
 ## Quotes
 - [[Everyone has a unique experience - Quote]]

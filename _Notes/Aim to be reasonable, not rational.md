@@ -10,6 +10,10 @@
 ## Being reasonable in medicine
 - It is well known that [[The weirdity of fevers|fevers]] help in curing any infection. However, it does not give us peace of mind.
 
+## There is no one right answer
+- When dealing with complicated and emotional issues, there is no one right answer. There's only what works for you and your family that leaves you sleeping well at night.
+	- Hence, it is NOT necessarily a bad thing when **there is a difference between what someone suggests you do and what they do for themselves**.
+
 ## Rational investor vs Reasonable investor
 - Rational investor makes decisions based on numeric facts
 - These are the factors that influence a "reasonable" decision maker:

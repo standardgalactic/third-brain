@@ -6,6 +6,9 @@
 - The idea of "enough" might look like conservatism. It is NOT!
 - It is realizing that the opposite - the insatiable appetite for more - will push you to the point of regret
 
+## No unnecessary risks
+- Don't try to outperform the market if you can meet all your goals without having to take the added risk that comes from trying to outperform.
+
 ## Sources
 - [[The Psychology of Money - Highlights]]
 

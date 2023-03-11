@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e3dce423ce1cf490",
@@ -46,13 +45,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/History cannot be used to predict the future.md",
+                "file": "0 Finance/Financial philosophies and lessons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "19a21a108751fcf5"
+            }
+          },
+          {
+            "id": "ad7d7d5f7a21c3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Small number of events account for majority of outcomes - Tail events.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           },
           {
             "id": "d97773c5e7091357",
@@ -60,55 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/We do not understand how the world works.md",
+                "file": "_Notes/Small number of events account for majority of outcomes - Tail events.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "bfe63f3c91121009",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9d65c7add9350fd3",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "_Notes/History cannot be used to predict the future.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "19a21a108751fcf5"
           }
         ]
       }
@@ -177,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/We do not understand how the world works.md",
+                "file": "0 Finance/Financial philosophies and lessons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/We do not understand how the world works.md",
+                "file": "0 Finance/Financial philosophies and lessons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/We do not understand how the world works.md"
+                "file": "0 Finance/Financial philosophies and lessons.md"
               }
             }
           },
@@ -266,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,14 +251,26 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d97773c5e7091357",
+  "active": "82c7d4f17e2b801f",
   "lastOpenFiles": [
-    "Inbox.md",
-    "_Notes/We do not understand how the world works.md",
     "_Notes/History cannot be used to predict the future.md",
+    "Readwise/Books/The Psychology of Money - Highlights.md",
+    "_Notes/Small number of events account for majority of outcomes - Tail events.md",
+    "Inbox.md",
+    "_Notes/Know how much is enough.md",
+    "_Notes/Aim to be reasonable, not rational.md",
+    "_Notes/sleep night.md",
+    "0 Finance/Financial philosophies and lessons.md",
+    "_Notes/We do not understand how the world works.md",
+    "_Notes/Being financially consistent is more important than huge returns.md",
+    "_Notes/Tremendous results do not need tremendous force - The Power of Compounding.md",
+    "_Notes/How to stay wealthy.md",
+    "_Notes/Learn to stay wealthy from Warren Buffet.md",
+    "_Notes/Staying wealthy.md",
+    "_Notes/Staying wealthy is different than getting wealthy.md",
+    "_Notes/History can be used to predict future in case of hard sciences.md",
     "1 Miscellaneous/Life Philosophies.md",
     "_Notes/Everyone is playing a different game.md",
-    "0 Finance/Financial philosophies and lessons.md",
     "_Notes/Market bubbles.md",
     "_Notes/Beware of the story that we tell ourselves.md",
     "_Notes/Optimism is a good investing strategy.md",
@@ -300,18 +279,6 @@
     "_Notes/Wealth gives you freedom.md",
     "_Notes/Save More Money.md",
     "_Notes/Why should we save money.md",
-    "Readwise/Books/The Psychology of Money - Highlights.md",
-    "_Notes/Warren Buffet search for replacement.md",
-    "_Notes/Keep a margin of safety when planning.md",
-    "_Notes/The world is full of surprises.md",
-    "_Notes/Dealing with end of history illusion.md",
-    "_Notes/Experience leads to overconfidence more than forecasting ability.md",
-    "_Notes/How should history be used to take financial decisions.md",
-    "_Notes/Why do tail events have such immense impact.md",
-    "_Notes/The price of successful investing.md",
-    "_Notes/Avoid sunk costs.md",
-    "_Notes/The End of History Illusion.md",
-    "_Quotes/Daniel Gilbert on End of History Illusion - Quote.md",
     "Assets/Pasted image 20230305194829.png",
     "Assets/Pasted image 20230305194609.png",
     "Assets/Pasted image 20230305194502.png",
