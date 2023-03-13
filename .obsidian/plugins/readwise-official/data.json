@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 7701110,
+  "lastSavedStatusID": 7729751,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -88,7 +88,8 @@
     "Readwise/Articles/3 Things From the Blume Ventures Report - Highlights.md": "25081249",
     "Readwise/Articles/Zomato's Blinkit Won’t Have an Easy Time Seizing Urban Company’s Home Turf - Highlights.md": "25081455",
     "Readwise/Articles/Women’s Choice Between Savings and Investments to Gain Financial Freedom - Highlights.md": "25081535",
-    "Readwise/Books/(Done) The Psychology of Money - Highlights.md": "16711995"
+    "Readwise/Books/(Done) The Psychology of Money - Highlights.md": "16711995",
+    "Readwise/Books/Let's Talk Money - Highlights.md": "25196180"
   },
   "reimportShowConfirmation": true
 }
