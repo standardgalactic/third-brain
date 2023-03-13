@@ -45,6 +45,10 @@
 - [[Do not get influenced by the actions of others]]
 - [[Beware of the story that we tell ourselves]]
 
+## Thumb rules and hacks
+- [[Mental accounting]]
+- [[Percentage of income allowed for EMI]]
+
 ## Others
 - [[Be more forgiving - topic of finance is new]]
 - [[Factors that influence our decisions with money]]

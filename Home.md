@@ -2,7 +2,7 @@ The topics covered in these notes:
 
 ## Finance
 - [[Financial philosophies and lessons]]
-- [[Investments]]
+- [[Investments and Personal Finance]]
 - [[Taxation]]
 
 ## Science and technology

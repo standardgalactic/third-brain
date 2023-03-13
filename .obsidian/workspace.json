@@ -8,12 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64a468d05de1232c",
+            "id": "0a56a8b2f8110e47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Miscellaneous/Politics and governance.md",
+                "file": "Readwise/Books/Let's Talk Money - Highlights.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc626a82221f1aaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "510d6b9e8f1b2630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Finance/Financial philosophies and lessons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,35 +40,25 @@
             }
           },
           {
-            "id": "0a56a8b2f8110e47",
+            "id": "def4b32ce989191d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/The Climate Migrants (Protection and Rehabilitation) Bill - 2022.md",
-                "mode": "preview",
+                "file": "0 Finance/Investments and Personal Finance.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "4b381ce7aa009696",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20221017125021.png"
-              }
-            }
-          },
-          {
-            "id": "6beb85aaab53e9ab",
+            "id": "72a5018acdaa3a29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Information.md",
+                "file": "_Notes/Emergency funds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/The Climate Migrants (Protection and Rehabilitation) Bill - 2022.md",
+                "file": "_Notes/Emergency funds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/The Climate Migrants (Protection and Rehabilitation) Bill - 2022.md",
+                "file": "_Notes/Emergency funds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/The Climate Migrants (Protection and Rehabilitation) Bill - 2022.md"
+                "file": "_Notes/Emergency funds.md"
               }
             }
           },
@@ -230,23 +239,27 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0a56a8b2f8110e47",
+  "active": "72a5018acdaa3a29",
   "lastOpenFiles": [
+    "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Emergency funds.md",
+    "0 Finance/Financial philosophies and lessons.md",
+    "_Notes/Percentage of income allowed for EMI.md",
+    "Templates/Information.md",
+    "_Notes/Mental accounting.md",
     "Readwise/Books/Let's Talk Money - Highlights.md",
-    "_Notes/The riverine islands in Assam.md",
+    "1 Miscellaneous/Politics and governance.md",
     "Assets/Pasted image 20221017125021.png",
     "_Notes/The Climate Migrants (Protection and Rehabilitation) Bill - 2022.md",
+    "_Notes/The riverine islands in Assam.md",
     "Readwise/Articles/(Done) Why This Assam MP’s Doomed-to-Not-Pass Bill Could Still Hit a Home Run.md",
     "Readwise/Articles/Apple’s Momentous Sideloading Decision Won’t Be a Cure-All.md",
-    "Templates/Information.md",
     "_Notes/Pradyut Bordoloi.md",
-    "1 Miscellaneous/Politics and governance.md",
     "2 Science and technology/Climate change.md",
     "Readwise/Articles/Passages Saved From Android.md",
     "Readwise/Articles/3 Things From the Blume Ventures Report - Highlights.md",
     "Readwise/Books/(Done) The Psychology of Money - Highlights.md",
     "_Notes/Investing strategy of Morgan Housel.md",
-    "0 Finance/Financial philosophies and lessons.md",
     "_Notes/History cannot be used to predict the future.md",
     "_Notes/Small number of events account for majority of outcomes - Tail events.md",
     "Inbox.md",
@@ -255,10 +268,6 @@
     "_Notes/sleep night.md",
     "_Notes/We do not understand how the world works.md",
     "_Notes/Being financially consistent is more important than huge returns.md",
-    "_Notes/Tremendous results do not need tremendous force - The Power of Compounding.md",
-    "_Notes/How to stay wealthy.md",
-    "_Notes/Learn to stay wealthy from Warren Buffet.md",
-    "_Notes/Staying wealthy.md",
     "Assets/Pasted image 20230305194829.png",
     "Assets/Pasted image 20230305194609.png",
     "Assets/Pasted image 20230305194502.png",

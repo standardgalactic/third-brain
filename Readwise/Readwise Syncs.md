@@ -81,3 +81,6 @@
 - [[2023-03-13]] 11:51 AM — Synced 184 highlights from 1 document.
     - 184 highlights from Let's Talk Money
 
+- [[2023-03-13]] 3:50 PM — Synced 34 highlights from 1 document.
+    - 34 highlights from Let's Talk Money
+
