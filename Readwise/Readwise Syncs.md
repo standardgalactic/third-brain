@@ -84,3 +84,8 @@
 - [[2023-03-13]] 3:50 PM — Synced 34 highlights from 1 document.
     - 34 highlights from Let's Talk Money
 
+- [[2023-03-14]] 12:12 PM — Synced 61 highlights from 3 documents.
+    - 30 highlights from Building a second brain (Blinkist)
+    - 21 highlights from The Subtle Art of Not giving a fuck (Blinkist)
+    - 10 highlights from The Book of Humans (Blinkist)
+

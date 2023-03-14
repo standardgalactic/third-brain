@@ -1,0 +1,32 @@
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-1.a08c56e2fedd.png)
+
+## Metadata
+- Author: [[Mark Manson]]
+- Full Title: The Subtle Art of Not giving a fuck (Blinkist)
+- Category: #books
+
+## Highlights
+- If you don’t have a goal you’re determined to achieve, you’ll falter in the face of this adversity. (Location 21)
+- There is no point looking for an easy life, one without adversity. The only way you’ll get ahead is to find a goal that you want to struggle for. However, it’s equally important to say no to all the struggles and tasks that don’t bring you joy. (Location 29)
+- Concentrate on the few great things – and don’t give a fuck about everything else. (Location 31)
+- the guitarist Dave Mustaine. In 1983, Mustaine was thrown out of his band when they were right on the cusp of fame. Seething with anger at the rejection, Mustaine became determined to show his former bandmates just how wrong they’d been. For two years he worked relentlessly to improve his skills and find the musicians to make an even better band. The band he went on to form was Megadeth, a hugely popular band that went on to sell over 25 million records. However, despite the success of Megadeth, Mustaine still wasn’t happy. He continued to judge his success against the achievements of his former band. Unfortunately for him, this band was Metallica, one of the world’s biggest music acts. Because he compared himself to Metallica, Mustaine considered himself a failure, in spite of his obvious successes. (Location 37)
+    - Tags: [[blue]] 
+- our values are more important than success when it comes to happiness. (Location 50)
+- Studies have shown that once our basic needs in life are cared for, extra wealth doesn’t increase happiness. And chasing wealth can even have a detrimental effect if we chose to pursue it over values like family, honesty or integrity. (Location 58)
+- adherence to shitty values most often derives from a lack of worthwhile values. So, (Location 60)
+- These good values should: Be based in reality Be helpful to society Have an immediate and controllable effect (Location 61)
+- Honesty is a great value to live by because you can control it (only you can decide to be truthful or not); it's based in reality; and, because it provides truthful feedback to others, it's helpful. (Location 62)
+- Feeling compelled to do something robs it of its joy. (Location 68)
+- William James was born to a wealthy, privileged family in nineteenth-century America. Suffering from ill-health, he would often experience bouts of vomiting and back spasms. His early dream was to become a painter, but he struggled to make his mark, and his father constantly mocked his lack of talent. So he decided to pursue a career in medicine –and then dropped out of medical school. Unwell and unhappy, with neither family support nor a job, James considered suicide. But then, he read about the work of the philosopher Charles Peirce. Peirce’s central argument was that everyone should take 100 percent responsibility for their own life, a message that struck a chord with James. James realized that his misery stemmed from his belief that he was a victim of outside influences. Whether it was his sickness or his father’s criticisms, he blamed his situation on things he couldn’t control, and this made him feel powerless. He realized that he was responsible for his life and his actions, and, empowered with this thought, he started afresh. After years of hard work, James went on to become a pioneer in American psychology. (Location 71)
+    - Tags: [[blue]] 
+- Manson’s Law of Avoidance – the tendency to flee anything that threatens our identity. (Location 90)
+- Buddhism teaches that identity is an illusion. Whatever labels you give yourself – rich, poor , happy, sad, successful, a failure – are merely mental constructs. They simply aren’t real and so we shouldn’t let them dictate our lives. You must, therefore, learn to let go of your identity. Liberating yourself from an identity can be a wonderful experience. (Location 94)
+- our false beliefs cover up our insecurities. This means that, by constantly questioning our decisions and actions, we’ll uncover uncomfortable truths about ourselves. (Location 108)
+- Unhealthy love happens when each partner uses the relationship to run away from their problems. For example, they might be unhappy with their lives, and so they use their feelings for each other as a distraction. Unfortunately, no one can mask personal problems forever, and so this avoidance-as-passion inevitably turns sour. Healthy love , on the other hand, exists when both partners are wholly invested in the relationship. Rather than using it as a distraction, they are devoted to each other. Rather than concentrate on their own feelings, each partner offers support to their significant other. However, this support has to be desired. (Location 124)
+- work of Ernest Becker. Becker was a doctor of anthropology and a bit of a maverick. Although his unconventional approach and early death limited his academic career, he did write an influential book about dying, The Denial of Death. (Location 132)
+    - Tags: [[blue]] 
+- Becker presented two main ideas. The first is that humans are terrified of dying. Unlike other animals, humans are capable of thinking about hypothetical situations. (Location 134)
+- This brings us to Becker’s second main idea –that, since we know we’re doomed to die, we try to create a conceptual self that will live on after our demise. In other words, we spend our mortal lives seeking out immortality projects, things that will endure as our legacy. It’s this desire that encourages some people to chase fame, while others may seek to make a mark in religion, politics or business. (Location 137)
+- this dream of immortality causes problems for society. People’s wish to fashion the world, or at least a part of it, as they see fit has caused war, destruction and misery. What’s more, it’s not healthy for us as individuals. The desperate urge to make a mark causes us stress and anxiety. (Location 140)
+- stop striving for immortality. We need to stop “giving a fuck” about fame and power, and instead concentrate on the here and now. Look for meaning in the present and seek to spread happiness and joy where you are. (Location 143)
+- If you want to pursue a happy life, focus on the things you enjoy, be it the joyful struggle or a healthy relationship. Everything else is a pointless distraction. (Location 145)

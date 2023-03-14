@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 7732245,
+  "lastSavedStatusID": 7745645,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -89,7 +89,10 @@
     "Readwise/Articles/Zomato's Blinkit Won’t Have an Easy Time Seizing Urban Company’s Home Turf - Highlights.md": "25081455",
     "Readwise/Articles/Women’s Choice Between Savings and Investments to Gain Financial Freedom - Highlights.md": "25081535",
     "Readwise/Books/(Done) The Psychology of Money - Highlights.md": "16711995",
-    "Readwise/Books/Let's Talk Money - Highlights.md": "25196180"
+    "Readwise/Books/Let's Talk Money - Highlights.md": "25196180",
+    "Readwise/Books/Building a second brain (Blinkist) - Highlights.md": "25277911",
+    "Readwise/Books/The Subtle Art of Not giving a fuck (Blinkist) - Highlights.md": "25277942",
+    "Readwise/Books/The Book of Humans (Blinkist) - Highlights.md": "25277947"
   },
   "reimportShowConfirmation": true
 }
