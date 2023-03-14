@@ -89,3 +89,5 @@
     - 21 highlights from The Subtle Art of Not giving a fuck (Blinkist)
     - 10 highlights from The Book of Humans (Blinkist)
 
+- [[2023-03-15]] 12:43 AM — Synced 0 highlights from 0 documents.
+
