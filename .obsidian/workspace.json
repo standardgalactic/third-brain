@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
+                "file": "_Notes/Percentage of income allowed for EMI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Emergency funds.md",
+                "file": "_Notes/Percentage of income allowed for EMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Emergency funds.md",
+                "file": "_Notes/Percentage of income allowed for EMI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Emergency funds.md"
+                "file": "_Notes/Percentage of income allowed for EMI.md"
               }
             }
           },
@@ -239,16 +238,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c66ab79b66ea6ed3",
+  "active": "510d6b9e8f1b2630",
   "lastOpenFiles": [
+    "0 Finance/Financial philosophies and lessons.md",
+    "_Notes/Emergency funds.md",
     "Readwise/Articles/Sunny Side Up 🍳 Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md",
     "Readwise/Books/The Book of Humans (Blinkist) - Highlights.md",
     "Readwise/Books/The Subtle Art of Not giving a fuck (Blinkist) - Highlights.md",
     "Readwise/Books/Building a second brain (Blinkist) - Highlights.md",
     "Assets/emergency-fund-risk.jpeg",
     "0 Finance/Investments and Personal Finance.md",
-    "_Notes/Emergency funds.md",
-    "0 Finance/Financial philosophies and lessons.md",
     "_Notes/Percentage of income allowed for EMI.md",
     "Templates/Information.md",
     "_Notes/Mental accounting.md",

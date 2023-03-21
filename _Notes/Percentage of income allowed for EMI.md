@@ -1,4 +1,4 @@
-- Your EMI payouts should not be more than 25-30 per cent of your net income
+- Your EMI payouts should not be more than 25-30 per cent of your net income 
 
 ## Attachments
 - 
