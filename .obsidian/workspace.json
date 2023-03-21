@@ -211,7 +211,7 @@
             }
           },
           {
-            "id": "64cee8bb0995cd37",
+            "id": "c66ab79b66ea6ed3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -219,12 +219,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,13 +235,13 @@
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "72a5018acdaa3a29",
+  "active": "c66ab79b66ea6ed3",
   "lastOpenFiles": [
+    "Readwise/Articles/Sunny Side Up 🍳 Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md",
     "Readwise/Books/The Book of Humans (Blinkist) - Highlights.md",
     "Readwise/Books/The Subtle Art of Not giving a fuck (Blinkist) - Highlights.md",
     "Readwise/Books/Building a second brain (Blinkist) - Highlights.md",
@@ -270,7 +269,6 @@
     "_Notes/Small number of events account for majority of outcomes - Tail events.md",
     "Inbox.md",
     "_Notes/Know how much is enough.md",
-    "_Notes/Aim to be reasonable, not rational.md",
     "Assets/Pasted image 20230305194829.png",
     "Assets/Pasted image 20230305194609.png",
     "Assets/Pasted image 20230305194502.png",

@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 7754705,
+  "lastSavedStatusID": 7855115,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -92,7 +92,8 @@
     "Readwise/Books/Let's Talk Money - Highlights.md": "25196180",
     "Readwise/Books/Building a second brain (Blinkist) - Highlights.md": "25277911",
     "Readwise/Books/The Subtle Art of Not giving a fuck (Blinkist) - Highlights.md": "25277942",
-    "Readwise/Books/The Book of Humans (Blinkist) - Highlights.md": "25277947"
+    "Readwise/Books/The Book of Humans (Blinkist) - Highlights.md": "25277947",
+    "Readwise/Articles/Sunny Side Up 🍳 Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md": "25424504"
   },
   "reimportShowConfirmation": true
 }
