@@ -6,3 +6,4 @@
 
 ## Related Notes
 - [[Being rich is different from feeling rich]] 
+
