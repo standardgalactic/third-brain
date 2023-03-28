@@ -96,3 +96,7 @@
 
 - [[2023-03-24]] 1:35 PM — Synced 0 highlights from 0 documents.
 
+- [[2023-03-28]] 1:03 PM — Synced 8 highlights from 2 documents.
+    - 7 highlights from Object Shapes Implementation
+    - 1 highlights from RubyConf 2022: Don't @ Me! Faster Instance Variables With Object Shapes by Aaron Patterson
+

@@ -22,7 +22,16 @@
   "showShortcuts": true,
   "markdownOnly": true,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "_Notes/Wealth is generally hidden.md",
+      "timestamp": 1679989496414
+    },
+    {
+      "filepath": "_Notes/Why do investors sell at the bottom of a bear market.md",
+      "timestamp": 1679988950648
+    }
+  ],
   "starredFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

@@ -11,8 +11,13 @@
             "id": "b53e33eeeb37e4b6",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Wealth is generally hidden.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Percentage of income allowed for EMI.md",
+                "file": "_Notes/Wealth is generally hidden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Percentage of income allowed for EMI.md",
+                "file": "_Notes/Wealth is generally hidden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Percentage of income allowed for EMI.md"
+                "file": "_Notes/Wealth is generally hidden.md"
               }
             }
           },
@@ -156,13 +161,29 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "277480ce03d51698",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff02c59d00461053",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 495.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +199,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b53e33eeeb37e4b6",
+  "active": "277480ce03d51698",
   "lastOpenFiles": [
+    "_Notes/Why do investors sell at the bottom of a bear market.md",
+    "Readwise/Articles/RubyConf 2022 Don't @ Me! Faster Instance Variables With Object Shapes by Aaron Patterson - Highlights.md",
+    "Readwise/Articles/Object Shapes Implementation - Highlights.md",
     "0 Finance/Financial philosophies and lessons.md",
     "_Notes/Emergency funds.md",
     "Readwise/Articles/Sunny Side Up 🍳 Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md",
@@ -205,9 +229,6 @@
     "Readwise/Books/(Done) The Psychology of Money - Highlights.md",
     "_Notes/Investing strategy of Morgan Housel.md",
     "_Notes/History cannot be used to predict the future.md",
-    "_Notes/Small number of events account for majority of outcomes - Tail events.md",
-    "Inbox.md",
-    "_Notes/Know how much is enough.md",
     "Assets/Pasted image 20230305194829.png",
     "Assets/Pasted image 20230305194609.png",
     "Assets/Pasted image 20230305194502.png",
