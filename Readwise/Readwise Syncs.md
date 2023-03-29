@@ -100,3 +100,5 @@
     - 7 highlights from Object Shapes Implementation
     - 1 highlights from RubyConf 2022: Don't @ Me! Faster Instance Variables With Object Shapes by Aaron Patterson
 
+- [[2023-03-29]] 1:30 PM — Synced 0 highlights from 0 documents.
+
