@@ -6,13 +6,14 @@
   "path_only": "",
   "show_full_path": false,
   "expanded_view": true,
+  "group_nearest_by_file": false,
+  "language": "en",
   "log_render": false,
   "log_render_files": false,
   "skip_sections": true,
+  "smart_chat_model": "gpt-4",
   "results_count": 30,
   "view_open": true,
   "version": "1.2.8",
-  "failed_files": [
-    "_Areas/Fitness/How to gain stamina.md"
-  ]
+  "failed_files": []
 }
