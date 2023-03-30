@@ -18,7 +18,7 @@ Every plain ruby object is assigned 40 bytes of space(on a 64-bit machine). The 
 | 24 | Second instance variable (IV) | IV array → Index: 1 |
 | 32 | Third instance variable (IV) | IV array → Index: 2 |
 
-As you can see, the values of instance variables (IVs[¹](https://www.notion.so/Ruby-3-2-0-introduces-object-shapes-33309b579dba4d27b7c7dc5368796549)) of an object are stored inside the object’s memory space itself[²](https://www.notion.so/Ruby-3-2-0-introduces-object-shapes-33309b579dba4d27b7c7dc5368796549). The bytes where the instance variables are stored collectively form an array called the **instance variable array, or IV array.**
+As you can see, the values of instance variables (IVs)[^1] of an object are stored inside the object’s memory space itself[^2]. The bytes where the instance variables are stored collectively form an array called the **instance variable array, or IV array.**
 
 As an example, consider the following class:
 
@@ -35,7 +35,7 @@ This is how the memory layout of `demo_guy` will look like:
 | Byte index | Value |  |
 | --- | --- | --- |
 | 0 | Flags (64-bit bitmap) |  |
-| 8 | Pointer to class |  |
+| 8 | Pointer to class (`Person`) |  |
 | 16 | Qundef (undefined) | IV array → Index: 0 |
 | 24 | Qundef (undefined) | IV array → Index: 1 |
 | 32 | Qundef (undefind) | IV array → Index: 2 |
@@ -323,7 +323,10 @@ For the sake of brevity, these topics can be discussed in a separate post. For t
 
 ## Footnotes
 
-1. For the purpose of brevity, we will be interchangeably using instance variable and IV to mean the same entity.
-2. In case the number of instance variables are more than three, they are stored in a separate memory space and the pointer to that array is stored at the 16th byte. Such an object is called an extended object.
-3. [Inline caching in Javascript](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html) and the [wiki page on Inline caching](https://en.wikipedia.org/wiki/Inline_caching) are excellent resources to learn more about it
-4. To learn why we use the class name as cache key, I recommend [watching this talk from the URL annotated time](https://www.youtube.com/watch?v=R0oxlyVUpDw&t=785s)
+[^1]: For the purpose of brevity, we will be interchangeably using instance variable and IV to mean the same entity.
+
+[^2]: In case the number of instance variables are more than three, they are stored in a separate memory space and the pointer to that array is stored at the 16th byte. Such an object is called an extended object.
+
+[^3]: [Inline caching in Javascript](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html) and the [wiki page on Inline caching](https://en.wikipedia.org/wiki/Inline_caching) are excellent resources to learn more about it
+
+[^4]: To learn why we use the class name as cache key, I recommend [watching this talk from the URL annotated time](https://www.youtube.com/watch?v=R0oxlyVUpDw&t=785s)
