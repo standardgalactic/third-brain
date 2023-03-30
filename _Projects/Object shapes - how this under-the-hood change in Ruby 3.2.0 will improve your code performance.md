@@ -66,16 +66,13 @@ And the IV array looks like this:
 | 2 | Qundef (undefind) |
 
 This is how the IV index table and IV array change after setting of each instance variable:
-
-![Transition of IV index table and IV array as instance variables get set](Ruby%203%202%200%20introduces%20object%20shapes%2033309b579dba4d27b7c7dc5368796549/Untitled.jpg)
-
-Transition of IV index table and IV array as instance variables get set
+![Transition of IV index table and IV array as instance variables get set](https://i.imgur.com/5PUGdbA.jpg)
 
 As you can guess, all objects of a class share the same IV index table. A new `Person` object can use the index values already created in the IV index table.
 
 ### Hash lookups are slow; Inline caches to the rescue
 
-Even this hash lookup is considered slow when instance variables are constantly set and read, which is common in a typical Ruby codebase. So, the ruby interpreter (YARV) creates inline caches[³](https://www.notion.so/Ruby-3-2-0-introduces-object-shapes-33309b579dba4d27b7c7dc5368796549) to store the array indices within the getter and setter byte code.
+This hash lookup is considered slow when instance variables are constantly set and read, which is common in a typical Ruby codebase. So, the ruby interpreter (YARV) creates inline caches[^3] to store the array indices within the getter and setter byte code.
 
 For example, after setting `@name` the array index `0` is cached inline within the setter method. It will look something like this (pseudo-code):
 
@@ -88,7 +85,7 @@ end
 
 When the index is fetched for the first time, the inline cache is empty. It references the IV index table to get the index and update the inline cache.
 
-This inline cache uses the class of the object as its cache key[⁴](https://www.notion.so/Ruby-3-2-0-introduces-object-shapes-33309b579dba4d27b7c7dc5368796549). The above code will be updated into this (pseudo-code):
+This inline cache uses the class of the object as its cache key[^4]. The cache is used only if the class of the object and the class in the cache key match. The above code will be updated into this (pseudo-code):
 
 ```ruby
 def name=(value)
