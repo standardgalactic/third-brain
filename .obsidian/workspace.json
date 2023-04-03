@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Miscellaneous/Events, anecdotes and facts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5b95e419b30c50a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
+                "file": "_Notes/Why did the C programming language see so much success.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/How is a computer program stored in memory.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Finance/Financial philosophies and lessons.md"
+                "file": "2 Science and technology/Software engineering.md"
               }
             }
           },
@@ -210,13 +197,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f44df2bcee27d4e4",
+  "active": "63317ef74831962b",
   "lastOpenFiles": [
-    "_Notes/Why did the C programming language see so much success.md",
-    "Templates/Information.md",
-    "1 Miscellaneous/Events, anecdotes and facts.md",
-    "2 Science and technology/Software engineering.md",
     "_Notes/How is a computer program stored in memory.md",
+    "_Notes/Why did the C programming language see so much success.md",
+    "1 Miscellaneous/Events, anecdotes and facts.md",
+    "0 Finance/Financial philosophies and lessons.md",
+    "Templates/Information.md",
+    "2 Science and technology/Software engineering.md",
     "Readwise/Articles/Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md",
     "Readwise/Other Sources/Computer Systems - A Programmer's Perspective.md",
     "Readwise/Articles/Computer Systems GE - Highlights.md",
@@ -233,7 +221,6 @@
     "_Notes/Why do investors sell at the bottom of a bear market.md",
     "Readwise/Articles/RubyConf 2022 Don't @ Me! Faster Instance Variables With Object Shapes by Aaron Patterson - Highlights.md",
     "Readwise/Articles/Object Shapes Implementation - Highlights.md",
-    "0 Finance/Financial philosophies and lessons.md",
     "_Notes/Emergency funds.md",
     "Readwise/Books/The Book of Humans (Blinkist) - Highlights.md",
     "Readwise/Books/The Subtle Art of Not giving a fuck (Blinkist) - Highlights.md",
