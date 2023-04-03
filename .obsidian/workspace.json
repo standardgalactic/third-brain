@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d98489162e8f56a9",
+        "id": "6980d8272bd1da4a",
         "type": "tabs",
         "children": [
           {
-            "id": "0091052818598f8a",
+            "id": "09e0f6fe659bbe65",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projects/Object shapes - how this under-the-hood change in Ruby 3.2.0 will improve your code performance.md",
+                "file": "_Notes/Why do investors sell at the bottom of a bear market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projects/Object shapes - how this under-the-hood change in Ruby 3.2.0 will improve your code performance.md",
+                "file": "_Notes/Why do investors sell at the bottom of a bear market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projects/Object shapes - how this under-the-hood change in Ruby 3.2.0 will improve your code performance.md"
+                "file": "_Notes/Why do investors sell at the bottom of a bear market.md"
               }
             }
           },
@@ -164,9 +164,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "abf64f79535e96d9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -186,7 +194,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0091052818598f8a",
+  "active": "abf64f79535e96d9",
   "lastOpenFiles": [
     "Assets/Untitled.jpg",
     "_Projects/_Blogs.md",
