@@ -7,7 +7,7 @@ It is stored as a sequence of bits, organised in 8-bit chunks (bytes). Generally
 ![[Pasted image 20230305194609.png]]
 
 ## Sources
-- [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
+- [[Computer Systems - A Programmer's Perspective]]
 
 ## Related Notes
 - 

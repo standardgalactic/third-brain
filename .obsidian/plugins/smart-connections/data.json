@@ -1,5 +1,5 @@
 {
-  "api_key": "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",
+  "api_key": "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",
   "file_exclusions": "",
   "folder_exclusions": "Assets, Readwise, Templates, _Areas",
   "header_exclusions": "",
@@ -11,9 +11,12 @@
   "log_render": false,
   "log_render_files": false,
   "skip_sections": true,
-  "smart_chat_model": "gpt-4",
+  "smart_chat_model": "gpt-3.5-turbo",
   "results_count": 30,
   "view_open": true,
   "version": "1.2.8",
-  "failed_files": []
+  "failed_files": [
+    "_Projects/Object shapes - how this under-the-hood change in Ruby 3.2.0 will improve your code performance.md",
+    "_Projects/_Blogs.md"
+  ]
 }

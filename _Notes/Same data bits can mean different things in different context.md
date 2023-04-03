@@ -6,7 +6,7 @@ The only thing that distinguishes different data objects is the context in which
 ![[Pasted image 20230305194829.png]]
 
 ## Sources
-- [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
+- [[Computer Systems - A Programmer's Perspective]]
 
 ## Related Notes
 - 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6980d8272bd1da4a",
+        "id": "98d1a4b85a708970",
         "type": "tabs",
         "children": [
           {
-            "id": "09e0f6fe659bbe65",
+            "id": "af92cd6d44b3c6d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/How Bill Gates got lucky.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/How Bill Gates got lucky.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/How Bill Gates got lucky.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/How Bill Gates got lucky.md"
+                "file": "2 Science and technology/Software engineering.md"
               }
             }
           },
@@ -147,18 +147,18 @@
             }
           },
           {
-            "id": "fb4ca976d84a541c",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "a6595edb49a76f1b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "635b872df2e365c1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,20 +184,28 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a6595edb49a76f1b",
+  "active": "af92cd6d44b3c6d2",
   "lastOpenFiles": [
-    "Assets/Untitled.jpg",
+    "Readwise/Articles/Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md",
+    "2 Science and technology/Software engineering.md",
+    "Readwise/Other Sources/Computer Systems - A Programmer's Perspective.md",
+    "Readwise/Articles/Computer Systems GE - Highlights.md",
+    "_Notes/How is a computer program stored in memory.md",
+    "_Notes/Same data bits can mean different things in different context.md",
+    "Readwise/Other Sources",
+    "_Notes/Origin of money.md",
+    "Home.md",
+    "1 Miscellaneous/Life Philosophies.md",
     "_Projects/_Blogs.md",
+    "Assets/Untitled.jpg",
     "_Projects/Object shapes - how this under-the-hood change in Ruby 3.2.0 will improve your code performance.md",
     "_Projects/Things I have learnt at CLARK.md",
-    "1 Miscellaneous/Life Philosophies.md",
     "_Notes/Wealth is generally hidden.md",
     "_Notes/Why do investors sell at the bottom of a bear market.md",
     "Readwise/Articles/RubyConf 2022 Don't @ Me! Faster Instance Variables With Object Shapes by Aaron Patterson - Highlights.md",
     "Readwise/Articles/Object Shapes Implementation - Highlights.md",
     "0 Finance/Financial philosophies and lessons.md",
     "_Notes/Emergency funds.md",
-    "Readwise/Articles/Sunny Side Up 🍳 Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md",
     "Readwise/Books/The Book of Humans (Blinkist) - Highlights.md",
     "Readwise/Books/The Subtle Art of Not giving a fuck (Blinkist) - Highlights.md",
     "Readwise/Books/Building a second brain (Blinkist) - Highlights.md",
@@ -206,13 +215,7 @@
     "Templates/Information.md",
     "_Notes/Mental accounting.md",
     "Readwise/Books/Let's Talk Money - Highlights.md",
-    "1 Miscellaneous/Politics and governance.md",
     "Assets/Pasted image 20221017125021.png",
-    "_Notes/The Climate Migrants (Protection and Rehabilitation) Bill - 2022.md",
-    "_Notes/The riverine islands in Assam.md",
-    "Readwise/Articles/(Done) Why This Assam MP’s Doomed-to-Not-Pass Bill Could Still Hit a Home Run.md",
-    "Readwise/Articles/Apple’s Momentous Sideloading Decision Won’t Be a Cure-All.md",
-    "_Notes/Pradyut Bordoloi.md",
     "Assets/Pasted image 20230305194829.png",
     "Assets/Pasted image 20230305194609.png",
     "Assets/Pasted image 20230305194502.png",
@@ -226,7 +229,6 @@
     "_Notes",
     "10-19 Miscellaneous/11 Life philosophies",
     "10-19 Miscellaneous/10 Facts",
-    "1 Miscellaneous",
     "Readwise/Articles/Untitled.canvas"
   ]
 }
