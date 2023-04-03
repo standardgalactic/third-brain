@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f09ce535217dce95",
+        "id": "d98489162e8f56a9",
         "type": "tabs",
         "children": [
           {
-            "id": "b53e33eeeb37e4b6",
+            "id": "0091052818598f8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Projects/_Blogs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a06595dfdee66d04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Projects/Object shapes - how this under-the-hood change in Ruby 3.2.0 will improve your code performance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,14 +158,6 @@
             }
           },
           {
-            "id": "277480ce03d51698",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "ff02c59d00461053",
             "type": "leaf",
             "state": {
@@ -193,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -213,7 +186,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a06595dfdee66d04",
+  "active": "0091052818598f8a",
   "lastOpenFiles": [
     "Assets/Untitled.jpg",
     "_Projects/_Blogs.md",
