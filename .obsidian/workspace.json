@@ -11,8 +11,13 @@
             "id": "09e0f6fe659bbe65",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/How Bill Gates got lucky.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Why do investors sell at the bottom of a bear market.md",
+                "file": "_Notes/How Bill Gates got lucky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Why do investors sell at the bottom of a bear market.md",
+                "file": "_Notes/How Bill Gates got lucky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Why do investors sell at the bottom of a bear market.md"
+                "file": "_Notes/How Bill Gates got lucky.md"
               }
             }
           },
@@ -123,14 +128,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "eaf60755f5ff4a31",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
             }
           },
           {
@@ -150,31 +147,23 @@
             }
           },
           {
-            "id": "04625371c06e9a31",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "ff02c59d00461053",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "abf64f79535e96d9",
+            "id": "fb4ca976d84a541c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "a6595edb49a76f1b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -194,7 +183,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "abf64f79535e96d9",
+  "active": "a6595edb49a76f1b",
   "lastOpenFiles": [
     "Assets/Untitled.jpg",
     "_Projects/_Blogs.md",
