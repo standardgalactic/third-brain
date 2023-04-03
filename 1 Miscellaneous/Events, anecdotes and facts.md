@@ -15,3 +15,4 @@
 - [[Julius Wagner-Jauregg won the Nobel Prize in medicine in 1927]]
 - [[The weirdity of fevers]]
 - [[Warren Buffet search for replacement]]
+- [[Why did the C programming language see so much success]]

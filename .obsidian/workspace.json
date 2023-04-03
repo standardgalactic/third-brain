@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "1 Miscellaneous/Events, anecdotes and facts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5b95e419b30c50a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Finance/Financial philosophies and lessons.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63317ef74831962b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/How is a computer program stored in memory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "0 Finance/Financial philosophies and lessons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "0 Finance/Financial philosophies and lessons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Science and technology/Software engineering.md"
+                "file": "0 Finance/Financial philosophies and lessons.md"
               }
             }
           },
@@ -163,12 +190,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +210,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "af92cd6d44b3c6d2",
+  "active": "f44df2bcee27d4e4",
   "lastOpenFiles": [
-    "Readwise/Articles/Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md",
+    "_Notes/Why did the C programming language see so much success.md",
+    "Templates/Information.md",
+    "1 Miscellaneous/Events, anecdotes and facts.md",
     "2 Science and technology/Software engineering.md",
+    "_Notes/How is a computer program stored in memory.md",
+    "Readwise/Articles/Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md",
     "Readwise/Other Sources/Computer Systems - A Programmer's Perspective.md",
     "Readwise/Articles/Computer Systems GE - Highlights.md",
-    "_Notes/How is a computer program stored in memory.md",
     "_Notes/Same data bits can mean different things in different context.md",
     "Readwise/Other Sources",
     "_Notes/Origin of money.md",
@@ -212,9 +241,6 @@
     "Assets/emergency-fund-risk.jpeg",
     "0 Finance/Investments and Personal Finance.md",
     "_Notes/Percentage of income allowed for EMI.md",
-    "Templates/Information.md",
-    "_Notes/Mental accounting.md",
-    "Readwise/Books/Let's Talk Money - Highlights.md",
     "Assets/Pasted image 20221017125021.png",
     "Assets/Pasted image 20230305194829.png",
     "Assets/Pasted image 20230305194609.png",
