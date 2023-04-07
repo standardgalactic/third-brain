@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "_Notes/How is a computer program stored in memory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "_Notes/How is a computer program stored in memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "_Notes/How is a computer program stored in memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Science and technology/Software engineering.md"
+                "file": "_Notes/How is a computer program stored in memory.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -224,15 +224,16 @@
   },
   "active": "bc824b0e7de63fb5",
   "lastOpenFiles": [
+    "_Notes/About using cache memories.md",
+    "_Notes/The End of History Illusion.md",
+    "2 Science and technology/Software engineering.md",
     "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
     "_Notes/Operating systems.md",
     "_Notes/Context switching by the OS.md",
     "_Notes/Operating system kernel.md",
     "Assets/Pasted image 20230407093812.png",
     "Assets/Pasted image 20230407093503.png",
-    "2 Science and technology/Software engineering.md",
     "Assets/Pasted image 20230407092746.png",
-    "_Notes/About using cache memories.md",
     "_Notes/Lifecycle of running a program.md",
     "Assets/Pasted image 20230407092439.png",
     "Assets/Pasted image 20230407091633.png",
@@ -260,7 +261,6 @@
     "_Notes/Wealth is generally hidden.md",
     "_Notes/Why do investors sell at the bottom of a bear market.md",
     "Readwise/Articles/RubyConf 2022 Don't @ Me! Faster Instance Variables With Object Shapes by Aaron Patterson - Highlights.md",
-    "Readwise/Articles/Object Shapes Implementation - Highlights.md",
     "Assets/Randal E. Bryant, David R. O’Hallaron. Manasa S., Mohit Tahiliani (eds.) - Computer Systems A Programmer’s Perspective-Pearson (2016).pdf",
     "config.js",
     "netlify.toml",
