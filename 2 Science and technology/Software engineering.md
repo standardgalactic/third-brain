@@ -27,3 +27,6 @@
 ## Computer systems
 - [[How is a computer program stored in memory]]
 - [[Same data bits can mean different things in different context]]
+- [[Some definitions - buses, word size, main memory, program counter]]
+- [[Lifecycle of running a program]]
+- [[About using cache memories]]
