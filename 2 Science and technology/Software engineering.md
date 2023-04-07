@@ -31,3 +31,5 @@
 - [[Lifecycle of running a program]]
 - [[About using cache memories]]
 - [[Operating systems]]
+	- [[Context switching by the OS]]
+	- [[Operating system kernel]]

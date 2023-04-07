@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Notes/Operating system.md",
-      "timestamp": 1680840273426
-    },
-    {
       "filepath": "2 Science and technology/Software engineering.md",
-      "timestamp": 1680840262656
+      "timestamp": 1680841156315
     },
     {
       "filepath": "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
-      "timestamp": 1680840261297
+      "timestamp": 1680841155735
+    },
+    {
+      "filepath": "_Notes/Operating systems.md",
+      "timestamp": 1680841151104
     }
   ],
   "starredFileStore": [],

@@ -45,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d94796a6cd5ad7a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Context switching by the OS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Operating systems.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Operating systems.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Operating systems.md"
+                "file": "2 Science and technology/Software engineering.md"
               }
             }
           },
@@ -210,13 +222,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8fdab1e87aa4638d",
+  "active": "bc824b0e7de63fb5",
   "lastOpenFiles": [
+    "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
+    "_Notes/Operating systems.md",
+    "_Notes/Context switching by the OS.md",
+    "_Notes/Operating system kernel.md",
     "Assets/Pasted image 20230407093812.png",
     "Assets/Pasted image 20230407093503.png",
     "2 Science and technology/Software engineering.md",
-    "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
-    "_Notes/Operating systems.md",
     "Assets/Pasted image 20230407092746.png",
     "_Notes/About using cache memories.md",
     "_Notes/Lifecycle of running a program.md",
@@ -241,14 +255,12 @@
     "Home.md",
     "1 Miscellaneous/Life Philosophies.md",
     "_Projects/_Blogs.md",
-    "Assets/Untitled.jpg",
     "_Projects/Object shapes - how this under-the-hood change in Ruby 3.2.0 will improve your code performance.md",
     "_Projects/Things I have learnt at CLARK.md",
     "_Notes/Wealth is generally hidden.md",
     "_Notes/Why do investors sell at the bottom of a bear market.md",
     "Readwise/Articles/RubyConf 2022 Don't @ Me! Faster Instance Variables With Object Shapes by Aaron Patterson - Highlights.md",
     "Readwise/Articles/Object Shapes Implementation - Highlights.md",
-    "_Notes/Emergency funds.md",
     "Assets/Randal E. Bryant, David R. O’Hallaron. Manasa S., Mohit Tahiliani (eds.) - Computer Systems A Programmer’s Perspective-Pearson (2016).pdf",
     "config.js",
     "netlify.toml",
