@@ -2,7 +2,7 @@
   "theme": "moonstone",
   "cssTheme": "Sanctum",
   "baseFontSize": 14,
-  "accentColor": "",
+  "accentColor": "#d9d3d7",
   "nativeMenus": true,
   "translucency": true
 }

@@ -1,0 +1,4 @@
+- Some sites/forums found and bookmarked where I can possibly sell
+	- The chances are lower though
+- Can think about breaking up the code into modules and open source each module
+- May have to fix the code first so that I can demo it

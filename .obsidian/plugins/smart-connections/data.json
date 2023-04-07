@@ -1,7 +1,7 @@
 {
   "api_key": "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",
   "file_exclusions": "",
-  "folder_exclusions": "Assets, Readwise, Templates, _Areas",
+  "folder_exclusions": "Assets, Readwise, Templates, _Areas, _Projects",
   "header_exclusions": "",
   "path_only": "",
   "show_full_path": false,
