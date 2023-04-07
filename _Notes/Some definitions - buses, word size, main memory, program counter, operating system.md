@@ -13,6 +13,9 @@
 - Logically, memory is organized as an array of bytes, each with its own unique address (array index) starting at 0.
 
 ## Program counter (PC)
+
+^0bb494
+
 - Special register that points at some machine instruction in main memory
 - Processor executes the instruction pointed at by the PC and updates the PC to point to the next instruction
 
