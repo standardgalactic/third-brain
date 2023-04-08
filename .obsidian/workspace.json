@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "723918c34cb64919",
+            "id": "8c1bf0b7161881ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,13 +34,26 @@
             }
           },
           {
-            "id": "1fd3b7b10a03e238",
+            "id": "6b8f4cd3a9c02ea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Files.md",
+                "file": "1 Miscellaneous/How to use some tools?.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fb9eec4fa5044fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Using LATEX.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -202,9 +215,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "723918c34cb64919",
+  "active": "8c1bf0b7161881ff",
   "lastOpenFiles": [
     "2 Science and technology/Software engineering.md",
+    "1 Miscellaneous/Life Philosophies.md",
+    "1 Miscellaneous/How to use some tools?.md",
+    "_Notes/Using LATEX.md",
     "_Notes/Amdahl's law.md",
     "_Notes/Operating systems.md",
     "_Notes/Files.md",
@@ -237,10 +253,7 @@
     "Templates/Information.md",
     "Readwise/Articles/Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md",
     "Readwise/Other Sources/Computer Systems - A Programmer's Perspective.md",
-    "Readwise/Articles/Computer Systems GE - Highlights.md",
-    "_Notes/Same data bits can mean different things in different context.md",
     "Readwise/Other Sources",
-    "_Notes/Origin of money.md",
     "Assets/Randal E. Bryant, David R. O’Hallaron. Manasa S., Mohit Tahiliani (eds.) - Computer Systems A Programmer’s Perspective-Pearson (2016).pdf",
     "config.js",
     "netlify.toml",
