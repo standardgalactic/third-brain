@@ -10,10 +10,12 @@
 - In mid 1980s, different vendors started coming up with their own versions of Unix to differentiate themselves.
 	- These versions, however, were often incompatible with each other.
 - To combat this trend, IEEE sponsored an effort to standardise Unix. This was dubbed as **POSIX** by **Richard Stallman**
-- This resulted in a family of standards known as **Pos**
+- This resulted in a family of standards known as **Posix standards**.
+	- It covered issues such as C language interface for Unix system calls, shell programs and utilities, threads, and network programming
 
-## Attachments
-- 
+### Recent developments (Standard Unix specification)
+- Recently, a separate standard effort has started known as **Standard Unix Specification**
+- It has joined hands with Posix to create a single, unified standard for Unix systems.
 
 ## Sources
 - [[Computer Systems - A Programmer's Perspective]]
