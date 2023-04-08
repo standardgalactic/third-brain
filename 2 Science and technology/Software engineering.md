@@ -21,8 +21,9 @@
 ## Web
 - [[Difference between PUT and PATCH request]]
 
-## C Programming Language
+## General
 - [[Why did the C programming language see so much success]]
+- [[Birth of Unix]]
 
 ## Computer systems
 - [[How is a computer program stored in memory]]
@@ -31,5 +32,3 @@
 - [[Lifecycle of running a program]]
 - [[About using cache memories]]
 - [[Operating systems]]
-	- [[Context switching by the OS]]
-	- [[Operating system kernel]]
