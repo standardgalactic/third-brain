@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Amdahl's law.md",
+                "file": "_Notes/Using LATEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Amdahl's law.md",
+                "file": "_Notes/Using LATEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Amdahl's law.md"
+                "file": "_Notes/Using LATEX.md"
               }
             }
           },
@@ -215,13 +215,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c1bf0b7161881ff",
+  "active": "6fb9eec4fa5044fa",
   "lastOpenFiles": [
+    "Assets/LaTeX-cheat-sheet.pdf",
+    "_Notes/Amdahl's law.md",
     "2 Science and technology/Software engineering.md",
     "1 Miscellaneous/Life Philosophies.md",
     "1 Miscellaneous/How to use some tools?.md",
     "_Notes/Using LATEX.md",
-    "_Notes/Amdahl's law.md",
     "_Notes/Operating systems.md",
     "_Notes/Files.md",
     "_Notes/Virtual memory.md",
@@ -252,7 +253,6 @@
     "1 Miscellaneous/Events, anecdotes and facts.md",
     "Templates/Information.md",
     "Readwise/Articles/Oscars, Swiggy’s Cloud Kitchen Exit & a Sweet Financial Habit - Highlights.md",
-    "Readwise/Other Sources/Computer Systems - A Programmer's Perspective.md",
     "Readwise/Other Sources",
     "Assets/Randal E. Bryant, David R. O’Hallaron. Manasa S., Mohit Tahiliani (eds.) - Computer Systems A Programmer’s Perspective-Pearson (2016).pdf",
     "config.js",

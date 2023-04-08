@@ -24,10 +24,29 @@ Speedup\ (S) &= \dfrac{1}{(1 - \alpha) + \dfrac{\alpha}{k}}
 $$
 
 ## Example
-- Consider the case where a part of the system initially consumed $\text{60
+- Consider the case where a part of the system initially consumed $\text{60\%}$ of the time. $(\alpha = 0.6)$
+- It is sped up by the factor of 3 $(k = 3)$
+- Then the overall system sped up by:
+$$
+\begin{align}
+S &= \dfrac{1}{1 - 0.6 + \dfrac{0.6}{3}}
+\\
+&= \dfrac{1}{0.4 + 0.2}
+\\
+&= \dfrac{1}{0.6} = \dfrac{10}{6} = \dfrac{5}{3}
+\\
+&= 1.67\text{x}
+\end{align}
+$$
 
-## Attachments
-- 
+$$
+\text{Thus the speedup, }S = 1.67\textbf{x}
+$$
+
+## Implication
+When $k = \infty$, $S_{\infty} = \dfrac{1}{1 - \alpha}$.
+
+Thus, high improvement can only be achieved by improving large parts of the system
 
 ## Sources
 - [[Computer Systems - A Programmer's Perspective]]

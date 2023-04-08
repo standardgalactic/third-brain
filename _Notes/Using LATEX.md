@@ -50,3 +50,6 @@ Also, as can be observed, using `\\` introduces a new line. Without using `\\` w
 The `\\` only works when the code block is wrapped inside `begin{align}` and `end{align}`
 
 ---
+## Attachments
+
+![[LaTeX-cheat-sheet.pdf]]
