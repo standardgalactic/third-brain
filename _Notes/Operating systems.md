@@ -11,7 +11,7 @@
 There are three fundamental abstractions provided by the OS:
 1. [[Processes]]
 2. [[Virtual memory]]
-- [[Files]]
+3. [[Files]]
 
 ## Attachments
 - 

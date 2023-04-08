@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Notes/Virtual memory.md",
-      "timestamp": 1680924730308
+      "filepath": "_Notes/Amdahl's law.md",
+      "timestamp": 1680925188668
+    },
+    {
+      "filepath": "2 Science and technology/Software engineering.md",
+      "timestamp": 1680925178420
     },
     {
       "filepath": "_Notes/Operating systems.md",
-      "timestamp": 1680924621841
-    },
-    {
-      "filepath": "_Notes/Processes.md",
-      "timestamp": 1680923473211
+      "timestamp": 1680925090965
     }
   ],
   "starredFileStore": [],

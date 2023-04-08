@@ -24,6 +24,7 @@
 ## General
 - [[Why did the C programming language see so much success]]
 - [[Birth of Unix]]
+- [[Amdahl's law]]
 
 ## Computer systems
 - [[How is a computer program stored in memory]]

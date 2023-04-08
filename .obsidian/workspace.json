@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Virtual memory.md",
-                "mode": "preview",
+                "file": "2 Science and technology/Software engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "723918c34cb64919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Amdahl's law.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fd3b7b10a03e238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Files.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Virtual memory.md",
+                "file": "_Notes/Amdahl's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Virtual memory.md",
+                "file": "_Notes/Amdahl's law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Virtual memory.md"
+                "file": "_Notes/Amdahl's law.md"
               }
             }
           },
@@ -175,14 +202,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5afebabee2a1ed5b",
+  "active": "723918c34cb64919",
   "lastOpenFiles": [
+    "2 Science and technology/Software engineering.md",
+    "_Notes/Amdahl's law.md",
     "_Notes/Operating systems.md",
+    "_Notes/Files.md",
     "_Notes/Virtual memory.md",
     "Assets/Pasted image 20230408084919.png",
     "_Notes/Processes.md",
     "_Notes/Untitled.md",
-    "2 Science and technology/Software engineering.md",
     "_Notes/Birth of Unix.md",
     "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
     "_Notes/Operating system kernel.md",
@@ -212,7 +241,6 @@
     "_Notes/Same data bits can mean different things in different context.md",
     "Readwise/Other Sources",
     "_Notes/Origin of money.md",
-    "Home.md",
     "Assets/Randal E. Bryant, David R. O’Hallaron. Manasa S., Mohit Tahiliani (eds.) - Computer Systems A Programmer’s Perspective-Pearson (2016).pdf",
     "config.js",
     "netlify.toml",
