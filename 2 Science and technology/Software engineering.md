@@ -20,10 +20,12 @@
 ## C language
 - [[Why did the C programming language see so much success]]
 - [[What are pointers]]
+- [[Typical sizes of basic C data types]]
 
 ## General
 - [[Birth of Unix]]
 - [[Amdahl's law]]
+- [[Example of a bug that can arise when migrating 32-bit programs to 64-bit]]
 
 ## Computer systems
 - [[How is a computer program stored in memory]]
@@ -32,3 +34,4 @@
 - [[Lifecycle of running a program]]
 - [[About using cache memories]]
 - [[Operating systems]]
+- [[Byte ordering and addressing of objects stored in memory]]

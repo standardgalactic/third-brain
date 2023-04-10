@@ -34,12 +34,38 @@
             }
           },
           {
-            "id": "bb75916bba990d48",
+            "id": "3a6a0522b415d038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
+                "file": "_Notes/Byte ordering and addressing of objects stored in memory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d297cf3447c9ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Example of a bug that can arise when migrating 32-bit programs to 64-bit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f4b56aa45d96783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Typical sizes of basic C data types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
+                "file": "_Notes/Byte ordering and addressing of objects stored in memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
+                "file": "_Notes/Byte ordering and addressing of objects stored in memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md"
+                "file": "_Notes/Byte ordering and addressing of objects stored in memory.md"
               }
             }
           },
@@ -190,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,12 +236,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bb75916bba990d48",
+  "active": "3a6a0522b415d038",
   "lastOpenFiles": [
-    "_Notes/Processes.md",
-    "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
-    "_Notes/What are pointers.md",
+    "_Notes/Little endian.md",
+    "_Notes/Byte ordering and addressing of objects stored in memory.md",
     "2 Science and technology/Software engineering.md",
+    "_Notes/Example of a bug that can arise when migrating 32-bit programs to 64-bit.md",
+    "_Notes/Typical sizes of basic C data types.md",
+    "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
+    "_Notes/Processes.md",
+    "_Notes/What are pointers.md",
     "Templates/Information with attachments.md",
     "Templates/Information.md",
     "_Notes/Virtual memory.md",
@@ -235,12 +265,8 @@
     "_Quotes/Jonah Berger on feeling in control - Quote.md",
     "_Quotes/Everyone has a unique experience - Quote.md",
     "_Quotes/Dont risk everything in pursuit of wealth - Quote.md",
-    "_Quotes/Daniel Gilbert on End of History Illusion - Quote.md",
     "_Quotes",
-    "_Projects/Things I have learnt at CLARK.md",
-    "_Projects/Selling Farad Books code.md",
     "_Projects",
-    "_Notes/Why should we save money.md",
     "_Fleeting notes",
     "_Areas/NodeJS",
     "_Areas/Fitness",
