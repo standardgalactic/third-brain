@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Miscellaneous/How to use some tools?.md",
+                "file": "1 Miscellaneous/Documentation on some tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Using LATEX.md",
+                "file": "1 Miscellaneous/Documentation on some tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Using LATEX.md",
+                "file": "1 Miscellaneous/Documentation on some tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Using LATEX.md"
+                "file": "1 Miscellaneous/Documentation on some tools.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -215,16 +215,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6fb9eec4fa5044fa",
+  "active": "6b8f4cd3a9c02ea1",
   "lastOpenFiles": [
+    "2 Science and technology/Software engineering.md",
+    "1 Miscellaneous/Documentation on some tools.md",
+    "_Notes/Using LATEX.md",
     "Readwise/Articles/Passages Saved From Android - Highlights.md",
     "Readwise/Articles/Excel With These Money Hacks in the New Year - Highlights.md",
     "Assets/LaTeX-cheat-sheet.pdf",
     "_Notes/Amdahl's law.md",
-    "2 Science and technology/Software engineering.md",
     "1 Miscellaneous/Life Philosophies.md",
-    "1 Miscellaneous/How to use some tools?.md",
-    "_Notes/Using LATEX.md",
     "_Notes/Operating systems.md",
     "_Notes/Files.md",
     "_Notes/Virtual memory.md",
