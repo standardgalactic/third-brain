@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Byte ordering and addressing of objects stored in memory.md",
+                "file": "_Projects/Blogging checklist.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Byte ordering and addressing of objects stored in memory.md",
+                "file": "_Projects/Blogging checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Byte ordering and addressing of objects stored in memory.md",
+                "file": "_Projects/Blogging checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Byte ordering and addressing of objects stored in memory.md"
+                "file": "_Projects/Blogging checklist.md"
               }
             }
           },
@@ -236,11 +236,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4b0bb263e5d79822",
+  "active": "222819eab1648595",
   "lastOpenFiles": [
+    "_Projects/Selling Farad Books code.md",
+    "_Notes/Byte ordering and addressing of objects stored in memory.md",
     "2 Science and technology/Software engineering.md",
     "_Notes/What are pointers.md",
-    "_Notes/Byte ordering and addressing of objects stored in memory.md",
     "Assets/Pasted image 20230410150424.png",
     "Assets/Pasted image 20230410150351.png",
     "Assets/Pasted image 20230410150324.png",

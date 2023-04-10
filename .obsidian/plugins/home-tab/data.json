@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_Notes/Blogging checklist.md",
+      "timestamp": 1681123706435
+    },
+    {
+      "filepath": "_Projects/Selling Farad Books code.md",
+      "timestamp": 1681123699801
+    },
+    {
       "filepath": "_Notes/Byte ordering and addressing of objects stored in memory.md",
       "timestamp": 1681119646945
-    },
-    {
-      "filepath": "2 Science and technology/Software engineering.md",
-      "timestamp": 1681119615709
-    },
-    {
-      "filepath": "_Notes/What are pointers.md",
-      "timestamp": 1681119495085
     }
   ],
   "starredFileStore": [],
