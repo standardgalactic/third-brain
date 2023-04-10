@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "_Notes/Byte ordering and addressing of objects stored in memory.md",
-      "timestamp": 1681118952690
+      "timestamp": 1681119646945
     },
     {
       "filepath": "2 Science and technology/Software engineering.md",
-      "timestamp": 1681118732923
+      "timestamp": 1681119615709
+    },
+    {
+      "filepath": "_Notes/What are pointers.md",
+      "timestamp": 1681119495085
     }
   ],
   "starredFileStore": [],

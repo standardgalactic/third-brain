@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "_Notes/Byte ordering and addressing of objects stored in memory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "3a6a0522b415d038",
+            "id": "85d03c99e227ece8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Byte ordering and addressing of objects stored in memory.md",
+                "file": "_Notes/What are pointers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,16 +236,21 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3a6a0522b415d038",
+  "active": "222819eab1648595",
   "lastOpenFiles": [
-    "_Notes/Little endian.md",
-    "_Notes/Byte ordering and addressing of objects stored in memory.md",
     "2 Science and technology/Software engineering.md",
+    "_Notes/What are pointers.md",
+    "_Notes/Byte ordering and addressing of objects stored in memory.md",
+    "Assets/Pasted image 20230410150424.png",
+    "Assets/Pasted image 20230410150351.png",
+    "Assets/Pasted image 20230410150324.png",
+    "Assets/Pasted image 20230410150313.png",
+    "Assets/Pasted image 20230410150251.png",
+    "_Notes/Little endian.md",
     "_Notes/Example of a bug that can arise when migrating 32-bit programs to 64-bit.md",
     "_Notes/Typical sizes of basic C data types.md",
     "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
     "_Notes/Processes.md",
-    "_Notes/What are pointers.md",
     "Templates/Information with attachments.md",
     "Templates/Information.md",
     "_Notes/Virtual memory.md",
@@ -264,7 +269,6 @@
     "_Quotes/Personal experience make up infinitesimal of reality - Quote.md",
     "_Quotes/Jonah Berger on feeling in control - Quote.md",
     "_Quotes/Everyone has a unique experience - Quote.md",
-    "_Quotes/Dont risk everything in pursuit of wealth - Quote.md",
     "_Quotes",
     "_Projects",
     "_Fleeting notes",
@@ -279,11 +283,6 @@
     "Assets/emergency-fund-risk.jpeg",
     "Assets/Pasted image 20230408084919.png",
     "Assets/Pasted image 20230407093812.png",
-    "Assets/Pasted image 20230407093503.png",
-    "Assets/Pasted image 20230407092746.png",
-    "Assets/Pasted image 20230407092439.png",
-    "Assets/Pasted image 20230407091633.png",
-    "Assets/Pasted image 20230407090631.png",
     "Readwise/Articles/Untitled.canvas"
   ]
 }
