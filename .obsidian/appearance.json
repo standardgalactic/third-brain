@@ -1,8 +1,8 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Sanctum",
+  "cssTheme": "Pink Topaz",
   "baseFontSize": 14,
-  "accentColor": "#d9d3d7",
+  "accentColor": "#d3279a",
   "nativeMenus": true,
   "translucency": true
 }

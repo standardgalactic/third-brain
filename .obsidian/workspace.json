@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e18b10c3300e97cb",
+        "id": "48f10eb060eca9c6",
         "type": "tabs",
         "children": [
           {
-            "id": "5afebabee2a1ed5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Science and technology/Software engineering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c1bf0b7161881ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Amdahl's law.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b8f4cd3a9c02ea1",
+            "id": "4a1a68e0dfdf99fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,20 +21,58 @@
             }
           },
           {
-            "id": "6fb9eec4fa5044fa",
+            "id": "31ee99ee26a660da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Using LATEX.md",
-                "mode": "preview",
+                "file": "_Notes/Aligning equations in LaTex.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56a771522ab5daca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Adding space between normal text - LaTex.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2c533f34978b0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Block equation in LaTex.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef76b61b6ea3ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Inline equation in LaTex.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,54 +227,54 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6b8f4cd3a9c02ea1",
+  "active": "4b0bb263e5d79822",
   "lastOpenFiles": [
-    "2 Science and technology/Software engineering.md",
-    "1 Miscellaneous/Documentation on some tools.md",
     "_Notes/Using LATEX.md",
-    "Readwise/Articles/Passages Saved From Android - Highlights.md",
-    "Readwise/Articles/Excel With These Money Hacks in the New Year - Highlights.md",
-    "Assets/LaTeX-cheat-sheet.pdf",
-    "_Notes/Amdahl's law.md",
-    "1 Miscellaneous/Life Philosophies.md",
-    "_Notes/Operating systems.md",
-    "_Notes/Files.md",
-    "_Notes/Virtual memory.md",
-    "Assets/Pasted image 20230408084919.png",
-    "_Notes/Processes.md",
-    "_Notes/Untitled.md",
-    "_Notes/Birth of Unix.md",
-    "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
-    "_Notes/Operating system kernel.md",
-    "_Notes/Context switching by the OS.md",
-    "0 Finance/Financial philosophies and lessons.md",
-    "_Notes/Blogging checklist.md",
+    "1 Miscellaneous/Documentation on some tools.md",
+    "_Notes/LaTex cheat sheet.md",
+    "_Notes/Aligning equations in LaTex.md",
+    "_Notes/Adding space between normal text - LaTex.md",
+    "_Notes/Block equation in LaTex.md",
+    "_Notes/Inline equation in LaTex.md",
+    "_Notes/What is history useful for?.md",
+    "netlify.toml",
+    "_Quotes/Tomorrow will never the same as yesterday - Quote.md",
+    "_Quotes/You never switch off from modern day work - Quote.md",
+    "_Quotes/Personal experience make up infinitesimal of reality - Quote.md",
+    "_Quotes/Jonah Berger on feeling in control - Quote.md",
+    "_Quotes/Everyone has a unique experience - Quote.md",
+    "_Quotes/Dont risk everything in pursuit of wealth - Quote.md",
+    "_Quotes/Daniel Gilbert on End of History Illusion - Quote.md",
+    "_Quotes",
+    "_Projects/Things I have learnt at CLARK.md",
     "_Projects/Selling Farad Books code.md",
-    "_Notes/How is a computer program stored in memory.md",
-    "_Notes/About using cache memories.md",
-    "_Notes/The End of History Illusion.md",
+    "_Projects",
+    "_Notes/Why should we save money.md",
+    "_Notes/Why reasonable investor might have an edge over a rational investor.md",
+    "_Notes/Why people do not feel much happier even though we have more money.md",
+    "_Notes/Why do tail events have such immense impact.md",
+    "_Notes/Why do smart people disagree in their analyses, predictions.md",
+    "_Notes/Why do investors sell at the bottom of a bear market.md",
+    "_Notes/Why did the C programming language see so much success.md",
+    "_Notes/What may seem atrocious to you, may make sense to someone else.md",
+    "_Notes/Wealth is generally hidden.md",
+    "_Fleeting notes",
+    "_Areas/NodeJS",
+    "_Areas/Fitness",
+    "_Areas",
+    "Templates",
+    "Readwise/Other Sources",
+    "Readwise/Books",
+    "Assets/vim-substitution.gif",
+    "Assets/git_rebase.svg",
+    "Assets/emergency-fund-risk.jpeg",
+    "Assets/Pasted image 20230408084919.png",
     "Assets/Pasted image 20230407093812.png",
     "Assets/Pasted image 20230407093503.png",
     "Assets/Pasted image 20230407092746.png",
-    "_Notes/Lifecycle of running a program.md",
     "Assets/Pasted image 20230407092439.png",
     "Assets/Pasted image 20230407091633.png",
-    "Assets/Pasted image 20230407091152.png",
-    "Assets/Pasted image 20230407091104.png",
     "Assets/Pasted image 20230407090631.png",
-    "Assets/Pasted image 20230407090609.png",
-    "_Notes/Why did the C programming language see so much success.md",
-    "1 Miscellaneous/Events, anecdotes and facts.md",
-    "Templates/Information.md",
-    "Readwise/Other Sources",
-    "Assets/Randal E. Bryant, David R. O’Hallaron. Manasa S., Mohit Tahiliani (eds.) - Computer Systems A Programmer’s Perspective-Pearson (2016).pdf",
-    "config.js",
-    "netlify.toml",
-    "2 Science and technology",
-    "_Quotes",
-    "Assets/Depression babies.pdf",
-    "_Notes",
-    "10-19 Miscellaneous/11 Life philosophies",
     "Readwise/Articles/Untitled.canvas"
   ]
 }
