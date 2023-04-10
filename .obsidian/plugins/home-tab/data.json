@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "1 Miscellaneous/Documentation on some tools.md",
-      "timestamp": 1681115329291
+      "filepath": "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
+      "timestamp": 1681116620795
     },
     {
-      "filepath": "_Notes/Aligning equations in LaTex.md",
-      "timestamp": 1681115279712
+      "filepath": "_Notes/Processes.md",
+      "timestamp": 1681116581651
+    },
+    {
+      "filepath": "_Notes/What are pointers.md",
+      "timestamp": 1681116409632
     }
   ],
   "starredFileStore": [],

@@ -17,8 +17,11 @@
 ## Web
 - [[Difference between PUT and PATCH request]]
 
-## General
+## C language
 - [[Why did the C programming language see so much success]]
+- [[What are pointers]]
+
+## General
 - [[Birth of Unix]]
 - [[Amdahl's law]]
 
