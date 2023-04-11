@@ -21,12 +21,25 @@
             }
           },
           {
+            "id": "640f7c3c90dc21cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Logical right shifting of bit vector.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7c43595d3f47c89e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Arithmetic right shift.md",
+                "file": "_Notes/Arithmetic right shifting of bit vector.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Arithmetic right shift.md",
+                "file": "_Notes/Logical right shifting of bit vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Arithmetic right shift.md",
+                "file": "_Notes/Logical right shifting of bit vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Arithmetic right shift.md"
+                "file": "_Notes/Logical right shifting of bit vector.md"
               }
             }
           },
@@ -201,13 +214,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7c43595d3f47c89e",
+  "active": "640f7c3c90dc21cc",
   "lastOpenFiles": [
+    "_Notes/Arithmetic right shifting of bit vector.md",
+    "_Notes/Logical right shifting of bit vector.md",
     "_Notes/Boolean Algebra.md",
-    "_Notes/Arithmetic right shift.md",
+    "_Notes/LaTex cheat sheet.md",
     "_Notes/Right shift of binary vectors.md",
     "_Notes/Bit vectors.md",
-    "_Notes/LaTex cheat sheet.md",
     "2 Science and technology/Software engineering.md",
     "_Notes/Amdahl's law.md",
     "_Notes/Typical sizes of basic C data types.md",
@@ -233,7 +247,6 @@
     "_Notes/Aligning equations in LaTex.md",
     "_Notes/Adding space between normal text - LaTex.md",
     "_Notes/Block equation in LaTex.md",
-    "_Notes/Inline equation in LaTex.md",
     "netlify.toml",
     "_Quotes",
     "_Projects",

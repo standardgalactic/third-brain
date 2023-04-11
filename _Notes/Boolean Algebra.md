@@ -17,8 +17,8 @@ $$
 - Left shift
 - Right shift
 	- Two types of right shift:
-		- [[Logical right shift|Logical right shift]]
-		- [[Arithmetic right shift|Arithmetic right shift]]
+		- [[Logical right shifting of bit vector|Logical right shift]]
+		- [[Arithmetic right shifting of bit vector|Arithmetic right shift]]
 
 ## Sources
 - [[Computer Systems - A Programmer's Perspective]]
