@@ -1,0 +1,6 @@
+- [x] Look for a way for canonical URL in hashnode
+- [x] Add the blog to Hashnode
+- [ ] Update links everywhere
+	- [ ] Github
+- [ ] Add commenting section to blog
+- [ ] 

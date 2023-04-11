@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projects/Blogging checklist.md",
+                "file": "_Projects/Selling Farad Books code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projects/Blogging checklist.md",
+                "file": "_Projects/Selling Farad Books code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projects/Blogging checklist.md",
+                "file": "_Projects/Selling Farad Books code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projects/Blogging checklist.md"
+                "file": "_Projects/Selling Farad Books code.md"
               }
             }
           },
@@ -236,8 +236,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "222819eab1648595",
+  "active": "f44df2bcee27d4e4",
   "lastOpenFiles": [
+    "_Projects/Blogging checklist.md",
     "_Projects/Selling Farad Books code.md",
     "_Notes/Byte ordering and addressing of objects stored in memory.md",
     "2 Science and technology/Software engineering.md",
@@ -269,7 +270,6 @@
     "_Quotes/You never switch off from modern day work - Quote.md",
     "_Quotes/Personal experience make up infinitesimal of reality - Quote.md",
     "_Quotes/Jonah Berger on feeling in control - Quote.md",
-    "_Quotes/Everyone has a unique experience - Quote.md",
     "_Quotes",
     "_Projects",
     "_Fleeting notes",
