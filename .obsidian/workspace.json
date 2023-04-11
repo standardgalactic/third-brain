@@ -194,7 +194,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "640f7c3c90dc21cc",
+  "active": "4b0bb263e5d79822",
   "lastOpenFiles": [
     "_Notes/Arithmetic right shifting of bit vector.md",
     "_Notes/Logical right shifting of bit vector.md",
