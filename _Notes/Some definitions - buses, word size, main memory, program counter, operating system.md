@@ -11,7 +11,7 @@
 ### Impact of word size on size of virtual address space
 - Since the [[Virtual memory|virtual address space]] is encoded by such words, the maximum size of the virtual address space.
 - For a $w$-bit word size, the virtual addresses can range from `0` to $2^w - 1$, giving the program access to $2^w$ bytes.
-	- For example, for a 32-bit system , the word size is 32 bit. Therefore, the maximum size of the virtual memory can be $2^{32}\ \text{bytes} = 4\ \text{GB}$
+	- For example, for a 32-bit system , the word size is 32 bit. Therefore, the maximum size of the [[virtual memory]] can be $2^{32}\ \text{bytes} = 4\ \text{GB}$
 
 ## Main memory
 - Temporary storage that holds both the program code and the data it works on.

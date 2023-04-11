@@ -26,6 +26,7 @@
 - [[Birth of Unix]]
 - [[Amdahl's law]]
 - [[Example of a bug that can arise when migrating 32-bit programs to 64-bit]]
+- [[Boolean Algebra]]
 
 ## Computer systems
 - [[How is a computer program stored in memory]]
