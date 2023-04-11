@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48f10eb060eca9c6",
+        "id": "d373981bf386eb42",
         "type": "tabs",
         "children": [
           {
-            "id": "4a1a68e0dfdf99fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Science and technology/Software engineering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88ec3329be84742f",
+            "id": "8cd1d8089f96835f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "85d03c99e227ece8",
+            "id": "7c43595d3f47c89e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/What are pointers.md",
+                "file": "_Notes/Arithmetic right shift.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,25 +34,12 @@
             }
           },
           {
-            "id": "1d297cf3447c9ce0",
+            "id": "36f304723409be95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Example of a bug that can arise when migrating 32-bit programs to 64-bit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f4b56aa45d96783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Typical sizes of basic C data types.md",
+                "file": "_Notes/Right shift of binary vectors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Boolean Algebra.md",
+                "file": "_Notes/Arithmetic right shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Boolean Algebra.md",
+                "file": "_Notes/Arithmetic right shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Boolean Algebra.md"
+                "file": "_Notes/Arithmetic right shift.md"
               }
             }
           },
@@ -206,14 +180,6 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "57cf9a121fcfadd0",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -235,14 +201,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "88ec3329be84742f",
+  "active": "7c43595d3f47c89e",
   "lastOpenFiles": [
-    "_Notes/Amdahl's law.md",
     "_Notes/Boolean Algebra.md",
+    "_Notes/Arithmetic right shift.md",
+    "_Notes/Right shift of binary vectors.md",
+    "_Notes/Bit vectors.md",
+    "_Notes/LaTex cheat sheet.md",
     "2 Science and technology/Software engineering.md",
+    "_Notes/Amdahl's law.md",
     "_Notes/Typical sizes of basic C data types.md",
     "_Notes/What are pointers.md",
-    "_Notes/LaTex cheat sheet.md",
     "_Notes/Virtual memory.md",
     "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
     "_Projects/Selling Farad Books code.md",
@@ -265,10 +234,7 @@
     "_Notes/Adding space between normal text - LaTex.md",
     "_Notes/Block equation in LaTex.md",
     "_Notes/Inline equation in LaTex.md",
-    "_Notes/What is history useful for?.md",
     "netlify.toml",
-    "_Quotes/Tomorrow will never the same as yesterday - Quote.md",
-    "_Quotes/You never switch off from modern day work - Quote.md",
     "_Quotes",
     "_Projects",
     "_Fleeting notes",
