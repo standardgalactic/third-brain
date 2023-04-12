@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_Notes/Boolean Algebra.md",
+      "timestamp": 1681199193609
+    },
+    {
       "filepath": "_Notes/Logical right shifting of bit vector.md",
       "timestamp": 1681197513892
     },
     {
       "filepath": "_Notes/Arithmetic right shifting of bit vector.md",
       "timestamp": 1681197506535
-    },
-    {
-      "filepath": "_Notes/Boolean Algebra.md",
-      "timestamp": 1681197488502
     }
   ],
   "starredFileStore": [],

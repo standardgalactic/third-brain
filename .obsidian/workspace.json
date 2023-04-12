@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d373981bf386eb42",
+        "id": "4e2b3f0caccb252f",
         "type": "tabs",
         "children": [
           {
-            "id": "8cd1d8089f96835f",
+            "id": "48fc85526a79b325",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Boolean Algebra.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "640f7c3c90dc21cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Logical right shifting of bit vector.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c43595d3f47c89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Arithmetic right shifting of bit vector.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36f304723409be95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Right shift of binary vectors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Logical right shifting of bit vector.md",
+                "file": "_Notes/Boolean Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Logical right shifting of bit vector.md",
+                "file": "_Notes/Boolean Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Logical right shifting of bit vector.md"
+                "file": "_Notes/Boolean Algebra.md"
               }
             }
           },
@@ -215,10 +170,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4b0bb263e5d79822",
+  "active": "48fc85526a79b325",
   "lastOpenFiles": [
-    "_Notes/Arithmetic right shifting of bit vector.md",
     "_Notes/Logical right shifting of bit vector.md",
+    "_Notes/Arithmetic right shifting of bit vector.md",
     "_Notes/Boolean Algebra.md",
     "_Notes/LaTex cheat sheet.md",
     "_Notes/Right shift of binary vectors.md",
