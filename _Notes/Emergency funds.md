@@ -14,7 +14,12 @@
 - Try to get hold of flexi-FDs that allow you to sweep out a part of the total deposited amount. This will allow you to withdraw just the amount you need, rather than breaking the entire deposit.
 
 ### Alternative option - short term debt funds
-- If you are familiar with mutual funds, then you can also park the em
+- If you are familiar with mutual funds, then you can also park the emergency fund in a short term debt fund.
+
+#### Advantages of short term debt fund over FDs
+- More liquid than a FD
+- Better rate of interest
+- Lower tax incidence → Higher post tax return
 
 ## Attachments
 - 

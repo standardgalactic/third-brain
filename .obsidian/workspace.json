@@ -14,14 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Emergency funds.md",
+                "file": "0 Finance/Investments and Personal Finance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e6893422b79ef8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Health insurance (Mediclaim).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fa2a4a2b8476ea52",
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Emergency funds.md",
+                "file": "_Notes/Health insurance (Mediclaim).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Emergency funds.md",
+                "file": "_Notes/Health insurance (Mediclaim).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Emergency funds.md"
+                "file": "_Notes/Health insurance (Mediclaim).md"
               }
             }
           },
@@ -205,12 +219,14 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e70cdd2fa5d407ef",
+  "active": "5e6893422b79ef8b",
   "lastOpenFiles": [
-    "Readwise/Books/Let's Talk Money - Highlights.md",
-    "_Notes/Emergency funds.md",
-    "0 Finance/Financial philosophies and lessons.md",
     "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Third-party agent (TPA) service.md",
+    "_Notes/Health insurance (Mediclaim).md",
+    "Readwise/Books/Let's Talk Money - Highlights.md",
+    "0 Finance/Financial philosophies and lessons.md",
+    "_Notes/Emergency funds.md",
     "Templates/Information.md",
     "_Notes/Mental accounting.md",
     "_Notes/Learn to stay wealthy from Warren Buffet.md",
@@ -239,9 +255,7 @@
     "_Notes/Encoding signed integers as binary.md",
     "Assets/Pasted image 20230412123431.png",
     "Assets/Pasted image 20230412123234.png",
-    "_Notes/Encoding unsigned integers as binary.md",
     "Assets/Pasted image 20230412115241.png",
-    "_Notes/LaTex cheat sheet.md",
     "Assets/Pasted image 20230410150424.png",
     "Assets/Pasted image 20230410150351.png",
     "netlify.toml",
