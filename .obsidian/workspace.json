@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "eecff426da6b9e53",
+            "id": "fc11664629b8a01d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/How should history be used to take financial decisions.md",
+                "file": "_Projects/Women in Programming.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/How should history be used to take financial decisions.md",
+                "file": "_Projects/Women in Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/How should history be used to take financial decisions.md",
+                "file": "_Projects/Women in Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/How should history be used to take financial decisions.md"
+                "file": "_Projects/Women in Programming.md"
               }
             }
           },
@@ -220,8 +219,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "fd7bc6c68a3f606e",
+  "active": "fc11664629b8a01d",
   "lastOpenFiles": [
+    "Templates/Blog.md",
+    "_Projects/Women in Programming.md",
+    "_Projects/Selling Farad Books code.md",
+    "_Notes/How should history be used to take financial decisions.md",
     "_Notes/Richard Fuscone - brilliant, but greedy.md",
     "_Notes/Operating system kernel.md",
     "_Notes/Germany struggled to produce enough food after World War 2.md",
@@ -253,10 +256,6 @@
     "_Notes/Boolean Algebra.md",
     "_Notes/Right shift of binary vectors.md",
     "_Notes/Bit vectors.md",
-    "_Notes/Amdahl's law.md",
-    "_Notes/What are pointers.md",
-    "_Notes/Virtual memory.md",
-    "_Notes/Some definitions - buses, word size, main memory, program counter, operating system.md",
     "Assets/Pasted image 20230410150424.png",
     "Assets/Pasted image 20230410150351.png",
     "netlify.toml",
