@@ -15,6 +15,17 @@ $$
 ## Visual help
 ![[Pasted image 20230412115241.png]]
 
+## Range of values
+- If we have a bit vector $\vec{x}$ of word length, $w$ bits.
+- The least value that can be represented is given by $\vec{x} = [00\cdots 00]$, which represents the integer $0$.
+- The maximum value can be represented by $\vec{x} = [11 \cdots 11]$ which represents the integer:
+$$
+UMax_w = \sum_{i = 0}^{w-1}2^i = 2^w - 1
+$$
+
+### Example
+- When $w=4$, $UMax_4 = 2^4 - 1 = 15$
+
 ## Sources
 - [[Computer Systems - A Programmer's Perspective]]
 
