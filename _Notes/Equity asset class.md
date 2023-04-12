@@ -35,6 +35,11 @@
 ### Choose a product where exit is cheap and easy
 - **Portability**: You should be able to port your money to a better fund manager for a very tiny cost if you are unhappy with the existing one.
 
+## How to invest in managed funds
+- Learn more about the funds in the market
+- Read through Mint50.
+- Go through Value Research data and Morningstar ratings.
+
 ## Sources
 - [[Let's Talk Money - Highlights]]
 

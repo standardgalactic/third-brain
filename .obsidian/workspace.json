@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "fa2a4a2b8476ea52",
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Equity asset class.md",
+                "file": "0 Finance/Investments and Personal Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Equity asset class.md",
+                "file": "0 Finance/Investments and Personal Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Equity asset class.md"
+                "file": "0 Finance/Investments and Personal Finance.md"
               }
             }
           },
@@ -233,7 +232,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "fae9d81f08e3eb8d",
+  "active": "e70cdd2fa5d407ef",
   "lastOpenFiles": [
     "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/Equity asset class.md",

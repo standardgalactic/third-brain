@@ -12,6 +12,7 @@
 - [[Higher the return, higher the risk]]
 - [[Investing in gold]]
 - [[Investing in real estate]]
+- [[Equity asset class|Investing in equity]]
 - [[Thumb rule to decide on debt allocation in your portfolio]]
 
 ### Indices in the market and related
