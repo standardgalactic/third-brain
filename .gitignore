@@ -4,3 +4,5 @@
 
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
 .smart-connections
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/smart-connections/data.json
