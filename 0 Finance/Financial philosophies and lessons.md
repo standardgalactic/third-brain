@@ -45,10 +45,6 @@
 - [[Do not get influenced by the actions of others]]
 - [[Beware of the story that we tell ourselves]]
 
-## Thumb rules and hacks
-- [[Mental accounting]]
-- [[Percentage of income allowed for EMI]]
-
 ## Others
 - [[Be more forgiving - topic of finance is new]]
 - [[Factors that influence our decisions with money]]
@@ -61,6 +57,7 @@
 - [[Everyone is playing a different game]]
 - [[Market bubbles]]
 - [[We do not understand how the world works]]
+- [[Mental accounting]]
 
 ## Research
 - [[Depression Babies - Do Macro-economic Experiences Affect Risk-Taking]]

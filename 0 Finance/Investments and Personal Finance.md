@@ -5,5 +5,6 @@
 
 ## Personal finance planning
 - [[Emergency funds]]
+- [[Percentage of income allowed for EMI]]
 
 ## Quotes
