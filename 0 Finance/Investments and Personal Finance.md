@@ -6,18 +6,25 @@
 ## Personal finance planning
 - [[Emergency funds]]
 
+### Investments
+- [[Asset classes]] 
+- [[Higher the return, higher the risk]]
+
 ### Insurances
 - [[Health insurance (Mediclaim)]]
 - [[Life insurance (Term insurance)]]
 - [[Insurance cover for loans]]
+- [[About the insurance industry]]
+- [[Thumb rule to calculate the life insurance cover amount]]
 
 ## Tips and advices
 - [[Percentage of income allowed for EMI]]
-- [[About the insurance industry]]
 - [[Thumb rule to calculate rate of interest - Rule of 72]]
-- [[Thumb rule to calculate the life insurance cover amount]]
+- [[Purpose of a financial product]]
+- [[System of setting goals and creating buckets]]
 
 ## Terms
 - [[Third-party agent (TPA) service]]
+- [[Meaning of financial freedom]]
 
 ## Quotes

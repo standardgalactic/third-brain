@@ -18,11 +18,23 @@
 - Think of the amount of money that they will need to put in a fixed deposit to generate a regular income (to support those expenses)
 - Use [[Thumb rule to calculate the life insurance cover amount]]
 
+## When NOT to buy a term cover
+- If you have $0$ dependents on your income, you don't need a life insurance, since there will be nobody to miss your income
+- If you are [[Meaning of financial freedom|financially free]], you do not need a term cover.
+
+## You can terminate your term insurance
+- The job of the life insurance cover is to serve you till you are debt-free and financially independent
+- The moment that happens you can stop your term insurance. You lose nothing if you terminate it.
+
 ## Additions to life insurance
 - [[Insurance cover for loans]]
 
-## What to look for when buying this insurance?
-
+## When buying a policy
+- Policy should be a mix of a cheap plan from a company known to honour its claims
+- The premium of the policy gets locked to the price at the time of buying
+- **Buy online** - Cheapest, due to absence of agent commission
+- Check the claims experience of the insurance firm
+	- Claims experience should be more than 95%. This means that the company pays more than 95% of the claims filed.
 
 ## Sources
 - [[Let's Talk Money - Highlights]]

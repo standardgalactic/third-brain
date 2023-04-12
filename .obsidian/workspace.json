@@ -22,19 +22,72 @@
             }
           },
           {
-            "id": "9432b921e95a3d74",
+            "id": "4f04730589dc54b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Life insurance (Term insurance).md",
+                "file": "_Notes/Asset classes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dc7aa59bfbd0dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Debt asset class.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e124ea2f4041c20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/System of setting goals and creating buckets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f7c0a1784c0268d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Real assets - Asset class.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c97bb3ddf27e6277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Purpose of a financial product.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "fa2a4a2b8476ea52",
@@ -121,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Finance/Investments and Personal Finance.md",
+                "file": "_Notes/Real assets - Asset class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Finance/Investments and Personal Finance.md",
+                "file": "_Notes/Real assets - Asset class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Finance/Investments and Personal Finance.md"
+                "file": "_Notes/Real assets - Asset class.md"
               }
             }
           },
@@ -218,17 +271,25 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e70cdd2fa5d407ef",
+  "active": "1f7c0a1784c0268d",
   "lastOpenFiles": [
+    "_Notes/Debt asset class.md",
+    "_Notes/System of setting goals and creating buckets.md",
+    "_Notes/Asset classes.md",
+    "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Higher the return, higher the risk.md",
+    "_Notes/Real assets - Asset class.md",
+    "_Notes/Equity asset class.md",
+    "Readwise/Books/Let's Talk Money - Highlights.md",
+    "_Notes/Purpose of a financial product.md",
+    "_Notes/Meaning of financial freedom.md",
     "_Notes/Life insurance (Term insurance).md",
     "_Notes/Insurance cover for loans.md",
-    "0 Finance/Investments and Personal Finance.md",
     "_Notes/Thumb rule to calculate the life insurance cover amount.md",
     "_Notes/Thumb rule to calculate rate of interest - Rule of 72.md",
     "_Notes/LaTex cheat sheet.md",
     "_Notes/About the insurance industry.md",
     "_Notes/Health insurance (Mediclaim).md",
-    "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/Third-party agent (TPA) service.md",
     "0 Finance/Financial philosophies and lessons.md",
     "_Notes/Emergency funds.md",
@@ -238,14 +299,6 @@
     "_Notes/India’s municipal corporations.md",
     "_Projects/Women in Programming.md",
     "Templates/Blog.md",
-    "_Projects/Selling Farad Books code.md",
-    "_Notes/How should history be used to take financial decisions.md",
-    "_Notes/Richard Fuscone - brilliant, but greedy.md",
-    "_Notes/Operating system kernel.md",
-    "_Notes/Germany struggled to produce enough food after World War 2.md",
-    "_Notes/Files.md",
-    "_Notes/Experience leads to overconfidence more than forecasting ability.md",
-    "_Notes/Finance is driven by people behaviour.md",
     "Untitled.canvas",
     "Assets/Pasted image 20230412125235.png",
     "Assets/Pasted image 20230412124828.png",
