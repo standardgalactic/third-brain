@@ -6,7 +6,7 @@
       {
         "id": "4273131c7cb07f4d",
         "type": "tabs",
-        "dimension": 39.326647564469916,
+        "dimension": 49.082256968048945,
         "children": [
           {
             "id": "e70cdd2fa5d407ef",
@@ -22,25 +22,24 @@
             }
           },
           {
-            "id": "5e6893422b79ef8b",
+            "id": "9432b921e95a3d74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Health insurance (Mediclaim).md",
+                "file": "_Notes/Life insurance (Term insurance).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa2a4a2b8476ea52",
         "type": "tabs",
-        "dimension": 60.673352435530084,
+        "dimension": 50.917743031951055,
         "children": [
           {
             "id": "0ca63d0667bdc085",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Health insurance (Mediclaim).md",
+                "file": "0 Finance/Investments and Personal Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Health insurance (Mediclaim).md",
+                "file": "0 Finance/Investments and Personal Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Health insurance (Mediclaim).md"
+                "file": "0 Finance/Investments and Personal Finance.md"
               }
             }
           },
@@ -219,11 +218,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "5e6893422b79ef8b",
+  "active": "e70cdd2fa5d407ef",
   "lastOpenFiles": [
-    "Readwise/Books/Let's Talk Money - Highlights.md",
-    "_Notes/Health insurance (Mediclaim).md",
+    "_Notes/Life insurance (Term insurance).md",
+    "_Notes/Insurance cover for loans.md",
     "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Thumb rule to calculate the life insurance cover amount.md",
+    "_Notes/Thumb rule to calculate rate of interest - Rule of 72.md",
+    "_Notes/LaTex cheat sheet.md",
+    "_Notes/About the insurance industry.md",
+    "_Notes/Health insurance (Mediclaim).md",
+    "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/Third-party agent (TPA) service.md",
     "0 Finance/Financial philosophies and lessons.md",
     "_Notes/Emergency funds.md",
@@ -242,17 +247,11 @@
     "_Notes/Experience leads to overconfidence more than forecasting ability.md",
     "_Notes/Finance is driven by people behaviour.md",
     "Untitled.canvas",
-    "_Notes/Keep a margin of safety when planning.md",
-    "Readwise/Books/The Mom Test.md",
     "Assets/Pasted image 20230412125235.png",
-    "_Notes/Typical sizes of basic C data types.md",
     "Assets/Pasted image 20230412124828.png",
     "Assets/Pasted image 20230412124731.png",
-    "2 Science and technology/Software engineering.md",
-    "_Notes/Representing different data types in binary.md",
     "Assets/Pasted image 20230412124455.png",
     "Assets/Pasted image 20230412124420.png",
-    "_Notes/Encoding signed integers as binary.md",
     "Assets/Pasted image 20230412123431.png",
     "Assets/Pasted image 20230412123234.png",
     "Assets/Pasted image 20230412115241.png",

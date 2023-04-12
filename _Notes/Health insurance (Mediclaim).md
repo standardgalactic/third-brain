@@ -33,6 +33,9 @@
 - Many companies have a cool-off period of 30 to 90 days during which they will not pay any claim.
 - Some ailments such as cataract or hernia may have a special "waiting period" before the company will pay
 
+### Intent of the insurance company
+- The intent of the insurance company is **NOT TO PAY**
+
 ## Tips
 - Generally, a policy will cover doctor's fees, medicines and diagnostic tests done 3 months before and after hospitalization
 
@@ -62,7 +65,22 @@
 - Typically, Rs 10 lakh policy should cost Rs 3000-5000.
 
 ### Riders
-- Try to buy a stand-alone accident policy from a general insurer instead of rider add-on to the basic policy.
+- Try to buy a stand-alone accident policy from a general insurer instead of rider add-on to the basic policy. Why?
+	- The cover is likely to be more comprehensive.
+	- The cover will not lapse if you discontinue your basic policy
+
+### Accidental cover
+- This kind of policy gives you a lump sum if you meet with an accident that leaves you temporarily or permanently disabled.
+- A personal accident policy has 4 covers:
+| Type of cover                | Compensation (Typical scenarios)         |
+| ---------------------------- | ----------------------- |
+| Death                        | Entire sum assured      |
+| Permanent disability         | Entire sum assured      |
+| Permanent partial disability | Part of the sum assured |
+| Temporary total disability   | Weekly compensation (usually up to 104 weeks)                        |
+
+## How much insurance cover should you get?
+- Depends on your health and how much you feel confident about your health and the future.
 
 ## How to find the best insurance provider?
 ### Theoretical advice
