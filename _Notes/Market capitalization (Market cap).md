@@ -20,4 +20,5 @@
 - [[Let's Talk Money - Highlights]]
 
 ## Related Notes
-- 
+- [[Sensex]]
+- [[Other types of indices in the market]]

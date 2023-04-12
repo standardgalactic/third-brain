@@ -8,6 +8,7 @@
 
 ### Investments
 - [[Asset classes]] 
+	- [[Comparing different asset classes]]
 - [[Higher the return, higher the risk]]
 - [[Investing in gold]]
 - [[Investing in real estate]]

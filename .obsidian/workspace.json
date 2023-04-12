@@ -22,38 +22,12 @@
             }
           },
           {
-            "id": "4972feca1647aef7",
+            "id": "05989054679b680d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Other types of indices in the market.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "044158a08e2e5f8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Sensex.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbf41c1dd30493ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Market capitalization (Market cap).md",
+                "file": "_Notes/Comparing different asset classes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "fa2a4a2b8476ea52",
@@ -123,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "time",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -140,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Other types of indices in the market.md",
+                "file": "_Notes/Equity asset class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Other types of indices in the market.md",
+                "file": "_Notes/Equity asset class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Other types of indices in the market.md"
+                "file": "_Notes/Equity asset class.md"
               }
             }
           },
@@ -258,20 +233,21 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "4972feca1647aef7",
+  "active": "fae9d81f08e3eb8d",
   "lastOpenFiles": [
-    "0 Finance/Investments and Personal Finance.md",
-    "_Notes/Other types of indices in the market.md",
-    "_Notes/Market capitalization (Market cap).md",
-    "_Notes/Sensex.md",
+    "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/Equity asset class.md",
+    "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Comparing different asset classes.md",
+    "_Notes/Other types of indices in the market.md",
+    "_Notes/Sensex.md",
+    "_Notes/Market capitalization (Market cap).md",
     "_Notes/Market bubbles.md",
     "_Notes/Debt asset class.md",
     "_Notes/Real assets - Asset class.md",
     "_Notes/Investing in real estate.md",
     "_Notes/Meaning of the term - underlying.md",
     "_Notes/Thumb rule to decide on debt allocation in your portfolio.md",
-    "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/Investing in gold.md",
     "_Notes/Asset classes.md",
     "_Notes/System of setting goals and creating buckets.md",
@@ -285,7 +261,6 @@
     "_Notes/LaTex cheat sheet.md",
     "_Notes/About the insurance industry.md",
     "_Notes/Health insurance (Mediclaim).md",
-    "_Notes/Third-party agent (TPA) service.md",
     "Untitled.canvas",
     "Assets/Pasted image 20230412125235.png",
     "Assets/Pasted image 20230412124828.png",
