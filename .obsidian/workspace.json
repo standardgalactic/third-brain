@@ -11,11 +11,43 @@
             "id": "48fc85526a79b325",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 Science and technology/Software engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5fd2b848948671d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Representing different data types in binary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f54849f2dddc303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Encoding unsigned integers as binary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Boolean Algebra.md",
+                "file": "_Notes/Encoding unsigned integers as binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Boolean Algebra.md",
+                "file": "_Notes/Encoding unsigned integers as binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Boolean Algebra.md"
+                "file": "_Notes/Encoding unsigned integers as binary.md"
               }
             }
           },
@@ -150,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,15 +202,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "48fc85526a79b325",
+  "active": "8f54849f2dddc303",
   "lastOpenFiles": [
+    "_Notes/Representing different data types in binary.md",
+    "_Notes/Encoding unsigned integers as binary.md",
+    "2 Science and technology/Software engineering.md",
+    "_Notes/How is a computer program stored in memory.md",
     "_Notes/Logical right shifting of bit vector.md",
     "_Notes/Arithmetic right shifting of bit vector.md",
     "_Notes/Boolean Algebra.md",
     "_Notes/LaTex cheat sheet.md",
     "_Notes/Right shift of binary vectors.md",
     "_Notes/Bit vectors.md",
-    "2 Science and technology/Software engineering.md",
     "_Notes/Amdahl's law.md",
     "_Notes/Typical sizes of basic C data types.md",
     "_Notes/What are pointers.md",
@@ -200,9 +235,6 @@
     "_Notes/Operating systems.md",
     "1 Miscellaneous/Documentation on some tools.md",
     "_Notes/Using LATEX.md",
-    "_Notes/Aligning equations in LaTex.md",
-    "_Notes/Adding space between normal text - LaTex.md",
-    "_Notes/Block equation in LaTex.md",
     "netlify.toml",
     "_Quotes",
     "_Projects",

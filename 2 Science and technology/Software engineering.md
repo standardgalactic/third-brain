@@ -29,11 +29,14 @@
 - [[Boolean Algebra]]
 
 ## Computer systems
-- [[How is a computer program stored in memory]]
-- [[Same data bits can mean different things in different context]]
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]
 - [[Lifecycle of running a program]]
 - [[About using cache memories]]
 - [[Operating systems]]
+
+### Data representations
 - [[Byte ordering and addressing of objects stored in memory]]
 - [[Bit vectors]]
+- [[Same data bits can mean different things in different context]]
+- [[How is a computer program stored in memory]]
+- [[Representing different data types in binary]]

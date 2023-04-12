@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Notes/Boolean Algebra.md",
-      "timestamp": 1681199193609
+      "filepath": "_Notes/Encoding unsigned integers as binary.md",
+      "timestamp": 1681274002332
     },
     {
-      "filepath": "_Notes/Logical right shifting of bit vector.md",
-      "timestamp": 1681197513892
+      "filepath": "_Notes/Representing different data types in binary.md",
+      "timestamp": 1681273758826
     },
     {
-      "filepath": "_Notes/Arithmetic right shifting of bit vector.md",
-      "timestamp": 1681197506535
+      "filepath": "2 Science and technology/Software engineering.md",
+      "timestamp": 1681273728527
     }
   ],
   "starredFileStore": [],
