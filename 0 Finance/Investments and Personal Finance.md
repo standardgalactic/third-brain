@@ -9,6 +9,14 @@
 ### Investments
 - [[Asset classes]] 
 - [[Higher the return, higher the risk]]
+- [[Investing in gold]]
+- [[Investing in real estate]]
+- [[Thumb rule to decide on debt allocation in your portfolio]]
+
+### Indices in the market and related
+- [[Sensex]]
+- [[Market capitalization (Market cap)]]
+- [[Other types of indices in the market]]
 
 ### Insurances
 - [[Health insurance (Mediclaim)]]
@@ -22,6 +30,7 @@
 - [[Thumb rule to calculate rate of interest - Rule of 72]]
 - [[Purpose of a financial product]]
 - [[System of setting goals and creating buckets]]
+- [[Meaning of the term - underlying]]
 
 ## Terms
 - [[Third-party agent (TPA) service]]

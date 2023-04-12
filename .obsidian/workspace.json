@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "4f04730589dc54b7",
+            "id": "4972feca1647aef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Asset classes.md",
+                "file": "_Notes/Other types of indices in the market.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "3dc7aa59bfbd0dcc",
+            "id": "044158a08e2e5f8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Debt asset class.md",
+                "file": "_Notes/Sensex.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "8e124ea2f4041c20",
+            "id": "dbf41c1dd30493ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/System of setting goals and creating buckets.md",
+                "file": "_Notes/Market capitalization (Market cap).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,25 +61,12 @@
             }
           },
           {
-            "id": "1f7c0a1784c0268d",
+            "id": "fae9d81f08e3eb8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Real assets - Asset class.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c97bb3ddf27e6277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Purpose of a financial product.md",
+                "file": "_Notes/Equity asset class.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "fa2a4a2b8476ea52",
@@ -136,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:_Notes/",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -174,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Real assets - Asset class.md",
+                "file": "_Notes/Other types of indices in the market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Real assets - Asset class.md",
+                "file": "_Notes/Other types of indices in the market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Real assets - Asset class.md"
+                "file": "_Notes/Other types of indices in the market.md"
               }
             }
           },
@@ -271,17 +258,25 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1f7c0a1784c0268d",
+  "active": "4972feca1647aef7",
   "lastOpenFiles": [
-    "_Notes/Debt asset class.md",
-    "_Notes/System of setting goals and creating buckets.md",
-    "_Notes/Asset classes.md",
     "0 Finance/Investments and Personal Finance.md",
-    "_Notes/Higher the return, higher the risk.md",
-    "_Notes/Real assets - Asset class.md",
+    "_Notes/Other types of indices in the market.md",
+    "_Notes/Market capitalization (Market cap).md",
+    "_Notes/Sensex.md",
     "_Notes/Equity asset class.md",
+    "_Notes/Market bubbles.md",
+    "_Notes/Debt asset class.md",
+    "_Notes/Real assets - Asset class.md",
+    "_Notes/Investing in real estate.md",
+    "_Notes/Meaning of the term - underlying.md",
+    "_Notes/Thumb rule to decide on debt allocation in your portfolio.md",
     "Readwise/Books/Let's Talk Money - Highlights.md",
+    "_Notes/Investing in gold.md",
+    "_Notes/Asset classes.md",
+    "_Notes/System of setting goals and creating buckets.md",
     "_Notes/Purpose of a financial product.md",
+    "_Notes/Higher the return, higher the risk.md",
     "_Notes/Meaning of financial freedom.md",
     "_Notes/Life insurance (Term insurance).md",
     "_Notes/Insurance cover for loans.md",
@@ -291,14 +286,6 @@
     "_Notes/About the insurance industry.md",
     "_Notes/Health insurance (Mediclaim).md",
     "_Notes/Third-party agent (TPA) service.md",
-    "0 Finance/Financial philosophies and lessons.md",
-    "_Notes/Emergency funds.md",
-    "Templates/Information.md",
-    "_Notes/Mental accounting.md",
-    "_Notes/Learn to stay wealthy from Warren Buffet.md",
-    "_Notes/India’s municipal corporations.md",
-    "_Projects/Women in Programming.md",
-    "Templates/Blog.md",
     "Untitled.canvas",
     "Assets/Pasted image 20230412125235.png",
     "Assets/Pasted image 20230412124828.png",

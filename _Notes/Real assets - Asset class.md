@@ -1,5 +1,4 @@
-- Those that can be physically seen, like real estate and gold
-- Should not be more than 5-10% of your 
+- Those that can be physically seen, like [[Investing in real estate|real estate]] and [[Investing in gold|gold]]
 
 ## Sources
 - [[Let's Talk Money - Highlights]]

@@ -14,4 +14,4 @@
 - [[Let's Talk Money - Highlights]]
 
 ## Related Notes
-- 
+- [[Thumb rule to decide on debt allocation in your portfolio]] 
