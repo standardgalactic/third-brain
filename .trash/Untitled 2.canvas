@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"33443848fe5b6cc8fe9fd81e7b456e7c","x":0,"y":0,"width":400,"height":500,"color":"","type":"file","file":"_Notes/Being rich is different from feeling rich.md"},
+		{"id":"ff370e92766ea9a3b0eb7eb99ff9a954","x":450,"y":0,"width":400,"height":500,"color":"","type":"file","file":"_Notes/What may seem atrocious to you, may make sense to someone else.md"},
+		{"id":"65373ae4ef07fc1597539819be5fd439","x":900,"y":0,"width":400,"height":500,"color":"","type":"file","file":"_Notes/Grow your profits, cut your losses.md"},
+		{"id":"b2fb82204acdf39a31031086cc0ab7ea","x":0,"y":550,"width":400,"height":500,"color":"","type":"file","file":"_Notes/Example of a bug that can arise when migrating 32-bit programs to 64-bit.md"},
+		{"id":"5115f88b933911d589eb435a5ebe2296","x":450,"y":550,"width":400,"height":500,"color":"","type":"file","file":"_Notes/Unluckiness of Kent Evans, best friend of Bill Gates.md"},
+		{"id":"c4aaa7795cb7da3d23aba53f0d005a4e","x":900,"y":550,"width":400,"height":500,"color":"","type":"file","file":"_Notes/Why should we save money.md"},
+		{"id":"4e9fb3b0fba7b9c84bf7687e1609d9e4","x":0,"y":1100,"width":400,"height":500,"color":"","type":"file","file":"_Notes/Income Tax on Gifts.md"},
+		{"id":"3c7eabc21e2f15586f0e971f72e0f6c2","x":450,"y":1100,"width":400,"height":500,"color":"","type":"file","file":"_Notes/Why people do not feel much happier even though we have more money.md"}
+	],
+	"edges":[]
+}

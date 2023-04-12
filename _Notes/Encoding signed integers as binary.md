@@ -20,7 +20,22 @@ B2T_4([1011]) = -1\cdot2^3 + 0\cdot2^2 + 1\cdot2^1 + 1\cdot2^0 = -8 + 0+2 + 1 = 
 $$
 
 ### Visual example
-![[Pasted image 20230412123234.png]]
+
+![[Pasted image 20230412123431.png]]
+
+### Range of values
+- Consider a $w$-bit two's complement number
+- The least representable value is given be vector $[100\cdots0]$, having integer value $TMin_w \doteq -2^{w-1}$
+- The largest value is given by the vector $[011\cdots1]$, which has the integer value of: $TMax_w \doteq \sum_{i=0}^{w-2}2^i = 2^{w-1} -1$
+
+#### Example
+- When $w=4$
+$$
+\begin{align}
+TMin_4 &= -2^{4-1} = -2^3 = -8\\
+TMax_4 &= 2^{4-1} - 1 = 8-1 = 7
+\end{align}
+$$
 
 ## Sources
 - [[Computer Systems - A Programmer's Perspective]]
