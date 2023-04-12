@@ -6,7 +6,7 @@
 ### Exclusions
 - A policy will list out diseases, conditions and medical services that it will not cover
 	- Dental treatment, pregnancy and cosmetic surgery are standard exclusions
-
+- The insurance company can change the list of excluded diseases at some future point in the policy
 
 ### Sub-limits
 - Some policies have in-built limits to what you can spend on what part of a hospital's service.
@@ -24,6 +24,8 @@
 - Some ailments such as cataract or hernia may have a special "waiting period" before the company will pay
 
 ## Tips
+- Generally, a policy will cover doctor's fees, medicines and diagnostic tests done 3 months before and after hospitalization
+
 ### For nuclear family
 - Buy insurance product called 'family floater' that allows the insurance cover to whichever member of the family that needs it
 - Always disclose your correct present and past medical history to the insurance company when you sign up for a policy.
@@ -50,8 +52,9 @@
 			- List out all the diseases that are covered under this clause
 			- Try to get a policy that does not have "disease waiting period"
 		- Check if the policy has "sub-limits". Try to get a policy with no "sub-limits"
+		- Check for exclusions
 	- How does it perform on the metric of claims?
-
+		- How much of the costs before and after hospitalization the policy will cover? Typically, you can claim expenditure made of doctor's fees, medicines and diagnostic tests done before a planned hospitalization and for 3 months afterwards
 
 > [!important] Build an email trail with the insurance company or the agent to ensure that you are not being lied to
 
