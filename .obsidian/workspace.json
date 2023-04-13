@@ -11,8 +11,13 @@
             "id": "68b00d0586df5472",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 Science and technology/Software engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Finance/Investments and Personal Finance.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Finance/Investments and Personal Finance.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Finance/Investments and Personal Finance.md"
+                "file": "2 Science and technology/Software engineering.md"
               }
             }
           },
