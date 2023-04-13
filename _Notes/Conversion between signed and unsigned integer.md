@@ -9,10 +9,16 @@ $$
 
 ## Conversion from unsigned to two's complement
 - For an unsigned integer $u$ such that $0 \leq u \leq UMax_w$ represented by $\vec{u}$, the corresponding two's complement integer is given by:
-- 
+$$
+U2T_{w}(u)=\left\{{\begin{array}{l l}{u,}&{u\leq T M a x_{w}}\\ {u-2^{w},}&{u>T M a x_{w}}\end{array}}\right.
+$$
+
+### Visual representation
+![[Pasted image 20230413114341.png]]
 
 ## Sources
 - [[Computer Systems - A Programmer's Perspective]]
 
 ## Related Notes
-- 
+- [[Encoding signed integers as binary]]
+- [[Encoding unsigned integers as binary]]

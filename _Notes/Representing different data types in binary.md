@@ -12,6 +12,10 @@
 
 - The same bit pattern can be read as an unsigned integer as well as a two's complement integer. This happens when we perform **type casting** between the two data types. [[Conversion between signed and unsigned integer|Read more about these conversions here]]
 
+### Expanding the bit representation (Making the number larger)
+- Unsigned numbers are converted to a larger data type using [[Zero extension of binary vector|zero extension]].
+- Signed numbers are converted to a larger data type using [[Sign extension of binary vector|sign extension]]
+
 ## Sources
 - [[Computer Systems - A Programmer's Perspective]]
 

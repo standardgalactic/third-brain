@@ -21,6 +21,7 @@
 - [[Why did the C programming language see so much success]]
 - [[What are pointers]]
 - [[Typical sizes of basic C data types]]
+- [[Type casting in C]]
 
 ## General
 - [[Birth of Unix]]
