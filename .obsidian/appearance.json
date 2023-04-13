@@ -1,8 +1,8 @@
 {
   "theme": "moonstone",
-  "cssTheme": "ITS Theme",
-  "baseFontSize": 14,
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 19,
   "accentColor": "#d3279a",
   "nativeMenus": true,
-  "translucency": true
+  "translucency": false
 }

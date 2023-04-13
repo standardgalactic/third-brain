@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71f84ad81927dd4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Representing different data types in binary.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42dcf762a7221e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Conversion between signed and unsigned integer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +77,7 @@
               "type": "search",
               "state": {
                 "query": "time",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": true,
@@ -66,12 +93,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
+    "width": 274,
     "collapsed": true
   },
   "right": {
@@ -88,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "_Notes/Conversion between signed and unsigned integer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "_Notes/Conversion between signed and unsigned integer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Science and technology/Software engineering.md"
+                "file": "_Notes/Conversion between signed and unsigned integer.md"
               }
             }
           },
@@ -177,15 +203,28 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "68b00d0586df5472",
+  "active": "82c7d4f17e2b801f",
   "lastOpenFiles": [
+    "Assets/Pasted image 20230413113826.png",
+    "Assets/Pasted image 20230413113709.png",
+    "Assets/Pasted image 20230413113631.png",
+    "Assets/Pasted image 20230413113555.png",
+    "_Notes/Representing different data types in binary.md",
+    "Templates/Information.md",
+    "_Notes/Conversion between signed and unsigned integer.md",
+    "_Notes/Encoding signed integers as binary.md",
+    "_Notes/Encoding unsigned integers as binary.md",
+    "2 Science and technology/Software engineering.md",
+    "Readwise/Other Sources/Computer Systems - A Programmer's Perspective.md",
+    "Readwise/Books/Let's Talk Money - Highlights.md",
+    "_Notes/Equity asset class.md",
+    "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Investing in gold.md",
+    "_Notes/Third-party agent (TPA) service.md",
     "_Notes/Amdahl's law.md",
     "Readwise/Articles/When the Government Is Your Product Manager - Highlights.md",
     "Readwise/Books/Reality Is Broken.md",
     "Readwise/Articles/A Brief History of Divestments - Highlights.md",
-    "0 Finance/Investments and Personal Finance.md",
-    "Readwise/Books/Let's Talk Money - Highlights.md",
-    "_Notes/Equity asset class.md",
     "_Notes/Comparing different asset classes.md",
     "_Notes/Other types of indices in the market.md",
     "_Notes/Sensex.md",
@@ -195,16 +234,6 @@
     "_Notes/Real assets - Asset class.md",
     "_Notes/Investing in real estate.md",
     "_Notes/Meaning of the term - underlying.md",
-    "_Notes/Thumb rule to decide on debt allocation in your portfolio.md",
-    "_Notes/Investing in gold.md",
-    "_Notes/Asset classes.md",
-    "_Notes/System of setting goals and creating buckets.md",
-    "_Notes/Purpose of a financial product.md",
-    "_Notes/Higher the return, higher the risk.md",
-    "_Notes/Meaning of financial freedom.md",
-    "_Notes/Life insurance (Term insurance).md",
-    "_Notes/Insurance cover for loans.md",
-    "_Notes/Thumb rule to calculate the life insurance cover amount.md",
     "Untitled.canvas",
     "Assets/Pasted image 20230412125235.png",
     "Assets/Pasted image 20230412124828.png",
@@ -213,9 +242,6 @@
     "Assets/Pasted image 20230412124420.png",
     "Assets/Pasted image 20230412123431.png",
     "Assets/Pasted image 20230412123234.png",
-    "Assets/Pasted image 20230412115241.png",
-    "Assets/Pasted image 20230410150424.png",
-    "Assets/Pasted image 20230410150351.png",
     "netlify.toml",
     "_Quotes",
     "_Projects",
