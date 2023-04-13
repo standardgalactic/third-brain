@@ -4,67 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4273131c7cb07f4d",
+        "id": "3504d15f22f2dea5",
         "type": "tabs",
-        "dimension": 49.082256968048945,
         "children": [
           {
-            "id": "e70cdd2fa5d407ef",
+            "id": "68b00d0586df5472",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Investments and Personal Finance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05989054679b680d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Comparing different asset classes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fae9d81f08e3eb8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Equity asset class.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fa2a4a2b8476ea52",
-        "type": "tabs",
-        "dimension": 50.917743031951055,
-        "children": [
-          {
-            "id": "0ca63d0667bdc085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Books/Let's Talk Money - Highlights.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -202,14 +150,6 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "a81b890d3cb55c56",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
@@ -232,11 +172,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e70cdd2fa5d407ef",
+  "active": "68b00d0586df5472",
   "lastOpenFiles": [
+    "_Notes/Amdahl's law.md",
+    "Readwise/Articles/When the Government Is Your Product Manager - Highlights.md",
+    "Readwise/Books/Reality Is Broken.md",
+    "Readwise/Articles/A Brief History of Divestments - Highlights.md",
+    "0 Finance/Investments and Personal Finance.md",
     "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/Equity asset class.md",
-    "0 Finance/Investments and Personal Finance.md",
     "_Notes/Comparing different asset classes.md",
     "_Notes/Other types of indices in the market.md",
     "_Notes/Sensex.md",
@@ -256,10 +200,6 @@
     "_Notes/Life insurance (Term insurance).md",
     "_Notes/Insurance cover for loans.md",
     "_Notes/Thumb rule to calculate the life insurance cover amount.md",
-    "_Notes/Thumb rule to calculate rate of interest - Rule of 72.md",
-    "_Notes/LaTex cheat sheet.md",
-    "_Notes/About the insurance industry.md",
-    "_Notes/Health insurance (Mediclaim).md",
     "Untitled.canvas",
     "Assets/Pasted image 20230412125235.png",
     "Assets/Pasted image 20230412124828.png",
