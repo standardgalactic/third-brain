@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "181971bdd5b36227",
+        "id": "8dfeefda657d131c",
         "type": "tabs",
         "children": [
           {
-            "id": "7a7383c3c8c0ca3a",
+            "id": "305e8d8dd3d62493",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projects/ENIAC six.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projects/ENIAC six.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projects/ENIAC six.md"
+                "file": "Inbox.md"
               }
             }
           },
@@ -150,8 +155,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,12 +175,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "7a7383c3c8c0ca3a",
+  "active": "305e8d8dd3d62493",
   "lastOpenFiles": [
-    "2 Science and technology/Software engineering.md",
-    "_Notes/Type casting in C.md",
+    "Assets/Pasted image 20230416094138.png",
+    "Assets/Pasted image 20230416094133.png",
+    "_Notes/LaTex cheat sheet.md",
+    "Inbox.md",
     "_Notes/Representing different data types in binary.md",
     "_Notes/Sign extension of binary vector.md",
+    "2 Science and technology/Software engineering.md",
+    "_Projects/ENIAC six.md",
+    "_Notes/Type casting in C.md",
     "Assets/Pasted image 20230413120824.png",
     "_Notes/Zero extension of binary vector.md",
     "_Notes/Conversion between signed and unsigned integer.md",
@@ -201,14 +210,10 @@
     "_Notes/Comparing different asset classes.md",
     "_Notes/Other types of indices in the market.md",
     "_Notes/Sensex.md",
-    "_Notes/Market capitalization (Market cap).md",
-    "_Notes/Market bubbles.md",
-    "_Notes/Debt asset class.md",
     "Untitled.canvas",
     "Assets/Pasted image 20230412125235.png",
     "Assets/Pasted image 20230412124828.png",
     "Assets/Pasted image 20230412124731.png",
-    "Assets/Pasted image 20230412124455.png",
     "netlify.toml",
     "_Quotes",
     "_Projects",
