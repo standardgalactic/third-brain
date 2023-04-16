@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3504d15f22f2dea5",
+        "id": "181971bdd5b36227",
         "type": "tabs",
         "children": [
           {
-            "id": "68b00d0586df5472",
+            "id": "7a7383c3c8c0ca3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Projects/ENIAC six.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71f84ad81927dd4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Representing different data types in binary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -189,7 +171,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "68b00d0586df5472",
+  "active": "7a7383c3c8c0ca3a",
   "lastOpenFiles": [
     "2 Science and technology/Software engineering.md",
     "_Notes/Type casting in C.md",
