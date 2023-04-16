@@ -18,3 +18,9 @@ $$
 $$
 - Modular addition forms a mathematical structure known as an abelian group, named after the Norwegian mathematician Niels Henrik Abel (1802-1829).
 	- It is commutative, associative, has an identity element 0, and every element has an additive inverse
+- Addition of two's complement numbers
+	- For integer values $x$ and $y$ in the range $-2^{w-1}\le x,\,y\le2^{w-1}-1$
+
+$$
+\begin{array}{r l}{\int x+y-2^{w},}&{{}2^{w-1}\leq x+y}&{{}\mathrm{Posiive~overflow}}\\ {x+y,}&{{}2^{w-1}\leq x+y\ <2^{w-1}\quad\mathrm{Normal}}\\ {x+y+2^{w},}&{x+y<-2^{w-1}}&{{}\mathrm{Negative~overflow}}\end{array}
+$$
