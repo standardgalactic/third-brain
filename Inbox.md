@@ -16,3 +16,5 @@ $$
 $$
 -_{w}^{w}\,x=\left\{\begin{array}{l l}{{x,}}&{{x=0}}\\ {{2^{w}-x,}}&{{x>0}}\end{array}\right.
 $$
+- Modular addition forms a mathematical structure known as an abelian group, named after the Norwegian mathematician Niels Henrik Abel (1802-1829).
+	- It is commutative, associative, has an identity element 0, and every element has an additive inverse
