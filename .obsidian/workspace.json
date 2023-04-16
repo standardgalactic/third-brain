@@ -154,8 +154,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "2665eb2d3be9d551",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -177,6 +186,9 @@
   },
   "active": "305e8d8dd3d62493",
   "lastOpenFiles": [
+    "Assets/Pasted image 20230416125238.png",
+    "Assets/Pasted image 20230416123425.png",
+    "Assets/Pasted image 20230416123253.png",
     "Assets/Pasted image 20230416094138.png",
     "Assets/Pasted image 20230416094133.png",
     "_Notes/LaTex cheat sheet.md",
@@ -211,9 +223,6 @@
     "_Notes/Other types of indices in the market.md",
     "_Notes/Sensex.md",
     "Untitled.canvas",
-    "Assets/Pasted image 20230412125235.png",
-    "Assets/Pasted image 20230412124828.png",
-    "Assets/Pasted image 20230412124731.png",
     "netlify.toml",
     "_Quotes",
     "_Projects",

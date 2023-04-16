@@ -20,7 +20,8 @@ $$
 	- It is commutative, associative, has an identity element 0, and every element has an additive inverse
 - Addition of two's complement numbers
 	- For integer values $x$ and $y$ in the range $-2^{w-1}\le x,\,y\le2^{w-1}-1$
+![[Pasted image 20230416123253.png]]
 
-$$
-\begin{array}{r l}{\int x+y-2^{w},}&{{}2^{w-1}\leq x+y}&{{}\mathrm{Posiive~overflow}}\\ {x+y,}&{{}2^{w-1}\leq x+y\ <2^{w-1}\quad\mathrm{Normal}}\\ {x+y+2^{w},}&{x+y<-2^{w-1}}&{{}\mathrm{Negative~overflow}}\end{array}
-$$
+![[Pasted image 20230416123425.png|Case 1 and Case 4 demonstrate overflow situations]]
+
+![[Pasted image 20230416125238.png]]
