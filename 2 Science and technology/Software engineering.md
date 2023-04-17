@@ -28,6 +28,7 @@
 - [[Amdahl's law]]
 - [[Example of a bug that can arise when migrating 32-bit programs to 64-bit]]
 - [[Boolean Algebra]]
+- [[Abelian group]]
 
 ## Computer systems
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]

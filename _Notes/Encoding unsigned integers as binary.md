@@ -26,10 +26,6 @@ $$
 ### Example
 - When $w=4$, $UMax_4 = 2^4 - 1 = 15$
 
-## Operations
-- [[Truncating unsigned numbers|Truncation]]
-- [[Adding unsigned integers|Addition]]
-
 ## Sources
 - [[Computer Systems - A Programmer's Perspective]]
 

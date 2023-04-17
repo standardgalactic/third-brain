@@ -37,9 +37,6 @@ TMax_4 &= 2^{4-1} - 1 = 8-1 = 7
 \end{align}
 $$
 
-## Operations
-- [[Truncating signed integers|Truncation]]
-
 ## Sources
 - [[Computer Systems - A Programmer's Perspective]]
 

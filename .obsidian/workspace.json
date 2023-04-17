@@ -42,19 +42,6 @@
             }
           },
           {
-            "id": "c4f482c364d729c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Encoding unsigned integers as binary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9561383b02d0a6bd",
             "type": "leaf",
             "state": {
@@ -97,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time",
+                "query": "explanation formula",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -114,12 +101,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "7cdf0d47f41af4b3",
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Encoding unsigned integers as binary.md",
+                "file": "_Notes/Operations on signed and unsigned integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Encoding unsigned integers as binary.md",
+                "file": "_Notes/Operations on signed and unsigned integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Encoding unsigned integers as binary.md"
+                "file": "_Notes/Operations on signed and unsigned integers.md"
               }
             }
           },
@@ -232,19 +219,25 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c4f482c364d729c4",
+  "active": "9561383b02d0a6bd",
   "lastOpenFiles": [
+    "_Notes/Truncating signed integers.md",
     "_Notes/Operations on signed and unsigned integers.md",
+    "_Notes/Negation of signed integers.md",
+    "_Notes/Multiplying signed integers.md",
+    "_Notes/Negation of unsigned integers.md",
+    "2 Science and technology/Software engineering.md",
+    "Inbox.md",
+    "_Notes/Boolean Algebra.md",
+    "_Notes/Adding unsigned integers.md",
+    "_Notes/Abelian group.md",
+    "_Notes/Adding signed integers.md",
+    "_Notes/Representing different data types in binary.md",
+    "_Notes/Encoding signed integers as binary.md",
     "_Notes/Encoding unsigned integers as binary.md",
     "_Notes/Truncating unsigned numbers.md",
-    "_Notes/Adding unsigned integers.md",
-    "_Notes/Representing different data types in binary.md",
-    "2 Science and technology/Software engineering.md",
     "_Notes/Sign extension of binary vector.md",
     "_Notes/Zero extension of binary vector.md",
-    "_Notes/Encoding signed integers as binary.md",
-    "Inbox.md",
-    "_Notes/Truncating signed integers.md",
     "Assets/Pasted image 20230417132857.png",
     "Assets/Pasted image 20230417132812.png",
     "Assets/Pasted image 20230416125238.png",
@@ -264,12 +257,6 @@
     "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/Equity asset class.md",
     "0 Finance/Investments and Personal Finance.md",
-    "_Notes/Investing in gold.md",
-    "_Notes/Third-party agent (TPA) service.md",
-    "_Notes/Amdahl's law.md",
-    "Readwise/Articles/When the Government Is Your Product Manager - Highlights.md",
-    "Readwise/Books/Reality Is Broken.md",
-    "Readwise/Articles/A Brief History of Divestments - Highlights.md",
     "Untitled.canvas",
     "netlify.toml",
     "_Quotes",
