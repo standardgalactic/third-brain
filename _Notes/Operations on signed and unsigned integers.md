@@ -1,16 +1,15 @@
-## Expanding the bit representation (Making the number larger)
-### Unsigned
-
 | Operation                                                   | Signed integers                     | Unsigned integers                   | Remarks                                                                                                                                                                                                                       |
 | ----------------------------------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Expanding the bit representation (Making the number larger) | [[Sign extension of binary vector]] | [[Zero extension of binary vector]] |                                                                                                                                                                                                                               |
 | Truncation                                                  | [[Truncating signed integers]]      | [[Truncating unsigned numbers]]     | This operation involves dropping the higher order bits which do not fit into the data size. For example, when truncating a $w$-bit number to a $k$-bit number, all bits starting with the $(k+1)^{\text{th}}$ bit are dropped |
 | Addition                                                    | [[Adding signed integers]]          | [[Adding unsigned integers]]        |                                                                                                                                                                                                                               |
 | Negation                                                    | [[Negation of signed integers]]     | [[Negation of unsigned integers]]   |                                                                                                                                                                                                                               |
-| Multiplication                                              | [[Multiplying signed integers]]                                    |                                     |                                                                                                                                                                                                                               |
+| Multiplication                                              | [[Multiplying signed integers]]     | [[Multiplying unsigned integers]]                                    |                                                                                                                                                                                                                               |
 
 ## Sources
 - [[Computer Systems - A Programmer's Perspective]]
 
 ## Related Notes
-- 
+- [[Encoding signed integers as binary]]
+- [[Encoding unsigned integers as binary]]
+- [[Representing different data types in binary]]

@@ -1,3 +1,4 @@
+- Multiplication of two unsigned $w$-bit numbers can require as many as $2w$ bits to represent the product. So, the result is truncated.
 - For $x$ and $y$ such that $TMin_{w} \leq x, y \leq TMax_{w}$, 
 $$
 x *_{w}^t y = \text{U2T}_{w}((x \cdot y) \mod 2^w)

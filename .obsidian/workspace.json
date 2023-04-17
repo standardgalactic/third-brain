@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3eeeb4cf4a11908a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ed9fa77610a17020",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
         "id": "dc00e83c4ced2369",
         "type": "tabs",
         "children": [
@@ -48,6 +27,19 @@
               "type": "markdown",
               "state": {
                 "file": "_Notes/Operations on signed and unsigned integers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2164de5264db314f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Multiplying unsigned integers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "7cdf0d47f41af4b3",
@@ -221,18 +214,19 @@
   },
   "active": "9561383b02d0a6bd",
   "lastOpenFiles": [
-    "_Notes/Truncating signed integers.md",
+    "_Notes/Representing different data types in binary.md",
     "_Notes/Operations on signed and unsigned integers.md",
-    "_Notes/Negation of signed integers.md",
+    "Inbox.md",
+    "_Notes/Multiplying unsigned integers.md",
     "_Notes/Multiplying signed integers.md",
+    "_Notes/Truncating signed integers.md",
+    "_Notes/Negation of signed integers.md",
     "_Notes/Negation of unsigned integers.md",
     "2 Science and technology/Software engineering.md",
-    "Inbox.md",
     "_Notes/Boolean Algebra.md",
     "_Notes/Adding unsigned integers.md",
     "_Notes/Abelian group.md",
     "_Notes/Adding signed integers.md",
-    "_Notes/Representing different data types in binary.md",
     "_Notes/Encoding signed integers as binary.md",
     "_Notes/Encoding unsigned integers as binary.md",
     "_Notes/Truncating unsigned numbers.md",
@@ -256,7 +250,6 @@
     "Readwise/Other Sources/Computer Systems - A Programmer's Perspective.md",
     "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/Equity asset class.md",
-    "0 Finance/Investments and Personal Finance.md",
     "Untitled.canvas",
     "netlify.toml",
     "_Quotes",
