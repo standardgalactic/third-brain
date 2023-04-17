@@ -25,3 +25,12 @@ $$
 ![[Pasted image 20230416123425.png|Case 1 and Case 4 demonstrate overflow situations]]
 
 ![[Pasted image 20230416125238.png]]
+
+- Detecting overflow in two's complement addition
+	- When $s = x +_{w}^t y$, then $s$ is a positive overflow if and only if $x > 0$ and $y > 0$ but $s \leq 0$. The computation is a negative overflow if and only if $x < 0$ and $y < 0$ but $s \geq 0$
+- Two's complement negation: 
+	- For $x$ in the range $TMin_{w} \leq x \leq TMax_{w}$, it's two's complement negation is given by:
+
+$$
+
+$$
