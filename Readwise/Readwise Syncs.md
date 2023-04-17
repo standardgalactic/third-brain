@@ -116,3 +116,7 @@
 
 - [[2023-04-16]] 9:25 AM — Synced 0 highlights from 0 documents.
 
+- [[2023-04-17]] 5:13 PM — Synced 24 highlights from 2 documents.
+    - 7 highlights from Design A Rate Limiter
+    - 17 highlights from ByteByteGo | Technical Interview Prep
+

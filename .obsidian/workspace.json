@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dc00e83c4ced2369",
+        "id": "a8e63a59153cc7b8",
         "type": "tabs",
         "children": [
           {
-            "id": "c97e4511fb1645e9",
+            "id": "454ec92383a0e684",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Representing different data types in binary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           },
           {
-            "id": "9561383b02d0a6bd",
+            "id": "b6af26119b12f5f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Operations on signed and unsigned integers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2164de5264db314f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Multiplying unsigned integers.md",
+                "file": "_Projects/Trying to run different version gem in different version.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,13 +75,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "7cdf0d47f41af4b3",
@@ -115,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Operations on signed and unsigned integers.md",
+                "file": "_Projects/Trying to run different version gem in different version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Operations on signed and unsigned integers.md",
+                "file": "_Projects/Trying to run different version gem in different version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Operations on signed and unsigned integers.md"
+                "file": "_Projects/Trying to run different version gem in different version.md"
               }
             }
           },
@@ -182,14 +162,6 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "2665eb2d3be9d551",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
@@ -212,8 +184,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "9561383b02d0a6bd",
+  "active": "b6af26119b12f5f7",
   "lastOpenFiles": [
+    "_Projects/Trying to run different version gem in different version.md",
+    "Readwise/Articles/ByteByteGo  Technical Interview Prep - Highlights.md",
+    "Readwise/Articles/Design A Rate Limiter - Highlights.md",
     "_Notes/Representing different data types in binary.md",
     "_Notes/Operations on signed and unsigned integers.md",
     "Inbox.md",
@@ -247,9 +222,6 @@
     "Assets/Pasted image 20230413114341.png",
     "Assets/Pasted image 20230413113826.png",
     "Templates/Information.md",
-    "Readwise/Other Sources/Computer Systems - A Programmer's Perspective.md",
-    "Readwise/Books/Let's Talk Money - Highlights.md",
-    "_Notes/Equity asset class.md",
     "Untitled.canvas",
     "netlify.toml",
     "_Quotes",

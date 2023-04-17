@@ -1,0 +1,23 @@
+## New highlights added April 17, 2023 at 5:13 PM
+- The rate limiter returns the following HTTP headers to clients:
+  X-Ratelimit-Remaining: The remaining number of allowed requests within the window.
+  X-Ratelimit-Limit: It indicates how many calls the client can make per time window.
+  X-Ratelimit-Retry-After: The number of seconds to wait until you can make a request again without being throttled.
+  When a user has sent too many requests, a 429 too many requests error and *X-Ratelimit-Retry-After* header are returned to the client. ([View Highlight](https://read.readwise.io/read/01gy4fmw28catcqvsyf90ahkkp))
+- • Rules are stored on the disk. Workers frequently pull rules from the disk and store them in the cache.
+  • When a client sends a request to the server, the request is sent to the rate limiter middleware first.
+  • Rate limiter middleware loads rules from the cache. It fetches counters and last request timestamp from Redis cache. Based on the response, the rate limiter decides:
+  • if the request is not rate limited, it is forwarded to API servers.
+  • if the request is rate limited, the rate limiter returns 429 too many requests error to the client. In the meantime, the request is either dropped or forwarded to the queue. ([View Highlight](https://read.readwise.io/read/01gy4fnww0qwvr79xfekdhb5pr))
+- Building a rate limiter that works in a single server environment is not difficult. However, scaling the system to support multiple servers and concurrent threads is a different story. There are two challenges:
+  • Race condition
+  • Synchronization issue ([View Highlight](https://read.readwise.io/read/01gy4fpn3j537ajn44xsnp2jxc))
+- Race conditions can happen in a highly concurrent environment as shown in Figure 14.
+  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27651%27%20height=%27341%27/%3e)![Figure 14](https://bytebytego.com/images/courses/system-design-interview/design-a-rate-limiter/figure-4-14-VGQOSEYS.svg)
+  Figure 14
+  Assume the *counter* value in Redis is 3. If two requests concurrently read the *counter* value before either of them writes the value back, each will increment the *counter* by one and write it back without checking the other thread. Both requests (threads) believe they have the correct *counter* value 4. However, the correct *counter* value should be 5. ([View Highlight](https://read.readwise.io/read/01gy4ftx2d01mwmknzyj811n88))
+- o support millions of users, one rate limiter server might not be enough to handle the traffic. When multiple rate limiter servers are used, synchronization is required. For example, on the left side of Figure 15, client 1 sends requests to rate limiter 1, and client 2 sends requests to rate limiter 2. As the web tier is stateless, clients can send requests to a different rate limiter as shown on the right side of Figure 15. If no synchronization happens, rate limiter 1 does not contain any data about client 2. Thus, the rate limiter cannot work properly.
+  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27600%27%20height=%27186%27/%3e)![Figure 15](https://bytebytego.com/_next/image?url=%2Fimages%2Fcourses%2Fsystem-design-interview%2Fdesign-a-rate-limiter%2Ffigure-4-15-Q55WVCBS.png&w=1200&q=75) ([View Highlight](https://read.readwise.io/read/01gy4kszshcrr9gptwe8e55k85))
+- One possible solution is to use sticky sessions that allow a client to send traffic to the same rate limiter. This solution is not advisable because it is neither scalable nor flexible. A better approach is to use centralized data stores like Redis. The design is shown in Figure 16.
+  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27600%27%20height=%27233%27/%3e)![Figure 16](https://bytebytego.com/_next/image?url=%2Fimages%2Fcourses%2Fsystem-design-interview%2Fdesign-a-rate-limiter%2Ffigure-4-16-JQMOMJUG.png&w=1200&q=75) ([View Highlight](https://read.readwise.io/read/01gy4ktppn6nmrqtdgrxkz76wg))
+- Rate limiting at different levels. In this chapter, we only talked about rate limiting at the application level (HTTP: layer 7). It is possible to apply rate limiting at other layers. For example, you can apply rate limiting by IP addresses using Iptables [15] (IP: layer 3). Note: The Open Systems Interconnection model (OSI model) has 7 layers [16]: Layer 1: Physical layer, Layer 2: Data link layer, Layer 3: Network layer, Layer 4: Transport layer, Layer 5: Session layer, Layer 6: Presentation layer, Layer 7: Application layer. ([View Highlight](https://read.readwise.io/read/01gy4kz0fj4afw2sjj5pxh4ped))

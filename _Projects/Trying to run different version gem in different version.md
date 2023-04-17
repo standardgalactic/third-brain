@@ -1,0 +1,3 @@
+- Tracing shell script
+- `realpath`
+- rbenv binstubs
