@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8dfeefda657d131c",
+        "id": "3eeeb4cf4a11908a",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a4a6048b1df10e",
+            "id": "ed9fa77610a17020",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,17 +18,18 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
       },
       {
-        "id": "3eeeb4cf4a11908a",
+        "id": "dc00e83c4ced2369",
         "type": "tabs",
         "children": [
           {
-            "id": "ed9fa77610a17020",
+            "id": "c97e4511fb1645e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,8 +40,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4f482c364d729c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Encoding unsigned integers as binary.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9561383b02d0a6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Operations on signed and unsigned integers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Representing different data types in binary.md",
+                "file": "_Notes/Encoding unsigned integers as binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Representing different data types in binary.md",
+                "file": "_Notes/Encoding unsigned integers as binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Representing different data types in binary.md"
+                "file": "_Notes/Encoding unsigned integers as binary.md"
               }
             }
           },
@@ -203,11 +232,19 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "82c7d4f17e2b801f",
+  "active": "c4f482c364d729c4",
   "lastOpenFiles": [
-    "_Notes/Sign extension of binary vector.md",
+    "_Notes/Operations on signed and unsigned integers.md",
+    "_Notes/Encoding unsigned integers as binary.md",
+    "_Notes/Truncating unsigned numbers.md",
+    "_Notes/Adding unsigned integers.md",
+    "_Notes/Representing different data types in binary.md",
     "2 Science and technology/Software engineering.md",
+    "_Notes/Sign extension of binary vector.md",
+    "_Notes/Zero extension of binary vector.md",
+    "_Notes/Encoding signed integers as binary.md",
     "Inbox.md",
+    "_Notes/Truncating signed integers.md",
     "Assets/Pasted image 20230417132857.png",
     "Assets/Pasted image 20230417132812.png",
     "Assets/Pasted image 20230416125238.png",
@@ -216,17 +253,13 @@
     "Assets/Pasted image 20230416094138.png",
     "Assets/Pasted image 20230416094133.png",
     "_Notes/LaTex cheat sheet.md",
-    "_Notes/Representing different data types in binary.md",
     "_Projects/ENIAC six.md",
     "_Notes/Type casting in C.md",
     "Assets/Pasted image 20230413120824.png",
-    "_Notes/Zero extension of binary vector.md",
     "_Notes/Conversion between signed and unsigned integer.md",
     "Assets/Pasted image 20230413114341.png",
     "Assets/Pasted image 20230413113826.png",
     "Templates/Information.md",
-    "_Notes/Encoding signed integers as binary.md",
-    "_Notes/Encoding unsigned integers as binary.md",
     "Readwise/Other Sources/Computer Systems - A Programmer's Perspective.md",
     "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/Equity asset class.md",
@@ -237,9 +270,6 @@
     "Readwise/Articles/When the Government Is Your Product Manager - Highlights.md",
     "Readwise/Books/Reality Is Broken.md",
     "Readwise/Articles/A Brief History of Divestments - Highlights.md",
-    "_Notes/Comparing different asset classes.md",
-    "_Notes/Other types of indices in the market.md",
-    "_Notes/Sensex.md",
     "Untitled.canvas",
     "netlify.toml",
     "_Quotes",

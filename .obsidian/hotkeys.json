@@ -84,32 +84,14 @@
       "key": "O"
     }
   ],
-  "workspace:previous-tab": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "["
-    }
-  ],
-  "workspace:next-tab": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "]"
-    }
-  ],
   "convert-url-to-iframe:url-to-iframe": [],
   "table-editor-obsidian:table-control-bar": [],
   "dangerzone-writing-plugin:dangerzone-session-start": [],
   "editor:focus-left": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "["
     }
@@ -117,10 +99,27 @@
   "editor:focus-right": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "]"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
     }
   ]
 }

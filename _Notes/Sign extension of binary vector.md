@@ -1,3 +1,4 @@
+- Signed numbers are converted to a larger data type using this method
 -  Add copies of the most significant bit (MSB) to the representation
 
 ## Example

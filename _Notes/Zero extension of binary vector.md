@@ -1,3 +1,4 @@
+- Unsigned numbers are converted to a larger data type
 - Add leading zeroes.
 
 ## Example
@@ -11,4 +12,4 @@ int y = (int) x; //0x00000011
 - [[Computer Systems - A Programmer's Perspective]]
 
 ## Related Notes
-- 
+- [[Encoding unsigned integers as binary]] 
