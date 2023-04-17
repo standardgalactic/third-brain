@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Projects/Untitled.md",
-      "timestamp": 1681731843811
+      "filepath": "_Notes/Asking Git to ignore changes made to a tracked file.md",
+      "timestamp": 1681740348144
     },
     {
-      "filepath": "_Notes/Operations on signed and unsigned integers.md",
-      "timestamp": 1681723536011
+      "filepath": "2 Science and technology/Software engineering.md",
+      "timestamp": 1681740318984
     },
     {
-      "filepath": "_Notes/Representing different data types in binary.md",
-      "timestamp": 1681723531181
+      "filepath": "_Notes/Ignore files in Git without changing gitignore.md",
+      "timestamp": 1681740315108
     }
   ],
   "starredFileStore": [],

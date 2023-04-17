@@ -13,6 +13,8 @@
 - [[Change the last commit]]
 - [[Changing older or multiple commits - using rebase]]
 	- [[Using git rebase onto]]
+- [[Ignore files in Git without changing gitignore]]
+- [[Asking Git to ignore changes made to a tracked file]]
 
 ## Web
 - [[Difference between PUT and PATCH request]]
