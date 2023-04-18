@@ -181,9 +181,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "856cd350f2590cdf",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -203,7 +211,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "7e6314b177792b28",
+  "active": "856cd350f2590cdf",
   "lastOpenFiles": [
     "2 Science and technology/Software engineering.md",
     "_Notes/Asking Git to ignore changes made to a tracked file.md",
