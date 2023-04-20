@@ -135,9 +135,6 @@
 - Four, do not invest in any product that locks you into a particular company or asset manager. What we forget is that, over the long term in equity investing, the risk is not of the market, but of poor fund management. This is why I do not recommend having a ULIP in your equity portfolio, despite it being competitive with mutual funds in terms of costs. ([Location 1382](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1382))
 - A ULIP will lock you in with a particular company’s asset management and shuffling is expensive. What you want is a product where exit is possible, cheap and easy. Think of it as portability –you should be able to port your money to a better fund manager for a very tiny cost, if you are unhappy with the existing one. ([Location 1385](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1385))
 - Five, if you want to invest in managed funds, start learning. Read through the Mint50 coverage. Go through the Value Research data and Morningstar ratings. ([Location 1387](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1387))
-
-> [!NOTE] DONE TILL HERE!!!!!
-
 - The mutual fund industry in India has a three-part structure. There is a businessman or firm who has the interest to set up a mutual fund. This entity is called a ‘sponsor’. There are SEBI rules on who can be a sponsor. The sponsor makes the investment to set up a mutual fund in the hope of making a profit. The sponsor sets up a trust and an asset management company (AMC). The money collected from investors belongs to a trust. The sponsor appoints the trustees who are the custodians of the investors’ money. ([Location 1432](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1432))
 - The AMC is a service provider to the trust that manages the money for a fee – called AMC fee. The AMC must get all its plans and schemes approved by the trustees before they come to the market. AMCs will launch many schemes to attract investors. ([Location 1436](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1436))
 - Today you can buy three kinds of asset classes through mutual funds – debt, gold and equity. Real estate will soon be available through special mutual funds called real estate investment trusts (REITs). ([Location 1462](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1462))
@@ -169,6 +166,10 @@
 - An ETF also tracks an index like the Sensex but lists its units on a stock exchange, unlike a mutual fund. To buy and sell mutual funds you don’t need to have a demat account. But to invest in an ETF, you need a demat account. The other difference in index funds and ETFs is that you can buy an index fund at a price at the end of the day, but you can buy an ETF at any point in the day. This difference in price is not relevant to retail investors like us. ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1623))
 - ETFs come with tiny costs compared to the index funds. The average index fund costs between ten basis points to 1 per cent, or ten paise to Rs 10 on every Rs 1,000 invested. ETF costs have hit rock bottom and you can now buy them at a price as low as one basis point. ([Location 1626](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1626))
 - liquidity in the ETFs may not be that good. This means that when you go to sell a large quantity, you may not get the current market price. ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1628))
+
+> [!success] done till here
+
+
 - the risk of a mid-cap index fund is much higher than the risk involved with a Sensex or Nifty fund. ([Location 1632](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1632))
 - this is a fund that is diversified across mainly large-cap stocks. These funds aim to give returns that are just a bit higher than the index. ([Location 1645](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1645))
     - Note: Diversified equity fund

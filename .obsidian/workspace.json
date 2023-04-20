@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2881e59a775554b5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f6b4398a8893147",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
         "id": "4f81b0136dfdb374",
         "type": "tabs",
         "children": [
@@ -34,7 +13,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Books/Let's Talk Money - Highlights.md",
+                "file": "_Notes/Equity asset class.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "445d5a9d42edc1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Finance/Investments and Personal Finance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39fd5b0d8dab246b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Asset classes in mutual funds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aafc9cd3a445ab50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be9a3c3d339f369c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "7cdf0d47f41af4b3",
@@ -107,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox.md",
+                "file": "0 Finance/Investments and Personal Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox.md",
+                "file": "0 Finance/Investments and Personal Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox.md"
+                "file": "0 Finance/Investments and Personal Finance.md"
               }
             }
           },
@@ -176,12 +202,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,13 +222,24 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "6f6b4398a8893147",
+  "active": "445d5a9d42edc1e1",
   "lastOpenFiles": [
+    "_Notes/Asset classes in mutual funds.md",
+    "_Notes/Match the investment horizon of the fund with yours.md",
+    "0 Finance/Investments and Personal Finance.md",
+    "Inbox.md",
+    "_Notes/Purpose of a financial product.md",
+    "_Notes/Debt asset class.md",
+    "_Notes/Investing in real estate.md",
+    "_Notes/Equity asset class.md",
+    "_Notes/Comparing different asset classes.md",
+    "_Notes/Three part structure of mutual funds in India.md",
+    "Templates/Information.md",
+    "Templates/Quote - Template.md",
     "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/What is history useful for?.md",
     "1 Miscellaneous/Life Philosophies.md",
     "_Notes/Usefulness of history.md",
-    "Inbox.md",
     "Readwise/Articles/What the Heck Are You Actually Using NoSQL For - Highlights.md",
     "Readwise/Articles/Active-Active for Multi-Regional Resiliency - Highlights.md",
     "2 Science and technology/Software engineering.md",
@@ -214,17 +250,6 @@
     "Readwise/Articles/ByteByteGo  Technical Interview Prep - Highlights.md",
     "Readwise/Articles/Design A Rate Limiter - Highlights.md",
     "_Notes/Representing different data types in binary.md",
-    "_Notes/Operations on signed and unsigned integers.md",
-    "_Notes/Multiplying unsigned integers.md",
-    "_Notes/Multiplying signed integers.md",
-    "_Notes/Truncating signed integers.md",
-    "_Notes/Negation of signed integers.md",
-    "_Notes/Negation of unsigned integers.md",
-    "_Notes/Boolean Algebra.md",
-    "_Notes/Adding unsigned integers.md",
-    "_Notes/Abelian group.md",
-    "_Notes/Adding signed integers.md",
-    "_Notes/Encoding signed integers as binary.md",
     "Assets/Pasted image 20230417132857.png",
     "Assets/Pasted image 20230417132812.png",
     "Assets/Pasted image 20230416125238.png",

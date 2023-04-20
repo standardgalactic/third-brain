@@ -15,6 +15,11 @@
 - [[Equity asset class|Investing in equity]]
 - [[Thumb rule to decide on debt allocation in your portfolio]]
 
+#### Mutual funds
+- [[Three part structure of mutual funds in India]]
+- [[Asset classes in mutual funds]]
+- [[Match the investment horizon of the fund with yours]]
+
 ### Indices in the market and related
 - [[Sensex]]
 - [[Market capitalization (Market cap)]]
