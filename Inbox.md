@@ -1,0 +1,26 @@
+- In India, mutual fund industry has a three-part structure
+	- Someone who has the interest to set up a mutual fund, called **sponsor**
+	- Sponsor sets up a trust and an asset management company (AMC)
+	- Money collected from the investors belong to a trust.
+	- Sponsor appoints the trustees who are the custodians of the investors' money
+- AMC is a service provider to the trust that manages the money for a fee called AMC fee. All plans and schemes made by AMC are approved by the trustees before they come to the market.
+- Three asset classes in mutual fund:
+	- Debt - Buy bonds and debt papers issued by the government and firms.
+	- Gold - Buy gold
+	- Equity - Buy stocks of listed companies.
+	- Real estate will soon be available through special mutual funds called real estate investment trusts (REITs)
+- We should match the investment horizon of the mutual fund scheme with ours.
+	- Investment horizon is the time for which we want to invest our money (also called **tenor**)
+- Questions to ask when buying a mutual fund:
+	- Does the 'average maturity' of the fund match my holding period
+	- What is the quality of the portfolio of the scheme?
+		- Higher the quality - lower the potential return
+		- If you don't want risk in your debt fund, choose high quality paper debt funds
+- Liquid funds: Short maturity (maturity of 3 months) are bought
+- Average maturity: Average holding period of all the bonds/stocks in a fund
+- Check for credit quality of your liquid fund - must be high to ensure that money is safe.
+- Conservative balanced fund: Debt funds with a small flavour of equity. Cushions against volatility of equity, but adds to the overall returns
+- Gold ETF: One unit of ETF is equal to 1 gram of gold.
+- Diversification reduces the negative impact of an imploding stock. Conversely, it also reduces the positive impact of an exploding impact.
+- Active fund: A mutual fund where the fund manager manages the money by trading every day. They choose the stocks to fit the investment mandate by regularly analysing the market.
+- Passive fund: Buys the index and stays with it. Cost less than active funds since they don't 

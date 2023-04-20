@@ -48,9 +48,6 @@
 - Dental treatment, pregnancy and cosmetic surgery are standard exclusions. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=573))
 - What you can’t do much about is when the policy you buy excludes something at some future point in the policy. ([Location 574](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=574))
 - ask how much of the costs before and after hospitalization the policy will cover. You can claim expenditure made on doctor’s fees, medicines and diagnostic tests done before a planned hospitalization and for three months afterwards. ([Location 577](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=577))
-
-> [!NOTE] Done till here
-
 - ask for a list of ‘day-care’ procedures that don’t need you to stay for twenty-four hours in a hospital any more. Procedures and treatment such as a cataract surgery or surgery for a ligament tear (there is a standard list of 130 such procedures) are treated as ‘day-care’ procedures and are covered. Check the details of the day-care clause, what will be covered, how much will be paid and how long you have to stay to claim. ([Location 580](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=580))
 - look at the ‘no-claims bonus’ feature. When you don’t make a claim in a year, you get rewarded by the insurance company. It does this by giving a ‘no-claims bonus’ (NCB). The usual way is to raise your cover by 10 per cent for the same premium. If your cover was Rs 15 lakhs, for a premium of Rs 25,000, when you have a claim-free year, you get a cover of Rs 16.5 lakhs for the same premium. ([Location 585](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=585))
 - how many claims does the company settle? Out of 100, if the company’s claims history does not settle more than ninety-five claims, don’t buy from the firm. ([Location 594](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=594))

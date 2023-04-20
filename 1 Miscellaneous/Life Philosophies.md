@@ -16,7 +16,7 @@
 - [[Everyone is playing a different game]]
 - [[Aim to be reasonable, not rational]]
 - [[History cannot be used to predict the future]]
-	- [[What is history useful for?]]
+	- [[Usefulness of history]]
 	- [[History can be used to predict future in case of hard sciences]]
 	- [[The world is full of surprises]]
 - [[The End of History Illusion]]
