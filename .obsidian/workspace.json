@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e63a59153cc7b8",
+        "id": "2881e59a775554b5",
         "type": "tabs",
         "children": [
           {
-            "id": "454ec92383a0e684",
+            "id": "6f6b4398a8893147",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Science and technology/Software engineering.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e6314b177792b28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Asking Git to ignore changes made to a tracked file.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a083119781c05b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Ignore files in Git without changing gitignore.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,17 +149,9 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "856cd350f2590cdf",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -211,7 +171,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "856cd350f2590cdf",
+  "active": "6f6b4398a8893147",
   "lastOpenFiles": [
     "2 Science and technology/Software engineering.md",
     "_Notes/Asking Git to ignore changes made to a tracked file.md",

@@ -120,3 +120,7 @@
     - 7 highlights from Design A Rate Limiter
     - 17 highlights from ByteByteGo | Technical Interview Prep
 
+- [[2023-04-20]] 12:01 PM — Synced 7 highlights from 2 documents.
+    - 5 highlights from Active-Active for Multi-Regional Resiliency
+    - 2 highlights from What the Heck Are You Actually Using NoSQL For?
+
