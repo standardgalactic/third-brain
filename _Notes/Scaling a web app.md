@@ -11,8 +11,10 @@ There are, primarily, two kinds of databases:
 1. [[Relational database]]
 2. [[Non-relational database]]
 
+## Step 2: Multiple web servers - Using [[Load balancers|load balancer]]
+
 ## Sources
 - [[Scale From Zero To Millions Of Users by ByteByteGo]]
 
 ## Related Notes
-- 
+- [[Horizontal scaling]]

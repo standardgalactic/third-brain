@@ -21,32 +21,6 @@
             }
           },
           {
-            "id": "c8b40209bd3dc3c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Horizontal scaling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2f6f14d447ebbcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Vertical scaling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5dd5063edb8b3fb5",
             "type": "leaf",
             "state": {
@@ -58,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c0b26db44c01fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Load balancers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d485b90cea85a2b1",
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Horizontal scaling.md",
+                "file": "_Notes/Load balancers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Horizontal scaling.md",
+                "file": "_Notes/Load balancers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Horizontal scaling.md"
+                "file": "_Notes/Load balancers.md"
               }
             }
           },
@@ -235,12 +222,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c8b40209bd3dc3c9",
+  "active": "4c0b26db44c01fbf",
   "lastOpenFiles": [
+    "_Notes/Scaling a web app.md",
+    "_Notes/Load balancers.md",
     "2 Science and technology/Software engineering.md",
     "_Notes/Horizontal scaling.md",
     "_Notes/Vertical scaling.md",
-    "_Notes/Scaling a web app.md",
     "_Notes/Non-relational database.md",
     "_Notes/When to choose non-relational database.md",
     "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
@@ -264,7 +252,6 @@
     "_Notes/Equity asset class.md",
     "_Notes/Comparing different asset classes.md",
     "_Notes/Three part structure of mutual funds in India.md",
-    "Templates/Quote - Template.md",
     "Assets/Pasted image 20230417132857.png",
     "Assets/Pasted image 20230417132812.png",
     "Assets/Pasted image 20230416125238.png",

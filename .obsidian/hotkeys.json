@@ -19,9 +19,10 @@
   "app:go-forward": [
     {
       "modifiers": [
-        "Ctrl"
+        "Ctrl",
+        "Shift"
       ],
-      "key": "I"
+      "key": "-"
     }
   ],
   "editor:open-search-replace": [],
@@ -76,14 +77,6 @@
       "key": "F"
     }
   ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "O"
-    }
-  ],
   "convert-url-to-iframe:url-to-iframe": [],
   "table-editor-obsidian:table-control-bar": [],
   "dangerzone-writing-plugin:dangerzone-session-start": [],
@@ -120,6 +113,14 @@
         "Shift"
       ],
       "key": "Tab"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "-"
     }
   ]
 }

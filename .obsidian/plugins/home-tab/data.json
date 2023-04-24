@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Notes/Horizontal scaling.md",
-      "timestamp": 1682329728567
+      "filepath": "_Notes/Load balancers.md",
+      "timestamp": 1682330122345
+    },
+    {
+      "filepath": "_Notes/Scaling a web app.md",
+      "timestamp": 1682330042202
     },
     {
       "filepath": "2 Science and technology/Software engineering.md",
-      "timestamp": 1682329719071
-    },
-    {
-      "filepath": "_Notes/Vertical scaling.md",
-      "timestamp": 1682329675992
+      "timestamp": 1682330041157
     }
   ],
   "starredFileStore": [],
