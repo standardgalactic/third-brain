@@ -128,3 +128,6 @@
     - 36 highlights from Design A Key-value Store
     - 61 highlights from What the Heck Are You Actually Using NoSQL For?
 
+- [[2023-04-24]] 2:25 PM — Synced 2 highlights from 1 document.
+    - 2 highlights from Unnamed Document
+

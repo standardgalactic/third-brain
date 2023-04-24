@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Articles/Unnamed Document - Highlights.md",
+                "file": "Inbox.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d485b90cea85a2b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cdf25dded6dfdf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:",
+                "query": "sharding key",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/Unnamed Document - Highlights.md",
+                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/Unnamed Document - Highlights.md",
+                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Articles/Unnamed Document - Highlights.md"
+                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md"
               }
             }
           },
@@ -176,15 +195,19 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "cc81bdd227ee851c",
+  "active": "3cdf25dded6dfdf6",
   "lastOpenFiles": [
+    "Inbox.md",
+    "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
+    "Readwise/Articles/ByteByteGo  Technical Interview Prep - Highlights.md",
+    "Readwise/Readwise Syncs.md",
+    "Readwise/Articles/Unnamed Document - Highlights.md",
     "Readwise/Articles/A Brief History of Divestments - Highlights.md",
     "Readwise/Articles/Did Qatar Waste Money on the World Cup.md",
     "Readwise/Articles/Design A Key-value Store - Highlights.md",
     "_Notes/Asset classes in mutual funds.md",
     "_Notes/Match the investment horizon of the fund with yours.md",
     "0 Finance/Investments and Personal Finance.md",
-    "Inbox.md",
     "_Notes/Purpose of a financial product.md",
     "_Notes/Debt asset class.md",
     "_Notes/Investing in real estate.md",
@@ -200,10 +223,6 @@
     "Readwise/Articles/What the Heck Are You Actually Using NoSQL For - Highlights.md",
     "Readwise/Articles/Active-Active for Multi-Regional Resiliency - Highlights.md",
     "2 Science and technology/Software engineering.md",
-    "_Notes/Asking Git to ignore changes made to a tracked file.md",
-    "_Notes/Ignore files in Git without changing gitignore.md",
-    "Readwise/Articles/(Done) Cracking the Gift-Tax Code - Highlights.md",
-    "_Projects/Trying to run different version gem in different version.md",
     "Assets/Pasted image 20230417132857.png",
     "Assets/Pasted image 20230417132812.png",
     "Assets/Pasted image 20230416125238.png",

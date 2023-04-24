@@ -22,3 +22,6 @@
 		- Can buy at any point in the day (The difference in the price of the index between a given point in the day and the price at the end of day is not relevant to retail investors like us)
 		- Extremely cheap. Price can be as low as one basis point (one paise for every Rs 1000 invested)
 		- Liquidity may not be good. When you want to sell a large quantity, you may not get the current market price
+
+---
+	

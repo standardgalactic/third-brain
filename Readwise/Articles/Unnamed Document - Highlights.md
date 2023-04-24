@@ -103,4 +103,12 @@
   receives the CS signal from the 3-to-8 converter will be the one that
   responds to the memory access by the CPU. ([View Highlight](https://read.readwise.io/read/01gqshd2hqeb1rctskqb37dwwn))
 ^rwID-464408228
-	
+	## New highlights added April 24, 2023 at 2:25 PM
+- because you are devoting 3 of your address bus lines to chip
+  selection, you have reduced addressing functionality within the actual chips.
+  However, this is not usually a problem. The remaining 13 address bus lines
+  give you 8K of memory space in each chip, which is usually enough for small
+  computers ([View Highlight](https://read.readwise.io/read/01gys6x5r9skxyjw21e9sbhqyx))
+- If you have 8 memory chips, each of them with 8K of memory in
+  them, then you have a full 64K of addressable memory, using the full capacity
+  of a CPU with a 16-bit address bus ([View Highlight](https://read.readwise.io/read/01gys7021cqewtk3yqbxf2spcp))
