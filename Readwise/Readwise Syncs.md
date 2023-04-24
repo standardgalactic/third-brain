@@ -124,3 +124,7 @@
     - 5 highlights from Active-Active for Multi-Regional Resiliency
     - 2 highlights from What the Heck Are You Actually Using NoSQL For?
 
+- [[2023-04-24]] 1:49 PM — Synced 97 highlights from 2 documents.
+    - 36 highlights from Design A Key-value Store
+    - 61 highlights from What the Heck Are You Actually Using NoSQL For?
+

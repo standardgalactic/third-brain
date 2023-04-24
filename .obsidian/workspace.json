@@ -11,8 +11,13 @@
             "id": "cc81bdd227ee851c",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Articles/Unnamed Document - Highlights.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Finance/Investments and Personal Finance.md",
+                "file": "Readwise/Articles/Unnamed Document - Highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Finance/Investments and Personal Finance.md",
+                "file": "Readwise/Articles/Unnamed Document - Highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Finance/Investments and Personal Finance.md"
+                "file": "Readwise/Articles/Unnamed Document - Highlights.md"
               }
             }
           },
@@ -173,6 +178,9 @@
   },
   "active": "cc81bdd227ee851c",
   "lastOpenFiles": [
+    "Readwise/Articles/A Brief History of Divestments - Highlights.md",
+    "Readwise/Articles/Did Qatar Waste Money on the World Cup.md",
+    "Readwise/Articles/Design A Key-value Store - Highlights.md",
     "_Notes/Asset classes in mutual funds.md",
     "_Notes/Match the investment horizon of the fund with yours.md",
     "0 Finance/Investments and Personal Finance.md",
@@ -196,9 +204,6 @@
     "_Notes/Ignore files in Git without changing gitignore.md",
     "Readwise/Articles/(Done) Cracking the Gift-Tax Code - Highlights.md",
     "_Projects/Trying to run different version gem in different version.md",
-    "Readwise/Articles/ByteByteGo  Technical Interview Prep - Highlights.md",
-    "Readwise/Articles/Design A Rate Limiter - Highlights.md",
-    "_Notes/Representing different data types in binary.md",
     "Assets/Pasted image 20230417132857.png",
     "Assets/Pasted image 20230417132812.png",
     "Assets/Pasted image 20230416125238.png",
