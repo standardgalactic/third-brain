@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "2 Science and technology/Software engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8b40209bd3dc3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Horizontal scaling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2f6f14d447ebbcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Vertical scaling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dd5063edb8b3fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Scaling a web app.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d485b90cea85a2b1",
@@ -106,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
+                "file": "_Notes/Horizontal scaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
+                "file": "_Notes/Horizontal scaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md"
+                "file": "_Notes/Horizontal scaling.md"
               }
             }
           },
@@ -195,11 +235,21 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "3cdf25dded6dfdf6",
+  "active": "c8b40209bd3dc3c9",
   "lastOpenFiles": [
-    "Inbox.md",
+    "2 Science and technology/Software engineering.md",
+    "_Notes/Horizontal scaling.md",
+    "_Notes/Vertical scaling.md",
+    "_Notes/Scaling a web app.md",
+    "_Notes/Non-relational database.md",
+    "_Notes/When to choose non-relational database.md",
     "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
     "Readwise/Articles/ByteByteGo  Technical Interview Prep - Highlights.md",
+    "_Notes/Relational database.md",
+    "Templates/Information.md",
+    "Assets/Data_is_now_saved_in_a_separate_DB_tier.png",
+    "Inbox.md",
+    "Assets/Figure_2.webp",
     "Readwise/Readwise Syncs.md",
     "Readwise/Articles/Unnamed Document - Highlights.md",
     "Readwise/Articles/A Brief History of Divestments - Highlights.md",
@@ -214,15 +264,7 @@
     "_Notes/Equity asset class.md",
     "_Notes/Comparing different asset classes.md",
     "_Notes/Three part structure of mutual funds in India.md",
-    "Templates/Information.md",
     "Templates/Quote - Template.md",
-    "Readwise/Books/Let's Talk Money - Highlights.md",
-    "_Notes/What is history useful for?.md",
-    "1 Miscellaneous/Life Philosophies.md",
-    "_Notes/Usefulness of history.md",
-    "Readwise/Articles/What the Heck Are You Actually Using NoSQL For - Highlights.md",
-    "Readwise/Articles/Active-Active for Multi-Regional Resiliency - Highlights.md",
-    "2 Science and technology/Software engineering.md",
     "Assets/Pasted image 20230417132857.png",
     "Assets/Pasted image 20230417132812.png",
     "Assets/Pasted image 20230416125238.png",
@@ -231,8 +273,6 @@
     "Assets/Pasted image 20230416094138.png",
     "Assets/Pasted image 20230416094133.png",
     "Assets/Pasted image 20230413120824.png",
-    "Assets/Pasted image 20230413114341.png",
-    "Assets/Pasted image 20230413113826.png",
     "Untitled.canvas",
     "netlify.toml",
     "_Quotes",

@@ -24,4 +24,3 @@
 		- Liquidity may not be good. When you want to sell a large quantity, you may not get the current market price
 
 ---
-	

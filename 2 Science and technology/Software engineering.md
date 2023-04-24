@@ -32,6 +32,18 @@
 - [[Boolean Algebra]]
 - [[Abelian group]]
 
+## Databases
+- [[Relational database]]
+- [[Non-relational database]]
+	- [[When to choose non-relational database]]
+
+## System design
+- [[Scaling a web app]]
+
+### Concepts
+- [[Vertical scaling]]
+- [[Horizontal scaling]]
+
 ## Computer systems
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]
 - [[Lifecycle of running a program]]
