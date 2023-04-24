@@ -37,12 +37,13 @@
 - [[Non-relational database]]
 	- [[When to choose non-relational database]]
 
-## System design
+## System design scenarios/examples
 - [[Scaling a web app]]
 
 ### Concepts
 - [[Vertical scaling]]
 - [[Horizontal scaling]]
+- [[Load balancers]]
 
 ## Computer systems
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]

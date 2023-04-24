@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Scaling a web app.md",
+                "file": "_Notes/Database replication using master-slave relationship.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d485b90cea85a2b1",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Load balancers.md",
+                "file": "_Notes/Database replication using master-slave relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Load balancers.md",
+                "file": "_Notes/Database replication using master-slave relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Load balancers.md"
+                "file": "_Notes/Database replication using master-slave relationship.md"
               }
             }
           },
@@ -222,12 +222,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "4c0b26db44c01fbf",
+  "active": "5dd5063edb8b3fb5",
   "lastOpenFiles": [
+    "Assets/master-slave-database.svg.svg",
+    "_Notes/Database replication using master-slave relationship.md",
     "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
-    "_Notes/Load balancers.md",
     "_Notes/Scaling a web app.md",
     "2 Science and technology/Software engineering.md",
+    "_Notes/Load balancers.md",
+    "Assets/Figure_4.png",
     "_Notes/Horizontal scaling.md",
     "_Notes/Vertical scaling.md",
     "_Notes/Non-relational database.md",
@@ -250,16 +253,12 @@
     "_Notes/Debt asset class.md",
     "_Notes/Investing in real estate.md",
     "_Notes/Equity asset class.md",
-    "_Notes/Comparing different asset classes.md",
-    "_Notes/Three part structure of mutual funds in India.md",
     "Assets/Pasted image 20230417132857.png",
     "Assets/Pasted image 20230417132812.png",
     "Assets/Pasted image 20230416125238.png",
     "Assets/Pasted image 20230416123425.png",
     "Assets/Pasted image 20230416123253.png",
     "Assets/Pasted image 20230416094138.png",
-    "Assets/Pasted image 20230416094133.png",
-    "Assets/Pasted image 20230413120824.png",
     "Untitled.canvas",
     "netlify.toml",
     "_Quotes",

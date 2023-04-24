@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Notes/Load balancers.md",
-      "timestamp": 1682333948625
+      "filepath": "_Notes/Database replication using master-slave relationship.md",
+      "timestamp": 1682336814100
+    },
+    {
+      "filepath": "Assets/master-slave-database.svg.svg",
+      "timestamp": 1682336792768
     },
     {
       "filepath": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
-      "timestamp": 1682333942723
-    },
-    {
-      "filepath": "_Notes/Scaling a web app.md",
-      "timestamp": 1682330042202
+      "timestamp": 1682336769214
     }
   ],
   "starredFileStore": [],

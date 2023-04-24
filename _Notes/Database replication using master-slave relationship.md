@@ -1,0 +1,22 @@
+- Master database generally only supports write operations.
+- A slave database gets copies of the data from the master database and only supports read operations
+- The number of slave databases in a system is usually larger than the number of master databases since most applications require a much higher ratio of reads to writes.
+
+## Advantages
+### Better performance
+- Allows more queries to be processed in parallel
+	- Because of distribution of write and read responsibilities between master and slave
+
+### Reliability
+- Since data is replicated across multiple locations, data is still preserved even if one of the DB servers is destroyed by a natural disaster
+
+### High availability
+- Even if one of the DB servers is offline, you can access data stored in another DB server. This way 
+
+![Figure 5](master-slave-database.svg.svg)
+
+## Sources
+- [[Scale From Zero To Millions Of Users by ByteByteGo]]
+
+## Related Notes
+- 
