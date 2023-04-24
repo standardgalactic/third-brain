@@ -25,15 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "_Notes/Load balancers.md",
-      "timestamp": 1682330122345
+      "timestamp": 1682333948625
+    },
+    {
+      "filepath": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
+      "timestamp": 1682333942723
     },
     {
       "filepath": "_Notes/Scaling a web app.md",
       "timestamp": 1682330042202
-    },
-    {
-      "filepath": "2 Science and technology/Software engineering.md",
-      "timestamp": 1682330041157
     }
   ],
   "starredFileStore": [],
