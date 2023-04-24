@@ -44,6 +44,7 @@
 - [[Vertical scaling]]
 - [[Horizontal scaling]]
 - [[Load balancers]]
+- [[Database replication using master-slave relationship]]
 
 ## Computer systems
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]

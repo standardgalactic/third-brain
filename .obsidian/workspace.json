@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Database replication using master-slave relationship.md",
+                "file": "_Notes/Scaling a web app.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Database replication using master-slave relationship.md",
+                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Database replication using master-slave relationship.md",
+                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Database replication using master-slave relationship.md"
+                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md"
               }
             }
           },
@@ -222,13 +222,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "5dd5063edb8b3fb5",
+  "active": "3cdf25dded6dfdf6",
   "lastOpenFiles": [
-    "Assets/master-slave-database.svg.svg",
-    "_Notes/Database replication using master-slave relationship.md",
-    "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
     "_Notes/Scaling a web app.md",
     "2 Science and technology/Software engineering.md",
+    "_Notes/Database replication using master-slave relationship.md",
+    "Assets/master-slave-database.svg.svg",
+    "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
     "_Notes/Load balancers.md",
     "Assets/Figure_4.png",
     "_Notes/Horizontal scaling.md",
