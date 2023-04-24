@@ -4,66 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f81b0136dfdb374",
+        "id": "3165a999d519f3c6",
         "type": "tabs",
         "children": [
           {
-            "id": "29851f762fe56e0c",
+            "id": "cc81bdd227ee851c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Equity asset class.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "445d5a9d42edc1e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Investments and Personal Finance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39fd5b0d8dab246b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Asset classes in mutual funds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "aafc9cd3a445ab50",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "be9a3c3d339f369c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -222,7 +171,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "445d5a9d42edc1e1",
+  "active": "cc81bdd227ee851c",
   "lastOpenFiles": [
     "_Notes/Asset classes in mutual funds.md",
     "_Notes/Match the investment horizon of the fund with yours.md",
