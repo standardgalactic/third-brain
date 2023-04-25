@@ -4,44 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "93c712048358d229",
+        "id": "69b91704f80c2b07",
         "type": "tabs",
         "children": [
           {
-            "id": "ccd45c5b92a061d3",
+            "id": "c290209de3c07c70",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
+                "file": "_Notes/Types of mutual funds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "e6e35191f079c232",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "0afbffd3673a6841",
+            "id": "522fc8ffc054b6da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Scaling a web app.md",
+                "file": "_Notes/Passive mutual funds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a1218ad39a27fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Equity asset class.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sharding key",
+                "query": "path:_notes diversif",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Scaling a web app.md",
+                "file": "_Notes/Equity asset class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Scaling a web app.md",
+                "file": "_Notes/Equity asset class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Scaling a web app.md"
+                "file": "_Notes/Equity asset class.md"
               }
             }
           },
@@ -197,13 +204,29 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "0afbffd3673a6841",
+  "active": "4a1218ad39a27fb5",
   "lastOpenFiles": [
-    "2 Science and technology/Software engineering.md",
-    "_Notes/Caching in large scale applications.md",
+    "_Notes/Passive mutual funds.md",
+    "_Notes/Equity asset class.md",
+    "Inbox.md",
+    "_Notes/Types of mutual funds.md",
+    "_Notes/Active mutual funds.md",
+    "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Investing in gold.md",
+    "_Notes/Diversify your investments.md",
     "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
-    "_Notes/Single point of failure.md",
+    "_Notes/Asset classes in mutual funds.md",
+    "_Notes/Conservative balanced fund.md",
+    "_Notes/Asset classes.md",
+    "_Notes/Real assets - Asset class.md",
+    "_Notes/Questions to ask when buying a mutual fund.md",
+    "_Notes/Liquid mutual funds.md",
+    "Templates/Information.md",
+    "_Notes/Match the investment horizon of the fund with yours.md",
+    "_Notes/Caching in large scale applications.md",
     "_Notes/Scaling a web app.md",
+    "2 Science and technology/Software engineering.md",
+    "_Notes/Single point of failure.md",
     "_Notes/Database replication using master-slave relationship.md",
     "Assets/master-slave-database.svg.svg",
     "_Notes/Load balancers.md",
@@ -211,24 +234,8 @@
     "_Notes/Horizontal scaling.md",
     "_Notes/Vertical scaling.md",
     "_Notes/Non-relational database.md",
-    "_Notes/When to choose non-relational database.md",
-    "Readwise/Articles/ByteByteGo  Technical Interview Prep - Highlights.md",
-    "_Notes/Relational database.md",
-    "Templates/Information.md",
     "Assets/Data_is_now_saved_in_a_separate_DB_tier.png",
-    "Inbox.md",
     "Assets/Figure_2.webp",
-    "Readwise/Readwise Syncs.md",
-    "Readwise/Articles/Unnamed Document - Highlights.md",
-    "Readwise/Articles/A Brief History of Divestments - Highlights.md",
-    "Readwise/Articles/Did Qatar Waste Money on the World Cup.md",
-    "Readwise/Articles/Design A Key-value Store - Highlights.md",
-    "_Notes/Asset classes in mutual funds.md",
-    "_Notes/Match the investment horizon of the fund with yours.md",
-    "0 Finance/Investments and Personal Finance.md",
-    "_Notes/Purpose of a financial product.md",
-    "_Notes/Debt asset class.md",
-    "_Notes/Investing in real estate.md",
     "Assets/Pasted image 20230417132857.png",
     "Assets/Pasted image 20230417132812.png",
     "Assets/Pasted image 20230416125238.png",

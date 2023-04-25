@@ -1,7 +1,7 @@
 
 
 ## Sources
-- [[Scale From Zero To Millions Of Users by ByteByteGo]]
+- [[Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

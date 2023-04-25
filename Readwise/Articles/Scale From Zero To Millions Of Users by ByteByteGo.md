@@ -123,6 +123,9 @@ Mitigating failures: A single cache server represents a potential single point o
 •   As a result, multiple cache servers across different data centers are recommended to avoid SPOF. Another recommended approach is to overprovision the required memory by certain percentages. This provides a buffer as the memory usage increases.
 
 
+> [!success] done till here
+
+
 ![Figure 8](https://bytebytego.com/_next/image?url=%2Fimages%2Fcourses%2Fsystem-design-interview%2Fscale-from-zero-to-millions-of-users%2Ffigure-1-8-AVKYQBAQ.png&w=828&q=75)
 
 
