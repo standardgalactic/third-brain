@@ -4,66 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3165a999d519f3c6",
+        "id": "93c712048358d229",
         "type": "tabs",
         "children": [
           {
-            "id": "cc81bdd227ee851c",
+            "id": "ccd45c5b92a061d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Science and technology/Software engineering.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dd5063edb8b3fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Scaling a web app.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c0b26db44c01fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Load balancers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d485b90cea85a2b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3cdf25dded6dfdf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -222,7 +171,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "3cdf25dded6dfdf6",
+  "active": "ccd45c5b92a061d3",
   "lastOpenFiles": [
     "_Notes/Scaling a web app.md",
     "2 Science and technology/Software engineering.md",
