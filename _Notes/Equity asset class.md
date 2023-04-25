@@ -15,13 +15,6 @@
 - **Do NOT** put your money into the equity market if you need it next year
 - Requires patience - Good equity portfolio needs five years of patience, ten years to see consistent returns, but actually will slow-cook over fifteen to twenty years
 
-## Risk of locking into a single company or asset manager
-- The risk in equity investing is not of the market, but of poor fund management.
-- Do not invest in any product that locks you into a particular company or asset manager.
-
-### Choose a product where exit is cheap and easy
-- **Portability**: You should be able to port your money to a better fund manager for a very tiny cost if you are unhappy with the existing one.
-
 ## Sources
 - [[Let's Talk Money - Highlights]]
 

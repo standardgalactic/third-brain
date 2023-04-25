@@ -14,6 +14,8 @@
 - [[Investing in real estate]]
 - [[Equity asset class|Investing in equity]]
 - [[Thumb rule to decide on debt allocation in your portfolio]]
+- [[Risk of locking into a single company or asset manager]]
+- [[Choose an investment product where exit is cheap and easy]]
 
 #### Mutual funds
 - [[Three part structure of mutual funds in India]]

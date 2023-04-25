@@ -11,7 +11,7 @@
   "autofractionEnabled": true,
   "autofractionExcludedEnvs": "[\n        [\"^{\", \"}\"],\n        [\"\\\\pu{\", \"}\"]\n]",
   "autofractionBreakingChars": "+-=\t",
-  "matrixShortcutsEnabled": true,
+  "matrixShortcutsEnabled": false,
   "matrixShortcutsEnvNames": "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix",
   "taboutEnabled": true,
   "autoEnlargeBrackets": true,

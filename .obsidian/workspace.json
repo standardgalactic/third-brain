@@ -8,46 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c290209de3c07c70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Types of mutual funds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "522fc8ffc054b6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Passive mutual funds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4a1218ad39a27fb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Equity asset class.md",
+                "file": "2 Science and technology/Software engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d86727d47c1ca26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Bit level equivalence of unsigned and two-s complement multiplication.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:_notes diversif",
+                "query": "path:_notes/ overflow",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -115,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Equity asset class.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Equity asset class.md",
+                "file": "2 Science and technology/Software engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Equity asset class.md"
+                "file": "2 Science and technology/Software engineering.md"
               }
             }
           },
@@ -182,9 +168,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "0ba919f881b5d1d1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -206,12 +200,22 @@
   },
   "active": "4a1218ad39a27fb5",
   "lastOpenFiles": [
-    "_Notes/Passive mutual funds.md",
-    "_Notes/Equity asset class.md",
+    "_Notes/Representing different data types in binary.md",
+    "2 Science and technology/Software engineering.md",
+    "_Notes/Operations on signed and unsigned integers.md",
+    "_Notes/Bit level equivalence of unsigned and two-s complement multiplication.md",
+    "_Notes/Caching in large scale applications.md",
+    "Assets/Pasted image 20230425095807.png",
+    "Templates/Information.md",
+    "_Notes/Multiplying signed integers.md",
     "Inbox.md",
-    "_Notes/Types of mutual funds.md",
-    "_Notes/Active mutual funds.md",
+    "_Notes/Equity asset class.md",
+    "_Notes/Risk of locking into a single company or asset manager.md",
     "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Choose an investment product where exit is cheap and easy.md",
+    "_Notes/Types of mutual funds.md",
+    "_Notes/Passive mutual funds.md",
+    "_Notes/Active mutual funds.md",
     "_Notes/Investing in gold.md",
     "_Notes/Diversify your investments.md",
     "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
@@ -221,19 +225,10 @@
     "_Notes/Real assets - Asset class.md",
     "_Notes/Questions to ask when buying a mutual fund.md",
     "_Notes/Liquid mutual funds.md",
-    "Templates/Information.md",
     "_Notes/Match the investment horizon of the fund with yours.md",
-    "_Notes/Caching in large scale applications.md",
     "_Notes/Scaling a web app.md",
-    "2 Science and technology/Software engineering.md",
-    "_Notes/Single point of failure.md",
-    "_Notes/Database replication using master-slave relationship.md",
     "Assets/master-slave-database.svg.svg",
-    "_Notes/Load balancers.md",
     "Assets/Figure_4.png",
-    "_Notes/Horizontal scaling.md",
-    "_Notes/Vertical scaling.md",
-    "_Notes/Non-relational database.md",
     "Assets/Data_is_now_saved_in_a_separate_DB_tier.png",
     "Assets/Figure_2.webp",
     "Assets/Pasted image 20230417132857.png",
@@ -241,7 +236,6 @@
     "Assets/Pasted image 20230416125238.png",
     "Assets/Pasted image 20230416123425.png",
     "Assets/Pasted image 20230416123253.png",
-    "Assets/Pasted image 20230416094138.png",
     "Untitled.canvas",
     "netlify.toml",
     "_Quotes",
