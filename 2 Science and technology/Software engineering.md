@@ -45,6 +45,8 @@
 - [[Horizontal scaling]]
 - [[Load balancers]]
 - [[Database replication using master-slave relationship]]
+- [[Caching in large scale applications]]
+- [[Single point of failure]]
 
 ## Computer systems
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]

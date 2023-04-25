@@ -20,8 +20,9 @@ There are, primarily, two kinds of databases:
 - Replicating data is important in order to ensure that all data is safe in the event that our main DB server goes down
 - A common way is to perform [[Database replication using master-slave relationship|database replication using master-slave relationship]]
 
-## Step 4: Inserting a cache tier
-
+## Step 4: Inserting a [[Caching in large scale applications|cache tier]]
+- Used in order to improve the data fetch speed of frequently read data
+- In this scenario, we will go with the [[Caching in large scale applications#^e2afe4|read-through cache]] 
 
 ## Sources
 - [[Scale From Zero To Millions Of Users by ByteByteGo]]

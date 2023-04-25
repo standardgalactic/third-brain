@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
-      "timestamp": 1682337359731
-    },
-    {
       "filepath": "_Notes/Scaling a web app.md",
-      "timestamp": 1682337190695
+      "timestamp": 1682393947844
     },
     {
       "filepath": "2 Science and technology/Software engineering.md",
-      "timestamp": 1682337167809
+      "timestamp": 1682393918370
+    },
+    {
+      "filepath": "_Notes/Caching in large scale applications.md",
+      "timestamp": 1682393914698
     }
   ],
   "starredFileStore": [],

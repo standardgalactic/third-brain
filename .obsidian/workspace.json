@@ -10,9 +10,35 @@
           {
             "id": "ccd45c5b92a061d3",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "e6e35191f079c232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0afbffd3673a6841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Scaling a web app.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
+                "file": "_Notes/Scaling a web app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
+                "file": "_Notes/Scaling a web app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md"
+                "file": "_Notes/Scaling a web app.md"
               }
             }
           },
@@ -171,13 +197,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "ccd45c5b92a061d3",
+  "active": "0afbffd3673a6841",
   "lastOpenFiles": [
-    "_Notes/Scaling a web app.md",
     "2 Science and technology/Software engineering.md",
+    "_Notes/Caching in large scale applications.md",
+    "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
+    "_Notes/Single point of failure.md",
+    "_Notes/Scaling a web app.md",
     "_Notes/Database replication using master-slave relationship.md",
     "Assets/master-slave-database.svg.svg",
-    "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
     "_Notes/Load balancers.md",
     "Assets/Figure_4.png",
     "_Notes/Horizontal scaling.md",
@@ -201,7 +229,6 @@
     "_Notes/Purpose of a financial product.md",
     "_Notes/Debt asset class.md",
     "_Notes/Investing in real estate.md",
-    "_Notes/Equity asset class.md",
     "Assets/Pasted image 20230417132857.png",
     "Assets/Pasted image 20230417132812.png",
     "Assets/Pasted image 20230416125238.png",
