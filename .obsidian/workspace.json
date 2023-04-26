@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "_Notes/Security vulnerability in the XDR library due to overflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "_Notes/Security vulnerability in the XDR library due to overflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Science and technology/Software engineering.md",
+                "file": "_Notes/Security vulnerability in the XDR library due to overflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Science and technology/Software engineering.md"
+                "file": "_Notes/Security vulnerability in the XDR library due to overflow.md"
               }
             }
           },
@@ -200,8 +200,9 @@
   },
   "active": "4a1218ad39a27fb5",
   "lastOpenFiles": [
-    "_Notes/Representing different data types in binary.md",
     "2 Science and technology/Software engineering.md",
+    "_Notes/Security vulnerability in the XDR library due to overflow.md",
+    "_Notes/Representing different data types in binary.md",
     "_Notes/Operations on signed and unsigned integers.md",
     "_Notes/Bit level equivalence of unsigned and two-s complement multiplication.md",
     "_Notes/Caching in large scale applications.md",
@@ -226,7 +227,6 @@
     "_Notes/Questions to ask when buying a mutual fund.md",
     "_Notes/Liquid mutual funds.md",
     "_Notes/Match the investment horizon of the fund with yours.md",
-    "_Notes/Scaling a web app.md",
     "Assets/master-slave-database.svg.svg",
     "Assets/Figure_4.png",
     "Assets/Data_is_now_saved_in_a_separate_DB_tier.png",
