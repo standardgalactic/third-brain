@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "obsidian-vimrc-support",
-  "obsidian-relative-line-numbers",
   "table-editor-obsidian",
   "file-tree-alternative",
   "no-dupe-leaves",
@@ -10,11 +9,9 @@
   "remotely-save",
   "readwise-official",
   "smart-connections",
-  "better-pdf-plugin",
   "home-tab",
   "callout-manager",
   "image-captions",
   "smart-random-note",
-  "obsidian-latex-suite",
   "obsidian-local-images"
 ]

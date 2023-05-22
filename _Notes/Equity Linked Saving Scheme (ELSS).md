@@ -1,5 +1,5 @@
 - Equity fund with tax benefits
-- Has 3-year lock in period
+- Has 3-year [[Lock-in period|lock-in period]]
 - Growth option is recommended
 
 ## Sources

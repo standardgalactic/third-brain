@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "45cd4849454b6b40",
+            "id": "0d5211b83cdfff9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,25 +55,12 @@
             }
           },
           {
-            "id": "e8320139d6041306",
+            "id": "28768f7aafaa0199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Inbox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2db23395127b4430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Notes/Asset classes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:notes/ nav",
+                "query": "path:notes/ \"lock in\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -140,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox.md",
+                "file": "Readwise/Books/Let's Talk Money - Highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox.md",
+                "file": "Readwise/Books/Let's Talk Money - Highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox.md"
+                "file": "Readwise/Books/Let's Talk Money - Highlights.md"
               }
             }
           },
@@ -238,34 +225,34 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e8320139d6041306",
+  "active": "41e4109dea643416",
   "lastOpenFiles": [
-    "Readwise/Books/Let's Talk Money - Highlights.md",
     "Inbox.md",
-    "_Notes/Costs of market linked products.md",
     "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Questions to ask when buying a mutual fund.md",
+    "_Notes/Category returns in Investments.md",
+    "_Notes/Premium paying term may be different than the policy tenure.md",
+    "_Notes/Equity Linked Saving Scheme (ELSS).md",
+    "Readwise/Books/Let's Talk Money - Highlights.md",
+    "_Notes/Lock-in period.md",
+    "_Notes/Equity asset class.md",
+    "_Notes/Systematic Investment Plan (SIP).md",
+    "_Notes/Costs of market linked products.md",
+    "_Notes/Systematic Withdrawal Plan (SWP).md",
+    "_Notes/Periodically transfer money into equity scheme from a liquid fund.md",
     "_Notes/Asset classes.md",
+    "_Notes/Financial distributors and advisers.md",
+    "_Notes/Direct mutual funds.md",
+    "_Areas/Fitness/Warming up.md",
     "_Notes/Options offered by each mutual fund.md",
     "_Notes/Net Asset Value (NAV).md",
-    "_Notes/Equity Linked Saving Scheme (ELSS).md",
     "_Notes/Balanced mutual funds.md",
     "_Notes/Types of mutual funds.md",
     "0 Finance/Taxation.md",
-    "_Notes/Equity asset class.md",
     "_Notes/Thumb rule to decide on debt allocation in your portfolio.md",
     "_Notes/Comparing different asset classes.md",
     "_Notes/Other types of indices in the market.md",
     "_Notes/Open and closed ended equity funds.md",
-    "_Notes/Diversified equity fund.md",
-    "_Notes/Passive mutual funds.md",
-    "_Notes/Active mutual funds.md",
-    "_Notes/Asset classes in mutual funds.md",
-    "_Notes/Market capitalization (Market cap).md",
-    "Templates/Information.md",
-    "2 Science and technology/Software engineering.md",
-    "_Notes/Security vulnerability in the XDR library due to overflow.md",
-    "_Notes/Representing different data types in binary.md",
-    "_Notes/Operations on signed and unsigned integers.md",
     "Assets/Pasted image 20230425095807.png",
     "Assets/master-slave-database.svg.svg",
     "Assets/Figure_4.png",

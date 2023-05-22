@@ -17,6 +17,7 @@
 - [[Thumb rule to decide on debt allocation in your portfolio]]
 - [[Risk of locking into a single company or asset manager]]
 - [[Choose an investment product where exit is cheap and easy]]
+- [[Premium paying term may be different than the policy tenure]]
 
 #### Mutual funds
 - [[Three part structure of mutual funds in India]]
@@ -25,7 +26,9 @@
 - [[Questions to ask when buying a mutual fund]]
 - [[Types of mutual funds]]
 - [[Options offered by each mutual fund]]
-- [[Net Asset Value (NAV)]]
+- [[Direct mutual funds]]
+- [[Systematic Investment Plan (SIP)]]
+- [[Systematic Withdrawal Plan (SWP)]]
 
 ### Indices in the market and related
 - [[Sensex]]
@@ -44,10 +47,15 @@
 - [[Thumb rule to calculate rate of interest - Rule of 72]]
 - [[Purpose of a financial product]]
 - [[System of setting goals and creating buckets]]
+- [[Periodically transfer money into equity scheme from a liquid fund]]
 
 ## Terms
 - [[Third-party agent (TPA) service]]
 - [[Meaning of financial freedom]]
 - [[Meaning of the term - underlying]]
+- [[Financial distributors and advisers]]
+- [[Category returns in Investments|Category returns]]
+- [[Lock-in period]]
+- [[Net Asset Value (NAV)]]
 
 ## Quotes
