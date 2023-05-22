@@ -41,10 +41,10 @@
 - [[Thumb rule to calculate rate of interest - Rule of 72]]
 - [[Purpose of a financial product]]
 - [[System of setting goals and creating buckets]]
-- [[Meaning of the term - underlying]]
 
 ## Terms
 - [[Third-party agent (TPA) service]]
 - [[Meaning of financial freedom]]
+- [[Meaning of the term - underlying]]
 
 ## Quotes

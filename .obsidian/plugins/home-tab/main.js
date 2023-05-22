@@ -244,10 +244,10 @@ __export(main_exports, {
   default: () => HomeTab
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian15 = require("obsidian");
+var import_obsidian17 = require("obsidian");
 
 // src/homeView.ts
-var import_obsidian11 = require("obsidian");
+var import_obsidian13 = require("obsidian");
 
 // node_modules/svelte/internal/index.mjs
 function noop() {
@@ -431,12 +431,6 @@ function insert(target, node, anchor) {
 function detach(node) {
   node.parentNode.removeChild(node);
 }
-function destroy_each(iterations, detaching) {
-  for (let i = 0; i < iterations.length; i += 1) {
-    if (iterations[i])
-      iterations[i].d(detaching);
-  }
-}
 function element(name) {
   return document.createElement(name);
 }
@@ -496,44 +490,6 @@ function custom_event(type, detail, { bubbles = false, cancelable = false } = {}
   e.initCustomEvent(type, bubbles, cancelable, detail);
   return e;
 }
-var HtmlTag = class {
-  constructor(is_svg = false) {
-    this.is_svg = false;
-    this.is_svg = is_svg;
-    this.e = this.n = null;
-  }
-  c(html) {
-    this.h(html);
-  }
-  m(html, target, anchor = null) {
-    if (!this.e) {
-      if (this.is_svg)
-        this.e = svg_element(target.nodeName);
-      else
-        this.e = element(target.nodeName);
-      this.t = target;
-      this.c(html);
-    }
-    this.i(anchor);
-  }
-  h(html) {
-    this.e.innerHTML = html;
-    this.n = Array.from(this.e.childNodes);
-  }
-  i(anchor) {
-    for (let i = 0; i < this.n.length; i += 1) {
-      insert(this.t, this.n[i], anchor);
-    }
-  }
-  p(html) {
-    this.d();
-    this.h(html);
-    this.i(this.a);
-  }
-  d() {
-    this.n.forEach(detach);
-  }
-};
 var managed_styles = /* @__PURE__ */ new Map();
 var active = 0;
 function hash(str) {
@@ -964,7 +920,7 @@ function make_dirty(component, i) {
   }
   component.$$.dirty[i / 31 | 0] |= 1 << i % 31;
 }
-function init(component, options, instance15, create_fragment15, not_equal, props, append_styles2, dirty = [-1]) {
+function init(component, options, instance26, create_fragment26, not_equal, props, append_styles2, dirty = [-1]) {
   const parent_component = current_component;
   set_current_component(component);
   const $$ = component.$$ = {
@@ -987,7 +943,7 @@ function init(component, options, instance15, create_fragment15, not_equal, prop
   };
   append_styles2 && append_styles2($$.root);
   let ready = false;
-  $$.ctx = instance15 ? instance15(component, options.props || {}, (i, ret, ...rest) => {
+  $$.ctx = instance26 ? instance26(component, options.props || {}, (i, ret, ...rest) => {
     const value = rest.length ? rest[0] : ret;
     if ($$.ctx && not_equal($$.ctx[i], $$.ctx[i] = value)) {
       if (!$$.skip_bound && $$.bound[i])
@@ -1000,7 +956,7 @@ function init(component, options, instance15, create_fragment15, not_equal, prop
   $$.update();
   ready = true;
   run_all($$.before_update);
-  $$.fragment = create_fragment15 ? create_fragment15($$.ctx) : false;
+  $$.fragment = create_fragment26 ? create_fragment26($$.ctx) : false;
   if (options.target) {
     if (options.hydrate) {
       start_hydrating();
@@ -1296,18 +1252,15 @@ function add_css2(target) {
 }
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[11] = list[i];
-  child_ctx[13] = i;
-  return child_ctx;
-}
-function get_each_context_1(ctx, list, i) {
-  const child_ctx = ctx.slice();
-  child_ctx[14] = list[i];
+  child_ctx[8] = list[i];
+  child_ctx[10] = i;
   return child_ctx;
 }
 function create_if_block(ctx) {
   let div1;
   let div0;
+  let each_blocks = [];
+  let each_1_lookup = /* @__PURE__ */ new Map();
   let div0_class_value;
   let div0_style_value;
   let t;
@@ -1317,9 +1270,11 @@ function create_if_block(ctx) {
   let mounted;
   let dispose;
   let each_value = ctx[3];
-  let each_blocks = [];
+  const get_key = (ctx2) => ctx2[8];
   for (let i = 0; i < each_value.length; i += 1) {
-    each_blocks[i] = create_each_block(get_each_context(ctx, each_value, i));
+    let child_ctx = get_each_context(ctx, each_value, i);
+    let key = get_key(child_ctx);
+    each_1_lookup.set(key, each_blocks[i] = create_each_block(key, child_ctx));
   }
   let if_block = ctx[1].additionalModalInfo && create_if_block_1(ctx);
   return {
@@ -1344,7 +1299,7 @@ function create_if_block(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].m(div0, null);
       }
-      ctx[10](div0);
+      ctx[7](div0);
       append(div1, t);
       if (if_block)
         if_block.m(div1, null);
@@ -1357,23 +1312,11 @@ function create_if_block(ctx) {
     p(new_ctx, dirty) {
       var _a, _b, _c, _d;
       ctx = new_ctx;
-      if (dirty & 31) {
+      if (dirty & 29) {
         each_value = ctx[3];
-        let i;
-        for (i = 0; i < each_value.length; i += 1) {
-          const child_ctx = get_each_context(ctx, each_value, i);
-          if (each_blocks[i]) {
-            each_blocks[i].p(child_ctx, dirty);
-          } else {
-            each_blocks[i] = create_each_block(child_ctx);
-            each_blocks[i].c();
-            each_blocks[i].m(div0, null);
-          }
-        }
-        for (; i < each_blocks.length; i += 1) {
-          each_blocks[i].d(1);
-        }
-        each_blocks.length = each_value.length;
+        group_outros();
+        each_blocks = update_keyed_each(each_blocks, dirty, get_key, 1, ctx, each_value, each_1_lookup, div0, outro_and_destroy_block, create_each_block, null, get_each_context);
+        check_outros();
       }
       if (!current || dirty & 2 && div0_class_value !== (div0_class_value = ((_a = ctx[1].suggestionClass) != null ? _a : "suggestion") + " " + ((_b = ctx[1].additionalClasses) != null ? _b : "") + " svelte-mdftrq")) {
         attr(div0, "class", div0_class_value);
@@ -1403,6 +1346,9 @@ function create_if_block(ctx) {
     i(local) {
       if (current)
         return;
+      for (let i = 0; i < each_value.length; i += 1) {
+        transition_in(each_blocks[i]);
+      }
       add_render_callback(() => {
         if (!div1_transition)
           div1_transition = create_bidirectional_transition(div1, slide, { duration: 200, easing: quintOut }, true);
@@ -1411,6 +1357,9 @@ function create_if_block(ctx) {
       current = true;
     },
     o(local) {
+      for (let i = 0; i < each_blocks.length; i += 1) {
+        transition_out(each_blocks[i]);
+      }
       if (!div1_transition)
         div1_transition = create_bidirectional_transition(div1, slide, { duration: 200, easing: quintOut }, false);
       div1_transition.run(0);
@@ -1419,8 +1368,10 @@ function create_if_block(ctx) {
     d(detaching) {
       if (detaching)
         detach(div1);
-      destroy_each(each_blocks, detaching);
-      ctx[10](null);
+      for (let i = 0; i < each_blocks.length; i += 1) {
+        each_blocks[i].d();
+      }
+      ctx[7](null);
       if (if_block)
         if_block.d();
       if (detaching && div1_transition)
@@ -1430,106 +1381,106 @@ function create_if_block(ctx) {
     }
   };
 }
-function create_each_block_1(ctx) {
-  let html_tag;
-  let raw_value = ctx[14].outerHTML + "";
-  let html_anchor;
-  return {
-    c() {
-      html_tag = new HtmlTag(false);
-      html_anchor = empty();
-      html_tag.a = html_anchor;
+function create_each_block(key_1, ctx) {
+  let first;
+  let switch_instance;
+  let switch_instance_anchor;
+  let current;
+  const switch_instance_spread_levels = [
+    { index: ctx[10] },
+    { suggestion: ctx[8] },
+    { suggester: ctx[0] },
+    {
+      textInputSuggester: ctx[2]
     },
-    m(target, anchor) {
-      html_tag.m(raw_value, target, anchor);
-      insert(target, html_anchor, anchor);
+    {
+      selectedItemIndex: ctx[4]
     },
-    p(ctx2, dirty) {
-      if (dirty & 12 && raw_value !== (raw_value = ctx2[14].outerHTML + ""))
-        html_tag.p(raw_value);
-    },
-    d(detaching) {
-      if (detaching)
-        detach(html_anchor);
-      if (detaching)
-        html_tag.d();
+    ctx[2].getDisplayElementProps(ctx[8])
+  ];
+  var switch_value = ctx[2].getDisplayElementComponentType();
+  function switch_props(ctx2) {
+    let switch_instance_props = {};
+    for (let i = 0; i < switch_instance_spread_levels.length; i += 1) {
+      switch_instance_props = assign(switch_instance_props, switch_instance_spread_levels[i]);
     }
-  };
-}
-function create_each_block(ctx) {
-  let div;
-  let t;
-  let div_class_value;
-  let mounted;
-  let dispose;
-  let each_value_1 = ctx[2].generateDisplayElementContent(ctx[11]);
-  let each_blocks = [];
-  for (let i = 0; i < each_value_1.length; i += 1) {
-    each_blocks[i] = create_each_block_1(get_each_context_1(ctx, each_value_1, i));
+    return { props: switch_instance_props };
   }
-  function mousemove_handler() {
-    return ctx[7](ctx[13]);
+  if (switch_value) {
+    switch_instance = new switch_value(switch_props(ctx));
   }
   return {
+    key: key_1,
+    first: null,
     c() {
-      var _a;
-      div = element("div");
-      for (let i = 0; i < each_blocks.length; i += 1) {
-        each_blocks[i].c();
-      }
-      t = space();
-      attr(div, "class", div_class_value = null_to_empty((_a = ctx[1].suggestionItemClass) != null ? _a : "suggestion-item mod-complex") + " svelte-mdftrq");
-      toggle_class(div, "is-selected", ctx[4] === ctx[13]);
+      first = empty();
+      if (switch_instance)
+        create_component(switch_instance.$$.fragment);
+      switch_instance_anchor = empty();
+      this.first = first;
     },
     m(target, anchor) {
-      insert(target, div, anchor);
-      for (let i = 0; i < each_blocks.length; i += 1) {
-        each_blocks[i].m(div, null);
+      insert(target, first, anchor);
+      if (switch_instance) {
+        mount_component(switch_instance, target, anchor);
       }
-      append(div, t);
-      if (!mounted) {
-        dispose = [
-          listen(div, "mousemove", mousemove_handler),
-          listen(div, "click", ctx[8]),
-          listen(div, "auxclick", ctx[9])
-        ];
-        mounted = true;
-      }
+      insert(target, switch_instance_anchor, anchor);
+      current = true;
     },
     p(new_ctx, dirty) {
-      var _a;
       ctx = new_ctx;
-      if (dirty & 12) {
-        each_value_1 = ctx[2].generateDisplayElementContent(ctx[11]);
-        let i;
-        for (i = 0; i < each_value_1.length; i += 1) {
-          const child_ctx = get_each_context_1(ctx, each_value_1, i);
-          if (each_blocks[i]) {
-            each_blocks[i].p(child_ctx, dirty);
-          } else {
-            each_blocks[i] = create_each_block_1(child_ctx);
-            each_blocks[i].c();
-            each_blocks[i].m(div, t);
-          }
+      const switch_instance_changes = dirty & 29 ? get_spread_update(switch_instance_spread_levels, [
+        dirty & 8 && { index: ctx[10] },
+        dirty & 8 && { suggestion: ctx[8] },
+        dirty & 1 && { suggester: ctx[0] },
+        dirty & 4 && {
+          textInputSuggester: ctx[2]
+        },
+        dirty & 16 && {
+          selectedItemIndex: ctx[4]
+        },
+        dirty & 12 && get_spread_object(ctx[2].getDisplayElementProps(ctx[8]))
+      ]) : {};
+      if (switch_value !== (switch_value = ctx[2].getDisplayElementComponentType())) {
+        if (switch_instance) {
+          group_outros();
+          const old_component = switch_instance;
+          transition_out(old_component.$$.fragment, 1, 0, () => {
+            destroy_component(old_component, 1);
+          });
+          check_outros();
         }
-        for (; i < each_blocks.length; i += 1) {
-          each_blocks[i].d(1);
+        if (switch_value) {
+          switch_instance = new switch_value(switch_props(ctx));
+          create_component(switch_instance.$$.fragment);
+          transition_in(switch_instance.$$.fragment, 1);
+          mount_component(switch_instance, switch_instance_anchor.parentNode, switch_instance_anchor);
+        } else {
+          switch_instance = null;
         }
-        each_blocks.length = each_value_1.length;
+      } else if (switch_value) {
+        switch_instance.$set(switch_instance_changes);
       }
-      if (dirty & 2 && div_class_value !== (div_class_value = null_to_empty((_a = ctx[1].suggestionItemClass) != null ? _a : "suggestion-item mod-complex") + " svelte-mdftrq")) {
-        attr(div, "class", div_class_value);
-      }
-      if (dirty & 18) {
-        toggle_class(div, "is-selected", ctx[4] === ctx[13]);
-      }
+    },
+    i(local) {
+      if (current)
+        return;
+      if (switch_instance)
+        transition_in(switch_instance.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      if (switch_instance)
+        transition_out(switch_instance.$$.fragment, local);
+      current = false;
     },
     d(detaching) {
       if (detaching)
-        detach(div);
-      destroy_each(each_blocks, detaching);
-      mounted = false;
-      run_all(dispose);
+        detach(first);
+      if (detaching)
+        detach(switch_instance_anchor);
+      if (switch_instance)
+        destroy_component(switch_instance, detaching);
     }
   };
 }
@@ -1623,13 +1574,6 @@ function instance2($$self, $$props, $$invalidate) {
   suggester.selectedItemIndexStore.subscribe((value) => $$invalidate(4, selectedItemIndex = value));
   const suggestionWrapper = suggester.suggestionsContainer;
   component_subscribe($$self, suggestionWrapper, (value) => $$invalidate(5, $suggestionWrapper = value));
-  const mousemove_handler = (index) => suggester.setSelectedItemIndex(index);
-  const click_handler = () => textInputSuggester.useSelectedItem(suggester.getSelectedItem());
-  const auxclick_handler = (e) => {
-    if (e.button === 1) {
-      textInputSuggester.useSelectedItem(suggester.getSelectedItem(), true);
-    }
-  };
   function div0_binding($$value) {
     binding_callbacks[$$value ? "unshift" : "push"](() => {
       $suggestionWrapper = $$value;
@@ -1652,9 +1596,6 @@ function instance2($$self, $$props, $$invalidate) {
     selectedItemIndex,
     $suggestionWrapper,
     suggestionWrapper,
-    mousemove_handler,
-    click_handler,
-    auxclick_handler,
     div0_binding
   ];
 }
@@ -2203,26 +2144,26 @@ var passive = {
   passive: true
 };
 function effect3(_ref) {
-  var state = _ref.state, instance15 = _ref.instance, options = _ref.options;
+  var state = _ref.state, instance26 = _ref.instance, options = _ref.options;
   var _options$scroll = options.scroll, scroll = _options$scroll === void 0 ? true : _options$scroll, _options$resize = options.resize, resize = _options$resize === void 0 ? true : _options$resize;
   var window2 = getWindow(state.elements.popper);
   var scrollParents = [].concat(state.scrollParents.reference, state.scrollParents.popper);
   if (scroll) {
     scrollParents.forEach(function(scrollParent) {
-      scrollParent.addEventListener("scroll", instance15.update, passive);
+      scrollParent.addEventListener("scroll", instance26.update, passive);
     });
   }
   if (resize) {
-    window2.addEventListener("resize", instance15.update, passive);
+    window2.addEventListener("resize", instance26.update, passive);
   }
   return function() {
     if (scroll) {
       scrollParents.forEach(function(scrollParent) {
-        scrollParent.removeEventListener("scroll", instance15.update, passive);
+        scrollParent.removeEventListener("scroll", instance26.update, passive);
       });
     }
     if (resize) {
-      window2.removeEventListener("resize", instance15.update, passive);
+      window2.removeEventListener("resize", instance26.update, passive);
     }
   };
 }
@@ -3104,7 +3045,7 @@ function popperGenerator(generatorOptions) {
     };
     var effectCleanupFns = [];
     var isDestroyed = false;
-    var instance15 = {
+    var instance26 = {
       state,
       setOptions: function setOptions(setOptionsAction) {
         var options2 = typeof setOptionsAction === "function" ? setOptionsAction(state.options) : setOptionsAction;
@@ -3141,7 +3082,7 @@ function popperGenerator(generatorOptions) {
           }
         }
         runModifierEffects();
-        return instance15.update();
+        return instance26.update();
       },
       forceUpdate: function forceUpdate() {
         if (isDestroyed) {
@@ -3183,14 +3124,14 @@ function popperGenerator(generatorOptions) {
               state,
               options: _options,
               name,
-              instance: instance15
+              instance: instance26
             }) || state;
           }
         }
       },
       update: debounce(function() {
         return new Promise(function(resolve) {
-          instance15.forceUpdate();
+          instance26.forceUpdate();
           resolve(state);
         });
       }),
@@ -3203,9 +3144,9 @@ function popperGenerator(generatorOptions) {
       if (true) {
         console.error(INVALID_ELEMENT_ERROR);
       }
-      return instance15;
+      return instance26;
     }
-    instance15.setOptions(options).then(function(state2) {
+    instance26.setOptions(options).then(function(state2) {
       if (!isDestroyed && options.onFirstUpdate) {
         options.onFirstUpdate(state2);
       }
@@ -3217,7 +3158,7 @@ function popperGenerator(generatorOptions) {
           var cleanupFn = effect4({
             state,
             name,
-            instance: instance15,
+            instance: instance26,
             options: options2
           });
           var noopFn = function noopFn2() {
@@ -3232,7 +3173,7 @@ function popperGenerator(generatorOptions) {
       });
       effectCleanupFns = [];
     }
-    return instance15;
+    return instance26;
   };
 }
 
@@ -3306,17 +3247,17 @@ var TextInputSuggester = class {
     this.inputEl = inputEl;
     this.scope = new import_obsidian2.Scope(this.app.scope);
     this.suggester = new Suggester(this, this.scope);
-    this.inputEl.addEventListener("input", searchDelay ? (0, import_obsidian2.debounce)(() => this.onInput(), searchDelay, false) : this.onInput.bind(this));
-    this.inputEl.addEventListener("focus", searchDelay ? (0, import_obsidian2.debounce)(() => this.onInput(), searchDelay, false) : this.onInput.bind(this));
+    this.inputEl.addEventListener("input", searchDelay ? (0, import_obsidian2.debounce)(async () => await this.onInput(), searchDelay, false) : this.onInput.bind(this));
+    this.inputEl.addEventListener("focus", searchDelay ? (0, import_obsidian2.debounce)(async () => await this.onInput(), searchDelay, false) : this.onInput.bind(this));
     this.inputEl.addEventListener("blur", this.close.bind(this));
     this.scope.register([], "escape", this.close.bind(this));
     this.viewOptions = viewOptions != null ? viewOptions : {};
     this.suggestionParentContainer = suggestionParentContainer;
     this.closingAnimationRunning = false;
   }
-  onInput() {
+  async onInput() {
     const input = this.inputEl.value;
-    const suggestions = this.getSuggestions(input);
+    const suggestions = await this.getSuggestions(input);
     if (suggestions.length > 0) {
       this.suggester.setSuggestions(suggestions);
       this.open();
@@ -3371,8 +3312,8 @@ var TextInputSuggester = class {
     this.closingAnimationRunning = false;
   }
   scrollSelectedItemIntoView() {
-    var _a, _b;
-    (_b = get_store_value(this.suggester.suggestionsContainer).getElementsByClassName((_a = this.viewOptions.suggestionItemClass) != null ? _a : "suggestion-item")[this.suggester.getSelectedItemIndex()]) == null ? void 0 : _b.scrollIntoView({ behavior: "auto", block: "nearest", inline: "nearest" });
+    var _a;
+    (_a = get_store_value(this.suggester.suggestionsContainer).children[this.suggester.getSelectedItemIndex()]) == null ? void 0 : _a.scrollIntoView({ behavior: "auto", block: "nearest", inline: "nearest" });
   }
 };
 var PopoverTextInputSuggester = class extends TextInputSuggester {
@@ -4702,7 +4643,7 @@ function getFileTypeFromExtension(extension) {
   return void 0;
 }
 function getExtensionFromFilename(filename) {
-  const extension = filename.match(/\.([^.]+$)./g);
+  const extension = filename.match(/\.([^.]+$)/g);
   if (extension) {
     return extension[0].substring(1);
   }
@@ -4827,7 +4768,7 @@ function getSearchFiles(unresolvedLinks) {
   return fileList;
 }
 function getParentFolderFromPath(filepath) {
-  const regexResult = filepath.match(/.*\/([^\/]+)\//);
+  const regexResult = filepath.match(/([^\/]+)\/[^\/]+\/*$/);
   return regexResult ? regexResult[1] : "/";
 }
 
@@ -5019,7 +4960,6 @@ var lucideIcons = [
   "calendar-plus",
   "calendar-range",
   "calendar-search",
-  "calendar-x-2",
   "calendar-x",
   "calendar",
   "camera-off",
@@ -5720,41 +5660,394 @@ var lucideIcons = [
   "zoom-out"
 ];
 
-// src/utils/htmlUtils.ts
+// src/ui/svelteComponents/iconSuggestion.svelte
 var import_obsidian4 = require("obsidian");
-function getLucideIcon(iconId, options) {
-  var _a, _b, _c;
-  if (!lucideIcons.includes(iconId))
-    return null;
-  const iconEl = (0, import_obsidian4.getIcon)(iconId);
-  if (iconEl) {
-    const size = (_a = options == null ? void 0 : options.size) != null ? _a : 24;
-    iconEl.ariaLabel = (_b = options == null ? void 0 : options.ariaLabel) != null ? _b : "";
-    if (size != 24 || (options == null ? void 0 : options.strokeWidth) != 2) {
-      iconEl.hasClass("svg-icon") ? iconEl.removeClass("svg-icon") : null;
+
+// src/ui/svelteComponents/suggestion.svelte
+var get_suggestion_aux_slot_changes = (dirty) => ({});
+var get_suggestion_aux_slot_context = (ctx) => ({});
+var get_suggestion_extra_content_slot_changes = (dirty) => ({});
+var get_suggestion_extra_content_slot_context = (ctx) => ({});
+var get_suggestion_title_slot_changes = (dirty) => ({});
+var get_suggestion_title_slot_context = (ctx) => ({});
+function create_fragment3(ctx) {
+  let div3;
+  let div1;
+  let div0;
+  let div0_class_value;
+  let t0;
+  let div1_class_value;
+  let t1;
+  let div2;
+  let div2_class_value;
+  let div3_class_value;
+  let current;
+  let mounted;
+  let dispose;
+  const suggestion_title_slot_template = ctx[9]["suggestion-title"];
+  const suggestion_title_slot = create_slot(suggestion_title_slot_template, ctx, ctx[8], get_suggestion_title_slot_context);
+  const suggestion_extra_content_slot_template = ctx[9]["suggestion-extra-content"];
+  const suggestion_extra_content_slot = create_slot(suggestion_extra_content_slot_template, ctx, ctx[8], get_suggestion_extra_content_slot_context);
+  const suggestion_aux_slot_template = ctx[9]["suggestion-aux"];
+  const suggestion_aux_slot = create_slot(suggestion_aux_slot_template, ctx, ctx[8], get_suggestion_aux_slot_context);
+  return {
+    c() {
+      var _a, _b, _c, _d;
+      div3 = element("div");
+      div1 = element("div");
+      div0 = element("div");
+      if (suggestion_title_slot)
+        suggestion_title_slot.c();
+      t0 = space();
+      if (suggestion_extra_content_slot)
+        suggestion_extra_content_slot.c();
+      t1 = space();
+      div2 = element("div");
+      if (suggestion_aux_slot)
+        suggestion_aux_slot.c();
+      attr(div0, "class", div0_class_value = (_a = ctx[6]) != null ? _a : "suggestion-title");
+      attr(div1, "class", div1_class_value = (_b = ctx[5]) != null ? _b : "suggestion-content");
+      attr(div2, "class", div2_class_value = (_c = ctx[7]) != null ? _c : "suggestion-aux");
+      attr(div3, "class", div3_class_value = (_d = ctx[4]) != null ? _d : "suggestion-item mod-complex");
+      toggle_class(div3, "is-selected", ctx[3] === ctx[0]);
+    },
+    m(target, anchor) {
+      insert(target, div3, anchor);
+      append(div3, div1);
+      append(div1, div0);
+      if (suggestion_title_slot) {
+        suggestion_title_slot.m(div0, null);
+      }
+      append(div1, t0);
+      if (suggestion_extra_content_slot) {
+        suggestion_extra_content_slot.m(div1, null);
+      }
+      append(div3, t1);
+      append(div3, div2);
+      if (suggestion_aux_slot) {
+        suggestion_aux_slot.m(div2, null);
+      }
+      current = true;
+      if (!mounted) {
+        dispose = [
+          listen(div3, "mousemove", ctx[10]),
+          listen(div3, "click", ctx[11]),
+          listen(div3, "auxclick", ctx[12])
+        ];
+        mounted = true;
+      }
+    },
+    p(ctx2, [dirty]) {
+      var _a, _b, _c, _d;
+      if (suggestion_title_slot) {
+        if (suggestion_title_slot.p && (!current || dirty & 256)) {
+          update_slot_base(suggestion_title_slot, suggestion_title_slot_template, ctx2, ctx2[8], !current ? get_all_dirty_from_scope(ctx2[8]) : get_slot_changes(suggestion_title_slot_template, ctx2[8], dirty, get_suggestion_title_slot_changes), get_suggestion_title_slot_context);
+        }
+      }
+      if (!current || dirty & 64 && div0_class_value !== (div0_class_value = (_a = ctx2[6]) != null ? _a : "suggestion-title")) {
+        attr(div0, "class", div0_class_value);
+      }
+      if (suggestion_extra_content_slot) {
+        if (suggestion_extra_content_slot.p && (!current || dirty & 256)) {
+          update_slot_base(suggestion_extra_content_slot, suggestion_extra_content_slot_template, ctx2, ctx2[8], !current ? get_all_dirty_from_scope(ctx2[8]) : get_slot_changes(suggestion_extra_content_slot_template, ctx2[8], dirty, get_suggestion_extra_content_slot_changes), get_suggestion_extra_content_slot_context);
+        }
+      }
+      if (!current || dirty & 32 && div1_class_value !== (div1_class_value = (_b = ctx2[5]) != null ? _b : "suggestion-content")) {
+        attr(div1, "class", div1_class_value);
+      }
+      if (suggestion_aux_slot) {
+        if (suggestion_aux_slot.p && (!current || dirty & 256)) {
+          update_slot_base(suggestion_aux_slot, suggestion_aux_slot_template, ctx2, ctx2[8], !current ? get_all_dirty_from_scope(ctx2[8]) : get_slot_changes(suggestion_aux_slot_template, ctx2[8], dirty, get_suggestion_aux_slot_changes), get_suggestion_aux_slot_context);
+        }
+      }
+      if (!current || dirty & 128 && div2_class_value !== (div2_class_value = (_c = ctx2[7]) != null ? _c : "suggestion-aux")) {
+        attr(div2, "class", div2_class_value);
+      }
+      if (!current || dirty & 16 && div3_class_value !== (div3_class_value = (_d = ctx2[4]) != null ? _d : "suggestion-item mod-complex")) {
+        attr(div3, "class", div3_class_value);
+      }
+      if (!current || dirty & 25) {
+        toggle_class(div3, "is-selected", ctx2[3] === ctx2[0]);
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(suggestion_title_slot, local);
+      transition_in(suggestion_extra_content_slot, local);
+      transition_in(suggestion_aux_slot, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(suggestion_title_slot, local);
+      transition_out(suggestion_extra_content_slot, local);
+      transition_out(suggestion_aux_slot, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(div3);
+      if (suggestion_title_slot)
+        suggestion_title_slot.d(detaching);
+      if (suggestion_extra_content_slot)
+        suggestion_extra_content_slot.d(detaching);
+      if (suggestion_aux_slot)
+        suggestion_aux_slot.d(detaching);
+      mounted = false;
+      run_all(dispose);
     }
-    (options == null ? void 0 : options.class) ? iconEl.addClass(options.class) : null;
-    iconEl.setAttribute("width", size.toString());
-    iconEl.setAttribute("height", size.toString());
-    iconEl.setAttribute("stroke-width", ((_c = options == null ? void 0 : options.strokeWidth) != null ? _c : 2).toString());
-    return iconEl;
+  };
+}
+function instance3($$self, $$props, $$invalidate) {
+  let { $$slots: slots = {}, $$scope } = $$props;
+  let { index } = $$props;
+  let { suggester } = $$props;
+  let { textInputSuggester } = $$props;
+  let { selectedItemIndex } = $$props;
+  let { suggestionItemClass = void 0 } = $$props;
+  let { suggestionContentClass = void 0 } = $$props;
+  let { suggestionTitleClass = void 0 } = $$props;
+  let { suggestionAuxClass = void 0 } = $$props;
+  const mousemove_handler = () => suggester.setSelectedItemIndex(index);
+  const click_handler = () => textInputSuggester.useSelectedItem(suggester.getSelectedItem());
+  const auxclick_handler = (e) => {
+    if (e.button === 1) {
+      textInputSuggester.useSelectedItem(suggester.getSelectedItem(), true);
+    }
+  };
+  $$self.$$set = ($$props2) => {
+    if ("index" in $$props2)
+      $$invalidate(0, index = $$props2.index);
+    if ("suggester" in $$props2)
+      $$invalidate(1, suggester = $$props2.suggester);
+    if ("textInputSuggester" in $$props2)
+      $$invalidate(2, textInputSuggester = $$props2.textInputSuggester);
+    if ("selectedItemIndex" in $$props2)
+      $$invalidate(3, selectedItemIndex = $$props2.selectedItemIndex);
+    if ("suggestionItemClass" in $$props2)
+      $$invalidate(4, suggestionItemClass = $$props2.suggestionItemClass);
+    if ("suggestionContentClass" in $$props2)
+      $$invalidate(5, suggestionContentClass = $$props2.suggestionContentClass);
+    if ("suggestionTitleClass" in $$props2)
+      $$invalidate(6, suggestionTitleClass = $$props2.suggestionTitleClass);
+    if ("suggestionAuxClass" in $$props2)
+      $$invalidate(7, suggestionAuxClass = $$props2.suggestionAuxClass);
+    if ("$$scope" in $$props2)
+      $$invalidate(8, $$scope = $$props2.$$scope);
+  };
+  return [
+    index,
+    suggester,
+    textInputSuggester,
+    selectedItemIndex,
+    suggestionItemClass,
+    suggestionContentClass,
+    suggestionTitleClass,
+    suggestionAuxClass,
+    $$scope,
+    slots,
+    mousemove_handler,
+    click_handler,
+    auxclick_handler
+  ];
+}
+var Suggestion = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance3, create_fragment3, safe_not_equal, {
+      index: 0,
+      suggester: 1,
+      textInputSuggester: 2,
+      selectedItemIndex: 3,
+      suggestionItemClass: 4,
+      suggestionContentClass: 5,
+      suggestionTitleClass: 6,
+      suggestionAuxClass: 7
+    });
   }
-  return null;
+};
+var suggestion_default = Suggestion;
+
+// src/ui/svelteComponents/iconSuggestion.svelte
+function create_suggestion_title_slot(ctx) {
+  let t_value = ctx[4].item + "";
+  let t;
+  return {
+    c() {
+      t = text(t_value);
+    },
+    m(target, anchor) {
+      insert(target, t, anchor);
+    },
+    p(ctx2, dirty) {
+      if (dirty & 16 && t_value !== (t_value = ctx2[4].item + ""))
+        set_data(t, t_value);
+    },
+    d(detaching) {
+      if (detaching)
+        detach(t);
+    }
+  };
 }
-function addLucideIcon(parentElement, iconId, options) {
-  const icon = getLucideIcon(iconId, options);
-  if (icon)
-    parentElement.appendChild(icon);
+function create_if_block2(ctx) {
+  var _a;
+  let span;
+  let raw_value = ((_a = (0, import_obsidian4.getIcon)(ctx[4].item)) == null ? void 0 : _a.outerHTML) + "";
+  return {
+    c() {
+      span = element("span");
+      attr(span, "class", "suggestion-flair");
+    },
+    m(target, anchor) {
+      insert(target, span, anchor);
+      span.innerHTML = raw_value;
+    },
+    p(ctx2, dirty) {
+      var _a2;
+      if (dirty & 16 && raw_value !== (raw_value = ((_a2 = (0, import_obsidian4.getIcon)(ctx2[4].item)) == null ? void 0 : _a2.outerHTML) + ""))
+        span.innerHTML = raw_value;
+      ;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(span);
+    }
+  };
 }
-function generateHotkeySuggestion(hotkeySuggestions, containerClass) {
-  const hotkeySuggestionElement = createDiv(containerClass);
-  hotkeySuggestions.forEach((hotkeySuggestion) => {
-    const suggestionElement = hotkeySuggestionElement.createDiv("prompt-instruction");
-    suggestionElement.createEl("span", { text: hotkeySuggestion.hotkey }).addClass("prompt-instruction-command");
-    suggestionElement.createEl("span", { text: hotkeySuggestion.action });
+function create_suggestion_aux_slot(ctx) {
+  let if_block_anchor;
+  let if_block = ctx[5] && create_if_block2(ctx);
+  return {
+    c() {
+      if (if_block)
+        if_block.c();
+      if_block_anchor = empty();
+    },
+    m(target, anchor) {
+      if (if_block)
+        if_block.m(target, anchor);
+      insert(target, if_block_anchor, anchor);
+    },
+    p(ctx2, dirty) {
+      if (ctx2[5]) {
+        if (if_block) {
+          if_block.p(ctx2, dirty);
+        } else {
+          if_block = create_if_block2(ctx2);
+          if_block.c();
+          if_block.m(if_block_anchor.parentNode, if_block_anchor);
+        }
+      } else if (if_block) {
+        if_block.d(1);
+        if_block = null;
+      }
+    },
+    d(detaching) {
+      if (if_block)
+        if_block.d(detaching);
+      if (detaching)
+        detach(if_block_anchor);
+    }
+  };
+}
+function create_fragment4(ctx) {
+  let suggestion_1;
+  let current;
+  suggestion_1 = new suggestion_default({
+    props: {
+      index: ctx[0],
+      suggester: ctx[1],
+      textInputSuggester: ctx[2],
+      selectedItemIndex: ctx[3],
+      $$slots: {
+        "suggestion-aux": [create_suggestion_aux_slot],
+        "suggestion-title": [create_suggestion_title_slot]
+      },
+      $$scope: { ctx }
+    }
   });
-  return hotkeySuggestionElement;
+  return {
+    c() {
+      create_component(suggestion_1.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(suggestion_1, target, anchor);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      const suggestion_1_changes = {};
+      if (dirty & 1)
+        suggestion_1_changes.index = ctx2[0];
+      if (dirty & 2)
+        suggestion_1_changes.suggester = ctx2[1];
+      if (dirty & 4)
+        suggestion_1_changes.textInputSuggester = ctx2[2];
+      if (dirty & 8)
+        suggestion_1_changes.selectedItemIndex = ctx2[3];
+      if (dirty & 112) {
+        suggestion_1_changes.$$scope = { dirty, ctx: ctx2 };
+      }
+      suggestion_1.$set(suggestion_1_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(suggestion_1.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(suggestion_1.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(suggestion_1, detaching);
+    }
+  };
 }
+function instance4($$self, $$props, $$invalidate) {
+  let { index } = $$props;
+  let { suggester } = $$props;
+  let { textInputSuggester } = $$props;
+  let { selectedItemIndex } = $$props;
+  let { suggestion } = $$props;
+  let { displayIcon } = $$props;
+  $$self.$$set = ($$props2) => {
+    if ("index" in $$props2)
+      $$invalidate(0, index = $$props2.index);
+    if ("suggester" in $$props2)
+      $$invalidate(1, suggester = $$props2.suggester);
+    if ("textInputSuggester" in $$props2)
+      $$invalidate(2, textInputSuggester = $$props2.textInputSuggester);
+    if ("selectedItemIndex" in $$props2)
+      $$invalidate(3, selectedItemIndex = $$props2.selectedItemIndex);
+    if ("suggestion" in $$props2)
+      $$invalidate(4, suggestion = $$props2.suggestion);
+    if ("displayIcon" in $$props2)
+      $$invalidate(5, displayIcon = $$props2.displayIcon);
+  };
+  return [
+    index,
+    suggester,
+    textInputSuggester,
+    selectedItemIndex,
+    suggestion,
+    displayIcon
+  ];
+}
+var IconSuggestion = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance4, create_fragment4, safe_not_equal, {
+      index: 0,
+      suggester: 1,
+      textInputSuggester: 2,
+      selectedItemIndex: 3,
+      suggestion: 4,
+      displayIcon: 5
+    });
+  }
+};
+var iconSuggestion_default = IconSuggestion;
 
 // src/suggester/iconSuggester.ts
 var iconSuggester = class extends PopoverTextInputSuggester {
@@ -5762,7 +6055,7 @@ var iconSuggester = class extends PopoverTextInputSuggester {
     super(app2, inputEl, viewOptions);
     this.iconList = [...lucideIcons];
     this.fuzzySearch = new ArrayFuzzySearch(this.iconList);
-    this.displayIcon = displayIcon;
+    this.displayIcon = displayIcon != null ? displayIcon : false;
   }
   getSuggestions(input) {
     return this.fuzzySearch.filteredSearch(input, 0.25, 15);
@@ -5770,21 +6063,15 @@ var iconSuggester = class extends PopoverTextInputSuggester {
   useSelectedItem(selectedItem) {
     this.inputEl.value = selectedItem.item;
     this.inputEl.trigger("input");
-    this.close();
+    this.onInput().then(() => this.close());
   }
-  generateDisplayElementContent(suggestion) {
-    const suggestionContentEl = createDiv("suggestion-content");
-    const suggestionTitleEl = suggestionContentEl.createDiv("suggestion-title");
-    suggestionTitleEl.appendText(suggestion.item);
-    const suggestionAuxEl = createDiv("suggestion-aux");
-    if (this.displayIcon) {
-      const iconContainerEl = suggestionAuxEl.createSpan();
-      iconContainerEl.addClass("suggestion-flair");
-      addLucideIcon(iconContainerEl, suggestion.item, {
-        size: 20
-      });
-    }
-    return [suggestionContentEl, suggestionAuxEl];
+  getDisplayElementComponentType() {
+    return iconSuggestion_default;
+  }
+  getDisplayElementProps() {
+    return {
+      displayIcon: this.displayIcon
+    };
   }
 };
 
@@ -5801,7 +6088,7 @@ var IconSelectionModal = class extends import_obsidian5.Modal {
     const iconSetting = new import_obsidian5.Setting(contentEl).setName("Choose an icon").setDesc("Accepts any lucide icon id.");
     let invalidInputIcon;
     iconSetting.addExtraButton((button) => {
-      button.setIcon("alert-circle").setTooltip("The path/link/icon is not valid.");
+      button.setIcon("alert-circle").setTooltip("The icon id is not valid.");
       invalidInputIcon = button.extraSettingsEl;
       invalidInputIcon.toggleVisibility(false);
       invalidInputIcon.addClass("mod-warning");
@@ -5812,7 +6099,7 @@ var IconSelectionModal = class extends import_obsidian5.Modal {
         isScrollable: true,
         style: `max-height: 200px`
       }, true);
-      (_b = text2.setPlaceholder("Type to start search...").setValue((_a = this.icon) != null ? _a : "").onChange(async (value) => {
+      (_b = text2.setPlaceholder("Type to start search...").setValue((_a = this.icon) != null ? _a : "").onChange((value) => {
         if (lucideIcons.includes(value)) {
           this.icon = value;
           invalidInputIcon.toggleVisibility(false);
@@ -5850,7 +6137,7 @@ var defaultAttributes = {
 var defaultAttributes_default = defaultAttributes;
 
 // node_modules/lucide-svelte/dist/esm/Icon.svelte
-function create_fragment3(ctx) {
+function create_fragment5(ctx) {
   var _a;
   let svg;
   let svg_class_value;
@@ -5921,7 +6208,7 @@ function create_fragment3(ctx) {
     }
   };
 }
-function instance3($$self, $$props, $$invalidate) {
+function instance5($$self, $$props, $$invalidate) {
   const omit_props_names = ["name", "color", "size", "strokeWidth"];
   let $$restProps = compute_rest_props($$props, omit_props_names);
   let { $$slots: slots = {}, $$scope } = $$props;
@@ -5949,7 +6236,7 @@ function instance3($$self, $$props, $$invalidate) {
 var Icon = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance3, create_fragment3, safe_not_equal, {
+    init(this, options, instance5, create_fragment5, safe_not_equal, {
       name: 0,
       color: 1,
       size: 2,
@@ -6053,7 +6340,7 @@ function create_default_slot(ctx) {
     }
   };
 }
-function create_fragment4(ctx) {
+function create_fragment6(ctx) {
   let icon;
   let current;
   const icon_spread_levels = [{ name: "file-audio" }, ctx[0]];
@@ -6095,7 +6382,7 @@ function create_fragment4(ctx) {
     }
   };
 }
-function instance4($$self, $$props, $$invalidate) {
+function instance6($$self, $$props, $$invalidate) {
   let { $$slots: slots = {}, $$scope } = $$props;
   $$self.$$set = ($$new_props) => {
     $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
@@ -6108,7 +6395,7 @@ function instance4($$self, $$props, $$invalidate) {
 var File_audio = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance4, create_fragment4, safe_not_equal, {});
+    init(this, options, instance6, create_fragment6, safe_not_equal, {});
   }
 };
 var file_audio_default = File_audio;
@@ -6198,7 +6485,7 @@ function create_default_slot2(ctx) {
     }
   };
 }
-function create_fragment5(ctx) {
+function create_fragment7(ctx) {
   let icon;
   let current;
   const icon_spread_levels = [{ name: "file-image" }, ctx[0]];
@@ -6240,7 +6527,7 @@ function create_fragment5(ctx) {
     }
   };
 }
-function instance5($$self, $$props, $$invalidate) {
+function instance7($$self, $$props, $$invalidate) {
   let { $$slots: slots = {}, $$scope } = $$props;
   $$self.$$set = ($$new_props) => {
     $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
@@ -6253,7 +6540,7 @@ function instance5($$self, $$props, $$invalidate) {
 var File_image = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance5, create_fragment5, safe_not_equal, {});
+    init(this, options, instance7, create_fragment7, safe_not_equal, {});
   }
 };
 var file_image_default = File_image;
@@ -6341,7 +6628,7 @@ function create_default_slot3(ctx) {
     }
   };
 }
-function create_fragment6(ctx) {
+function create_fragment8(ctx) {
   let icon;
   let current;
   const icon_spread_levels = [{ name: "file-pie-chart" }, ctx[0]];
@@ -6383,7 +6670,7 @@ function create_fragment6(ctx) {
     }
   };
 }
-function instance6($$self, $$props, $$invalidate) {
+function instance8($$self, $$props, $$invalidate) {
   let { $$slots: slots = {}, $$scope } = $$props;
   $$self.$$set = ($$new_props) => {
     $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
@@ -6396,13 +6683,294 @@ function instance6($$self, $$props, $$invalidate) {
 var File_pie_chart = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance6, create_fragment6, safe_not_equal, {});
+    init(this, options, instance8, create_fragment8, safe_not_equal, {});
   }
 };
 var file_pie_chart_default = File_pie_chart;
 
-// node_modules/lucide-svelte/dist/esm/icons/file-text.svelte
+// node_modules/lucide-svelte/dist/esm/icons/file-plus.svelte
 function create_default_slot4(ctx) {
+  let path;
+  let t0;
+  let polyline;
+  let t1;
+  let line0;
+  let t2;
+  let line1;
+  let t3;
+  let current;
+  const default_slot_template = ctx[1].default;
+  const default_slot = create_slot(default_slot_template, ctx, ctx[2], null);
+  return {
+    c() {
+      path = svg_element("path");
+      t0 = space();
+      polyline = svg_element("polyline");
+      t1 = space();
+      line0 = svg_element("line");
+      t2 = space();
+      line1 = svg_element("line");
+      t3 = space();
+      if (default_slot)
+        default_slot.c();
+      attr(path, "d", "M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z");
+      attr(polyline, "points", "14 2 14 8 20 8");
+      attr(line0, "x1", "12");
+      attr(line0, "y1", "18");
+      attr(line0, "x2", "12");
+      attr(line0, "y2", "12");
+      attr(line1, "x1", "9");
+      attr(line1, "y1", "15");
+      attr(line1, "x2", "15");
+      attr(line1, "y2", "15");
+    },
+    m(target, anchor) {
+      insert(target, path, anchor);
+      insert(target, t0, anchor);
+      insert(target, polyline, anchor);
+      insert(target, t1, anchor);
+      insert(target, line0, anchor);
+      insert(target, t2, anchor);
+      insert(target, line1, anchor);
+      insert(target, t3, anchor);
+      if (default_slot) {
+        default_slot.m(target, anchor);
+      }
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (default_slot) {
+        if (default_slot.p && (!current || dirty & 4)) {
+          update_slot_base(default_slot, default_slot_template, ctx2, ctx2[2], !current ? get_all_dirty_from_scope(ctx2[2]) : get_slot_changes(default_slot_template, ctx2[2], dirty, null), null);
+        }
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(default_slot, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(default_slot, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(path);
+      if (detaching)
+        detach(t0);
+      if (detaching)
+        detach(polyline);
+      if (detaching)
+        detach(t1);
+      if (detaching)
+        detach(line0);
+      if (detaching)
+        detach(t2);
+      if (detaching)
+        detach(line1);
+      if (detaching)
+        detach(t3);
+      if (default_slot)
+        default_slot.d(detaching);
+    }
+  };
+}
+function create_fragment9(ctx) {
+  let icon;
+  let current;
+  const icon_spread_levels = [{ name: "file-plus" }, ctx[0]];
+  let icon_props = {
+    $$slots: { default: [create_default_slot4] },
+    $$scope: { ctx }
+  };
+  for (let i = 0; i < icon_spread_levels.length; i += 1) {
+    icon_props = assign(icon_props, icon_spread_levels[i]);
+  }
+  icon = new Icon_default({ props: icon_props });
+  return {
+    c() {
+      create_component(icon.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(icon, target, anchor);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      const icon_changes = dirty & 1 ? get_spread_update(icon_spread_levels, [icon_spread_levels[0], get_spread_object(ctx2[0])]) : {};
+      if (dirty & 4) {
+        icon_changes.$$scope = { dirty, ctx: ctx2 };
+      }
+      icon.$set(icon_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(icon.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(icon.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(icon, detaching);
+    }
+  };
+}
+function instance9($$self, $$props, $$invalidate) {
+  let { $$slots: slots = {}, $$scope } = $$props;
+  $$self.$$set = ($$new_props) => {
+    $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
+    if ("$$scope" in $$new_props)
+      $$invalidate(2, $$scope = $$new_props.$$scope);
+  };
+  $$props = exclude_internal_props($$props);
+  return [$$props, slots, $$scope];
+}
+var File_plus = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance9, create_fragment9, safe_not_equal, {});
+  }
+};
+var file_plus_default = File_plus;
+
+// node_modules/lucide-svelte/dist/esm/icons/file-question.svelte
+function create_default_slot5(ctx) {
+  let path0;
+  let t0;
+  let path1;
+  let t1;
+  let path2;
+  let t2;
+  let current;
+  const default_slot_template = ctx[1].default;
+  const default_slot = create_slot(default_slot_template, ctx, ctx[2], null);
+  return {
+    c() {
+      path0 = svg_element("path");
+      t0 = space();
+      path1 = svg_element("path");
+      t1 = space();
+      path2 = svg_element("path");
+      t2 = space();
+      if (default_slot)
+        default_slot.c();
+      attr(path0, "d", "M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z");
+      attr(path1, "d", "M10 10.3c.2-.4.5-.8.9-1a2.1 2.1 0 0 1 2.6.4c.3.4.5.8.5 1.3 0 1.3-2 2-2 2");
+      attr(path2, "d", "M12 17h.01");
+    },
+    m(target, anchor) {
+      insert(target, path0, anchor);
+      insert(target, t0, anchor);
+      insert(target, path1, anchor);
+      insert(target, t1, anchor);
+      insert(target, path2, anchor);
+      insert(target, t2, anchor);
+      if (default_slot) {
+        default_slot.m(target, anchor);
+      }
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (default_slot) {
+        if (default_slot.p && (!current || dirty & 4)) {
+          update_slot_base(default_slot, default_slot_template, ctx2, ctx2[2], !current ? get_all_dirty_from_scope(ctx2[2]) : get_slot_changes(default_slot_template, ctx2[2], dirty, null), null);
+        }
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(default_slot, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(default_slot, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(path0);
+      if (detaching)
+        detach(t0);
+      if (detaching)
+        detach(path1);
+      if (detaching)
+        detach(t1);
+      if (detaching)
+        detach(path2);
+      if (detaching)
+        detach(t2);
+      if (default_slot)
+        default_slot.d(detaching);
+    }
+  };
+}
+function create_fragment10(ctx) {
+  let icon;
+  let current;
+  const icon_spread_levels = [{ name: "file-question" }, ctx[0]];
+  let icon_props = {
+    $$slots: { default: [create_default_slot5] },
+    $$scope: { ctx }
+  };
+  for (let i = 0; i < icon_spread_levels.length; i += 1) {
+    icon_props = assign(icon_props, icon_spread_levels[i]);
+  }
+  icon = new Icon_default({ props: icon_props });
+  return {
+    c() {
+      create_component(icon.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(icon, target, anchor);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      const icon_changes = dirty & 1 ? get_spread_update(icon_spread_levels, [icon_spread_levels[0], get_spread_object(ctx2[0])]) : {};
+      if (dirty & 4) {
+        icon_changes.$$scope = { dirty, ctx: ctx2 };
+      }
+      icon.$set(icon_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(icon.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(icon.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(icon, detaching);
+    }
+  };
+}
+function instance10($$self, $$props, $$invalidate) {
+  let { $$slots: slots = {}, $$scope } = $$props;
+  $$self.$$set = ($$new_props) => {
+    $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
+    if ("$$scope" in $$new_props)
+      $$invalidate(2, $$scope = $$new_props.$$scope);
+  };
+  $$props = exclude_internal_props($$props);
+  return [$$props, slots, $$scope];
+}
+var File_question = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance10, create_fragment10, safe_not_equal, {});
+  }
+};
+var file_question_default = File_question;
+
+// node_modules/lucide-svelte/dist/esm/icons/file-text.svelte
+function create_default_slot6(ctx) {
   let path;
   let t0;
   let polyline;
@@ -6504,12 +7072,12 @@ function create_default_slot4(ctx) {
     }
   };
 }
-function create_fragment7(ctx) {
+function create_fragment11(ctx) {
   let icon;
   let current;
   const icon_spread_levels = [{ name: "file-text" }, ctx[0]];
   let icon_props = {
-    $$slots: { default: [create_default_slot4] },
+    $$slots: { default: [create_default_slot6] },
     $$scope: { ctx }
   };
   for (let i = 0; i < icon_spread_levels.length; i += 1) {
@@ -6546,7 +7114,7 @@ function create_fragment7(ctx) {
     }
   };
 }
-function instance7($$self, $$props, $$invalidate) {
+function instance11($$self, $$props, $$invalidate) {
   let { $$slots: slots = {}, $$scope } = $$props;
   $$self.$$set = ($$new_props) => {
     $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
@@ -6559,13 +7127,13 @@ function instance7($$self, $$props, $$invalidate) {
 var File_text = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance7, create_fragment7, safe_not_equal, {});
+    init(this, options, instance11, create_fragment11, safe_not_equal, {});
   }
 };
 var file_text_default = File_text;
 
 // node_modules/lucide-svelte/dist/esm/icons/file-video.svelte
-function create_default_slot5(ctx) {
+function create_default_slot7(ctx) {
   let path0;
   let t0;
   let polyline;
@@ -6636,12 +7204,12 @@ function create_default_slot5(ctx) {
     }
   };
 }
-function create_fragment8(ctx) {
+function create_fragment12(ctx) {
   let icon;
   let current;
   const icon_spread_levels = [{ name: "file-video" }, ctx[0]];
   let icon_props = {
-    $$slots: { default: [create_default_slot5] },
+    $$slots: { default: [create_default_slot7] },
     $$scope: { ctx }
   };
   for (let i = 0; i < icon_spread_levels.length; i += 1) {
@@ -6678,7 +7246,7 @@ function create_fragment8(ctx) {
     }
   };
 }
-function instance8($$self, $$props, $$invalidate) {
+function instance12($$self, $$props, $$invalidate) {
   let { $$slots: slots = {}, $$scope } = $$props;
   $$self.$$set = ($$new_props) => {
     $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
@@ -6691,13 +7259,13 @@ function instance8($$self, $$props, $$invalidate) {
 var File_video = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance8, create_fragment8, safe_not_equal, {});
+    init(this, options, instance12, create_fragment12, safe_not_equal, {});
   }
 };
 var file_video_default = File_video;
 
 // node_modules/lucide-svelte/dist/esm/icons/file.svelte
-function create_default_slot6(ctx) {
+function create_default_slot8(ctx) {
   let path;
   let t0;
   let polyline;
@@ -6757,12 +7325,12 @@ function create_default_slot6(ctx) {
     }
   };
 }
-function create_fragment9(ctx) {
+function create_fragment13(ctx) {
   let icon;
   let current;
   const icon_spread_levels = [{ name: "file" }, ctx[0]];
   let icon_props = {
-    $$slots: { default: [create_default_slot6] },
+    $$slots: { default: [create_default_slot8] },
     $$scope: { ctx }
   };
   for (let i = 0; i < icon_spread_levels.length; i += 1) {
@@ -6799,7 +7367,7 @@ function create_fragment9(ctx) {
     }
   };
 }
-function instance9($$self, $$props, $$invalidate) {
+function instance13($$self, $$props, $$invalidate) {
   let { $$slots: slots = {}, $$scope } = $$props;
   $$self.$$set = ($$new_props) => {
     $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
@@ -6812,13 +7380,354 @@ function instance9($$self, $$props, $$invalidate) {
 var File = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance9, create_fragment9, safe_not_equal, {});
+    init(this, options, instance13, create_fragment13, safe_not_equal, {});
   }
 };
 var file_default = File;
 
+// node_modules/lucide-svelte/dist/esm/icons/folder-open.svelte
+function create_default_slot9(ctx) {
+  let path;
+  let t;
+  let current;
+  const default_slot_template = ctx[1].default;
+  const default_slot = create_slot(default_slot_template, ctx, ctx[2], null);
+  return {
+    c() {
+      path = svg_element("path");
+      t = space();
+      if (default_slot)
+        default_slot.c();
+      attr(path, "d", "m6 14 1.45-2.9A2 2 0 0 1 9.24 10H20a2 2 0 0 1 1.94 2.5l-1.55 6a2 2 0 0 1-1.94 1.5H4a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2h3.93a2 2 0 0 1 1.66.9l.82 1.2a2 2 0 0 0 1.66.9H18a2 2 0 0 1 2 2v2");
+    },
+    m(target, anchor) {
+      insert(target, path, anchor);
+      insert(target, t, anchor);
+      if (default_slot) {
+        default_slot.m(target, anchor);
+      }
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (default_slot) {
+        if (default_slot.p && (!current || dirty & 4)) {
+          update_slot_base(default_slot, default_slot_template, ctx2, ctx2[2], !current ? get_all_dirty_from_scope(ctx2[2]) : get_slot_changes(default_slot_template, ctx2[2], dirty, null), null);
+        }
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(default_slot, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(default_slot, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(path);
+      if (detaching)
+        detach(t);
+      if (default_slot)
+        default_slot.d(detaching);
+    }
+  };
+}
+function create_fragment14(ctx) {
+  let icon;
+  let current;
+  const icon_spread_levels = [{ name: "folder-open" }, ctx[0]];
+  let icon_props = {
+    $$slots: { default: [create_default_slot9] },
+    $$scope: { ctx }
+  };
+  for (let i = 0; i < icon_spread_levels.length; i += 1) {
+    icon_props = assign(icon_props, icon_spread_levels[i]);
+  }
+  icon = new Icon_default({ props: icon_props });
+  return {
+    c() {
+      create_component(icon.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(icon, target, anchor);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      const icon_changes = dirty & 1 ? get_spread_update(icon_spread_levels, [icon_spread_levels[0], get_spread_object(ctx2[0])]) : {};
+      if (dirty & 4) {
+        icon_changes.$$scope = { dirty, ctx: ctx2 };
+      }
+      icon.$set(icon_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(icon.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(icon.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(icon, detaching);
+    }
+  };
+}
+function instance14($$self, $$props, $$invalidate) {
+  let { $$slots: slots = {}, $$scope } = $$props;
+  $$self.$$set = ($$new_props) => {
+    $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
+    if ("$$scope" in $$new_props)
+      $$invalidate(2, $$scope = $$new_props.$$scope);
+  };
+  $$props = exclude_internal_props($$props);
+  return [$$props, slots, $$scope];
+}
+var Folder_open = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance14, create_fragment14, safe_not_equal, {});
+  }
+};
+var folder_open_default = Folder_open;
+
+// node_modules/lucide-svelte/dist/esm/icons/folder.svelte
+function create_default_slot10(ctx) {
+  let path;
+  let t;
+  let current;
+  const default_slot_template = ctx[1].default;
+  const default_slot = create_slot(default_slot_template, ctx, ctx[2], null);
+  return {
+    c() {
+      path = svg_element("path");
+      t = space();
+      if (default_slot)
+        default_slot.c();
+      attr(path, "d", "M4 20h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.93a2 2 0 0 1-1.66-.9l-.82-1.2A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2Z");
+    },
+    m(target, anchor) {
+      insert(target, path, anchor);
+      insert(target, t, anchor);
+      if (default_slot) {
+        default_slot.m(target, anchor);
+      }
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (default_slot) {
+        if (default_slot.p && (!current || dirty & 4)) {
+          update_slot_base(default_slot, default_slot_template, ctx2, ctx2[2], !current ? get_all_dirty_from_scope(ctx2[2]) : get_slot_changes(default_slot_template, ctx2[2], dirty, null), null);
+        }
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(default_slot, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(default_slot, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(path);
+      if (detaching)
+        detach(t);
+      if (default_slot)
+        default_slot.d(detaching);
+    }
+  };
+}
+function create_fragment15(ctx) {
+  let icon;
+  let current;
+  const icon_spread_levels = [{ name: "folder" }, ctx[0]];
+  let icon_props = {
+    $$slots: { default: [create_default_slot10] },
+    $$scope: { ctx }
+  };
+  for (let i = 0; i < icon_spread_levels.length; i += 1) {
+    icon_props = assign(icon_props, icon_spread_levels[i]);
+  }
+  icon = new Icon_default({ props: icon_props });
+  return {
+    c() {
+      create_component(icon.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(icon, target, anchor);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      const icon_changes = dirty & 1 ? get_spread_update(icon_spread_levels, [icon_spread_levels[0], get_spread_object(ctx2[0])]) : {};
+      if (dirty & 4) {
+        icon_changes.$$scope = { dirty, ctx: ctx2 };
+      }
+      icon.$set(icon_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(icon.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(icon.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(icon, detaching);
+    }
+  };
+}
+function instance15($$self, $$props, $$invalidate) {
+  let { $$slots: slots = {}, $$scope } = $$props;
+  $$self.$$set = ($$new_props) => {
+    $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
+    if ("$$scope" in $$new_props)
+      $$invalidate(2, $$scope = $$new_props.$$scope);
+  };
+  $$props = exclude_internal_props($$props);
+  return [$$props, slots, $$scope];
+}
+var Folder = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance15, create_fragment15, safe_not_equal, {});
+  }
+};
+var folder_default = Folder;
+
+// node_modules/lucide-svelte/dist/esm/icons/forward.svelte
+function create_default_slot11(ctx) {
+  let polyline;
+  let t0;
+  let path;
+  let t1;
+  let current;
+  const default_slot_template = ctx[1].default;
+  const default_slot = create_slot(default_slot_template, ctx, ctx[2], null);
+  return {
+    c() {
+      polyline = svg_element("polyline");
+      t0 = space();
+      path = svg_element("path");
+      t1 = space();
+      if (default_slot)
+        default_slot.c();
+      attr(polyline, "points", "15 17 20 12 15 7");
+      attr(path, "d", "M4 18v-2a4 4 0 0 1 4-4h12");
+    },
+    m(target, anchor) {
+      insert(target, polyline, anchor);
+      insert(target, t0, anchor);
+      insert(target, path, anchor);
+      insert(target, t1, anchor);
+      if (default_slot) {
+        default_slot.m(target, anchor);
+      }
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (default_slot) {
+        if (default_slot.p && (!current || dirty & 4)) {
+          update_slot_base(default_slot, default_slot_template, ctx2, ctx2[2], !current ? get_all_dirty_from_scope(ctx2[2]) : get_slot_changes(default_slot_template, ctx2[2], dirty, null), null);
+        }
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(default_slot, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(default_slot, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(polyline);
+      if (detaching)
+        detach(t0);
+      if (detaching)
+        detach(path);
+      if (detaching)
+        detach(t1);
+      if (default_slot)
+        default_slot.d(detaching);
+    }
+  };
+}
+function create_fragment16(ctx) {
+  let icon;
+  let current;
+  const icon_spread_levels = [{ name: "forward" }, ctx[0]];
+  let icon_props = {
+    $$slots: { default: [create_default_slot11] },
+    $$scope: { ctx }
+  };
+  for (let i = 0; i < icon_spread_levels.length; i += 1) {
+    icon_props = assign(icon_props, icon_spread_levels[i]);
+  }
+  icon = new Icon_default({ props: icon_props });
+  return {
+    c() {
+      create_component(icon.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(icon, target, anchor);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      const icon_changes = dirty & 1 ? get_spread_update(icon_spread_levels, [icon_spread_levels[0], get_spread_object(ctx2[0])]) : {};
+      if (dirty & 4) {
+        icon_changes.$$scope = { dirty, ctx: ctx2 };
+      }
+      icon.$set(icon_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(icon.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(icon.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(icon, detaching);
+    }
+  };
+}
+function instance16($$self, $$props, $$invalidate) {
+  let { $$slots: slots = {}, $$scope } = $$props;
+  $$self.$$set = ($$new_props) => {
+    $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
+    if ("$$scope" in $$new_props)
+      $$invalidate(2, $$scope = $$new_props.$$scope);
+  };
+  $$props = exclude_internal_props($$props);
+  return [$$props, slots, $$scope];
+}
+var Forward = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance16, create_fragment16, safe_not_equal, {});
+  }
+};
+var forward_default = Forward;
+
 // node_modules/lucide-svelte/dist/esm/icons/more-horizontal.svelte
-function create_default_slot7(ctx) {
+function create_default_slot12(ctx) {
   let circle0;
   let t0;
   let circle1;
@@ -6895,12 +7804,12 @@ function create_default_slot7(ctx) {
     }
   };
 }
-function create_fragment10(ctx) {
+function create_fragment17(ctx) {
   let icon;
   let current;
   const icon_spread_levels = [{ name: "more-horizontal" }, ctx[0]];
   let icon_props = {
-    $$slots: { default: [create_default_slot7] },
+    $$slots: { default: [create_default_slot12] },
     $$scope: { ctx }
   };
   for (let i = 0; i < icon_spread_levels.length; i += 1) {
@@ -6937,7 +7846,7 @@ function create_fragment10(ctx) {
     }
   };
 }
-function instance10($$self, $$props, $$invalidate) {
+function instance17($$self, $$props, $$invalidate) {
   let { $$slots: slots = {}, $$scope } = $$props;
   $$self.$$set = ($$new_props) => {
     $$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
@@ -6950,7 +7859,7 @@ function instance10($$self, $$props, $$invalidate) {
 var More_horizontal = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance10, create_fragment10, safe_not_equal, {});
+    init(this, options, instance17, create_fragment17, safe_not_equal, {});
   }
 };
 var more_horizontal_default = More_horizontal;
@@ -7129,7 +8038,7 @@ function create_if_block_12(ctx) {
     }
   };
 }
-function create_if_block2(ctx) {
+function create_if_block3(ctx) {
   var _a;
   let svg;
   let raw_value = ((_a = (0, import_obsidian6.getIcon)(ctx[3], 24)) == null ? void 0 : _a.innerHTML) + "";
@@ -7169,7 +8078,7 @@ function create_if_block2(ctx) {
     }
   };
 }
-function create_fragment11(ctx) {
+function create_fragment18(ctx) {
   let div3;
   let div0;
   let morehorizontal;
@@ -7191,7 +8100,7 @@ function create_fragment11(ctx) {
     }
   });
   const if_block_creators = [
-    create_if_block2,
+    create_if_block3,
     create_if_block_12,
     create_if_block_2,
     create_if_block_3,
@@ -7300,7 +8209,7 @@ function create_fragment11(ctx) {
     }
   };
 }
-function instance11($$self, $$props, $$invalidate) {
+function instance18($$self, $$props, $$invalidate) {
   let { app: app2 } = $$props;
   let { file } = $$props;
   let { pluginSettings } = $$props;
@@ -7354,7 +8263,7 @@ function instance11($$self, $$props, $$invalidate) {
 var FileDisplayItem = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance11, create_fragment11, safe_not_equal, {
+    init(this, options, instance18, create_fragment18, safe_not_equal, {
       app: 8,
       file: 0,
       pluginSettings: 1,
@@ -7429,7 +8338,7 @@ function create_each_block2(key_1, ctx) {
     }
   };
 }
-function create_fragment12(ctx) {
+function create_fragment19(ctx) {
   let div;
   let each_blocks = [];
   let each_1_lookup = /* @__PURE__ */ new Map();
@@ -7487,7 +8396,7 @@ function create_fragment12(ctx) {
     }
   };
 }
-function instance12($$self, $$props, $$invalidate) {
+function instance19($$self, $$props, $$invalidate) {
   let { view } = $$props;
   let { starredFileList } = $$props;
   let { pluginSettings } = $$props;
@@ -7528,7 +8437,7 @@ function instance12($$self, $$props, $$invalidate) {
 var StarredFiles = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance12, create_fragment12, safe_not_equal, {
+    init(this, options, instance19, create_fragment19, safe_not_equal, {
       view: 5,
       starredFileList: 0,
       pluginSettings: 1,
@@ -7600,7 +8509,7 @@ function create_each_block3(key_1, ctx) {
     }
   };
 }
-function create_fragment13(ctx) {
+function create_fragment20(ctx) {
   let div2;
   let div0;
   let t1;
@@ -7670,7 +8579,7 @@ function create_fragment13(ctx) {
     }
   };
 }
-function instance13($$self, $$props, $$invalidate) {
+function instance20($$self, $$props, $$invalidate) {
   let { view } = $$props;
   let { recentFileList } = $$props;
   let { pluginSettings } = $$props;
@@ -7703,7 +8612,7 @@ function instance13($$self, $$props, $$invalidate) {
 var RecentFiles = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance13, create_fragment13, safe_not_equal, {
+    init(this, options, instance20, create_fragment20, safe_not_equal, {
       view: 5,
       recentFileList: 0,
       pluginSettings: 1,
@@ -8078,7 +8987,7 @@ function create_if_block_13(ctx) {
     }
   };
 }
-function create_if_block3(ctx) {
+function create_if_block4(ctx) {
   let recentfiles;
   let current;
   recentfiles = new recentFiles_default({
@@ -8124,7 +9033,7 @@ function create_if_block3(ctx) {
     }
   };
 }
-function create_fragment14(ctx) {
+function create_fragment21(ctx) {
   var _a;
   let main2;
   let t0;
@@ -8140,7 +9049,7 @@ function create_fragment14(ctx) {
     }
   });
   let if_block1 = ctx[9] && ctx[4] && ctx[11] && create_if_block_13(ctx);
-  let if_block2 = ctx[2].recentFileManager && ctx[6].length > 0 && ctx[10] && create_if_block3(ctx);
+  let if_block2 = ctx[2].recentFileManager && ctx[6].length > 0 && ctx[10] && create_if_block4(ctx);
   return {
     c() {
       main2 = element("main");
@@ -8217,7 +9126,7 @@ function create_fragment14(ctx) {
             transition_in(if_block2, 1);
           }
         } else {
-          if_block2 = create_if_block3(ctx2);
+          if_block2 = create_if_block4(ctx2);
           if_block2.c();
           transition_in(if_block2, 1);
           if_block2.m(main2, null);
@@ -8260,7 +9169,7 @@ function create_fragment14(ctx) {
     }
   };
 }
-function instance14($$self, $$props, $$invalidate) {
+function instance21($$self, $$props, $$invalidate) {
   let { view } = $$props;
   let { HomeTabSearchBar: HomeTabSearchBar2 } = $$props;
   let { plugin } = $$props;
@@ -8310,7 +9219,7 @@ function instance14($$self, $$props, $$invalidate) {
 var Homepage = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance14, create_fragment14, safe_not_equal, {
+    init(this, options, instance21, create_fragment21, safe_not_equal, {
       view: 0,
       HomeTabSearchBar: 1,
       plugin: 2,
@@ -8321,12 +9230,572 @@ var Homepage = class extends SvelteComponent {
 var homepage_default = Homepage;
 
 // src/suggester/homeTabSuggester.ts
+var import_obsidian11 = require("obsidian");
+
+// src/utils/htmlUtils.ts
 var import_obsidian10 = require("obsidian");
+function generateHotkeySuggestion(hotkeySuggestions, containerClass) {
+  const hotkeySuggestionElement = createDiv(containerClass);
+  hotkeySuggestions.forEach((hotkeySuggestion) => {
+    const suggestionElement = hotkeySuggestionElement.createDiv("prompt-instruction");
+    suggestionElement.createEl("span", { text: hotkeySuggestion.hotkey }).addClass("prompt-instruction-command");
+    suggestionElement.createEl("span", { text: hotkeySuggestion.action });
+  });
+  return hotkeySuggestionElement;
+}
+
+// src/ui/svelteComponents/homeTabFileSuggestion.svelte
+function create_if_block_53(ctx) {
+  let div;
+  return {
+    c() {
+      div = element("div");
+      div.textContent = `${ctx[6].extension}`;
+      attr(div, "class", "nav-file-tag home-tab-suggestion-file-tag");
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+    },
+    p: noop,
+    d(detaching) {
+      if (detaching)
+        detach(div);
+    }
+  };
+}
+function create_suggestion_title_slot2(ctx) {
+  let span;
+  let t0;
+  let t1;
+  let if_block_anchor;
+  let if_block = ctx[6].fileType != "markdown" && create_if_block_53(ctx);
+  return {
+    c() {
+      span = element("span");
+      t0 = text(ctx[4]);
+      t1 = space();
+      if (if_block)
+        if_block.c();
+      if_block_anchor = empty();
+    },
+    m(target, anchor) {
+      insert(target, span, anchor);
+      append(span, t0);
+      insert(target, t1, anchor);
+      if (if_block)
+        if_block.m(target, anchor);
+      insert(target, if_block_anchor, anchor);
+    },
+    p(ctx2, dirty) {
+      if (dirty & 16)
+        set_data(t0, ctx2[4]);
+      if (ctx2[6].fileType != "markdown")
+        if_block.p(ctx2, dirty);
+    },
+    d(detaching) {
+      if (detaching)
+        detach(span);
+      if (detaching)
+        detach(t1);
+      if (if_block)
+        if_block.d(detaching);
+      if (detaching)
+        detach(if_block_anchor);
+    }
+  };
+}
+function create_if_block_33(ctx) {
+  var _a;
+  let show_if = ctx[6].aliases && ((_a = ctx[6].aliases) == null ? void 0 : _a.includes(ctx[4]));
+  let if_block_anchor;
+  let current;
+  let if_block = show_if && create_if_block_43(ctx);
+  return {
+    c() {
+      if (if_block)
+        if_block.c();
+      if_block_anchor = empty();
+    },
+    m(target, anchor) {
+      if (if_block)
+        if_block.m(target, anchor);
+      insert(target, if_block_anchor, anchor);
+      current = true;
+    },
+    p(ctx2, dirty) {
+      var _a2;
+      if (dirty & 16)
+        show_if = ctx2[6].aliases && ((_a2 = ctx2[6].aliases) == null ? void 0 : _a2.includes(ctx2[4]));
+      if (show_if) {
+        if (if_block) {
+          if_block.p(ctx2, dirty);
+          if (dirty & 16) {
+            transition_in(if_block, 1);
+          }
+        } else {
+          if_block = create_if_block_43(ctx2);
+          if_block.c();
+          transition_in(if_block, 1);
+          if_block.m(if_block_anchor.parentNode, if_block_anchor);
+        }
+      } else if (if_block) {
+        group_outros();
+        transition_out(if_block, 1, 1, () => {
+          if_block = null;
+        });
+        check_outros();
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(if_block);
+      current = true;
+    },
+    o(local) {
+      transition_out(if_block);
+      current = false;
+    },
+    d(detaching) {
+      if (if_block)
+        if_block.d(detaching);
+      if (detaching)
+        detach(if_block_anchor);
+    }
+  };
+}
+function create_if_block_43(ctx) {
+  let div;
+  let forward;
+  let t0;
+  let span;
+  let current;
+  forward = new forward_default({
+    props: { size: 15, "aria-label": "Alias of" }
+  });
+  return {
+    c() {
+      div = element("div");
+      create_component(forward.$$.fragment);
+      t0 = space();
+      span = element("span");
+      span.textContent = `${ctx[6].basename}`;
+      attr(div, "class", "home-tab-suggestion-description");
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+      mount_component(forward, div, null);
+      append(div, t0);
+      append(div, span);
+      current = true;
+    },
+    p: noop,
+    i(local) {
+      if (current)
+        return;
+      transition_in(forward.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(forward.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(div);
+      destroy_component(forward);
+    }
+  };
+}
+function create_suggestion_extra_content_slot(ctx) {
+  let if_block_anchor;
+  let current;
+  let if_block = ctx[6].isCreated && create_if_block_33(ctx);
+  return {
+    c() {
+      if (if_block)
+        if_block.c();
+      if_block_anchor = empty();
+    },
+    m(target, anchor) {
+      if (if_block)
+        if_block.m(target, anchor);
+      insert(target, if_block_anchor, anchor);
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (ctx2[6].isCreated)
+        if_block.p(ctx2, dirty);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(if_block);
+      current = true;
+    },
+    o(local) {
+      transition_out(if_block);
+      current = false;
+    },
+    d(detaching) {
+      if (if_block)
+        if_block.d(detaching);
+      if (detaching)
+        detach(if_block_anchor);
+    }
+  };
+}
+function create_if_block_14(ctx) {
+  let div;
+  let current_block_type_index;
+  let if_block;
+  let current;
+  const if_block_creators = [create_if_block_23, create_else_block2];
+  const if_blocks = [];
+  function select_block_type(ctx2, dirty) {
+    if (ctx2[6].isUnresolved)
+      return 0;
+    return 1;
+  }
+  current_block_type_index = select_block_type(ctx, -1);
+  if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+  return {
+    c() {
+      div = element("div");
+      if_block.c();
+      attr(div, "class", "home-tab-suggestion-tip");
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+      if_blocks[current_block_type_index].m(div, null);
+      current = true;
+    },
+    p: noop,
+    i(local) {
+      if (current)
+        return;
+      transition_in(if_block);
+      current = true;
+    },
+    o(local) {
+      transition_out(if_block);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(div);
+      if_blocks[current_block_type_index].d();
+    }
+  };
+}
+function create_else_block2(ctx) {
+  let filequestion;
+  let t0;
+  let div;
+  let current;
+  filequestion = new file_question_default({
+    props: {
+      size: 15,
+      "aria-label": "Non exists yet, select to create"
+    }
+  });
+  return {
+    c() {
+      create_component(filequestion.$$.fragment);
+      t0 = space();
+      div = element("div");
+      div.innerHTML = `<span>Enter to create</span>`;
+      attr(div, "class", "suggestion-hotkey");
+    },
+    m(target, anchor) {
+      mount_component(filequestion, target, anchor);
+      insert(target, t0, anchor);
+      insert(target, div, anchor);
+      current = true;
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(filequestion.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(filequestion.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(filequestion, detaching);
+      if (detaching)
+        detach(t0);
+      if (detaching)
+        detach(div);
+    }
+  };
+}
+function create_if_block_23(ctx) {
+  let fileplus;
+  let current;
+  fileplus = new file_plus_default({
+    props: {
+      size: 15,
+      "aria-label": "Not created yet, select to create"
+    }
+  });
+  return {
+    c() {
+      create_component(fileplus.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(fileplus, target, anchor);
+      current = true;
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(fileplus.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(fileplus.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(fileplus, detaching);
+    }
+  };
+}
+function create_if_block5(ctx) {
+  let div;
+  let folder;
+  let t0;
+  let span;
+  let t1;
+  let current;
+  folder = new folder_default({ props: { size: 15 } });
+  return {
+    c() {
+      div = element("div");
+      create_component(folder.$$.fragment);
+      t0 = space();
+      span = element("span");
+      t1 = text(ctx[5]);
+      attr(span, "class", "home-tab-file-path");
+      attr(div, "class", "home-tab-suggestion-filepath");
+      attr(div, "aria-label", "File path");
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+      mount_component(folder, div, null);
+      append(div, t0);
+      append(div, span);
+      append(span, t1);
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (!current || dirty & 32)
+        set_data(t1, ctx2[5]);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(folder.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(folder.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(div);
+      destroy_component(folder);
+    }
+  };
+}
+function create_suggestion_aux_slot2(ctx) {
+  let t;
+  let if_block1_anchor;
+  let current;
+  let if_block0 = !ctx[6].isCreated && create_if_block_14(ctx);
+  let if_block1 = (ctx[6].isCreated || ctx[6].isUnresolved) && ctx[5] && create_if_block5(ctx);
+  return {
+    c() {
+      if (if_block0)
+        if_block0.c();
+      t = space();
+      if (if_block1)
+        if_block1.c();
+      if_block1_anchor = empty();
+    },
+    m(target, anchor) {
+      if (if_block0)
+        if_block0.m(target, anchor);
+      insert(target, t, anchor);
+      if (if_block1)
+        if_block1.m(target, anchor);
+      insert(target, if_block1_anchor, anchor);
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (!ctx2[6].isCreated)
+        if_block0.p(ctx2, dirty);
+      if ((ctx2[6].isCreated || ctx2[6].isUnresolved) && ctx2[5]) {
+        if (if_block1) {
+          if_block1.p(ctx2, dirty);
+          if (dirty & 32) {
+            transition_in(if_block1, 1);
+          }
+        } else {
+          if_block1 = create_if_block5(ctx2);
+          if_block1.c();
+          transition_in(if_block1, 1);
+          if_block1.m(if_block1_anchor.parentNode, if_block1_anchor);
+        }
+      } else if (if_block1) {
+        group_outros();
+        transition_out(if_block1, 1, 1, () => {
+          if_block1 = null;
+        });
+        check_outros();
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(if_block0);
+      transition_in(if_block1);
+      current = true;
+    },
+    o(local) {
+      transition_out(if_block0);
+      transition_out(if_block1);
+      current = false;
+    },
+    d(detaching) {
+      if (if_block0)
+        if_block0.d(detaching);
+      if (detaching)
+        detach(t);
+      if (if_block1)
+        if_block1.d(detaching);
+      if (detaching)
+        detach(if_block1_anchor);
+    }
+  };
+}
+function create_fragment22(ctx) {
+  let suggestion_1;
+  let current;
+  suggestion_1 = new suggestion_default({
+    props: {
+      index: ctx[0],
+      suggester: ctx[1],
+      textInputSuggester: ctx[2],
+      selectedItemIndex: ctx[3],
+      suggestionTitleClass: `suggestion-title home-tab-suggestion-title ${ctx[6].isUnresolved ? "is-unresolved" : ""}`,
+      $$slots: {
+        "suggestion-aux": [create_suggestion_aux_slot2],
+        "suggestion-extra-content": [create_suggestion_extra_content_slot],
+        "suggestion-title": [create_suggestion_title_slot2]
+      },
+      $$scope: { ctx }
+    }
+  });
+  return {
+    c() {
+      create_component(suggestion_1.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(suggestion_1, target, anchor);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      const suggestion_1_changes = {};
+      if (dirty & 1)
+        suggestion_1_changes.index = ctx2[0];
+      if (dirty & 2)
+        suggestion_1_changes.suggester = ctx2[1];
+      if (dirty & 4)
+        suggestion_1_changes.textInputSuggester = ctx2[2];
+      if (dirty & 8)
+        suggestion_1_changes.selectedItemIndex = ctx2[3];
+      if (dirty & 304) {
+        suggestion_1_changes.$$scope = { dirty, ctx: ctx2 };
+      }
+      suggestion_1.$set(suggestion_1_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(suggestion_1.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(suggestion_1.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(suggestion_1, detaching);
+    }
+  };
+}
+function instance22($$self, $$props, $$invalidate) {
+  let { index } = $$props;
+  let { suggester } = $$props;
+  let { textInputSuggester } = $$props;
+  let { selectedItemIndex } = $$props;
+  let { suggestion } = $$props;
+  let { nameToDisplay } = $$props;
+  let { filePath = void 0 } = $$props;
+  let suggestionItem = suggestion.item;
+  $$self.$$set = ($$props2) => {
+    if ("index" in $$props2)
+      $$invalidate(0, index = $$props2.index);
+    if ("suggester" in $$props2)
+      $$invalidate(1, suggester = $$props2.suggester);
+    if ("textInputSuggester" in $$props2)
+      $$invalidate(2, textInputSuggester = $$props2.textInputSuggester);
+    if ("selectedItemIndex" in $$props2)
+      $$invalidate(3, selectedItemIndex = $$props2.selectedItemIndex);
+    if ("suggestion" in $$props2)
+      $$invalidate(7, suggestion = $$props2.suggestion);
+    if ("nameToDisplay" in $$props2)
+      $$invalidate(4, nameToDisplay = $$props2.nameToDisplay);
+    if ("filePath" in $$props2)
+      $$invalidate(5, filePath = $$props2.filePath);
+  };
+  return [
+    index,
+    suggester,
+    textInputSuggester,
+    selectedItemIndex,
+    nameToDisplay,
+    filePath,
+    suggestionItem,
+    suggestion
+  ];
+}
+var HomeTabFileSuggestion = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance22, create_fragment22, safe_not_equal, {
+      index: 0,
+      suggester: 1,
+      textInputSuggester: 2,
+      selectedItemIndex: 3,
+      suggestion: 7,
+      nameToDisplay: 4,
+      filePath: 5
+    });
+  }
+};
+var homeTabFileSuggestion_default = HomeTabFileSuggestion;
+
+// src/suggester/homeTabSuggester.ts
 var HomeTabFileSuggester = class extends TextInputSuggester {
   constructor(app2, plugin, view, searchBar) {
     super(app2, get_store_value(searchBar.searchBarEl), get_store_value(searchBar.suggestionContainerEl), {
-      containerClass: `home-tab-suggestion-container ${import_obsidian10.Platform.isPhone ? "is-phone" : ""}`,
-      suggestionItemClass: "suggestion-item mod-complex",
+      containerClass: `home-tab-suggestion-container ${import_obsidian11.Platform.isPhone ? "is-phone" : ""}`,
       additionalClasses: `${plugin.settings.selectionHighlight === "accentColor" ? "use-accent-color" : ""}`,
       additionalModalInfo: plugin.settings.showShortcuts ? generateHotkeySuggestion([
         { hotkey: "\u2191\u2193", action: "to navigate" },
@@ -8384,17 +9853,17 @@ var HomeTabFileSuggester = class extends TextInputSuggester {
       }
     });
     this.view.registerEvent(this.app.vault.on("create", (file) => {
-      if (file instanceof import_obsidian10.TFile) {
+      if (file instanceof import_obsidian11.TFile) {
         this.updateSearchfilesList(file);
       }
     }));
     this.view.registerEvent(this.app.vault.on("delete", (file) => {
-      if (file instanceof import_obsidian10.TFile) {
+      if (file instanceof import_obsidian11.TFile) {
         this.updateSearchfilesList(file);
       }
     }));
     this.view.registerEvent(this.app.vault.on("rename", (file, oldPath) => {
-      if (file instanceof import_obsidian10.TFile) {
+      if (file instanceof import_obsidian11.TFile) {
         this.updateSearchfilesList(file, oldPath);
       }
     }));
@@ -8417,14 +9886,16 @@ var HomeTabFileSuggester = class extends TextInputSuggester {
   updateUnresolvedFiles() {
     const unresolvedFiles = getUnresolvedMarkdownFiles();
     let newFiles = false;
-    unresolvedFiles.forEach((unresolvedFile) => {
-      if (!this.files.includes(unresolvedFile)) {
-        this.files.push(unresolvedFile);
-        newFiles = true;
-      }
-    });
-    if (newFiles)
-      this.fuzzySearch.updateSearchArray(this.files);
+    if (this.files) {
+      unresolvedFiles.forEach((unresolvedFile) => {
+        if (!this.files.includes(unresolvedFile)) {
+          this.files.push(unresolvedFile);
+          newFiles = true;
+        }
+      });
+      if (newFiles)
+        this.fuzzySearch.updateSearchArray(this.files);
+    }
   }
   updateSearchfilesList(file, oldPath) {
     this.app.metadataCache.onCleanCache(() => {
@@ -8479,42 +9950,19 @@ var HomeTabFileSuggester = class extends TextInputSuggester {
       this.handleFileCreation(selectedItem.item, newTab);
     }
   }
-  generateDisplayElementContent(suggestion) {
-    var _a;
-    const contentEl = createDiv("suggestion-content");
-    const suggestionTitleEl = contentEl.createDiv("suggestion-title home-tab-suggestion-title");
-    const suggestionAuxEl = createDiv("suggestion-aux");
+  getDisplayElementProps(suggestion) {
     const nameToDisplay = this.fuzzySearch.getBestMatch(suggestion, this.inputEl.value);
-    const fileNameEl = suggestionTitleEl.createEl("span", { text: nameToDisplay });
-    if (suggestion.item.fileType != "markdown") {
-      suggestionTitleEl.createEl("div", { text: suggestion.item.extension, cls: "nav-file-tag home-tab-suggestion-file-tag" });
+    let filePath = void 0;
+    if (this.plugin.settings.showPath) {
+      filePath = suggestion.item.file ? suggestion.item.file.parent.name : getParentFolderFromPath(suggestion.item.path);
     }
-    if (suggestion.item.isCreated) {
-      if (suggestion.item.aliases && ((_a = suggestion.item.aliases) == null ? void 0 : _a.includes(nameToDisplay))) {
-        const noteEl = contentEl.createDiv("home-tab-suggestion-description");
-        addLucideIcon(noteEl, "forward", { size: 15, ariaLabel: "Alias of" });
-        noteEl.createEl("span", { text: suggestion.item.basename });
-      }
-    } else {
-      const iconContainerEl = suggestionAuxEl.createDiv("home-tab-suggestion-tip");
-      if (suggestion.item.isUnresolved) {
-        suggestionTitleEl.addClass("is-unresolved");
-        addLucideIcon(iconContainerEl, "file-plus", { size: 15, ariaLabel: "Not created yet, select to create" });
-      } else {
-        suggestionAuxEl.createDiv("suggestion-hotkey").createEl("span", { text: "Enter to create" });
-        addLucideIcon(iconContainerEl, "file-question", { size: 15, ariaLabel: "Not exists yet, select to create" });
-      }
-    }
-    if (suggestion.item.isCreated || suggestion.item.isUnresolved) {
-      if (this.plugin.settings.showPath) {
-        const pathEl = suggestionAuxEl.createEl("div", { cls: "home-tab-suggestion-filepath", attr: { "aria-label": "File path" } });
-        const pathText = suggestion.item.file ? suggestion.item.file.parent.name : getParentFolderFromPath(suggestion.item.path);
-        const iconContainer = pathEl.createDiv("");
-        addLucideIcon(iconContainer, "folder", { size: 15 });
-        pathEl.createEl("span", { text: pathText, cls: "home-tab-file-path" });
-      }
-    }
-    return [contentEl, suggestionAuxEl];
+    return {
+      nameToDisplay,
+      filePath
+    };
+  }
+  getDisplayElementComponentType() {
+    return homeTabFileSuggestion_default;
   }
   async handleFileCreation(selectedFile, newTab) {
     var _a;
@@ -8534,7 +9982,7 @@ var HomeTabFileSuggester = class extends TextInputSuggester {
           return this.openFile(fileToOpen, newTab);
         }
       }
-      newFile = await this.app.vault.create((0, import_obsidian10.normalizePath)(`${this.app.fileManager.getNewFileParent("").path}/${input}.md`), "");
+      newFile = await this.app.vault.create((0, import_obsidian11.normalizePath)(`${this.app.fileManager.getNewFileParent("").path}/${input}.md`), "");
     }
     this.openFile(newFile, newTab);
   }
@@ -8544,6 +9992,384 @@ var HomeTabFileSuggester = class extends TextInputSuggester {
     } else {
       this.view.leaf.openFile(file);
     }
+  }
+};
+
+// src/suggester/omnisearchSuggester.ts
+var import_obsidian12 = require("obsidian");
+
+// src/ui/svelteComponents/omnisearchSuggestion.svelte
+function create_if_block_15(ctx) {
+  let span;
+  let t_value = `${ctx[4].matches.length} match${ctx[4].matches.length > 1 ? "es" : ""}`;
+  let t;
+  return {
+    c() {
+      span = element("span");
+      t = text(t_value);
+      attr(span, "class", "omnisearch-result__counter");
+    },
+    m(target, anchor) {
+      insert(target, span, anchor);
+      append(span, t);
+    },
+    p(ctx2, dirty) {
+      if (dirty & 16 && t_value !== (t_value = `${ctx2[4].matches.length} match${ctx2[4].matches.length > 1 ? "es" : ""}`))
+        set_data(t, t_value);
+    },
+    d(detaching) {
+      if (detaching)
+        detach(span);
+    }
+  };
+}
+function create_suggestion_title_slot3(ctx) {
+  let span3;
+  let span0;
+  let file;
+  let t0;
+  let span1;
+  let t1;
+  let span2;
+  let t3;
+  let current;
+  file = new file_default({ props: { size: 15 } });
+  let if_block = ctx[4].matches.length > 0 && create_if_block_15(ctx);
+  return {
+    c() {
+      span3 = element("span");
+      span0 = element("span");
+      create_component(file.$$.fragment);
+      t0 = space();
+      span1 = element("span");
+      t1 = space();
+      span2 = element("span");
+      span2.textContent = `${`.${ctx[7]}`}`;
+      t3 = space();
+      if (if_block)
+        if_block.c();
+      attr(span2, "class", "omnisearch-result__extension");
+      attr(span3, "class", "omnisearch-result__title");
+    },
+    m(target, anchor) {
+      insert(target, span3, anchor);
+      append(span3, span0);
+      mount_component(file, span0, null);
+      append(span3, t0);
+      append(span3, span1);
+      span1.innerHTML = ctx[5];
+      append(span3, t1);
+      append(span3, span2);
+      append(span3, t3);
+      if (if_block)
+        if_block.m(span3, null);
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (!current || dirty & 32)
+        span1.innerHTML = ctx2[5];
+      ;
+      if (ctx2[4].matches.length > 0) {
+        if (if_block) {
+          if_block.p(ctx2, dirty);
+        } else {
+          if_block = create_if_block_15(ctx2);
+          if_block.c();
+          if_block.m(span3, null);
+        }
+      } else if (if_block) {
+        if_block.d(1);
+        if_block = null;
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(file.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(file.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(span3);
+      destroy_component(file);
+      if (if_block)
+        if_block.d();
+    }
+  };
+}
+function create_if_block6(ctx) {
+  let div;
+  let folderopen;
+  let t0;
+  let span;
+  let current;
+  folderopen = new folder_open_default({ props: { size: 15 } });
+  return {
+    c() {
+      div = element("div");
+      create_component(folderopen.$$.fragment);
+      t0 = space();
+      span = element("span");
+      span.textContent = `${ctx[8]}`;
+      attr(div, "class", "omnisearch-result__folder-path");
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+      mount_component(folderopen, div, null);
+      append(div, t0);
+      append(div, span);
+      current = true;
+    },
+    p: noop,
+    i(local) {
+      if (current)
+        return;
+      transition_in(folderopen.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(folderopen.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(div);
+      destroy_component(folderopen);
+    }
+  };
+}
+function create_suggestion_extra_content_slot2(ctx) {
+  let t;
+  let div;
+  let current;
+  let if_block = ctx[8].length > 0 && create_if_block6(ctx);
+  return {
+    c() {
+      if (if_block)
+        if_block.c();
+      t = space();
+      div = element("div");
+      attr(div, "class", "omnisearch-result__body");
+    },
+    m(target, anchor) {
+      if (if_block)
+        if_block.m(target, anchor);
+      insert(target, t, anchor);
+      insert(target, div, anchor);
+      div.innerHTML = ctx[6];
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (ctx2[8].length > 0)
+        if_block.p(ctx2, dirty);
+      if (!current || dirty & 64)
+        div.innerHTML = ctx2[6];
+      ;
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(if_block);
+      current = true;
+    },
+    o(local) {
+      transition_out(if_block);
+      current = false;
+    },
+    d(detaching) {
+      if (if_block)
+        if_block.d(detaching);
+      if (detaching)
+        detach(t);
+      if (detaching)
+        detach(div);
+    }
+  };
+}
+function create_fragment23(ctx) {
+  let suggestion_1;
+  let current;
+  suggestion_1 = new suggestion_default({
+    props: {
+      index: ctx[0],
+      suggester: ctx[1],
+      textInputSuggester: ctx[2],
+      selectedItemIndex: ctx[3],
+      suggestionItemClass: "suggestion-item omnisearch-result",
+      suggestionContentClass: "",
+      suggestionTitleClass: "omnisearch-result__title-container",
+      $$slots: {
+        "suggestion-extra-content": [create_suggestion_extra_content_slot2],
+        "suggestion-title": [create_suggestion_title_slot3]
+      },
+      $$scope: { ctx }
+    }
+  });
+  return {
+    c() {
+      create_component(suggestion_1.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(suggestion_1, target, anchor);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      const suggestion_1_changes = {};
+      if (dirty & 1)
+        suggestion_1_changes.index = ctx2[0];
+      if (dirty & 2)
+        suggestion_1_changes.suggester = ctx2[1];
+      if (dirty & 4)
+        suggestion_1_changes.textInputSuggester = ctx2[2];
+      if (dirty & 8)
+        suggestion_1_changes.selectedItemIndex = ctx2[3];
+      if (dirty & 624) {
+        suggestion_1_changes.$$scope = { dirty, ctx: ctx2 };
+      }
+      suggestion_1.$set(suggestion_1_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(suggestion_1.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(suggestion_1.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(suggestion_1, detaching);
+    }
+  };
+}
+function instance23($$self, $$props, $$invalidate) {
+  let { index } = $$props;
+  let { suggester } = $$props;
+  let { textInputSuggester } = $$props;
+  let { selectedItemIndex } = $$props;
+  let { suggestion } = $$props;
+  let { basename } = $$props;
+  let { excerpt } = $$props;
+  let fileExtension = getExtensionFromFilename(suggestion.path);
+  let folderPath = suggestion.path.replace(`${suggestion.basename}.${fileExtension}`, "").slice(0, -1);
+  $$self.$$set = ($$props2) => {
+    if ("index" in $$props2)
+      $$invalidate(0, index = $$props2.index);
+    if ("suggester" in $$props2)
+      $$invalidate(1, suggester = $$props2.suggester);
+    if ("textInputSuggester" in $$props2)
+      $$invalidate(2, textInputSuggester = $$props2.textInputSuggester);
+    if ("selectedItemIndex" in $$props2)
+      $$invalidate(3, selectedItemIndex = $$props2.selectedItemIndex);
+    if ("suggestion" in $$props2)
+      $$invalidate(4, suggestion = $$props2.suggestion);
+    if ("basename" in $$props2)
+      $$invalidate(5, basename = $$props2.basename);
+    if ("excerpt" in $$props2)
+      $$invalidate(6, excerpt = $$props2.excerpt);
+  };
+  return [
+    index,
+    suggester,
+    textInputSuggester,
+    selectedItemIndex,
+    suggestion,
+    basename,
+    excerpt,
+    fileExtension,
+    folderPath
+  ];
+}
+var OmnisearchSuggestion = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance23, create_fragment23, safe_not_equal, {
+      index: 0,
+      suggester: 1,
+      textInputSuggester: 2,
+      selectedItemIndex: 3,
+      suggestion: 4,
+      basename: 5,
+      excerpt: 6
+    });
+  }
+};
+var omnisearchSuggestion_default = OmnisearchSuggestion;
+
+// src/utils/regexUtils.ts
+function escapeStringForRegExp(string) {
+  return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+function concatenateStringsToRegex(strings, modifier) {
+  return new RegExp(strings.join("|"), modifier != null ? modifier : "g");
+}
+
+// src/suggester/omnisearchSuggester.ts
+var OmnisearchSuggester = class extends TextInputSuggester {
+  constructor(app2, plugin, view, searchBar) {
+    super(app2, get_store_value(searchBar.searchBarEl), get_store_value(searchBar.suggestionContainerEl), {
+      containerClass: `home-tab-suggestion-container ${import_obsidian12.Platform.isPhone ? "is-phone" : ""}`,
+      additionalClasses: `${plugin.settings.selectionHighlight === "accentColor" ? "use-accent-color" : ""}`,
+      additionalModalInfo: plugin.settings.showShortcuts ? generateHotkeySuggestion([
+        { hotkey: "\u2191\u2193", action: "to navigate" },
+        { hotkey: "\u21B5", action: "to open" },
+        { hotkey: "ctrl \u21B5", action: "to open in new tab" },
+        { hotkey: "esc", action: "to dismiss" }
+      ], "home-tab-hotkey-suggestions") : void 0
+    }, plugin.settings.searchDelay);
+    this.plugin = plugin;
+    this.view = view;
+    this.searchBar = searchBar;
+    this.omnisearch = omnisearch;
+    this.scope.register(["Mod"], "Enter", (e) => {
+      e.preventDefault();
+      this.useSelectedItem(this.suggester.getSelectedItem(), true);
+    });
+  }
+  updateSearchBarContainerEl(isActive) {
+    var _a;
+    (_a = this.inputEl.parentElement) == null ? void 0 : _a.toggleClass("is-active", isActive);
+  }
+  onOpen() {
+    this.updateSearchBarContainerEl(this.suggester.getSuggestions().length > 0 ? true : false);
+  }
+  onClose() {
+    this.updateSearchBarContainerEl(false);
+  }
+  async getSuggestions(input) {
+    const suggestions = await this.omnisearch.search(input);
+    return suggestions;
+  }
+  useSelectedItem(selectedItem, newTab) {
+    const file = this.app.vault.getAbstractFileByPath(selectedItem.path);
+    if (file && file instanceof import_obsidian12.TFile) {
+      this.openFile(file, newTab);
+    }
+  }
+  getDisplayElementProps(suggestion) {
+    const escapedWords = suggestion.foundWords.map((word) => escapeStringForRegExp(word));
+    const regex = concatenateStringsToRegex(escapedWords, "gi");
+    let content = this.highlightMatches(suggestion.excerpt, regex);
+    let basename = this.highlightMatches(suggestion.basename, regex);
+    return { basename, excerpt: content };
+  }
+  getDisplayElementComponentType() {
+    return omnisearchSuggestion_default;
+  }
+  openFile(file, newTab) {
+    if (newTab) {
+      this.app.workspace.createLeafInTabGroup().openFile(file);
+    } else {
+      this.view.leaf.openFile(file);
+    }
+  }
+  highlightMatches(content, regexMatches) {
+    return content.replaceAll(regexMatches, (value) => `<span class="suggestion-highlight omnisearch-highlight omnisearch-default-highlight">${value}</span>`);
   }
 };
 
@@ -8563,11 +10389,15 @@ var HomeTabSearchBar = class {
       get_store_value(this.searchBarEl).focus();
   }
   load() {
-    this.fileSuggester = new HomeTabFileSuggester(this.plugin.app, this.plugin, this.view, this);
+    if (this.plugin.settings.omnisearch && this.plugin.app.plugins.getPlugin("omnisearch")) {
+      this.fileSuggester = new OmnisearchSuggester(this.plugin.app, this.plugin, this.view, this);
+    } else {
+      this.fileSuggester = new HomeTabFileSuggester(this.plugin.app, this.plugin, this.view, this);
+    }
     this.onLoad ? this.onLoad() : null;
   }
 };
-var EmbeddedHomeTab = class extends import_obsidian11.MarkdownRenderChild {
+var EmbeddedHomeTab = class extends import_obsidian13.MarkdownRenderChild {
   constructor(containerEl, view, plugin, codeBlockContent) {
     super(containerEl);
     this.view = view;
@@ -8610,7 +10440,7 @@ var EmbeddedHomeTab = class extends import_obsidian11.MarkdownRenderChild {
     });
   }
 };
-var HomeTabView = class extends import_obsidian11.FileView {
+var HomeTabView = class extends import_obsidian13.FileView {
   constructor(leaf, plugin) {
     super(leaf);
     this.leaf = leaf;
@@ -8645,7 +10475,128 @@ var HomeTabView = class extends import_obsidian11.FileView {
 };
 
 // src/settings.ts
-var import_obsidian12 = require("obsidian");
+var import_obsidian14 = require("obsidian");
+
+// src/ui/svelteComponents/fileSuggestion.svelte
+function create_suggestion_title_slot4(ctx) {
+  var _a;
+  let t_value = ((_a = ctx[5]) != null ? _a : ctx[4].item.basename) + "";
+  let t;
+  return {
+    c() {
+      t = text(t_value);
+    },
+    m(target, anchor) {
+      insert(target, t, anchor);
+    },
+    p(ctx2, dirty) {
+      var _a2;
+      if (dirty & 48 && t_value !== (t_value = ((_a2 = ctx2[5]) != null ? _a2 : ctx2[4].item.basename) + ""))
+        set_data(t, t_value);
+    },
+    d(detaching) {
+      if (detaching)
+        detach(t);
+    }
+  };
+}
+function create_fragment24(ctx) {
+  let suggestion_1;
+  let current;
+  suggestion_1 = new suggestion_default({
+    props: {
+      index: ctx[0],
+      suggester: ctx[1],
+      textInputSuggester: ctx[2],
+      selectedItemIndex: ctx[3],
+      $$slots: {
+        "suggestion-title": [create_suggestion_title_slot4]
+      },
+      $$scope: { ctx }
+    }
+  });
+  return {
+    c() {
+      create_component(suggestion_1.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(suggestion_1, target, anchor);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      const suggestion_1_changes = {};
+      if (dirty & 1)
+        suggestion_1_changes.index = ctx2[0];
+      if (dirty & 2)
+        suggestion_1_changes.suggester = ctx2[1];
+      if (dirty & 4)
+        suggestion_1_changes.textInputSuggester = ctx2[2];
+      if (dirty & 8)
+        suggestion_1_changes.selectedItemIndex = ctx2[3];
+      if (dirty & 112) {
+        suggestion_1_changes.$$scope = { dirty, ctx: ctx2 };
+      }
+      suggestion_1.$set(suggestion_1_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(suggestion_1.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(suggestion_1.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(suggestion_1, detaching);
+    }
+  };
+}
+function instance24($$self, $$props, $$invalidate) {
+  let { index } = $$props;
+  let { suggester } = $$props;
+  let { textInputSuggester } = $$props;
+  let { selectedItemIndex } = $$props;
+  let { suggestion } = $$props;
+  let { displayName = void 0 } = $$props;
+  $$self.$$set = ($$props2) => {
+    if ("index" in $$props2)
+      $$invalidate(0, index = $$props2.index);
+    if ("suggester" in $$props2)
+      $$invalidate(1, suggester = $$props2.suggester);
+    if ("textInputSuggester" in $$props2)
+      $$invalidate(2, textInputSuggester = $$props2.textInputSuggester);
+    if ("selectedItemIndex" in $$props2)
+      $$invalidate(3, selectedItemIndex = $$props2.selectedItemIndex);
+    if ("suggestion" in $$props2)
+      $$invalidate(4, suggestion = $$props2.suggestion);
+    if ("displayName" in $$props2)
+      $$invalidate(5, displayName = $$props2.displayName);
+  };
+  return [
+    index,
+    suggester,
+    textInputSuggester,
+    selectedItemIndex,
+    suggestion,
+    displayName
+  ];
+}
+var FileSuggestion = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance24, create_fragment24, safe_not_equal, {
+      index: 0,
+      suggester: 1,
+      textInputSuggester: 2,
+      selectedItemIndex: 3,
+      suggestion: 4,
+      displayName: 5
+    });
+  }
+};
+var fileSuggestion_default = FileSuggestion;
 
 // src/suggester/imageSuggester.ts
 var ImageFileSuggester = class extends PopoverTextInputSuggester {
@@ -8659,10 +10610,13 @@ var ImageFileSuggester = class extends PopoverTextInputSuggester {
   useSelectedItem(selectedItem) {
     this.inputEl.value = selectedItem.item.path;
     this.inputEl.trigger("input");
-    this.close();
+    this.onInput().then(() => this.close());
   }
-  generateDisplayElementContent(suggestion) {
-    return [createEl("span", { text: suggestion.item.name })];
+  getDisplayElementComponentType() {
+    return fileSuggestion_default;
+  }
+  getDisplayElementProps(suggestion) {
+    return { displayName: suggestion.item.name };
   }
 };
 
@@ -8683,6 +10637,139 @@ function isLink(string) {
 
 // src/suggester/fontSuggester.ts
 var import_font_list = __toESM(require_font_list());
+
+// src/ui/svelteComponents/fontSuggestion.svelte
+function create_suggestion_title_slot5(ctx) {
+  let span;
+  let t;
+  let span_style_value;
+  return {
+    c() {
+      span = element("span");
+      t = text(ctx[6]);
+      attr(span, "style", span_style_value = ctx[5] ? `font-family: ${ctx[4].item}` : "");
+    },
+    m(target, anchor) {
+      insert(target, span, anchor);
+      append(span, t);
+    },
+    p(ctx2, dirty) {
+      if (dirty & 64)
+        set_data(t, ctx2[6]);
+      if (dirty & 48 && span_style_value !== (span_style_value = ctx2[5] ? `font-family: ${ctx2[4].item}` : "")) {
+        attr(span, "style", span_style_value);
+      }
+    },
+    d(detaching) {
+      if (detaching)
+        detach(span);
+    }
+  };
+}
+function create_fragment25(ctx) {
+  let suggestion_1;
+  let current;
+  suggestion_1 = new suggestion_default({
+    props: {
+      index: ctx[0],
+      suggester: ctx[1],
+      textInputSuggester: ctx[2],
+      selectedItemIndex: ctx[3],
+      $$slots: {
+        "suggestion-title": [create_suggestion_title_slot5]
+      },
+      $$scope: { ctx }
+    }
+  });
+  return {
+    c() {
+      create_component(suggestion_1.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(suggestion_1, target, anchor);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      const suggestion_1_changes = {};
+      if (dirty & 1)
+        suggestion_1_changes.index = ctx2[0];
+      if (dirty & 2)
+        suggestion_1_changes.suggester = ctx2[1];
+      if (dirty & 4)
+        suggestion_1_changes.textInputSuggester = ctx2[2];
+      if (dirty & 8)
+        suggestion_1_changes.selectedItemIndex = ctx2[3];
+      if (dirty & 240) {
+        suggestion_1_changes.$$scope = { dirty, ctx: ctx2 };
+      }
+      suggestion_1.$set(suggestion_1_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(suggestion_1.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(suggestion_1.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(suggestion_1, detaching);
+    }
+  };
+}
+function instance25($$self, $$props, $$invalidate) {
+  let { index } = $$props;
+  let { suggester } = $$props;
+  let { textInputSuggester } = $$props;
+  let { selectedItemIndex } = $$props;
+  let { suggestion } = $$props;
+  let { renderFont } = $$props;
+  let { suggestionTitle } = $$props;
+  $$self.$$set = ($$props2) => {
+    if ("index" in $$props2)
+      $$invalidate(0, index = $$props2.index);
+    if ("suggester" in $$props2)
+      $$invalidate(1, suggester = $$props2.suggester);
+    if ("textInputSuggester" in $$props2)
+      $$invalidate(2, textInputSuggester = $$props2.textInputSuggester);
+    if ("selectedItemIndex" in $$props2)
+      $$invalidate(3, selectedItemIndex = $$props2.selectedItemIndex);
+    if ("suggestion" in $$props2)
+      $$invalidate(4, suggestion = $$props2.suggestion);
+    if ("renderFont" in $$props2)
+      $$invalidate(5, renderFont = $$props2.renderFont);
+    if ("suggestionTitle" in $$props2)
+      $$invalidate(6, suggestionTitle = $$props2.suggestionTitle);
+  };
+  return [
+    index,
+    suggester,
+    textInputSuggester,
+    selectedItemIndex,
+    suggestion,
+    renderFont,
+    suggestionTitle
+  ];
+}
+var FontSuggestion = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance25, create_fragment25, safe_not_equal, {
+      index: 0,
+      suggester: 1,
+      textInputSuggester: 2,
+      selectedItemIndex: 3,
+      suggestion: 4,
+      renderFont: 5,
+      suggestionTitle: 6
+    });
+  }
+};
+var fontSuggestion_default = FontSuggestion;
+
+// src/suggester/fontSuggester.ts
 var fontSuggester = class extends PopoverTextInputSuggester {
   constructor(app2, inputEl, viewOptions, renderFont) {
     super(app2, inputEl, viewOptions);
@@ -8701,17 +10788,17 @@ var fontSuggester = class extends PopoverTextInputSuggester {
   useSelectedItem(selectedItem) {
     this.inputEl.value = selectedItem.item.replace(/"/g, ``);
     this.inputEl.trigger("input");
-    this.close();
+    this.onInput().then(() => this.close());
   }
-  generateDisplayElementContent(suggestion) {
-    const suggestionContentEl = createDiv("suggestion-content");
-    const suggestionTitleEl = suggestionContentEl.createDiv("suggestion-title");
-    suggestionTitleEl.appendText(suggestion.item.replace(/"/g, ``));
-    if (this.renderFont) {
-      suggestionTitleEl.style.fontFamily = suggestion.item;
-    }
-    const suggestionAuxEl = createDiv("suggestion-aux");
-    return [suggestionContentEl, suggestionAuxEl];
+  getDisplayElementComponentType() {
+    return fontSuggestion_default;
+  }
+  getDisplayElementProps(suggestion) {
+    var _a;
+    return {
+      renderFont: (_a = this.renderFont) != null ? _a : false,
+      suggestionTitle: suggestion.item.replace(/"/g, ``)
+    };
   }
   onNoSuggestion() {
     const input = this.inputEl.value;
@@ -8731,6 +10818,13 @@ var fontSuggester = class extends PopoverTextInputSuggester {
     }
   }
 };
+
+// src/utils/fontValidator.ts
+function checkFont(font, size) {
+  if (font.trim().length == 0)
+    return false;
+  return document.fonts.check(`${size != null ? size : 18}px ${font}`);
+}
 
 // src/settings.ts
 var DEFAULT_SETTINGS = {
@@ -8762,9 +10856,10 @@ var DEFAULT_SETTINGS = {
   searchDelay: 0,
   replaceNewTabs: true,
   newTabOnStart: false,
-  closePreviousSessionTabs: false
+  closePreviousSessionTabs: false,
+  omnisearch: false
 };
-var HomeTabSettingTab = class extends import_obsidian12.PluginSettingTab {
+var HomeTabSettingTab = class extends import_obsidian14.PluginSettingTab {
   constructor(app2, plugin) {
     super(app2, plugin);
     this.plugin = plugin;
@@ -8775,77 +10870,87 @@ var HomeTabSettingTab = class extends import_obsidian12.PluginSettingTab {
     containerEl.empty();
     containerEl.createEl("h3", { text: "Home tab settings" });
     containerEl.createEl("h2", { text: "General settings" });
-    new import_obsidian12.Setting(containerEl).setName("Replace new tabs with Home tab").addToggle((toggle) => toggle.setValue(this.plugin.settings.replaceNewTabs).onChange((value) => {
+    new import_obsidian14.Setting(containerEl).setName("Replace new tabs with Home tab").addToggle((toggle) => toggle.setValue(this.plugin.settings.replaceNewTabs).onChange((value) => {
       this.plugin.settings.replaceNewTabs = value;
       this.plugin.saveSettings();
     }));
-    new import_obsidian12.Setting(containerEl).setName("Open new Home tab on Obsidian start").setDesc("If a Home tab is already open it'll focus it instead of opening a new one.").addToggle((toggle) => toggle.setValue(this.plugin.settings.newTabOnStart).onChange((value) => {
+    new import_obsidian14.Setting(containerEl).setName("Open new Home tab on Obsidian start").setDesc("If a Home tab is already open it'll focus it instead of opening a new one.").addToggle((toggle) => toggle.setValue(this.plugin.settings.newTabOnStart).onChange((value) => {
       this.plugin.settings.newTabOnStart = value;
       this.plugin.saveSettings();
       this.display();
     }));
     if (this.plugin.settings.newTabOnStart) {
-      new import_obsidian12.Setting(containerEl).setName("Close previous session tabs on start").setDesc("This will closes all the tabs and leave only one Home tab when opening Obsidian.").addToggle((toggle) => toggle.setValue(this.plugin.settings.closePreviousSessionTabs).onChange((value) => {
+      new import_obsidian14.Setting(containerEl).setName("Close previous session tabs on start").setDesc("This will closes all the tabs and leave only one Home tab when opening Obsidian.").addToggle((toggle) => toggle.setValue(this.plugin.settings.closePreviousSessionTabs).onChange((value) => {
         this.plugin.settings.closePreviousSessionTabs = value;
         this.plugin.saveSettings();
       }));
     }
     containerEl.createEl("h2", { text: "Search settings" });
-    new import_obsidian12.Setting(containerEl).setName("Search only markdown files").addToggle((toggle) => toggle.setValue(this.plugin.settings.markdownOnly).onChange((value) => {
-      this.plugin.settings.markdownOnly = value;
-      this.plugin.saveSettings();
-      this.plugin.refreshOpenViews();
-    }));
-    new import_obsidian12.Setting(containerEl).setName("Show uncreated files").addToggle((toggle) => toggle.setValue(this.plugin.settings.unresolvedLinks).onChange((value) => {
-      this.plugin.settings.unresolvedLinks = value;
-      this.plugin.saveSettings();
-      this.plugin.refreshOpenViews();
-    }));
-    new import_obsidian12.Setting(containerEl).setName("Show file path").setDesc("Display file path at the right of the filename.").addToggle((toggle) => toggle.setValue(this.plugin.settings.showPath).onChange((value) => {
-      this.plugin.settings.showPath = value;
-      this.plugin.saveSettings();
-    }));
-    new import_obsidian12.Setting(containerEl).setName("Show shorcuts").setDesc("Display shortcuts under the search results.").addToggle((toggle) => toggle.setValue(this.plugin.settings.showShortcuts).onChange((value) => {
+    if (this.plugin.app.plugins.getPlugin("omnisearch")) {
+      new import_obsidian14.Setting(containerEl).setName("Use omnisearch").addToggle((toggle) => toggle.setValue(this.plugin.settings.omnisearch).onChange((value) => {
+        this.plugin.settings.omnisearch = value;
+        this.plugin.saveSettings();
+        this.display();
+        this.plugin.refreshOpenViews();
+      }));
+    }
+    if (!this.plugin.settings.omnisearch) {
+      new import_obsidian14.Setting(containerEl).setName("Search only markdown files").addToggle((toggle) => toggle.setValue(this.plugin.settings.markdownOnly).onChange((value) => {
+        this.plugin.settings.markdownOnly = value;
+        this.plugin.saveSettings();
+        this.plugin.refreshOpenViews();
+      }));
+      new import_obsidian14.Setting(containerEl).setName("Show uncreated files").addToggle((toggle) => toggle.setValue(this.plugin.settings.unresolvedLinks).onChange((value) => {
+        this.plugin.settings.unresolvedLinks = value;
+        this.plugin.saveSettings();
+        this.plugin.refreshOpenViews();
+      }));
+      new import_obsidian14.Setting(containerEl).setName("Show file path").setDesc("Display file path at the right of the filename.").addToggle((toggle) => toggle.setValue(this.plugin.settings.showPath).onChange((value) => {
+        this.plugin.settings.showPath = value;
+        this.plugin.saveSettings();
+      }));
+    }
+    new import_obsidian14.Setting(containerEl).setName("Show shorcuts").setDesc("Display shortcuts under the search results.").addToggle((toggle) => toggle.setValue(this.plugin.settings.showShortcuts).onChange((value) => {
       this.plugin.settings.showShortcuts = value;
       this.plugin.refreshOpenViews();
       this.plugin.saveSettings();
     }));
-    new import_obsidian12.Setting(containerEl).setName("Search results").setDesc("Set how many results display.").addSlider((slider) => slider.setLimits(1, 25, 1).setValue(this.plugin.settings.maxResults).setDynamicTooltip().onChange((value) => {
+    new import_obsidian14.Setting(containerEl).setName("Search results").setDesc("Set how many results display.").addSlider((slider) => slider.setLimits(1, 25, 1).setValue(this.plugin.settings.maxResults).setDynamicTooltip().onChange((value) => {
       this.plugin.settings.maxResults = value;
       this.plugin.saveSettings();
     })).then((settingEl) => this.addResetButton(settingEl, "maxResults"));
-    new import_obsidian12.Setting(containerEl).setName("Search delay").setDesc("The value is in milliseconds.").addSlider((slider) => slider.setLimits(0, 500, 10).setValue(this.plugin.settings.searchDelay).setDynamicTooltip().onChange((value) => {
+    new import_obsidian14.Setting(containerEl).setName("Search delay").setDesc("The value is in milliseconds.").addSlider((slider) => slider.setLimits(0, 500, 10).setValue(this.plugin.settings.searchDelay).setDynamicTooltip().onChange((value) => {
       this.plugin.settings.searchDelay = value;
       this.plugin.saveSettings();
       this.plugin.refreshOpenViews();
     })).then((settingEl) => this.addResetButton(settingEl, "searchDelay"));
     containerEl.createEl("h2", { text: "Files display" });
     if (app.internalPlugins.getPluginById("starred")) {
-      new import_obsidian12.Setting(containerEl).setName("Show starred files").setDesc("Show starred files under the search bar.").addToggle((toggle) => toggle.setValue(this.plugin.settings.showStarredFiles).onChange((value) => {
+      new import_obsidian14.Setting(containerEl).setName("Show starred files").setDesc("Show starred files under the search bar.").addToggle((toggle) => toggle.setValue(this.plugin.settings.showStarredFiles).onChange((value) => {
         this.plugin.settings.showStarredFiles = value;
         this.plugin.saveSettings();
         this.plugin.refreshOpenViews();
       }));
     }
-    new import_obsidian12.Setting(containerEl).setName("Show recent files").setDesc("Display recent files under the search bar.").addToggle((toggle) => toggle.setValue(this.plugin.settings.showRecentFiles).onChange((value) => {
+    new import_obsidian14.Setting(containerEl).setName("Show recent files").setDesc("Display recent files under the search bar.").addToggle((toggle) => toggle.setValue(this.plugin.settings.showRecentFiles).onChange((value) => {
       this.plugin.settings.showRecentFiles = value;
       this.plugin.saveSettings();
       this.display();
       this.plugin.refreshOpenViews();
     }));
     if (this.plugin.settings.showRecentFiles) {
-      new import_obsidian12.Setting(containerEl).setName("Store last recent files").setDesc("Remember the recent files of the previous session.").addToggle((toggle) => toggle.setValue(this.plugin.settings.storeRecentFile).onChange((value) => {
+      new import_obsidian14.Setting(containerEl).setName("Store last recent files").setDesc("Remember the recent files of the previous session.").addToggle((toggle) => toggle.setValue(this.plugin.settings.storeRecentFile).onChange((value) => {
         this.plugin.settings.storeRecentFile = value;
         this.plugin.saveSettings();
       }));
-      new import_obsidian12.Setting(containerEl).setName("Recent files").setDesc("Set how many recent files display.").addSlider((slider) => slider.setValue(this.plugin.settings.maxRecentFiles).setLimits(1, 25, 1).setDynamicTooltip().onChange((value) => {
+      new import_obsidian14.Setting(containerEl).setName("Recent files").setDesc("Set how many recent files display.").addSlider((slider) => slider.setValue(this.plugin.settings.maxRecentFiles).setLimits(1, 25, 1).setDynamicTooltip().onChange((value) => {
         this.plugin.recentFileManager.onNewMaxListLenght(value);
         this.plugin.settings.maxRecentFiles = value;
         this.plugin.saveSettings();
       })).then((settingEl) => this.addResetButton(settingEl, "maxRecentFiles"));
     }
     containerEl.createEl("h2", { text: "Appearance" });
-    const logoTypeSetting = new import_obsidian12.Setting(containerEl).setName("Logo").setDesc("Remove or set a custom logo. Accepts local files, links to images or lucide icon ids.");
+    const logoTypeSetting = new import_obsidian14.Setting(containerEl).setName("Logo").setDesc("Remove or set a custom logo. Accepts local files, links to images or lucide icon ids.");
     (_a = logoTypeSetting.descEl.parentElement) == null ? void 0 : _a.addClass("ultra-compressed");
     let invalidInputIcon;
     logoTypeSetting.addExtraButton((button) => {
@@ -8874,7 +10979,7 @@ var HomeTabSettingTab = class extends import_obsidian12.PluginSettingTab {
             return;
           }
           if (this.plugin.settings.logoType === "imagePath") {
-            const normalizedPath = (0, import_obsidian12.normalizePath)(value);
+            const normalizedPath = (0, import_obsidian14.normalizePath)(value);
             if (await app.vault.adapter.exists(normalizedPath)) {
               invalidInputIcon.toggleVisibility(false);
               this.plugin.settings.logo["imagePath"] = normalizedPath;
@@ -8908,7 +11013,7 @@ var HomeTabSettingTab = class extends import_obsidian12.PluginSettingTab {
       this.display();
     })).then((settingEl) => this.addResetButton(settingEl, "logoType"));
     if (this.plugin.settings.logoType === "lucideIcon") {
-      const iconColorSetting = new import_obsidian12.Setting(containerEl).setName("Logo icon color").setDesc("Set the icon color");
+      const iconColorSetting = new import_obsidian14.Setting(containerEl).setName("Logo icon color").setDesc("Set the icon color");
       if (this.plugin.settings.iconColorType === "custom") {
         iconColorSetting.addColorPicker((colorPicker) => colorPicker.setValue(this.plugin.settings.iconColor ? this.plugin.settings.iconColor : "#000000").onChange((value) => {
           this.plugin.settings.iconColor = value;
@@ -8921,23 +11026,29 @@ var HomeTabSettingTab = class extends import_obsidian12.PluginSettingTab {
         this.display();
       })).then((settingEl) => this.addResetButton(settingEl, "iconColorType"));
     }
-    new import_obsidian12.Setting(containerEl).setName("Logo scale").setDesc("Set the logo dimensions relative to the title font size.").addSlider((slider) => slider.setDynamicTooltip().setLimits(0.3, 3, 0.1).setValue(this.plugin.settings.logoScale).onChange((value) => {
+    new import_obsidian14.Setting(containerEl).setName("Logo scale").setDesc("Set the logo dimensions relative to the title font size.").addSlider((slider) => slider.setDynamicTooltip().setLimits(0.3, 3, 0.1).setValue(this.plugin.settings.logoScale).onChange((value) => {
       this.plugin.settings.logoScale = value;
       this.plugin.saveSettings();
     })).then((settingEl) => this.addResetButton(settingEl, "logoScale"));
-    new import_obsidian12.Setting(containerEl).setName("Title").addText((text2) => text2.setValue(this.plugin.settings.wordmark).onChange((value) => {
+    new import_obsidian14.Setting(containerEl).setName("Title").addText((text2) => text2.setValue(this.plugin.settings.wordmark).onChange((value) => {
       this.plugin.settings.wordmark = value;
       this.plugin.saveSettings();
     })).then((settingEl) => this.addResetButton(settingEl, "wordmark"));
-    const titleFontSettings = new import_obsidian12.Setting(containerEl).setName("Title font").setDesc("Interface font, text font, and monospace font options match the fonts set in the Appearance setting tab.");
+    const titleFontSettings = new import_obsidian14.Setting(containerEl).setName("Title font").setDesc("Interface font, text font, and monospace font options match the fonts set in the Appearance setting tab.");
     (_b = titleFontSettings.descEl.parentElement) == null ? void 0 : _b.addClass("compressed");
     if (this.plugin.settings.customFont === "custom") {
+      let invalidFontIcon;
+      titleFontSettings.addExtraButton((button) => {
+        button.setIcon("alert-circle").setTooltip("The font is not valid.");
+        invalidFontIcon = button.extraSettingsEl;
+        invalidFontIcon.toggleVisibility(false);
+        invalidFontIcon.addClass("mod-warning");
+      });
       titleFontSettings.addSearch((text2) => {
         var _a2;
         text2.setValue(this.plugin.settings.font ? this.plugin.settings.font.replace(/"/g, "") : "");
         text2.setPlaceholder("Type anything ... ");
-        const isMobile = this.app.isMobile;
-        const suggester = isMobile ? void 0 : new fontSuggester(this.app, text2.inputEl, {
+        const suggester = import_obsidian14.Platform.isMobile || import_obsidian14.Platform.isMacOS ? void 0 : new fontSuggester(this.app, text2.inputEl, {
           isScrollable: true,
           style: `max-height: 200px;
                     width: fit-content;
@@ -8945,9 +11056,12 @@ var HomeTabSettingTab = class extends import_obsidian12.PluginSettingTab {
         }, true);
         (_a2 = text2.onChange(async (value) => {
           value = value.indexOf(" ") >= 0 ? `"${value}"` : value;
-          if (isMobile || suggester && (await suggester.getInstalledFonts()).includes(value)) {
+          if (suggester && (await suggester.getInstalledFonts()).includes(value) || checkFont(value)) {
             this.plugin.settings.font = value;
             this.plugin.saveSettings();
+            invalidFontIcon.toggleVisibility(false);
+          } else {
+            invalidFontIcon.toggleVisibility(true);
           }
         }).inputEl.parentElement) == null ? void 0 : _a2.addClass("wide-input-container");
       });
@@ -8959,7 +11073,7 @@ var HomeTabSettingTab = class extends import_obsidian12.PluginSettingTab {
     }));
     this.addResetButton(titleFontSettings, "customFont");
     let invalidFontSizeIcon;
-    new import_obsidian12.Setting(containerEl).setName("Title font size").setDesc("Accepts any CSS font-size value.").addExtraButton((button) => {
+    new import_obsidian14.Setting(containerEl).setName("Title font size").setDesc("Accepts any CSS font-size value.").addExtraButton((button) => {
       button.setIcon("alert-circle").setTooltip("The CSS unit is not valid.");
       invalidFontSizeIcon = button.extraSettingsEl;
       invalidFontSizeIcon.addClass("mod-warning");
@@ -8973,11 +11087,11 @@ var HomeTabSettingTab = class extends import_obsidian12.PluginSettingTab {
         invalidFontSizeIcon.toggleVisibility(true);
       }
     })).then((settingEl) => this.addResetButton(settingEl, "fontSize"));
-    new import_obsidian12.Setting(containerEl).setName("Title font weight").addSlider((slider) => slider.setLimits(100, 900, 100).setDynamicTooltip().setValue(this.plugin.settings.fontWeight).onChange((value) => {
+    new import_obsidian14.Setting(containerEl).setName("Title font weight").addSlider((slider) => slider.setLimits(100, 900, 100).setDynamicTooltip().setValue(this.plugin.settings.fontWeight).onChange((value) => {
       this.plugin.settings.fontWeight = value;
       this.plugin.saveSettings();
     })).then((settingEl) => this.addResetButton(settingEl, "fontWeight"));
-    const titleColorSetting = new import_obsidian12.Setting(containerEl).setName("Title color");
+    const titleColorSetting = new import_obsidian14.Setting(containerEl).setName("Title color");
     if (this.plugin.settings.fontColorType === "custom") {
       titleColorSetting.addColorPicker((colorPicker) => colorPicker.setValue(this.plugin.settings.fontColor ? this.plugin.settings.fontColor : "#000000").onChange((value) => {
         this.plugin.settings.fontColor = value;
@@ -8989,7 +11103,7 @@ var HomeTabSettingTab = class extends import_obsidian12.PluginSettingTab {
       this.plugin.saveSettings();
       this.display();
     })).then((settingEl) => this.addResetButton(settingEl, "fontColorType"));
-    new import_obsidian12.Setting(containerEl).setName("Selection highlight").setDesc("Set the color of the selected item.").addDropdown((dropdown) => dropdown.addOption("default", "Theme default").addOption("accentColor", "Accent color").setValue(this.plugin.settings.selectionHighlight).onChange((value) => {
+    new import_obsidian14.Setting(containerEl).setName("Selection highlight").setDesc("Set the color of the selected item.").addDropdown((dropdown) => dropdown.addOption("default", "Theme default").addOption("accentColor", "Accent color").setValue(this.plugin.settings.selectionHighlight).onChange((value) => {
       this.plugin.settings.selectionHighlight = value;
       this.plugin.saveSettings();
       this.plugin.refreshOpenViews();
@@ -9007,8 +11121,8 @@ var HomeTabSettingTab = class extends import_obsidian12.PluginSettingTab {
 };
 
 // src/recentFiles.ts
-var import_obsidian13 = require("obsidian");
-var RecentFileManager = class extends import_obsidian13.Component {
+var import_obsidian15 = require("obsidian");
+var RecentFileManager = class extends import_obsidian15.Component {
   constructor(app2, plugin) {
     super();
     this.app = app2;
@@ -9021,10 +11135,10 @@ var RecentFileManager = class extends import_obsidian13.Component {
       await this.storeRecentFiles();
     }));
     this.registerEvent(this.app.vault.on("delete", async (file) => {
-      file instanceof import_obsidian13.TFile ? this.removeRecentFile(file) : null;
+      file instanceof import_obsidian15.TFile ? this.removeRecentFile(file) : null;
       await this.storeRecentFiles();
     }));
-    this.registerEvent(this.app.vault.on("rename", (file) => file instanceof import_obsidian13.TFile ? this.onFileRename() : null));
+    this.registerEvent(this.app.vault.on("rename", (file) => file instanceof import_obsidian15.TFile ? this.onFileRename() : null));
     this.loadStoredRecentFiles();
   }
   updateRecentFiles(openedFile) {
@@ -9088,7 +11202,7 @@ var RecentFileManager = class extends import_obsidian13.Component {
       this.app.workspace.onLayoutReady(() => {
         this.plugin.settings.recentFilesStore.forEach((item) => {
           let file = this.app.vault.getAbstractFileByPath(item.filepath);
-          if (file && file instanceof import_obsidian13.TFile) {
+          if (file && file instanceof import_obsidian15.TFile) {
             filesToLoad.push({
               file,
               timestamp: item.timestamp
@@ -9102,8 +11216,8 @@ var RecentFileManager = class extends import_obsidian13.Component {
 };
 
 // src/starredFiles.ts
-var import_obsidian14 = require("obsidian");
-var starredFileManager = class extends import_obsidian14.Component {
+var import_obsidian16 = require("obsidian");
+var starredFileManager = class extends import_obsidian16.Component {
   constructor(app2, plugin, starredFileStore) {
     super();
     this.app = app2;
@@ -9145,7 +11259,7 @@ var starredFileManager = class extends import_obsidian14.Component {
       starredItems.forEach((item) => {
         if (item.type === "file") {
           const file = app.vault.getAbstractFileByPath(item.path);
-          if (file instanceof import_obsidian14.TFile) {
+          if (file instanceof import_obsidian16.TFile) {
             starredFiles2.push(file);
           }
         }
@@ -9171,7 +11285,7 @@ var starredFileManager = class extends import_obsidian14.Component {
       this.app.workspace.onLayoutReady(() => {
         this.plugin.settings.starredFileStore.forEach((item) => {
           let file = this.app.vault.getAbstractFileByPath(item.filepath);
-          if (file && file instanceof import_obsidian14.TFile) {
+          if (file && file instanceof import_obsidian16.TFile) {
             filesToLoad.push({
               file,
               iconId: item.iconId
@@ -9185,7 +11299,7 @@ var starredFileManager = class extends import_obsidian14.Component {
 };
 
 // src/main.ts
-var HomeTab = class extends import_obsidian15.Plugin {
+var HomeTab = class extends import_obsidian17.Plugin {
   async onload() {
     console.log("Loading home-tab plugin");
     await this.loadSettings();
@@ -9217,7 +11331,7 @@ var HomeTab = class extends import_obsidian15.Plugin {
         this.starredFileManager.load();
       }
       this.registerMarkdownCodeBlockProcessor("search-bar", (source, el, ctx) => {
-        const view = this.app.workspace.getActiveViewOfType(import_obsidian15.MarkdownView);
+        const view = this.app.workspace.getActiveViewOfType(import_obsidian17.MarkdownView);
         if (view) {
           let embeddedHomeTab = new EmbeddedHomeTab(el, view, this, source);
           this.activeEmbeddedHomeTabViews.push(embeddedHomeTab);

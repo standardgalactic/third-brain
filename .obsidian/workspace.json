@@ -4,24 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "c71e129dec19ceac",
+        "id": "b302c45671c8e709",
         "type": "tabs",
         "children": [
           {
-            "id": "d6f6406c3670dc6c",
+            "id": "41e4109dea643416",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Books/Let's Talk Money - Highlights.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
-            "id": "e80240f47a7b8601",
+            "id": "c2515ec415538cb8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "0 Finance/Investments and Personal Finance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2568963d83af74bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac71eb936b4dfd04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Finance/Investments and Personal Finance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be96966c99fb6c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Equity asset class.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -55,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:_notes/ overflow",
+                "query": "path:_notes/ mid cap",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -63,22 +105,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "fd7bc6c68a3f606e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "7cdf0d47f41af4b3",
@@ -94,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Security vulnerability in the XDR library due to overflow.md",
+                "file": "_Notes/Equity asset class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Security vulnerability in the XDR library due to overflow.md",
+                "file": "_Notes/Equity asset class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Security vulnerability in the XDR library due to overflow.md"
+                "file": "_Notes/Equity asset class.md"
               }
             }
           },
@@ -155,7 +188,15 @@
             }
           },
           {
-            "id": "a6595edb49a76f1b",
+            "id": "72bc2d57877b89a2",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f18c327bb9a5d8dc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -163,11 +204,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,14 +219,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
       "remotely-save:Remotely Save": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e80240f47a7b8601",
+  "active": "2bd2c181ec1b7d32",
   "lastOpenFiles": [
+    "_Notes/Equity asset class.md",
+    "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Asset classes in mutual funds.md",
+    "_Notes/Passive mutual funds.md",
+    "_Notes/Market capitalization (Market cap).md",
+    "_Notes/Types of mutual funds.md",
+    "Readwise/Books/Let's Talk Money - Highlights.md",
+    "Templates/Information.md",
+    "Inbox.md",
     "2 Science and technology/Software engineering.md",
     "_Notes/Security vulnerability in the XDR library due to overflow.md",
     "_Notes/Representing different data types in binary.md",
@@ -192,26 +243,17 @@
     "_Notes/Bit level equivalence of unsigned and two-s complement multiplication.md",
     "_Notes/Caching in large scale applications.md",
     "Assets/Pasted image 20230425095807.png",
-    "Templates/Information.md",
     "_Notes/Multiplying signed integers.md",
-    "Inbox.md",
-    "_Notes/Equity asset class.md",
     "_Notes/Risk of locking into a single company or asset manager.md",
-    "0 Finance/Investments and Personal Finance.md",
     "_Notes/Choose an investment product where exit is cheap and easy.md",
-    "_Notes/Types of mutual funds.md",
-    "_Notes/Passive mutual funds.md",
     "_Notes/Active mutual funds.md",
     "_Notes/Investing in gold.md",
     "_Notes/Diversify your investments.md",
     "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
-    "_Notes/Asset classes in mutual funds.md",
     "_Notes/Conservative balanced fund.md",
     "_Notes/Asset classes.md",
     "_Notes/Real assets - Asset class.md",
     "_Notes/Questions to ask when buying a mutual fund.md",
-    "_Notes/Liquid mutual funds.md",
-    "_Notes/Match the investment horizon of the fund with yours.md",
     "Assets/master-slave-database.svg.svg",
     "Assets/Figure_4.png",
     "Assets/Data_is_now_saved_in_a_separate_DB_tier.png",

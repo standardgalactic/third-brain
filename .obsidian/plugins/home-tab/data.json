@@ -24,21 +24,22 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Notes/Security vulnerability in the XDR library due to overflow.md",
-      "timestamp": 1682398302229
+      "filepath": "_Notes/Equity asset class.md",
+      "timestamp": 1684753203320
     },
     {
-      "filepath": "2 Science and technology/Software engineering.md",
-      "timestamp": 1682398301283
+      "filepath": "0 Finance/Investments and Personal Finance.md",
+      "timestamp": 1684753180270
     },
     {
-      "filepath": "_Notes/Representing different data types in binary.md",
-      "timestamp": 1682397210191
+      "filepath": "_Notes/Asset classes in mutual funds.md",
+      "timestamp": 1684753179329
     }
   ],
   "starredFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
   "newTabOnStart": true,
-  "closePreviousSessionTabs": true
+  "closePreviousSessionTabs": true,
+  "omnisearch": false
 }
