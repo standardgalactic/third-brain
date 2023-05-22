@@ -106,8 +106,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,7 +224,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "41e4109dea643416",
+  "active": "f44df2bcee27d4e4",
   "lastOpenFiles": [
     "Inbox.md",
     "0 Finance/Investments and Personal Finance.md",
