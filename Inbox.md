@@ -26,3 +26,7 @@
 	- Ask to see benchmark returns
 	- Ask to see category returns
 		- Average return of the category of the product
+- Lock in period:
+	- Period of time for which you cannot withdraw your money
+- Premium paying term may be different than the policy tenure
+- Recommendation: 
