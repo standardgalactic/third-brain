@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "c2515ec415538cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Investments and Personal Finance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "45cd4849454b6b40",
             "type": "leaf",
             "state": {
@@ -48,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2568963d83af74bc",
@@ -69,25 +55,25 @@
             }
           },
           {
-            "id": "6f3d7fbce23d8537",
+            "id": "e8320139d6041306",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Options offered by each mutual fund.md",
-                "mode": "preview",
+                "file": "Inbox.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "be96966c99fb6c78",
+            "id": "2db23395127b4430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Notes/Equity asset class.md",
+                "file": "_Notes/Asset classes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:notes/ nav",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notes/Equity asset class.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Notes/Equity asset class.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Notes/Equity asset class.md"
+                "file": "Inbox.md"
               }
             }
           },
@@ -252,17 +238,23 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "be96966c99fb6c78",
+  "active": "e8320139d6041306",
   "lastOpenFiles": [
-    "_Notes/Types of mutual funds.md",
-    "_Notes/Options offered by each mutual fund.md",
+    "Readwise/Books/Let's Talk Money - Highlights.md",
     "Inbox.md",
+    "_Notes/Costs of market linked products.md",
     "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Asset classes.md",
+    "_Notes/Options offered by each mutual fund.md",
+    "_Notes/Net Asset Value (NAV).md",
+    "_Notes/Equity Linked Saving Scheme (ELSS).md",
+    "_Notes/Balanced mutual funds.md",
+    "_Notes/Types of mutual funds.md",
+    "0 Finance/Taxation.md",
     "_Notes/Equity asset class.md",
     "_Notes/Thumb rule to decide on debt allocation in your portfolio.md",
     "_Notes/Comparing different asset classes.md",
     "_Notes/Other types of indices in the market.md",
-    "Readwise/Books/Let's Talk Money - Highlights.md",
     "_Notes/Open and closed ended equity funds.md",
     "_Notes/Diversified equity fund.md",
     "_Notes/Passive mutual funds.md",
@@ -274,13 +266,7 @@
     "_Notes/Security vulnerability in the XDR library due to overflow.md",
     "_Notes/Representing different data types in binary.md",
     "_Notes/Operations on signed and unsigned integers.md",
-    "_Notes/Bit level equivalence of unsigned and two-s complement multiplication.md",
-    "_Notes/Caching in large scale applications.md",
     "Assets/Pasted image 20230425095807.png",
-    "_Notes/Multiplying signed integers.md",
-    "_Notes/Risk of locking into a single company or asset manager.md",
-    "_Notes/Choose an investment product where exit is cheap and easy.md",
-    "_Notes/Investing in gold.md",
     "Assets/master-slave-database.svg.svg",
     "Assets/Figure_4.png",
     "Assets/Data_is_now_saved_in_a_separate_DB_tier.png",

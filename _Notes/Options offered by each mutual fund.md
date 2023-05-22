@@ -9,4 +9,4 @@
 - [[Let's Talk Money - Highlights]]
 
 ## Related Notes
-- 
+- [[Net Asset Value (NAV)]] 

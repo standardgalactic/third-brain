@@ -191,8 +191,6 @@
 - Three, an exit cost, or the cost of selling the product. To take care of expenses of selling the investment you made or to act as a deterrent to frequent churning of money, funds levy exit charges. This is a percentage of your corpus and usually falls off to zero after about one or two years. ([Location 1722](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1722))
 - The expense ratio has embedded in it the sales commission paid to sellers of mutual funds. ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1726))
 
-> [!NOTE] DONE TILL HERE
-
 - There are two entities in the market – advisers and distributors. Distributors are supposed to just vend the product, much as a chemist vends medicines but does not prescribe them. ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1726))
 - In the financial sector, advisers are the doctor’s equivalent and are supposed to charge you a fee for their expertise. They are supposed to recommend a ‘direct’ plan that has a lower cost. ([Location 1728](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1728))
 - Direct plans remove the sales commission embedded in the expense ratio and make the product cheaper for you to buy. ([Location 1729](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1729))

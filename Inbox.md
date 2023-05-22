@@ -1,35 +1,28 @@
-- ELSS:
-	- Equity fund with tax benefit
-	- Has 3-year lock in period
-	- Growth option is recommended
-- Three kinds of balanced funds:
-	- Conservative
-		- Between 10 and 25% equity
-	- Balanced
-		- Between 40 and 60% equity
-	- Aggressive
-		- Between 65 and 80% equity
-- NAV
-	- Price of a unit of a scheme
-	- Net asset value
-	- Not 'gross', because the costs have been removed from the price. You get the net value in hand
-	- Example:
-		- 100 investors.
-		- Each has invested Rs 1000 in the fund
-		- Each bought a unit for the price of Rs 10 - each investor holds 100 units
-		- Total invested value of the fund: Rs 1 lakh
-		- A year later, the mutual fund becomes worth Rs 1.5 lakh giving a profit of Rs 50,000
-		- Assume that the fund costs are Rs 10,000, then the net profit is Rs 40,000
-		- Thus, the NAV becomes Rs 14 from Rs 10.
-		- Multiplying the NAV with the number of units in the fund gives your fund return. In this case, each investor's invested value increases from Rs 1000 to Rs 1400.
-- Market linked products (like stocks, real estate, gold, etc.) have three kinds of costs:
-	- Front load: Cost to enter the product
-		- It is part of the price of the product (embedded in the price of the product)
-		- Mutual funds have zero front loads generally
-	- Expense ratio: 
-		- Fees to take care of the running costs of investments managers each year
-		- Includes the sales commission paid to sellers to mutual funds
-	- Exit cost:
-		- Cost of selling the product
-		- Usually falls off to zero if you hold the product for one or two years and more
-- 
+- Two entities in the market
+	- Distributors
+		- Supposed to just vend the product, like a chemist vends medicines but not prescribe them
+	- Advisers
+		- Equivalent to a doctor - supposed to advise you for a fee
+- Direct and Regular plans
+	- Direct
+		- Removes the sales commission embedded in the expense ratio to make the product cheaper to buy
+	- Regular
+		- Includes the sales commission
+- Systematic Investment Plan (SIP)
+	- Recurring deposit allowing you to make periodic investments into a mutual fund
+	- Benefit:
+		- Since the market is unpredictable, making one lump-sum investment leaves us open to the risk of a sudden market crash
+		- SIPs allows you to buy more when the markets are down and less when the markets are hot
+- Recommendation: You can put your money in a liquid fund and set up a monthly (or weekly or fortnightly) transfer into an equity scheme.
+	- You have to choose a liquid fund of the same fund house whose equity fund you want to buy through an STP (Systematic Transfer Plan)
+- Systematic Withdrawal Plan (SWP)
+	- Facility to periodically redeem your units to generate an income
+	- Similar to a dividend plan, but in this case you can control the amount of money you want to withdraw
+- Expense ratio
+	- Usually a percentage of the money in the investment
+	- Low for debt-oriented products and high for equity-oriented products
+- When buying a product
+	- Ask for average annual return of the product for the last 3, 5 and 10 years
+	- Ask to see benchmark returns
+	- Ask to see category returns
+		- Average return of the category of the product

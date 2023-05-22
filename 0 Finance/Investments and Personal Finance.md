@@ -13,6 +13,7 @@
 - [[Investing in gold]]
 - [[Investing in real estate]]
 - [[Equity asset class|Investing in equity]]
+- [[Costs of market linked products]]
 - [[Thumb rule to decide on debt allocation in your portfolio]]
 - [[Risk of locking into a single company or asset manager]]
 - [[Choose an investment product where exit is cheap and easy]]
@@ -24,6 +25,7 @@
 - [[Questions to ask when buying a mutual fund]]
 - [[Types of mutual funds]]
 - [[Options offered by each mutual fund]]
+- [[Net Asset Value (NAV)]]
 
 ### Indices in the market and related
 - [[Sensex]]
