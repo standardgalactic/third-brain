@@ -23,6 +23,7 @@
 - [[Match the investment horizon of the fund with yours]]
 - [[Questions to ask when buying a mutual fund]]
 - [[Types of mutual funds]]
+- [[Options offered by each mutual fund]]
 
 ### Indices in the market and related
 - [[Sensex]]

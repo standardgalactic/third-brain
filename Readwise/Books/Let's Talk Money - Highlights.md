@@ -166,10 +166,6 @@
 - An ETF also tracks an index like the Sensex but lists its units on a stock exchange, unlike a mutual fund. To buy and sell mutual funds you don’t need to have a demat account. But to invest in an ETF, you need a demat account. The other difference in index funds and ETFs is that you can buy an index fund at a price at the end of the day, but you can buy an ETF at any point in the day. This difference in price is not relevant to retail investors like us. ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1623))
 - ETFs come with tiny costs compared to the index funds. The average index fund costs between ten basis points to 1 per cent, or ten paise to Rs 10 on every Rs 1,000 invested. ETF costs have hit rock bottom and you can now buy them at a price as low as one basis point. ([Location 1626](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1626))
 - liquidity in the ETFs may not be that good. This means that when you go to sell a large quantity, you may not get the current market price. ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1628))
-
-> [!success] done till here
-
-
 - the risk of a mid-cap index fund is much higher than the risk involved with a Sensex or Nifty fund. ([Location 1632](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1632))
 - this is a fund that is diversified across mainly large-cap stocks. These funds aim to give returns that are just a bit higher than the index. ([Location 1645](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1645))
     - Note: Diversified equity fund
@@ -194,6 +190,9 @@
 - an ongoing cost or the annual fees that you need to pay to have experts manage your money. To take care of the running costs and profits of investment managers each year, some fees are deducted from your money. The cost to you of handing over your money to professionals is captured in a number called the ‘expense ratio’. This is the fees that a mutual fund charges investors for its costs and the profits it makes. ([Location 1708](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1708))
 - Three, an exit cost, or the cost of selling the product. To take care of expenses of selling the investment you made or to act as a deterrent to frequent churning of money, funds levy exit charges. This is a percentage of your corpus and usually falls off to zero after about one or two years. ([Location 1722](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1722))
 - The expense ratio has embedded in it the sales commission paid to sellers of mutual funds. ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1726))
+
+> [!NOTE] DONE TILL HERE
+
 - There are two entities in the market – advisers and distributors. Distributors are supposed to just vend the product, much as a chemist vends medicines but does not prescribe them. ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1726))
 - In the financial sector, advisers are the doctor’s equivalent and are supposed to charge you a fee for their expertise. They are supposed to recommend a ‘direct’ plan that has a lower cost. ([Location 1728](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1728))
 - Direct plans remove the sales commission embedded in the expense ratio and make the product cheaper for you to buy. ([Location 1729](https://readwise.io/to_kindle?action=open&asin=B07DCHR9GG&location=1729))

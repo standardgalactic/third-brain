@@ -34,8 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45cd4849454b6b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2568963d83af74bc",
@@ -55,6 +69,19 @@
             }
           },
           {
+            "id": "6f3d7fbce23d8537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes/Options offered by each mutual fund.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "be96966c99fb6c78",
             "type": "leaf",
             "state": {
@@ -68,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:_notes/ mid cap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -225,17 +252,24 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "2bd2c181ec1b7d32",
+  "active": "be96966c99fb6c78",
   "lastOpenFiles": [
-    "_Notes/Equity asset class.md",
-    "0 Finance/Investments and Personal Finance.md",
-    "_Notes/Asset classes in mutual funds.md",
-    "_Notes/Passive mutual funds.md",
-    "_Notes/Market capitalization (Market cap).md",
     "_Notes/Types of mutual funds.md",
-    "Readwise/Books/Let's Talk Money - Highlights.md",
-    "Templates/Information.md",
+    "_Notes/Options offered by each mutual fund.md",
     "Inbox.md",
+    "0 Finance/Investments and Personal Finance.md",
+    "_Notes/Equity asset class.md",
+    "_Notes/Thumb rule to decide on debt allocation in your portfolio.md",
+    "_Notes/Comparing different asset classes.md",
+    "_Notes/Other types of indices in the market.md",
+    "Readwise/Books/Let's Talk Money - Highlights.md",
+    "_Notes/Open and closed ended equity funds.md",
+    "_Notes/Diversified equity fund.md",
+    "_Notes/Passive mutual funds.md",
+    "_Notes/Active mutual funds.md",
+    "_Notes/Asset classes in mutual funds.md",
+    "_Notes/Market capitalization (Market cap).md",
+    "Templates/Information.md",
     "2 Science and technology/Software engineering.md",
     "_Notes/Security vulnerability in the XDR library due to overflow.md",
     "_Notes/Representing different data types in binary.md",
@@ -246,14 +280,7 @@
     "_Notes/Multiplying signed integers.md",
     "_Notes/Risk of locking into a single company or asset manager.md",
     "_Notes/Choose an investment product where exit is cheap and easy.md",
-    "_Notes/Active mutual funds.md",
     "_Notes/Investing in gold.md",
-    "_Notes/Diversify your investments.md",
-    "Readwise/Articles/Scale From Zero To Millions Of Users by ByteByteGo.md",
-    "_Notes/Conservative balanced fund.md",
-    "_Notes/Asset classes.md",
-    "_Notes/Real assets - Asset class.md",
-    "_Notes/Questions to ask when buying a mutual fund.md",
     "Assets/master-slave-database.svg.svg",
     "Assets/Figure_4.png",
     "Assets/Data_is_now_saved_in_a_separate_DB_tier.png",

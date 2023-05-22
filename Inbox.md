@@ -1,0 +1,35 @@
+- ELSS:
+	- Equity fund with tax benefit
+	- Has 3-year lock in period
+	- Growth option is recommended
+- Three kinds of balanced funds:
+	- Conservative
+		- Between 10 and 25% equity
+	- Balanced
+		- Between 40 and 60% equity
+	- Aggressive
+		- Between 65 and 80% equity
+- NAV
+	- Price of a unit of a scheme
+	- Net asset value
+	- Not 'gross', because the costs have been removed from the price. You get the net value in hand
+	- Example:
+		- 100 investors.
+		- Each has invested Rs 1000 in the fund
+		- Each bought a unit for the price of Rs 10 - each investor holds 100 units
+		- Total invested value of the fund: Rs 1 lakh
+		- A year later, the mutual fund becomes worth Rs 1.5 lakh giving a profit of Rs 50,000
+		- Assume that the fund costs are Rs 10,000, then the net profit is Rs 40,000
+		- Thus, the NAV becomes Rs 14 from Rs 10.
+		- Multiplying the NAV with the number of units in the fund gives your fund return. In this case, each investor's invested value increases from Rs 1000 to Rs 1400.
+- Market linked products (like stocks, real estate, gold, etc.) have three kinds of costs:
+	- Front load: Cost to enter the product
+		- It is part of the price of the product (embedded in the price of the product)
+		- Mutual funds have zero front loads generally
+	- Expense ratio: 
+		- Fees to take care of the running costs of investments managers each year
+		- Includes the sales commission paid to sellers to mutual funds
+	- Exit cost:
+		- Cost of selling the product
+		- Usually falls off to zero if you hold the product for one or two years and more
+- 
