@@ -11,8 +11,13 @@
             "id": "4242a4b469e229d2",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Fleeting notes/Common divisor also divides GCD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Books/Let's Talk Money - Highlights.md",
+                "file": "_Fleeting notes/Common divisor also divides GCD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Books/Let's Talk Money - Highlights.md",
+                "file": "_Fleeting notes/Common divisor also divides GCD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Books/Let's Talk Money - Highlights.md"
+                "file": "_Fleeting notes/Common divisor also divides GCD.md"
               }
             }
           },
@@ -170,8 +175,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "be74491c2abb2dba",
+  "active": "4242a4b469e229d2",
   "lastOpenFiles": [
+    "_Fleeting notes/Common divisor also divides GCD.md",
     "Inbox.md",
     "0 Finance/Investments and Personal Finance.md",
     "_Notes/Questions to ask when buying a mutual fund.md",
@@ -197,7 +203,6 @@
     "_Notes/Thumb rule to decide on debt allocation in your portfolio.md",
     "_Notes/Comparing different asset classes.md",
     "_Notes/Other types of indices in the market.md",
-    "_Notes/Open and closed ended equity funds.md",
     "Assets/Pasted image 20230425095807.png",
     "Assets/master-slave-database.svg.svg",
     "Assets/Figure_4.png",
