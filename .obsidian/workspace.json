@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b302c45671c8e709",
+        "id": "153d15311a69e4f3",
         "type": "tabs",
         "children": [
           {
-            "id": "41e4109dea643416",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Books/Let's Talk Money - Highlights.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0d5211b83cdfff9e",
+            "id": "4242a4b469e229d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "2568963d83af74bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac71eb936b4dfd04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Finance/Investments and Personal Finance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28768f7aafaa0199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +134,7 @@
             }
           },
           {
-            "id": "72bc2d57877b89a2",
+            "id": "cda8e68e5f9b7fbd",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -195,7 +142,7 @@
             }
           },
           {
-            "id": "f18c327bb9a5d8dc",
+            "id": "be74491c2abb2dba",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -207,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,7 +170,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f44df2bcee27d4e4",
+  "active": "be74491c2abb2dba",
   "lastOpenFiles": [
     "Inbox.md",
     "0 Finance/Investments and Personal Finance.md",
