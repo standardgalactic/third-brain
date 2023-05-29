@@ -65,5 +65,6 @@
 - [[Net Asset Value (NAV)]]
 - [[Securities and Exchange Board of India (SEBI)]]
 - [[Credit Rating Agencies]]
+- [[Who is defined as a nominee and how are they different from legal heir|Difference between nominee and legal heir]]
 
 ## Quotes

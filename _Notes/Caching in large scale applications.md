@@ -14,6 +14,12 @@
 - This involves keeping the data store (database) and the cache in sync
 - When scaling across multiple regions, maintaining consistency can be a challenge
 
+## Eviction policy
+- Once the cache is full, any requests to add items to the cache might cause existing items to be removed. This is called **cache eviction**
+
+### Types of cache eviction policies
+
+
 ## Mitigating [[Single point of failure]]
 - A single cache server represents a potential [[Single point of failure|single point of failure]]
 - So, multiple cache servers across different data centers is the recommended way
@@ -21,16 +27,7 @@
 	- This provides a buffer as the memory usage increases
 
 ## Cache strategies
-### Read-through cache
-
-^e2afe4
-
-- The web server first checks if the cache has the required data
-- If yes, it fetches the data from the cache
-- Else, the web server queries the database and stores the data in cache
-
-![Read-through cache](https://bytebytego.com/images/courses/system-design-interview/scale-from-zero-to-millions-of-users/figure-1-7-GGNXNZX6.svg)
-
+- [[Read-through cache]]
 
 ## Sources
 - [[Scale From Zero To Millions Of Users by ByteByteGo]]

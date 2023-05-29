@@ -22,7 +22,7 @@ There are, primarily, two kinds of databases:
 
 ## Step 4: Inserting a [[Caching in large scale applications|cache tier]]
 - Used in order to improve the data fetch speed of frequently read data
-- In this scenario, we will go with the [[Caching in large scale applications#^e2afe4|read-through cache]].
+- In this scenario, we will go with the [[Read-through cache]]
 
 ## Sources
 - [[Scale From Zero To Millions Of Users by ByteByteGo]]
