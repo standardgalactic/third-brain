@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"_Notes/The End of History Illusion.md","id":"7f58255933b7aa80","x":-840,"y":-540,"width":400,"height":400},
+		{"type":"file","file":"_Quotes/Daniel Gilbert on End of History Illusion - Quote.md","id":"2d745ac7d47ce5c9","x":-320,"y":-540,"width":400,"height":400},
+		{"type":"file","file":"_Notes/Dealing with end of history illusion.md","id":"d9417eac9e520eb6","x":-840,"y":60,"width":400,"height":400},
+		{"id":"cf254f857e14be67","x":160,"y":-540,"width":400,"height":400,"type":"file","file":"_Notes/Know how much is enough.md"},
+		{"type":"file","file":"_Notes/Save More Money.md","id":"b423f0a7a54c7ba7","x":-380,"y":60,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"2026141b2163c32a","fromNode":"7f58255933b7aa80","fromSide":"right","toNode":"2d745ac7d47ce5c9","toSide":"left"},
+		{"id":"266b86cac6bb0bfc","fromNode":"7f58255933b7aa80","fromSide":"bottom","toNode":"d9417eac9e520eb6","toSide":"top"}
+	]
+}

@@ -6,7 +6,7 @@
 
 ### Expense ratio
 - Fees to take care of the running costs of investments managers each year
-- Includes the sales commission paid to sellers to mutual funds
+- Includes the sales commission paid to sellers of mutual funds
 - Usually a percentage of the money in the investment
 - Low for debt-oriented products and high for equity-oriented products
 

@@ -3,9 +3,9 @@
 
 ## Example
 ```c
-char x = -56; // 0xC8
+char x = -56; // 0xC8 -> 0b11001000
 
-short y = (short) x; // 0xFFC8
+short y = (short) x; // 0xFFC8 -> 0b1111111111001000
 ```
 
 ## Visual representation
