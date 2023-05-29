@@ -1,3 +1,4 @@
+- Investment avenues where your invested (principal) amount is perceived to be safe.
 - Umbrella term for all financial products that are based on borrowing.
 - Give assured return
 - Core of the product is a loan
@@ -8,6 +9,8 @@
 - Bank fixed deposit
 - Tax-free bond
 - Public provided fund
+- 
+		- Bonds issued by the Govt of India (also called G-Sec bonds and T-Bills)
 - [[Voluntary Provident Fund (VPF)]]
 
 ## Sources

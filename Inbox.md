@@ -1,0 +1,23 @@
+- Popular asset classes
+	- Fixed income instruments
+		- Entity pays an interest amount on the principal invested by you
+		- Examples:
+			- Bank's fixed deposit
+				- Perceived to be safest
+			- Bonds issues by government related agencies like GAIL, HUDCO, NHAI, etc
+			- Bonds issued by corporates like Tata, Bajaj, etc
+				- Relatively risky. Investment in corporate bonds can go to zero
+	- Equity
+		- Involves buying shares of publicly listed companies
+		- Shares are traded on the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE)
+		- Indian equities have generated upwards of 12% CAGR (Compound Annual Growth Rate) over the past 10 to 15 years
+	- Real estate
+	- Commodities (precious metals)
+		- Gold and silver have yielded a CAGR return of approximately 5-8% in the last 20 years
+		- Investment avenues include jewelry, Exchange traded funds (ETFs), Sovereign gold bonds (SGB)
+- Asset Allocation: Technique of allocating money across asset classes
+	- Typical recommendation:
+		- At least 60% of their investable amount in equity
+		- 20% in precious metals
+		- 20% in fixed-income investments
+		- The percentage mix changes based on risk profile and age
