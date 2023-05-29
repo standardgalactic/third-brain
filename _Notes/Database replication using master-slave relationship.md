@@ -2,6 +2,8 @@
 - A slave database gets copies of the data from the master database and only supports read operations
 - The number of slave databases in a system is usually larger than the number of master databases since most applications require a much higher ratio of reads to writes.
 
+> [!NOTE] The web server maintains the credentials for both the master and slave databases. It is responsible for routing write requests to master and read requests to slave
+
 ![Figure 5](master-slave-database.svg.svg)
 
 ## Advantages
