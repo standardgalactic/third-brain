@@ -7,7 +7,7 @@
 - Go through Value Research data and Morningstar ratings.
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

@@ -5,7 +5,7 @@
 - Indian equities have generated upwards of 12% CAGR (Compound Annual Growth Rate) over the past 10 to 15 years
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 - [[(Done) The Need to Invest - Highlights]]
 
 ## Related Notes

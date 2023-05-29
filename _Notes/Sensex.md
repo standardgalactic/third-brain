@@ -8,7 +8,7 @@
 	- Replaces them with large companies that represent the new areas of activity in the country
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

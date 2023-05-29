@@ -2,7 +2,7 @@
 - Similar to a [[Costs of market linked products|dividend plan]], but in this case you can control the amount of money you want to withdraw
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - [[Costs of market linked products]] 

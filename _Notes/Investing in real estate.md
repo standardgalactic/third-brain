@@ -17,7 +17,7 @@
 - If there is a very good crackdown on corruption, illegal money will disappear and real estate prices will sink
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

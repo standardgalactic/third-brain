@@ -15,7 +15,7 @@
 - Gold and silver have yielded a CAGR return of approximately 5-8% in the last 20 years
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 - [[(Done) The Need to Invest - Highlights]]
 
 ## Related Notes

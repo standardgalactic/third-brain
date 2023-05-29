@@ -8,7 +8,7 @@
 - Average holding period of all the bonds/stocks in a fund
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

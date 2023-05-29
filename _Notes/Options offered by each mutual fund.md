@@ -6,7 +6,7 @@
 | Number of units you buy remain the same, but the price (or NAV) goes up                                                      | Number of units remain the same, but the NAV reflects the booked profits. NAV of the growth option will be higher than the dividend option                                       |
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - [[Net Asset Value (NAV)]] 

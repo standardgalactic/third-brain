@@ -3,11 +3,11 @@
 	- **In Some Time (Medium term)** - Planned expenses that are 3-7 years away
 	- **Far Away (Long term)** - Expenses that are hard to imagine today. [[The world is full of surprises|Read more]]
 
-## Long term investments (Far away goals)
-- The core of these investments are made up of [[Debt asset class|debt products]]
+## Recommended asset allocation
+[[Recommended asset allocation based on goals]]
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - [[Purpose of a financial product]]

@@ -3,7 +3,7 @@
 - **Technology Index**: Map the prices of tech firms
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

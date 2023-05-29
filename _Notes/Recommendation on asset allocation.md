@@ -14,7 +14,7 @@ Technique of allocating money across asset classes
 
 ## Sources
 - [[(Done) The Need to Invest - Highlights]]
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

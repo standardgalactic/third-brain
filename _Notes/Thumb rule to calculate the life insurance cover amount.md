@@ -3,7 +3,7 @@ The lump sum assured by a life insurance cover should be either:
 - 15-20 times of you annual expenditure
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

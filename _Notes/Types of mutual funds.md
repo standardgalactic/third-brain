@@ -7,7 +7,7 @@
 - [[Equity Linked Saving Scheme (ELSS)]]
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

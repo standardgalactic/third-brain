@@ -8,7 +8,7 @@ $$
 - The exact rate of interest is $4.73\%$ which is quite close
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

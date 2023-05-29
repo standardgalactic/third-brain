@@ -19,6 +19,7 @@
 - [[Premium paying term may be different than the policy tenure]]
 - [[Thumb rule to calculate rate of interest - Rule of 72]]
 - [[Participants in the stock market]]
+- [[Evaluation of returns from your investmetn]]
 
 #### Mutual funds
 - [[Three part structure of mutual funds in India]]
@@ -47,6 +48,7 @@
 - [[Percentage of income allowed for EMI]]
 - [[Purpose of a financial product]]
 - [[System of setting goals and creating buckets]]
+	- [[Recommended asset allocation based on goals]]
 - [[Periodically transfer money into equity scheme from a liquid fund]]
 - [[Recommendation on asset allocation]]
 

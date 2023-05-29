@@ -18,7 +18,7 @@
 - Requires patience - Good equity portfolio needs five years of patience, ten years to see consistent returns, but actually will slow-cook over fifteen to twenty years
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 - [[(Done) The Need to Invest - Highlights]]
 
 ## Related Notes

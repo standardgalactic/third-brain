@@ -123,7 +123,7 @@ Try to find answers to the following questions when researching:
 
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

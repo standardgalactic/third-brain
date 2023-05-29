@@ -5,7 +5,7 @@
 - SIPs allows you to buy more when the markets are down and less when the markets are hot
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

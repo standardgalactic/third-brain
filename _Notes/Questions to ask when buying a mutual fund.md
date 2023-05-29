@@ -8,7 +8,7 @@
 - Ask to see [[Category returns in Investments|category returns]]
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - [[Match the investment horizon of the fund with yours]] 

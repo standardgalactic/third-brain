@@ -17,7 +17,7 @@
 - [[Voluntary Provident Fund (VPF)]]
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 - [[(Done) The Need to Invest - Highlights]]
 
 ## Related Notes

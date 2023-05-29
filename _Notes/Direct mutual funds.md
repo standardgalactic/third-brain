@@ -4,7 +4,7 @@
 > [!important] Every fund/product has both growth and regular plans. They perform in the same manner
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

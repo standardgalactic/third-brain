@@ -1,4 +1,3 @@
-- Recommendation: No pure equity products for financial goals that are less than 3 years away
 - Returns should always be evaluated taking into account the costs, inflation and taxes
 - Section 80C
 	- Tax break of up to Rs 1.5 lakhs if you invest in the eligible products.
@@ -19,4 +18,35 @@
 - Emergency fund options
 	- Fixed deposits
 		- Pick the FD that gives the highest interest from a large scheduled commercial bank
-		- There is a cost of about 0.5% of interest for an earl
+		- You can use a flexi account that some banks offer to have the facility to sweep out the money you need from the FD into the savings deposit instantly
+	- Debt mutual fund
+		- Choose a conservative fund, not aggressive
+		- Don't buy a product based on just high returns
+		- Ensure that the top holding of the debt fund is in AAA-rated bonds
+- Short-term goals
+	- Recommended products are similar to that for emergency fund
+	- You could also use ultra-short-term debt fund or conservative hybrid mutual funds
+	- Keep maximum equity exposure to 25% and keep the rest in bonds
+	- Why don't we need a pure equity fund for this?
+		- Because equity is volatile and we want certainty about the availability of the money
+
+- Retirement fund
+	- Core is your PF and PPF
+	- Rest in equity funds
+		- Further away from retirement you are, the more risk you can take
+			- People in 30s can choose a larger allocation to mid-cap, small-cap and sector funds
+			- People in 40s should choose conservative funds with large-cap, diversified equity and multi-cap funds
+- Stockbrokers encourage people to trade on the stock market, rather than invest because they make money each time you buy and sell
+- In case of death:
+	- If you die without a will, you house, gold, car, mutual funds, jewellery will go your legal heirs.
+	- Who the legal heirs are will depend on your religion in India and which personal law applies to you
+- Creating a will
+	- Nominee will be the caretaker of the asset, somebody to whom the money flows to for safekeeping till the legal heirs can stake a claim
+	- Legal heir and nominee are not the same person in the eyes of the law
+	- You need to appoint an executor of the will
+		- Ideally the beneficiary of the will is not the executor
+		- Examples: Family friend, lawyer, financial planner, etc
+	- You can write the will in a piece of paper, sign it with a date and place, and get two witnesses to sign as well
+	- The witness and the beneficiary should be two different people, and the witness and the executor should be younger than you
+	- Ensure that each page of the will is numbered, signed and mentions the date of the will
+- Don't invest in things you don't understand

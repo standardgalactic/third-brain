@@ -37,7 +37,7 @@
 	- Claims experience should be more than 95%. This means that the company pays more than 95% of the claims filed.
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 

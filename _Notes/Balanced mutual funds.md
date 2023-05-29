@@ -7,7 +7,7 @@
 | Between 10 and 25% equity | Between 40 and 60% equity | Between 65 and 80% equity           |
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - [[Equity asset class]]

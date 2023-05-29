@@ -17,7 +17,7 @@
 - Defined by **SEBI** as a company that features in **251 and below** companies by market cap on the stock market
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - [[Sensex]]

@@ -4,4 +4,4 @@
 
 ## Sources
 - [[(Done) The Psychology of Money - Highlights]]
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]

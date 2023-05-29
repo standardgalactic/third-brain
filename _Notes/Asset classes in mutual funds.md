@@ -11,7 +11,7 @@
 - Real estate will soon be available through special mutual funds called real estate investment trusts (REITs)
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - [[Investing in real estate]]

@@ -18,7 +18,7 @@
 - Stocks, Mutual funds, equity, real estate, gold, etc
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - [[Types of mutual funds]]

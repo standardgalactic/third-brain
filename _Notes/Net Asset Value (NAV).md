@@ -12,7 +12,7 @@
 - Multiplying the NAV with the number of units in the fund gives your fund return. In this case, each investor's invested value increases from Rs 1000 to Rs 1400.
 
 ## Sources
-- [[Let's Talk Money - Highlights]]
+- [[(Done) Let's Talk Money - Highlights]]
 
 ## Related Notes
 - 
