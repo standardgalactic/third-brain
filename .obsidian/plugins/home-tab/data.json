@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_Notes/Database replication using master-slave relationship.md",
+      "timestamp": 1685368414768
+    },
+    {
       "filepath": "_Notes/Collecting application system metrics.md",
       "timestamp": 1685368029915
     },
     {
       "filepath": "2 Science and technology/Software engineering.md",
       "timestamp": 1685368028171
-    },
-    {
-      "filepath": "_Notes/Database replication using master-slave relationship.md",
-      "timestamp": 1685366836598
     }
   ],
   "starredFileStore": [],
