@@ -22,6 +22,6 @@
 
 ## Related Notes
 - [[Types of mutual funds]]
-- [[Investing in gold]]
+- [[Investing in precious metals like gold and silver]]
 - [[Equity asset class]]
 - [[Real assets - Asset class]]

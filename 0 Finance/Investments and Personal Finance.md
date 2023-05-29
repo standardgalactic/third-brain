@@ -10,14 +10,14 @@
 - [[Asset classes]] 
 	- [[Comparing different asset classes]]
 - [[Higher the return, higher the risk]]
-- [[Investing in gold]]
+- [[Investing in precious metals like gold and silver]]
 - [[Investing in real estate]]
 - [[Equity asset class|Investing in equity]]
 - [[Costs of market linked products]]
-- [[Thumb rule to decide on debt allocation in your portfolio]]
 - [[Risk of locking into a single company or asset manager]]
 - [[Choose an investment product where exit is cheap and easy]]
 - [[Premium paying term may be different than the policy tenure]]
+- [[Thumb rule to calculate rate of interest - Rule of 72]]
 
 #### Mutual funds
 - [[Three part structure of mutual funds in India]]
@@ -44,10 +44,11 @@
 
 ## Tips and advices
 - [[Percentage of income allowed for EMI]]
-- [[Thumb rule to calculate rate of interest - Rule of 72]]
 - [[Purpose of a financial product]]
 - [[System of setting goals and creating buckets]]
 - [[Periodically transfer money into equity scheme from a liquid fund]]
+- [[Thumb rule to decide on debt allocation in your portfolio]]
+	- [[Recommendation on asset allocation]]
 
 ## Terms
 - [[Third-party agent (TPA) service]]

@@ -17,4 +17,4 @@
 - [[Investing in real estate]]
 - [[Equity asset class]]
 - [[Debt asset class]]
-- [[Investing in gold]]
+- [[Investing in precious metals like gold and silver]]

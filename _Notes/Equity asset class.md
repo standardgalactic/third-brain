@@ -1,4 +1,6 @@
 - Equity is ownership of a business and the risk that it brings, either directly (through stocks) or indirectly (through mutual funds)
+- Involves buying shares of publicly listed companies
+	- Shares are traded on the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE)
 - Misunderstood to be gamble - It is a slow cook
 
 ## Volatility and its effects
@@ -17,6 +19,7 @@
 
 ## Sources
 - [[Let's Talk Money - Highlights]]
+- [[(Done) The Need to Invest - Highlights]]
 
 ## Related Notes
 - [[Sensex]]
