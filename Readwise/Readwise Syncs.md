@@ -131,3 +131,54 @@
 - [[2023-04-24]] 2:25 PM — Synced 2 highlights from 1 document.
     - 2 highlights from Unnamed Document
 
+- [[2023-05-29]] 1:30 PM — Synced 625 highlights from 49 documents.
+    - 12 highlights from Lesser Known IRB Features
+    - 17 highlights from Rails Session Cookie `Domain: :All` - Beware of CNAMEs!
+    - 2 highlights from Integer vs. UUID as the Primary Key
+    - 3 highlights from So You've Installed `Fzf`. Now What?
+    - 9 highlights from How to Run a Shadow Library: Operations at Anna’s Archive
+    - 19 highlights from MindGeek: The Secretive Owner of Pornhub and RedTube
+    - 11 highlights from What Tech Companies Don’t Want You to Know About Layoffs
+    - 14 highlights from The Yield Curve Is Scaring Everyone
+    - 6 highlights from Go First Joins India’s Airline Graveyard?
+    - 11 highlights from Why You Should Pay More to the EPS and Why You Shouldn’t
+    - 9 highlights from The Digitisation Project Isn’t a Cure-All for India’s Land Record Malaise
+    - 25 highlights from Mastering Complexity in Software Engineering
+    - 16 highlights from Missing: $10 Billion in Imports!!!
+    - 4 highlights from Can You Spot the Error?
+    - 9 highlights from Whales! A Climate Solution No One Is Talking About
+    - 16 highlights from Choose Boring Technology
+    - 4 highlights from The Web’s Most Important Decision
+    - 9 highlights from Grokking Simplicity: Taming Complex Software With Functional Thinking
+    - 8 highlights from Logging Practices I Follow
+    - 13 highlights from Gibson Biddle Shares Customer-Centricity Lessons From Netflix
+    - 6 highlights from One-Time Programs
+    - 15 highlights from The URL Is the Ultimate Global State Management Tool
+    - 2 highlights from How I Achieved Investing Nirvana
+    - 6 highlights from The Fashion Destruction
+    - 8 highlights from The Indian Shrimp Story
+    - 5 highlights from Once-in-a-Generation Inflation, and Other ‘Interest’ing Takeaways
+    - 9 highlights from The “Const” Deception
+    - 117 highlights from Influence, New and Expanded
+    - 8 highlights from Why Simple Portfolios Make Sense and How to Build Them
+    - 10 highlights from The Need to Invest
+    - 10 highlights from Market Intermediaries
+    - 4 highlights from The IPO Markets (Part 1)
+    - 8 highlights from Regulators, the guardians of capital markets
+    - 9 highlights from The IPO Markets
+    - 15 highlights from The Stock Markets
+    - 9 highlights from The Stock Markets Index
+    - 22 highlights from Commonly Used Jargons
+    - 11 highlights from 9.1 – Trading Terminal
+    - 7 highlights from How Often Should You Be Refactoring as a Software Engineer?
+    - 9 highlights from India’s Diamond Woes
+    - 10 highlights from Exposing a Pharma Secret: Evergreening!
+    - 7 highlights from Web Application From Scratch, Part I
+    - 23 highlights from Clearing and Settlement Process
+    - 2 highlights from Face Value: Definition in Finance, Comparison With Market Value
+    - 32 highlights from Corporate actions and impact on stock prices
+    - 7 highlights from The Chocolate Effect
+    - 26 highlights from Key Events and Their Impact on Markets
+    - 4 highlights from Getting Started
+    - 7 highlights from Supplementary note – Rights, OFS, FPO
+
