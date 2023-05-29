@@ -24,6 +24,9 @@ There are, primarily, two kinds of databases:
 - Used in order to improve the data fetch speed of frequently read data
 - In this scenario, we will go with the [[Read-through cache]]
 
+## Step 5: Using a CDN
+- Used to deliver static content
+
 ## Sources
 - [[Scale From Zero To Millions Of Users by ByteByteGo]]
 

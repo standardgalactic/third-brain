@@ -18,6 +18,7 @@
 
 ## Web
 - [[Difference between PUT and PATCH request]]
+- [[HTTP Header - Time to Live (TTL)]]
 
 ## C language
 - [[Why did the C programming language see so much success]]
@@ -47,6 +48,7 @@
 - [[Database replication using master-slave relationship]]
 - [[Caching in large scale applications]]
 - [[Single point of failure]]
+- [[Content delivery networks (CDN)]]
 
 ## Computer systems
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]

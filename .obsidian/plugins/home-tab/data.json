@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_Notes/HTTP Header - Time to Live (TTL).md",
+      "timestamp": 1685360624331
+    },
+    {
+      "filepath": "_Notes/Content delivery networks (CDN).md",
+      "timestamp": 1685360622480
+    },
+    {
       "filepath": "_Notes/Caching in large scale applications.md",
-      "timestamp": 1685358000540
-    },
-    {
-      "filepath": "_Notes/Scaling a web app.md",
-      "timestamp": 1685357984678
-    },
-    {
-      "filepath": "_Notes/Read-through cache.md",
-      "timestamp": 1685357982711
+      "timestamp": 1685360621695
     }
   ],
   "starredFileStore": [],

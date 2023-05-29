@@ -1,6 +1,6 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "",
   "baseFontSize": 19,
   "accentColor": "#d3279a",
   "nativeMenus": true,

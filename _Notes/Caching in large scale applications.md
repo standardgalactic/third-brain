@@ -18,7 +18,9 @@
 - Once the cache is full, any requests to add items to the cache might cause existing items to be removed. This is called **cache eviction**
 
 ### Types of cache eviction policies
-
+- Least recently used(LRU)
+- Least frequently used (LFU)
+- First in First Out (FIFO)
 
 ## Mitigating [[Single point of failure]]
 - A single cache server represents a potential [[Single point of failure|single point of failure]]
