@@ -15,14 +15,14 @@
 
 ### Alternative option - short term debt funds
 - If you are familiar with mutual funds, then you can also park the emergency fund in a short term debt fund.
+- Choose a conservative fund, not aggressive
+- Don't buy a product based on just high returns
+- Ensure that the top holding of the debt fund is in AAA-rated bonds
 
 #### Advantages of short term debt fund over FDs
 - More liquid than a FD
 - Better rate of interest
 - Lower tax incidence → Higher post tax return
-
-## Attachments
-- 
 
 ## Sources
 - [[(Done) Let's Talk Money - Highlights]]

@@ -1,5 +1,6 @@
 - Funds with a mix of debt and equity
 - Cushions against volatility of equity, but adds to the overall returns
+- Any fund that invests more than 65% in equity is called **equity fund**
 
 ## Three kinds of balanced funds
 | Conservative              | Balanced                  | Aggressive |

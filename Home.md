@@ -13,4 +13,4 @@ The topics covered in these notes:
 ## Miscellaneous
 - [[Events, anecdotes and facts]]
 - [[Life Philosophies]]
-- [[Politics and governance]]
+- [[Politics, governance and legals]]

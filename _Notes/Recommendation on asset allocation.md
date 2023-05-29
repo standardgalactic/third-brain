@@ -1,5 +1,5 @@
 ## What is asset allocation?
-Technique of allocating money across asset classes
+- Technique of allocating money across asset classes
 
 ## Recommendation
 - At least 60% of their investable amount in equity
