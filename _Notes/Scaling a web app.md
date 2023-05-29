@@ -27,6 +27,16 @@ There are, primarily, two kinds of databases:
 ## Step 5: Using a CDN
 - Used to deliver static content
 
+## Step 6: Scaling horizontally - Create stateless web tier
+- We need to move state (like user session data) out of the web tier
+- Good practice is to store session data in the persistent storage such as relational database or NoSQL
+- Each web server in the cluster can access state data from the persistent storage created above
+- This gives us the [[Stateless web server]]
+
+## Step 7: GeoDNS routing users
+- Data centers are replicated across regions
+- Users are [[GeoDNS routing of clients|geo-routed to the closest data center]]
+
 ## Sources
 - [[Scale From Zero To Millions Of Users by ByteByteGo]]
 

@@ -49,6 +49,9 @@
 - [[Caching in large scale applications]]
 - [[Single point of failure]]
 - [[Content delivery networks (CDN)]]
+- [[Stateful web server]] and [[Stateless web server]]
+- [[GeoDNS routing of clients]]
+- [[Message queues]]
 
 ## Computer systems
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]

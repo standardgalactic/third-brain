@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Notes/HTTP Header - Time to Live (TTL).md",
-      "timestamp": 1685360624331
+      "filepath": "_Notes/Message queues.md",
+      "timestamp": 1685362365938
     },
     {
-      "filepath": "_Notes/Content delivery networks (CDN).md",
-      "timestamp": 1685360622480
+      "filepath": "2 Science and technology/Software engineering.md",
+      "timestamp": 1685362354575
     },
     {
-      "filepath": "_Notes/Caching in large scale applications.md",
-      "timestamp": 1685360621695
+      "filepath": "_Notes/GeoDNS routing of clients.md",
+      "timestamp": 1685362332942
     }
   ],
   "starredFileStore": [],
