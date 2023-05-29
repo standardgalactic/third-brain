@@ -37,6 +37,29 @@ There are, primarily, two kinds of databases:
 - Data centers are replicated across regions
 - Users are [[GeoDNS routing of clients|geo-routed to the closest data center]]
 
+![Demonstrating GeoDNS routing](Assets/Demonstrating_GeoDNS_routing.png)
+
+## Step 8: Decoupling systems to support independent scaling of systems
+- [[Message queues]] help with decoupling of systems reducing inter-service dependencies
+
+## Step 9: Logging
+- [[Monitoring logs]] is important in order to identify errors and problems in the system
+
+## Step 10: Collecting metrics
+[[Collecting application system metrics]]
+
+## Step 11: Automating application development process
+[[Automating application maintenance cycle]]
+
+![A full blown horizontally scaled application](Assets/A_full_blown_horizontally_scaled_application.png)
+
+## Step 12: Scaling the database
+- Can be done using:
+	- Can also [[Vertical scaling|vertically scale]] the database
+	- [[Database sharding]]
+
+![Horizontal scaling vs Vertical Scaling](Assets/Horizontal_scaling_vs_Vertical_Scaling.svg)
+
 ## Sources
 - [[Scale From Zero To Millions Of Users by ByteByteGo]]
 

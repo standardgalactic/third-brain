@@ -52,6 +52,9 @@
 - [[Stateful web server]] and [[Stateless web server]]
 - [[GeoDNS routing of clients]]
 - [[Message queues]]
+- [[Monitoring logs]]
+- [[Collecting application system metrics]]
+- [[Automating application maintenance cycle]]
 
 ## Computer systems
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]
