@@ -18,6 +18,7 @@
 - [[Choose an investment product where exit is cheap and easy]]
 - [[Premium paying term may be different than the policy tenure]]
 - [[Thumb rule to calculate rate of interest - Rule of 72]]
+- [[Participants in the stock market]]
 
 #### Mutual funds
 - [[Three part structure of mutual funds in India]]
@@ -47,8 +48,7 @@
 - [[Purpose of a financial product]]
 - [[System of setting goals and creating buckets]]
 - [[Periodically transfer money into equity scheme from a liquid fund]]
-- [[Thumb rule to decide on debt allocation in your portfolio]]
-	- [[Recommendation on asset allocation]]
+- [[Recommendation on asset allocation]]
 
 ## Terms
 - [[Third-party agent (TPA) service]]
@@ -58,5 +58,7 @@
 - [[Category returns in Investments|Category returns]]
 - [[Lock-in period]]
 - [[Net Asset Value (NAV)]]
+- [[Securities and Exchange Board of India (SEBI)]]
+- [[Credit Rating Agencies]]
 
 ## Quotes

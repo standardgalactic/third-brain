@@ -1,19 +1,22 @@
-- Anyone who transacts in the stock market is called a market participant. The market participant can be classified into various categories:
-	- Domestic Retail Participants:
-		- People like you and me transacting in markets
-	- NRI’s and OCI
-		- People of Indian origin based outside India
-	- Domestic Institutions
-		- Corporate entities in India
-	- Domestic Asset Management Companies:
-		- Mutual fund companies like SBI Mutual Fund, HDFC AMC, Edelweiss, ICICI Pru, etc.
-	- Foreign Institutional Investors
-		- Non-Indian corporate entities
-	- Stock market regulator
-		- In India, it is the **Securities and Exchange Board of India** (SEBI)
-			- It aims to promote the development of stock exchanges, protect the interest of retail investors and regulate market participants' and financial intermediaries' activities
-	- Credit Rating Agency (CRA)
-		- Examples: CRISIL, ICRA, CARE, etc
-		- Rate the credit worthiness of corporate and governments
-		- Other entities use this rating to decide whether or not to extend a loan to the borrower
- 
+- Recommendation: No pure equity products for financial goals that are less than 3 years away
+- Returns should always be evaluated taking into account the costs, inflation and taxes
+- Section 80C
+	- Tax break of up to Rs 1.5 lakhs if you invest in the eligible products.
+	- Eligible products:
+		- Provident fund
+		- Public provident fund (PPF)
+		- Life insurance premiums
+		- ELSS mutual funds
+		- NPS
+		- Special five-year fixed deposits
+- Capital gains
+	- Short-term capital gains
+		- For example, in a debt fund if you sell before 3 years of holding the fund, you have to pay a short-term capital gain tax on the profit
+			- The profit gets added to your income and you pay tax as per the slab rate
+		- If you hold the debt fund for more than 3 years, your profit becomes long-term and you pay tax that is usually lower than the highest tax rate
+- Each of your goals need their own allocation between debt and equity
+- Closer you are to the goal, lesser should be the equity part of the portfolio
+- Emergency fund options
+	- Fixed deposits
+		- Pick the FD that gives the highest interest from a large scheduled commercial bank
+		- There is a cost of about 0.5% of interest for an earl

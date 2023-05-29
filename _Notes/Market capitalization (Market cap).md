@@ -22,3 +22,4 @@
 ## Related Notes
 - [[Sensex]]
 - [[Other types of indices in the market]]
+- [[Securities and Exchange Board of India (SEBI)]]
