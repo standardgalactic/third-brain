@@ -61,7 +61,7 @@ There are, primarily, two kinds of databases:
 ![Horizontal scaling vs Vertical Scaling](Assets/Horizontal_scaling_vs_Vertical_Scaling.svg)
 
 ## Sources
-- [[Scale From Zero To Millions Of Users by ByteByteGo]]
+- [[(Done) Scale From Zero To Millions Of Users by ByteByteGo]]
 
 ## Related Notes
 - [[Horizontal scaling]]

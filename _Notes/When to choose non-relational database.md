@@ -5,7 +5,7 @@ Non-relational databases might be the right choice if:
 - You need to store a massive amount of data
 
 ## Sources
-- [[Scale From Zero To Millions Of Users by ByteByteGo]]
+- [[(Done) Scale From Zero To Millions Of Users by ByteByteGo]]
 
 ## Related Notes
 - 

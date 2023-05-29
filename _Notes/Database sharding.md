@@ -21,9 +21,15 @@
 	- Also called the **hotspot key problem**
 	- Excessive access to a specific shard could cause server overload
 	- Example: Data for a celebrity such as Lionel Messi is on a particular shard. In case of a social application, that shard will be overwhelmed with read operations
+	- **Solution**:
+		- Allocate a shard for each celebrity
+		- Increase the number of shards
+- **Join and de-normalization**:
+	- Hard to perform join operations across database shards
+	- Common workaround is to [[De-normalizing a database|de-normalize the database]] so that queries can be performed in a single table.
 
 ## Sources
-- [[Scale From Zero To Millions Of Users by ByteByteGo]]
+- [[(Done) Scale From Zero To Millions Of Users by ByteByteGo]]
 
 ## Related Notes
 - 

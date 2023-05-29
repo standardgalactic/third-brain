@@ -18,7 +18,7 @@
 - Use object versioning to serve a different version of the object. For example, you can add a query parameter to the URL to version an object
 
 ## Sources
-- [[Scale From Zero To Millions Of Users by ByteByteGo]]
+- [[(Done) Scale From Zero To Millions Of Users by ByteByteGo]]
 
 ## Related Notes
 - 

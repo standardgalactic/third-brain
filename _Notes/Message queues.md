@@ -12,7 +12,7 @@
 - Likewise, the consumer can read messages even when the producer is offline
 
 ## Sources
-- [[Scale From Zero To Millions Of Users by ByteByteGo]]
+- [[(Done) Scale From Zero To Millions Of Users by ByteByteGo]]
 
 ## Related Notes
 - 

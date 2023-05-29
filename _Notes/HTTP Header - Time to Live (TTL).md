@@ -2,7 +2,7 @@
 - Once the TTL expires, the receiver (client) should delete the content
 
 ## Sources
-- [[Scale From Zero To Millions Of Users by ByteByteGo]]
+- [[(Done) Scale From Zero To Millions Of Users by ByteByteGo]]
 
 ## Related Notes
 - 
