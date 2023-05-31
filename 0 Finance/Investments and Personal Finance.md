@@ -1,10 +1,11 @@
 #map-of-contents 
 
-## Available investment options in India
-- [[Voluntary Provident Fund (VPF)]]
-
 ## Personal finance planning
 - [[Emergency funds]]
+- [[Preparing for death - Creation of a will]]
+
+## Stock market | Equity class
+- [[Participants in the stock market]]
 
 ### Investments
 - [[Asset classes]] 
@@ -18,10 +19,8 @@
 - [[Choose an investment product where exit is cheap and easy]]
 - [[Premium paying term may be different than the policy tenure]]
 - [[Thumb rule to calculate rate of interest - Rule of 72]]
-- [[Participants in the stock market]]
 - [[Evaluation of returns from your investment]]
 - [[What is capital gains tax|Capital Gains tax]]
-- [[Preparing for death - Creation of a will]]
 
 #### Mutual funds
 - [[Three part structure of mutual funds in India]]

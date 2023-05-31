@@ -3,6 +3,8 @@
 ## Facts
 - [[Synaptic connections of 20 year old is half of a 2 year old]]
 - [[India is the second largest producer of steel]]
+- [[Number of internet subscribers in India]]
+- [[Stage - Regional OTT Platform in India - succeeding in subscriptions]]
 - [[Origin of money]]
 
 ## Events and anecdotes

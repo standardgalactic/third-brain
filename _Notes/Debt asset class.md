@@ -9,12 +9,17 @@
 - Bank fixed deposit
 - Tax-free bond
 - Public provided fund
-- Bonds issued by the Govt of India (also called G-Sec bonds and T-Bills)
+- Bonds issued by the Govt of India (also called [[Government Securities (G-Sec)]] and T-Bills)
 	- Perceived to be safest
 - Bonds issues by government related agencies like GAIL, HUDCO, NHAI, etc
 - Bonds issued by corporates like Tata, Bajaj, etc
 	- Relatively risky. Investment in corporate bonds can go to zero
 - [[Voluntary Provident Fund (VPF)]]
+
+## When you want the interest income regularly
+- [[Floating rate Savings Bonds (FRSB)]]
+- [[Government Securities (G-Sec)]]
+- [[Senior Citizens Savings Scheme (SCSS)]]
 
 ## Sources
 - [[(Done) Let's Talk Money - Highlights]]
