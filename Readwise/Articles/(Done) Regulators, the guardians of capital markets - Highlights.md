@@ -16,15 +16,14 @@
 - Credit Rating Agency (CRA) CRISIL, ICRA, CARE They rate the creditworthiness of corporate and governments If a corporate (or Govt) entity wants to avail loan (debt financing), CRAs check for creditworthiness and assign a rating, the basis on which other entities can decide to extend a loan or not. ([View Highlight](https://read.readwise.io/read/01h11w37smbpg5kb3ysyanmkkx))
     - Note: Entity defined under SEBI legal framework
 
-> [!NOTE] Done till here
 
 - Debenture Trustees Almost all banks in India Act as a trustee to corporate debenture When companies want to raise a loan, they can issue debentures against which they promise to pay interest. The public can subscribe to these debentures. A Debenture Trustee ensures that the 
   debenture obligation is honored ([View Highlight](https://read.readwise.io/read/01h11w6cr03g3nbbjnnjfx9dy0))
     - Note: Entity under legal framework of SEBI
 - Merchant Bankers Karvy, Axis Bank, Edelweiss Capital Help companies raise money in the primary markets If a company plans to raise money by floating an IPO, then merchant bankers are the ones who help companies with the IPO process. ([View Highlight](https://read.readwise.io/read/01h11yzxtzqabkepg8rgswmkyr))
 - Asset Management Companies 
-  (AMC) HDFC AMC, Reliance Capital, SBI Capital Offer Mutual Fund Schemes An AMC collects money from the public, puts that money in a single account, and then invests that money in markets intending to make the investments grow and generate wealth. ([View Highlight](https://read.readwise.io/read/01h11z0r2d1xr0czxmbhdj724p))
+  (AMC) HDFC AMC Reliance Capital, SBI Capital Offer Mutual Fund Schemes An AMC collects money from the public, puts that money in a single account, and then invests that money in markets intending to make the investments grow and generate wealth. ([View Highlight](https://read.readwise.io/read/01h11z0r2d1xr0czxmbhdj724p))
 - Portfolio Managers/ 
   Portfolio Management System 
   (PMS) Capitalmind Wealth PMS, Motilal PMS, Parag Parikh PMS Offer PMS schemes They work similarly to a mutual fund except in a PMS; you have to invest a minimum of Rs.50,00,000; however, there is no such cap in a mutual fund. ([View Highlight](https://read.readwise.io/read/01h11z0vfw4faf5e3k9jbh0w94))
-- Stock Brokers Zerodha, Sharekhan, ICICI Direct Act as an intermediary between an investor and the stock exchange Stock brokers act as a gateway to the stock markets, giving electronic access to stock markets to facilitate transactions. ([View Highlight](https://read.readwise.io/read/01h11z13qzy2zgyhxvsgypys6h))
+- Stock Brokers Zerodha, Sharekhan, ICICI Direct Act as an intermediary between an investor and the stock exchange Stock brokers Act as a gateway to the stock markets, giving electronic access to stock markets to facilitate transactions. ([View Highlight](https://read.readwise.io/read/01h11z13qzy2zgyhxvsgypys6h))

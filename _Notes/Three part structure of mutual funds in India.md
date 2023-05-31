@@ -6,7 +6,7 @@
 - Money collected from the investors belong to a trust.
 - Trustees who are the custodians of the investors' money, are appointed by the [[#Sponsor]]
 
-## Asset Management Company
+## [[Asset Management Companies]]
 - Abbreviated as AMC
 - A service provider to the trust that manages the money for a fee called AMC fee.
 - All plans and schemes made by AMC are approved by the trustees before they come to the market.

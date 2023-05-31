@@ -5,7 +5,7 @@
 - CRISIL, ICRA, CARE, etc.
 
 ## Sources
-- [[Regulators, the guardians of capital markets - Highlights]]
+- [[(Done) Regulators, the guardians of capital markets - Highlights]]
 
 ## Related Notes
 - 

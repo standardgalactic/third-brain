@@ -4,8 +4,10 @@
 - [[Emergency funds]]
 - [[Preparing for death - Creation of a will]]
 
-## Stock market | Equity class
+## Trading in stock market
+- [[What you have to do for trading in the stock market]]
 - [[Participants in the stock market]]
+- [[Terms you should know before trading in the stock market]]
 
 ### Investments
 - [[Asset classes]] 
@@ -35,7 +37,6 @@
 
 ### Indices in the market and related
 - [[Sensex]]
-- [[Market capitalization (Market cap)]]
 - [[Other types of indices in the market]]
 
 ### Insurances
@@ -65,5 +66,6 @@
 - [[Securities and Exchange Board of India (SEBI)]]
 - [[Credit Rating Agencies]]
 - [[Who is defined as a nominee and how are they different from legal heir|Difference between nominee and legal heir]]
+- [[Market capitalization (Market cap)]]
 
 ## Quotes
