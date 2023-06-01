@@ -16,15 +16,7 @@
       "key": "G"
     }
   ],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "-"
-    }
-  ],
+  "app:go-forward": [],
   "editor:open-search-replace": [],
   "app:delete-file": [
     {
@@ -115,12 +107,5 @@
       "key": "Tab"
     }
   ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "-"
-    }
-  ]
+  "app:go-back": []
 }

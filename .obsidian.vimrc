@@ -27,8 +27,10 @@ nmap <Space> :togglefold
 " requires Cycle Through Panes Plugins https://obsidian.md/plugins?id=cycle-through-panes
 exmap tabnext obcommand cycle-through-panes:cycle-through-panes
 nmap <C-l> :tabnext
+imap <C-l> :tabnext
 exmap tabprev obcommand cycle-through-panes:cycle-through-panes-reverse
 nmap <C-h> :tabprev
+imap <C-h> :tabprev
 
 " Jump around the headers
 exmap nextHeading jsfile mdHelpers.js {jumpHeading(true)}
