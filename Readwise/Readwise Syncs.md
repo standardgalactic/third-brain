@@ -182,3 +182,9 @@
     - 4 highlights from Getting Started
     - 7 highlights from Supplementary note – Rights, OFS, FPO
 
+- [[2023-06-02]] 12:18 PM — Synced 22 highlights from 4 documents.
+    - 1 highlights from How to Audit Your Financial Freedom Portfolio
+    - 7 highlights from Avoid These Mistakes if You Are Planning for Early Retirement
+    - 5 highlights from What Is XIRR? How Is CAGR Different? A Simple Introduction With Examples
+    - 9 highlights from The WIRED Guide to Open Source Software
+
