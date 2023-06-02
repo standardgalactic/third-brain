@@ -40,6 +40,10 @@
 
 ## System design scenarios/examples
 - [[Scaling a web app]]
+- [[Estimating Twitter Queries Per Second and Storage - Example]]
+
+### Miscellaneous
+- [[Tips for System Design Interviews]]
 
 ### Concepts
 - [[Vertical scaling]]
@@ -55,6 +59,8 @@
 - [[Monitoring logs]]
 - [[Collecting application system metrics]]
 - [[Automating application maintenance cycle]]
+- [[Typical system latency times]]
+- [[Service Level Agreement (SLA)]]
 
 ## Computer systems
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]

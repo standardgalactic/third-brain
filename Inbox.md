@@ -1,17 +1,17 @@
-- Typical latency times (as of 2020)
-![[Pasted image 20230602122340.png]]
+- A rate limiter can either be at the client or the server side
+	- Client-side implementation
+		- Client is an unreliable place to enforce rate limiting because client requests can be forged by malicious actors.
+![Client side rate limiter](Server%20side%20rate%20limiter%20demonstration.webp)
 
-- Service Level Agreement (SLA)
-	- Agreement between the service provider and its customer formally defining the level of uptime the service will deliver
-	- Uptimes are generally measured in nines. The more the nines, the better.
-	- For example, a service guaranteeing 99.999% of uptime has 3 nines.
-- If you are feeling that one nine uptime is good enough, look at the following table:
-- ![[Pasted image 20230602122728.png]]
-- Example Estimation: Twitter Queries Per Second (QPS) and Storage requirements *(The numbers are completely made up)*
-	- Assumptions
-		- 300 million monthly active users (MAUs)
-		- 50% of users use Twitter daily.
-		- Users post 2 tweets per day on average.
-		- 10% of tweets contain media.
-		- Data is stored for 5 years.
-	- 
+- As an alternative, we can also create a rate limiter middleware.
+- ![Rate limiter middleware demo](Assets/Rate_limiter_middleware_demo.webp)
+- Due to the popularity of cloud microservices, rate limiting is usually implemented within a component called API gateway
+- If your system already uses microservice architecture and includes an API gateway to perform authentication, IP whitelisting, etc, it is better to add the rate limiter to the API gateway instead of implementing it in the server
+- Token bucket algorithm
+	- A token bucket is a container that has pre-defined capacity.
+	- Tokens are put in the bucket at preset rates periodically.
+	- Once the bucket is full, no more tokens are added.
+	- Each request consumes one token. When a request arrives, we check if there are enough tokens in the bucket.
+	- If there are enough tokens, we take one token out for each request, and the request goes through.
+	- If there are not enough tokens, the request is dropped.
+	- Example: ![4 tokens filled every minute](Assets/4_tokens_filled_every_minute.svg)
