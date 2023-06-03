@@ -54,3 +54,71 @@ It is all about the idea.
 - Body: Tell them
 - Conclusion: Tell them what you told them
 - It is important to have repetition so that your ideas stick in the minds of your audience
+
+## Tell a story
+### Keep them specific
+- Give your stories a face, even if it is a fictional one
+- For example, if you are sharing the your marketing success strategies, create a fictional client (give it a name, a background) and then walk through the details
+	- This way your facts and strategies get personified
+
+### Keep them lively
+- Give some details in the story. Add dialogues if necessary
+- Example: Instead of saying that we worked long hours, say that there were 35 empty boxes of pizza stacked.
+	- Help the audience visualise the story by sharing some details
+
+### Keep them relevant
+- The point of the story should be clear to you and your audience.
+- You could even use phrases like "The point of this story is..." or "The reason I am telling you this story is..."
+
+### Creating a story bank
+- Collect stories in a story bank
+- For every story, think about:
+	- One or two line summary of the story
+	- A couple of details to make the story lively
+	- The kind of emotions that the story generates
+	- The point of the story
+
+### Before a presentation
+- Practice telling the story out loud. There is no point in practising it in head. It is as good as thinking about going to the gym.
+
+## Delivery skills
+- Don't avoid eye contact. Try and make eye contact with each member of the audience for 3-5 seconds. _Probably the most important of all_
+- Your hands should communicate openness and confidence.
+	- If you are using gestures: make sure that your hands have the room to expand into the whole wingspan
+	- If you are not gesturing: You can keep your hands by your side, keep your hands near your navel in a tent position
+- Stand like a speaker. Straight and balanced on both legs
+- Silence is your friend. Instead of using filler words, remain silent
+- When preparing for a talk, don't write a script to follow word-by-word. Instead, just list down the talking points and key phrases.
+	- Practice your talk **out loud**.
+	- This way you can get the naturality in your presentation and avoid being flat-lined. Look at [this video](https://youtu.be/uhicfdweqfa) to see what flat-line delivery is
+	- In general life, you are not flat-lined.
+- Slow down your pace of delivery
+	- Use pauses between ideas, concepts and sentences when speaking. This will also allow you to take a breath and reset
+	- Set some repetitive key phrase as an indicator to slow down. For example: You could set "continuous delivery" as an indicator to slow down. Now, whenever you say the phrase "continuous delivery" in your speech, you should slow down
+
+## Think and Speak on your feet - PREP framework
+### PREP Framework - Point, Reason, Example, Point
+- Front load your point and reason. Don't have to talk through all the background and context
+- If you feel your talk is too short to not need the point to be repeated again at the end, follow your gut and avoid repetition
+- Expect your performance to dip temporarily by adopting the PREP framework. It happens because you are internalizing a new habit.
+
+### Alternate frameworks
+### PER - Point, Example, Relevance
+- Tell what you are going to say
+- Give an example
+- Tell how is your talk relevant
+
+### What, So What, Now What
+- What you are going to talk about
+- Why should the audience care about your content
+- Provide the next steps or call-to-action
+
+### Past, Present, Future
+- Situation earlier
+- Situation now
+- Situation planned/expected for future
+
+## Flipping nervousness into excitement
+- Create a power soundtrack, which can get you all energetic and pumped up. Listen to it before the presentation
+- Do some kind of short physical activity like a 5-minute brisk walk or 5-minute jumping jacks. This will vent out your nervous energy
+- Change your self-talk. From saying "I have to give the talk", go to saying "I get to give the talk"
