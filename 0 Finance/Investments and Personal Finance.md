@@ -8,6 +8,7 @@
 - [[What you have to do for trading in the stock market]]
 - [[Participants in the stock market]]
 - [[Terms you should know before trading in the stock market]]
+- [[Sequence of events when a company files an IPO]]
 
 ### Investments
 - [[Asset classes]] 
@@ -58,6 +59,7 @@
 
 ## Terms
 - [[XIRR vs CAGR]]
+- [[Venture Capitalist (VC) vs Private Equity (PE) Investor]]
 - [[Third-party agent (TPA) service]]
 - [[Meaning of financial freedom]]
 - [[Meaning of the term - underlying]]
@@ -69,5 +71,6 @@
 - [[Credit Rating Agencies]]
 - [[Who is defined as a nominee and how are they different from legal heir|Difference between nominee and legal heir]]
 - [[Market capitalization (Market cap)]]
+- [[Capital expenditure (CAPEX)]]
 
 ## Quotes
