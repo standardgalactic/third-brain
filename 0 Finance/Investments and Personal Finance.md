@@ -23,6 +23,7 @@
 - [[Thumb rule to calculate rate of interest - Rule of 72]]
 - [[Evaluation of returns from your investment]]
 - [[What is capital gains tax|Capital Gains tax]]
+- [[Evaluating your retirement portfolio]]
 
 #### Mutual funds
 - [[Three part structure of mutual funds in India]]
@@ -56,6 +57,7 @@
 - [[Stock brokers encourage people to trade, rather than invest]]
 
 ## Terms
+- [[XIRR vs CAGR]]
 - [[Third-party agent (TPA) service]]
 - [[Meaning of financial freedom]]
 - [[Meaning of the term - underlying]]

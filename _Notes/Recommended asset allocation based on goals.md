@@ -30,6 +30,7 @@
 - Further away from retirement you are, the more risk you can take
 	- People in 30s can choose a larger allocation to mid-cap, small-cap and sector funds
 	- People in 40s should choose conservative funds with large-cap, diversified equity and multi-cap funds
+- [[Evaluating your retirement portfolio]] periodically. The frequency can be quarterly to annually based on your situtation.
 
 ## Sources
 - [[(Done) Let's Talk Money - Highlights]]
