@@ -188,3 +188,10 @@
     - 5 highlights from What Is XIRR? How Is CAGR Different? A Simple Introduction With Examples
     - 9 highlights from The WIRED Guide to Open Source Software
 
+- [[2023-06-07]] 10:06 AM — Synced 40 highlights from 5 documents.
+    - 17 highlights from Design a Unique ID Generator in Distributed Systems
+    - 6 highlights from Ticket Servers: Distributed Unique Primary Keys on the Cheap
+    - 15 highlights from Design A URL Shortener
+    - 1 highlights from Sunny Side Up: The Chicken-Egg conundrum, India’s Swiggy scorecard, and sales strategies
+    - 1 highlights from EP62: Why Does Google Use Monorepo?
+

@@ -44,7 +44,7 @@ It is all about the idea.
 ## Structure your content
 ### Using the power of 3 to structure your ideas
 - Think of 3 concepts that you want to cover in your presentation (related to the main idea, ofcourse)
-	- Three is not a hard number. You could always go with $\pm 1$.
+	- Three is not a hard-coded number. You could always go with $\pm 1$.
 	- Think of it more as a guideline marker
 - Next, you could go one level down and think of 3 aspects you want to cover for each of the concept.
 - You can keep repeating this by going one level down each time
