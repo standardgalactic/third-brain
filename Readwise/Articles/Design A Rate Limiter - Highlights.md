@@ -236,12 +236,9 @@ In case a request is rate limited, APIs return a HTTP response code 429 (too man
 
 The rate limiter returns the following HTTP headers to clients:
 
-    X-Ratelimit-Remaining: The remaining number of allowed requests within the window.
-    
-    X-Ratelimit-Limit: It indicates how many calls the client can make per time window.
-    
-    X-Ratelimit-Retry-After: The number of seconds to wait until you can make a request again without being throttled.
-    
+X-Ratelimit-Remaining: The remaining number of allowed requests within the window.
+X-Ratelimit-Limit: It indicates how many calls the client can make per time window.
+X-Ratelimit-Retry-After: The number of seconds to wait until you can make a request again without being throttled.
 
 When a user has sent too many requests, a 429 too many requests error and *X-Ratelimit-Retry-After* header are returned to the client.
 

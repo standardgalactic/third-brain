@@ -56,4 +56,41 @@
 		- Cons
 			- Memory intensive
 - Sliding window counter algorithm
-	- 
+	- Combination of fixed window counter and sliding window log algorithms
+	- How it works?
+		- Assume that 5 requests are allowed per minute
+		- There were 5 requests made in the previous minute
+		- A request arrives at 15th second (25% of the current minute) of the current minute
+		- Then, the number of requests in the rolling window is calculated using:
+			- Requests in current window + requests in the previous window * overlap percentage of the rolling window and the previous window
+			- 0 + 5 * 0.75
+			- 3.75 - This can be rounded up or down, depending on the use case. Lets round up to 4
+		- Since 4 is less than 5, this request (at the 15th second) will be allowed to pass through
+		- ![Sliding window counter algorithm demo](Assets/Sliding_window_counter_algorithm_demo.svg)
+	- Pros
+		- Smooths out spikes in traffic
+		- Memory efficient
+	- Cons
+		- It is an approximation of the actual rate because it assumes requests in the previous window are evenly distributed.
+			- This problem is not as bad as it seems. [Experiments done by Cloudflare](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/), only 0.003% of requests are wrongly allowed or rate limited among 400 million requests
+- Storing these counters
+	- Using database is not a good idea due to slowness of disk access.
+	- In-memory cache makes sense because it is fast and supports time-based expiration strategy. Eg: Redis
+- ![High level rate limiter architecture](Assets/High_level_rate_limiter_architecture.webp)
+- What happens when requests are rate limited?
+	- APIs return a HTTP response code - 429 (too many requests)
+	- We may choose to enqueue rate-limited requests to be processed later
+- HTTP headers in a 429 response
+	- `X-Ratelimit-Remaining`: The remaining number of allowed requests within the window. 
+	- `X-Ratelimit-Limit`: It indicates how many calls the client can make per time window. 
+	- `X-Ratelimit-Retry-After`: The number of seconds to wait until you can make a request again without being throttled.
+- Challenges in scaling the rate limiter to support multiple servers and concurrent threads
+	- Race conditions
+		- ![Rate limiter race condition](Assets/Rate_limiter_race_condition.svg)
+	- Synchronization issue
+		- We need multiple rate limiters to handle millions of users
+		- ![Rate limiter synchronisation issue](Assets/rate_limiter_synchronisation_issue.png)
+			- Here, both the rate limiters must share the counters for both clients, otherwise the rate limiters would fail their purpose
+		- In such cases, we need synchronization between rate limiters to keep the counters in sync
+		- One possible solution is to use centralized data stores like Redis. ![Centralized redis rate limiters](Assets/centralized_redis_rate_limiters.png)
+- Rate limiting can be different levels. We can also apply rate limiting by IP addresses using Iptables.
