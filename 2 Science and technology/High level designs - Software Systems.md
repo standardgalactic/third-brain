@@ -4,6 +4,7 @@
 ### Scenarios/Examples
 - [[Scaling a web app]]
 - [[Estimating Twitter Queries Per Second and Storage - Example]]
+- [[How to design a Rate Limiter]]
 
 ### Concepts
 - [[Vertical scaling]]
