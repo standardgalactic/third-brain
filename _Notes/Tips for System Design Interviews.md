@@ -19,7 +19,8 @@
 - Label your units.
 
 ## Related Notes
-- 
+- [[Estimating Twitter Queries Per Second and Storage - Example]]
+- [[Typical system latency times]]
 
 ## Sources
 - [[(Done) Back of the envelop estimation by ByteByteGo - Highlights]]
