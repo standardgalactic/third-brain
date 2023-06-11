@@ -4,5 +4,8 @@
   "baseFontSize": 19,
   "accentColor": "#d3279a",
   "nativeMenus": true,
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "style"
+  ]
 }

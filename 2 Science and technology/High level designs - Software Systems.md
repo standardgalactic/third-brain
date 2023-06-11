@@ -7,6 +7,7 @@
 - [[How to design a Rate Limiter]]
 
 ### Concepts
+- [[Consistent hashing]]
 - [[Vertical scaling]]
 - [[Horizontal scaling]]
 - [[Load balancers]]

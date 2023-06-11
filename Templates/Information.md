@@ -4,4 +4,4 @@
 - 
 
 ## Sources
-- [[(Done) Design A Rate Limiter - Highlights]]
+- [[(Done) Design Consistent Hashing - BytebyteGo - Highlights]]

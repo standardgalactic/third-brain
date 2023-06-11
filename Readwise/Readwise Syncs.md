@@ -195,3 +195,6 @@
     - 1 highlights from Sunny Side Up: The Chicken-Egg conundrum, India’s Swiggy scorecard, and sales strategies
     - 1 highlights from EP62: Why Does Google Use Monorepo?
 
+- [[2023-06-10]] 5:57 PM — Synced 35 highlights from 1 document.
+    - 35 highlights from The Engineer’s Guide to Career Growth — Advice From My Time at Stripe and Facebook
+

@@ -10,7 +10,13 @@ raise RuntimeError.new("hello")
 - If the first argument is a string, it raises the `RuntimeError` with the string as an argument
 - If the first argument is the name of an Exception class, it raises the exception
 - Else, the first argument should be an object returns an Exception object when the `exception` method is called on the object. The object should look like this 👇
-	![[exception method on an object#^edcdc4]]
+
+```ruby
+def exception
+	Exception.new("hello")
+end
+```
+ 
 - All exception objects have a method `exception` which returns `self`
 
 ## Sources
