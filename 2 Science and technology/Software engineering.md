@@ -26,8 +26,14 @@
 - [[Typical sizes of basic C data types]]
 - [[Type casting in C]]
 
-## General
+## History
 - [[Birth of Unix]]
+- [[Birth of Open Source Software]]
+
+## General
+- [[About Linux]]
+- [[Open Source Licenses]]
+- [[Challenges faced by Open Source software]]
 - [[Amdahl's law]]
 - [[Example of a bug that can arise when migrating 32-bit programs to 64-bit]]
 - [[Boolean Algebra]]

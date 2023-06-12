@@ -4,4 +4,4 @@
 - 
 
 ## Sources
-- [[(Done) The WIRED Guide to Open Source Software - Highlights]]
+- [[(Done) Exposing a Pharma Secret Evergreening! - Highlights]]
