@@ -5,6 +5,7 @@
 - [[Requirements from a city to quality for a data center]]
 - [[How are pharma companies incentivised to innovate and burn money]]
 - [[Evergreening of patents by pharma companies]]
+- [[Revenue models of mall operators]]
 
 ## Business in India
 - [[E-commerce in India]]

@@ -6,6 +6,7 @@
 - [[Number of internet subscribers in India]]
 - [[Stage - Regional OTT Platform in India - succeeding in subscriptions]]
 - [[Origin of money]]
+- [[Diamond-Water Paradox]]
 
 ## Events and anecdotes
 - [[How did the world avert the oil crisis in 1970s]]
