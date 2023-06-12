@@ -1,0 +1,7 @@
+- Origin of open source software movement
+	- Grew out of the related, but separate, "free software" movement
+	- In 1983, Richard Stallman - a programmer at the MIT Artificial Intelligence Laboratory - said he would create a free alternative to the Unix operating system (then owned by AT&T).
+		- He called his alternative - GNU (GNU's Not Unix)
+	- For him, the idea of "free software" was about ensuring that users were free to use software as they saw fit, free to study its source code, free to modify it for their own purposes, and free to share it with others.
+	- He released his code under a license known as the GNU Public License, or GPL which guarantees users those four software freedoms.
+		- The GPL is a viral license, meaning that anyone who creates software based on code licensed under the GPL must also release that derivative code under a GPL license
