@@ -4,4 +4,4 @@
 - 
 
 ## Sources
-- [[(Done) Design Consistent Hashing - BytebyteGo - Highlights]]
+- [[(Done) The WIRED Guide to Open Source Software - Highlights]]
