@@ -11,6 +11,9 @@ Mall
 Marshall
 Maybe
 Mutual
+Medium
+Mix
+Mutli
 Author
 Artificial
 Around
@@ -26,6 +29,7 @@ April
 Alfred
 About
 All
+Aggressive
 Full
 For
 Finnish
@@ -38,6 +42,9 @@ Fwd
 Fixed
 Financial
 Facts
+Foods
+First
+Further
 Title
 The
 Tags
@@ -72,6 +79,10 @@ Well
 Water
 Whether
 Whales
+Weekly
+Wrapup
+With
+Why
 Guide
 GNU
 GPL
@@ -123,6 +134,8 @@ States
 Solution
 Something
 Saving
+Snacks
+Short
 Document
 Databases
 Data
@@ -135,6 +148,8 @@ Deposits
 Dhobis
 Diamond
 Don
+DFM
+Diversified
 URL
 Unix
 Users
@@ -178,6 +193,7 @@ oxygen
 organizations
 offset
 ownership
+opinion
 source
 software
 separate
@@ -281,6 +297,13 @@ seem
 second
 savings
 studies
+sets
+shareholders
+success
+snag
+similar
+smaller
+situtation
 movement
 more
 modify
@@ -333,6 +356,11 @@ massive
 magic
 movements
 means
+minimum
+mutual
+maximum
+mid
+multi
 grew
 giving
 guarantees
@@ -365,6 +393,8 @@ got
 gradually
 growth
 guess
+goals
+goal
 the
 time
 then
@@ -429,6 +459,7 @@ trying
 towards
 tricky
 third
+traded
 related
 released
 release
@@ -480,6 +511,10 @@ rich
 reason
 reduced
 requisite
+reverse
+recommendations
+ratio
+retirement
 but
 based
 beer
@@ -535,6 +570,10 @@ bring
 bond
 buy
 basically
+bare
+begins
+book
+bonds
 free
 for
 fit
@@ -584,6 +623,8 @@ floor
 finance
 footprint
 financial
+fund
+frequency
 Richard
 Red
 Requires
@@ -596,6 +637,10 @@ RIA
 RBI
 Revenue
 Research
+Rings
+Recommended
+Retirement
+Rest
 programmer
 purposes
 phrase
@@ -676,6 +721,13 @@ pointed
 party
 principles
 planning
+prior
+provided
+personal
+portfolio
+pure
+proportion
+periodically
 Intelligence
 Importantly
 Innovative
@@ -689,6 +741,8 @@ Instead
 Investments
 Insurances
 Income
+Issue
+Increase
 Laboratory
 License
 Linus
@@ -698,6 +752,8 @@ Limited
 Likewise
 Lee
 Last
+Long
+Largest
 would
 was
 were
@@ -747,6 +803,8 @@ weirdness
 whales
 whale
 whimsical
+weeks
+window
 create
 code
 creates
@@ -841,6 +899,8 @@ couple
 centuries
 conserving
 credits
+conservative
+certainty
 alternative
 about
 away
@@ -907,6 +967,13 @@ against
 affair
 audit
 advices
+actually
+author
+asset
+allocation
+availability
+aggressive
+annually
 dubbed
 derivative
 doesn
@@ -963,6 +1030,10 @@ day
 despite
 dioxide
 die
+delisting
+discover
+debt
+diversified
 his
 help
 hardware
@@ -1001,6 +1072,7 @@ helps
 handing
 hard
 harder
+hybrid
 Not
 Netflix
 Notes
@@ -1058,6 +1130,7 @@ iron
 intelligence
 interest
 issuing
+including
 ensuring
 explain
 example
@@ -1110,6 +1183,10 @@ everyone
 emissions
 else
 exact
+expect
+equity
+emergency
+exposure
 users
 use
 under
@@ -1123,6 +1200,7 @@ understood
 urged
 utility
 unit
+ultra
 license
 licensed
 long
@@ -1166,6 +1244,9 @@ launch
 left
 loves
 lessons
+love
+lower
+large
 known
 kernel
 keyboard
@@ -1204,6 +1285,8 @@ valuing
 value
 very
 vet
+valuation
+volatile
 you
 your
 years
@@ -1239,6 +1322,8 @@ Based
 Berners
 Bimal
 Behavioural
+Balls
+Because
 Christine
 Community
 Companies
@@ -1259,6 +1344,11 @@ Consuming
 Creating
 Climate
 Capital
+Crax
+Corn
+Cheese
+Closer
+Core
 You
 Your
 Yup
@@ -1266,6 +1356,7 @@ job
 just
 judges
 Kernel
+Keep
 Exposing
 Evergreening
 Even
@@ -1282,5 +1373,6 @@ qualified
 qualifies
 question
 quench
+quarterly
 Visualize
 Quotes
