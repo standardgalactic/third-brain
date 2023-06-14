@@ -9,7 +9,7 @@ uy = (unsigned) ty; // Type casting ty into unsigned integer
 ```
 
 ## Implicit casting
-- The following code block adequately demonstrates explicit type casting
+- The following code block adequately demonstrates implicit type casting
 ```c
 int tx, ty;
 unsigned ux, uy;

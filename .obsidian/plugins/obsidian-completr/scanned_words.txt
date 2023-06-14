@@ -138,6 +138,7 @@ Office
 Others
 Otherwise
 Offline
+Operation
 Source
 Software
 Stallman
@@ -194,6 +195,7 @@ Design
 Distribute
 Dynamo
 Divide
+Demonstration
 URL
 Unix
 Users
@@ -263,6 +265,7 @@ overlap
 oldest
 offline
 online
+operand
 source
 software
 separate
@@ -426,6 +429,7 @@ synchronize
 saved
 sorted
 string
+signed
 movement
 more
 modify
@@ -504,6 +508,7 @@ match
 moving
 memory
 material
+mixture
 grew
 giving
 guarantees
@@ -1049,6 +1054,7 @@ Inconsistent
 Inconsistency
 Increment
 IDs
+Implicit
 Laboratory
 License
 Linus
@@ -1282,6 +1288,8 @@ cache
 checks
 commonly
 contain
+casting
+casts
 alternative
 about
 away
@@ -1399,6 +1407,8 @@ acceptable
 amount
 architecture
 adding
+adequately
+argument
 dubbed
 derivative
 doesn
@@ -1494,6 +1504,7 @@ disagree
 directed
 designs
 disk
+demonstrates
 his
 help
 hardware
@@ -1640,6 +1651,7 @@ improve
 ignored
 igure
 interested
+implicitly
 ensuring
 explain
 example
@@ -1719,6 +1731,7 @@ equal
 exceeds
 encountered
 enforcing
+explicit
 users
 use
 under
@@ -1749,6 +1762,7 @@ user
 updating
 uniform
 upwards
+unsigned
 license
 licensed
 long
@@ -1967,6 +1981,7 @@ Each
 Everything
 Events
 Eventual
+Explicit
 Just
 Jain
 quite
