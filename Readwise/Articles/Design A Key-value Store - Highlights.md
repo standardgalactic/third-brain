@@ -103,6 +103,9 @@
       4. Application-specific rules: For some systems, it is possible to define application-specific rules to resolve conflicts. These rules may consider the type of data, the actions performed on the data, and other factors to decide which version to keep or how to merge the changes.
       5. Conflict-free replicated data types (CRDTs): CRDTs are a class of data structures that allow concurrent updates to be merged deterministically without conflicts. By using CRDTs in the distributed system, conflicts can be avoided altogether, as these data structures can automatically merge changes from different replicas.
       Once the conflict has been resolved using one of these strategies, the client can update its local version of the data and propagate the resolved version to other participants in the distributed system.
+
+> [!NOTE] Done till here
+
 - Even though vector clocks can resolve conflicts, there are two notable downsides. First, vector clocks add complexity to the client because it needs to implement conflict resolution logic.
   Second, the *[server: version]* pairs in the vector clock could grow rapidly. To fix this problem, we set a threshold for the length, and if it exceeds the limit, the oldest pairs are removed. This can lead to inefficiencies in reconciliation because the descendant relationship cannot be determined accurately. However, based on Dynamo paper [4], Amazon has not yet encountered this problem in production; therefore, it is probably an acceptable solution for most companies. ([View Highlight](https://read.readwise.io/read/01gyphkasw7rf6289859c6mkkm))
 - In a distributed system, it is insufficient to believe that a server is down because another server says so. Usually, it requires at least two independent sources of information to mark a server down. ([View Highlight](https://read.readwise.io/read/01gypj91fpx849ha38sjrc2ebp))
