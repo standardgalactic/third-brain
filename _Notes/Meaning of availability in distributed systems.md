@@ -1,4 +1,4 @@
-
+Any client which requests data gets a response even if some of the nodes are down
 
 ## Related Notes
 - 
