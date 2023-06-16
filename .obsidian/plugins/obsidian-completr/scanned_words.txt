@@ -54,6 +54,8 @@ Addition
 Any
 Available
 Adds
+Assumptions
+Americans
 Full
 For
 Finnish
@@ -100,6 +102,7 @@ Thus
 Therefore
 Theorem
 Two
+Taking
 WIRED
 Worried
 Web
@@ -119,6 +122,7 @@ Why
 When
 Write
 Weak
+Wrote
 Guide
 GNU
 GPL
@@ -135,6 +139,9 @@ Goes
 Gains
 Gossip
 Given
+Gerontologist
+Germany
+German
 Open
 Other
 One
@@ -191,6 +198,9 @@ System
 Servers
 Specific
 Scenarios
+Systems
+Summary
+Specifically
 Document
 Databases
 Data
@@ -214,6 +224,7 @@ Deletion
 Demonstrating
 Detecting
 Drawbacks
+Different
 URL
 Unix
 Users
@@ -232,6 +243,7 @@ Heterogeneity
 Here
 Highlighted
 Handling
+His
 open
 out
 operating
@@ -285,6 +297,7 @@ oldest
 offline
 online
 operand
+owners
 source
 software
 separate
@@ -450,6 +463,12 @@ sorted
 string
 signed
 sacrifices
+skills
+scale
+scales
+stack
+simplify
+spending
 movement
 more
 modify
@@ -531,6 +550,8 @@ material
 mixture
 modified
 merkle
+modifications
+months
 grew
 giving
 guarantees
@@ -572,6 +593,7 @@ guaranteed
 gives
 greater
 grow
+gather
 the
 time
 then
@@ -664,6 +686,9 @@ till
 trees
 traverse
 table
+themselves
+tracking
+tax
 related
 released
 release
@@ -911,6 +936,8 @@ features
 full
 flushed
 figure
+final
+friendships
 Richard
 Red
 Requires
@@ -1070,6 +1097,10 @@ placing
 parallel
 published
 permanent
+practical
+proper
+pieces
+prosecutors
 Intelligence
 Importantly
 Innovative
@@ -1091,6 +1122,7 @@ Inconsistency
 Increment
 IDs
 Implicit
+Interviewed
 Laboratory
 License
 Linus
@@ -1104,6 +1136,8 @@ Long
 Largest
 Low
 Let
+Lessons
+Living
 would
 was
 were
@@ -1166,6 +1200,7 @@ weak
 without
 writer
 wins
+wrong
 create
 code
 creates
@@ -1329,6 +1364,10 @@ casts
 care
 caused
 conflictt
+configurations
+cbe
+clicked
+came
 alternative
 about
 away
@@ -1452,6 +1491,13 @@ afford
 actual
 assumptions
 atleast
+article
+afraid
+anticipate
+anticipated
+anywhere
+advertisements
+abrupt
 dubbed
 derivative
 doesn
@@ -1549,6 +1595,9 @@ designs
 disk
 demonstrates
 determines
+designing
+detect
+didn
 his
 help
 hardware
@@ -1605,6 +1654,7 @@ heterogeneity
 hit
 happen
 hashed
+happiness
 Not
 Netflix
 Notes
@@ -1784,6 +1834,12 @@ enforcing
 explicit
 end
 exceeded
+engineer
+existing
+elderly
+earn
+enabled
+evasion
 users
 use
 under
@@ -1815,6 +1871,7 @@ updating
 uniform
 upwards
 unsigned
+unstructured
 license
 licensed
 long
@@ -1877,6 +1934,10 @@ listed
 log
 learning
 lie
+likely
+leverage
+looking
+learned
 known
 kernel
 keyboard
@@ -1888,6 +1949,7 @@ kick
 keys
 key
 keeps
+kids
 Public
 Peterson
 Problems
@@ -1907,6 +1969,8 @@ Partition
 Please
 Perhaps
 Proposed
+Partitioning
+Pillemer
 viral
 vitriolic
 vulnerabilities
@@ -1931,6 +1995,8 @@ visible
 versioning
 various
 vectors
+valued
+visitors
 you
 your
 years
@@ -1966,6 +2032,8 @@ notable
 notices
 newest
 note
+needed
+near
 Bundles
 But
 Bash
@@ -1986,6 +2054,7 @@ Both
 Build
 Bloom
 Better
+ByteByteGo
 Christine
 Community
 Companies
@@ -2032,9 +2101,11 @@ just
 judges
 johnSanFrancisco
 johnNewYork
+jump
 Kernel
 Keep
 Key
+Karl
 Exposing
 Evergreening
 Even
@@ -2049,6 +2120,7 @@ Evenly
 Eventually
 Examples
 Else
+Ensuring
 Just
 Jain
 JohnSanFrancisco
@@ -2064,6 +2136,8 @@ quickly
 quorum
 quorums
 query
+questions
+quality
 Visualize
 Versioning
 Virtual

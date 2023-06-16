@@ -8,10 +8,11 @@
 - [[Design a key-value store]]
 
 ### Concepts
+- [[Models of consistency]]
+- [[Using Quorum Consensus to get consistency]]
 - [[CAP Theorem]]
 - [[Consistent hashing]]
-- [[Vertical scaling]]
-- [[Horizontal scaling]]
+- [[Vertical scaling]] and [[Horizontal scaling]]
 - [[Load balancers]]
 - [[Database replication using master-slave relationship]]
 - [[Caching in large scale applications]]
