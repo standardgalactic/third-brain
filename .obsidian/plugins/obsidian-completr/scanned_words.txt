@@ -103,6 +103,7 @@ Therefore
 Theorem
 Two
 Taking
+Then
 WIRED
 Worried
 Web
@@ -469,6 +470,9 @@ scales
 stack
 simplify
 spending
+starts
+swapping
+sup
 movement
 more
 modify
@@ -868,6 +872,7 @@ blocked
 boxes
 bucket
 benefits
+backwards
 free
 for
 fit
@@ -1101,6 +1106,7 @@ practical
 proper
 pieces
 prosecutors
+pointers
 Intelligence
 Importantly
 Innovative
@@ -1368,6 +1374,8 @@ configurations
 cbe
 clicked
 came
+character
+characters
 alternative
 about
 away
@@ -1598,6 +1606,7 @@ determines
 designing
 detect
 didn
+deque
 his
 help
 hardware
@@ -1752,6 +1761,7 @@ ignored
 igure
 interested
 implicitly
+iterate
 ensuring
 explain
 example
@@ -1840,6 +1850,7 @@ elderly
 earn
 enabled
 evasion
+elements
 users
 use
 under
@@ -1938,6 +1949,7 @@ likely
 leverage
 looking
 learned
+last
 known
 kernel
 keyboard
@@ -2102,6 +2114,7 @@ judges
 johnSanFrancisco
 johnNewYork
 jump
+join
 Kernel
 Keep
 Key
