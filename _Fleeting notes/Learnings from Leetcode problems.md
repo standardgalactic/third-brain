@@ -5,3 +5,4 @@
 	- Source: https://leetcode.com/problems/reverse-vowels-of-a-string/
 
 - In order to reverse a string, you can also iterate character by character on the string. Each character in the string can be added to a deque (`appendLeft`). Then, finally, you can join the characters
+- Questions requiring you to find a sub-array or a sub-string generally might involve creating a prefix Sum (cumulative sum).
