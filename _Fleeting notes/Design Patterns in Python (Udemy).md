@@ -24,4 +24,17 @@ Course link: Design Patterns in Python by Dmitri Nesteruk
 - If at all lines of code, I replace method calls to a class with method calls to the subclass, there should be no unexpected behaviour.
 	- The client consuming the methods should feel no difference
 - [This python snippet](https://gist.github.com/ayushpoddar/10fca60a5da447de9d36028e26257529) shows how the square class violates this principle
-- 
+---
+## Interface Segregation Principle
+- Don't put too many interfaces (methods/APIs) into a single module/class. 
+- This leads to the client being exposed to too many APIs which it doesn't need
+- For example: If you have a class called `EventBus` which defines three methods: `subscribe`, `unsubscribe`, `publish`. If a class has added `EventBus` as a dependency, it is hard to know whether the class is a publisher or a subscriber.
+	- So, we can create two interfaces called `EventBusPublisher` which exposes the `publish` method and is realised by `EventBus`
+	- And we create `EventBusSubscriber` interface , which exposes `subscribe` and `unsubscribe` methods (realised by `EventBus`)
+	- This way, a third class will add either of these two interfaces as dependency making the code more readable.
+	- Also, if a class is both a publisher and a subscriber, that is a code smell
+---
+## Dependency Inversion Principle
+- Top level classes should not be directly dependent on low level classes
+- If service A is dependent on service B for some APIs, service A can create the interfaces that B will be required to realise. This way the dependency of A is on the interface, not on B.
+- We can understand in another way: Dependencies of a class should not be too many levels down the dependency tree
