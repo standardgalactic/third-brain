@@ -270,6 +270,9 @@ Smooths
 Synchronisation
 Solved
 Sum
+SOLID
+Single
+Substitution
 Document
 Databases
 Data
@@ -301,6 +304,8 @@ Determines
 Details
 Difficult
 Dioxide
+Dmitri
+Demo
 URL
 Unix
 Users
@@ -610,6 +615,10 @@ sub
 sum
 slow
 staged
+snippet
+subclass
+shows
+square
 movement
 more
 modify
@@ -707,6 +716,7 @@ millions
 mitigates
 mapping
 meet
+mostly
 grew
 giving
 guarantees
@@ -1100,6 +1110,9 @@ breaking
 balanced
 behind
 billion
+builds
+blocks
+box
 free
 for
 fit
@@ -1187,6 +1200,7 @@ furnace
 forego
 finding
 flag
+filtering
 Richard
 Red
 Requires
@@ -1218,6 +1232,7 @@ Redis
 Requests
 Race
 Reason
+Responsibility
 programmer
 purposes
 phrase
@@ -1396,6 +1411,8 @@ produced
 plants
 prefix
 pointer
+persistent
+principle
 Intelligence
 Importantly
 Innovative
@@ -1443,6 +1460,7 @@ Library
 Leaking
 Lets
 Linked
+Liskov
 would
 was
 were
@@ -1516,6 +1534,7 @@ webp
 windows
 wrongly
 willing
+won
 create
 code
 creates
@@ -1722,6 +1741,12 @@ coal
 creating
 cumulative
 committing
+concern
+change
+closed
+color
+combination
+consuming
 alternative
 about
 away
@@ -1877,6 +1902,8 @@ adjacent
 arc
 assume
 action
+attributes
+able
 dubbed
 derivative
 doesn
@@ -2086,6 +2113,7 @@ NOT
 Newest
 New
 Nested
+Nesteruk
 idea
 its
 important
@@ -2180,6 +2208,7 @@ increases
 induction
 involve
 ignore
+identify
 ensuring
 explain
 example
@@ -2284,6 +2313,8 @@ except
 edges
 enqueue
 electric
+entries
+extend
 users
 use
 under
@@ -2326,6 +2357,7 @@ unaffected
 unusually
 unlikely
 undo
+unexpected
 license
 licensed
 long
@@ -2409,6 +2441,8 @@ limiters
 location
 lasts
 loop
+link
+lines
 known
 kernel
 keyboard
@@ -2452,6 +2486,10 @@ Payment
 Primarily
 Pros
 Possible
+Patterns
+Python
+Principles
+Principle
 viral
 vitriolic
 vulnerabilities
@@ -2481,6 +2519,7 @@ visitors
 video
 validations
 valid
+violates
 you
 your
 years
@@ -2523,6 +2562,7 @@ nested
 numerous
 noted
 next
+noting
 Bundles
 But
 Bash
@@ -2607,6 +2647,8 @@ Counter
 Combination
 Carbon
 Command
+Course
+Closed
 You
 Your
 Yup
@@ -2618,6 +2660,7 @@ johnNewYork
 jump
 join
 jumps
+journal
 Kernel
 Keep
 Key
