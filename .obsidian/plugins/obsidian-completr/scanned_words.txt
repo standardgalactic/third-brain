@@ -143,6 +143,7 @@ Three
 Total
 Type
 Tuning
+Top
 WIRED
 Worried
 Web
@@ -273,6 +274,7 @@ Sum
 SOLID
 Single
 Substitution
+Segregation
 Document
 Databases
 Data
@@ -306,6 +308,8 @@ Difficult
 Dioxide
 Dmitri
 Demo
+Dependency
+Dependencies
 URL
 Unix
 Users
@@ -619,6 +623,7 @@ snippet
 subclass
 shows
 square
+smell
 movement
 more
 modify
@@ -1022,6 +1027,9 @@ redis
 remapped
 redistribution
 reducing
+realised
+readable
+realise
 but
 based
 beer
@@ -1413,6 +1421,7 @@ prefix
 pointer
 persistent
 principle
+publisher
 Intelligence
 Importantly
 Innovative
@@ -1440,6 +1449,8 @@ Implementation
 Iptables
 Implemented
 Impossible
+Interface
+Inversion
 Laboratory
 License
 Linus
@@ -1747,6 +1758,7 @@ closed
 color
 combination
 consuming
+classes
 alternative
 about
 away
@@ -2032,6 +2044,8 @@ demonstrated
 distributing
 determine
 development
+dependency
+directly
 his
 help
 hardware
@@ -2209,6 +2223,8 @@ induction
 involve
 ignore
 identify
+interfaces
+interface
 ensuring
 explain
 example
@@ -2315,6 +2331,8 @@ enqueue
 electric
 entries
 extend
+exposed
+exposes
 users
 use
 under
