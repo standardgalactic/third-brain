@@ -1,5 +1,15 @@
 #map-of-contents #software-engineering 
 
+## General
+- [[About Linux]]
+- [[Open Source Licenses]]
+- [[Challenges faced by Open Source software]]
+- [[Amdahl's law]]
+- [[Example of a bug that can arise when migrating 32-bit programs to 64-bit]]
+- [[Boolean Algebra]]
+- [[Abelian group]]
+- [[How to view all TCP packets being sent to a port]]
+
 ## Ruby on Rails
 - [[How to get the Puma worker index within a rails index]]
 
@@ -30,19 +40,11 @@
 - [[Birth of Unix]]
 - [[Birth of Open Source Software]]
 
-## General
-- [[About Linux]]
-- [[Open Source Licenses]]
-- [[Challenges faced by Open Source software]]
-- [[Amdahl's law]]
-- [[Example of a bug that can arise when migrating 32-bit programs to 64-bit]]
-- [[Boolean Algebra]]
-- [[Abelian group]]
-
 ## Databases
 - [[Relational database]]
 - [[Non-relational database]]
 	- [[When to choose non-relational database]]
+- [[Redis communication protocol]]
 
 ## Computer systems
 - [[Some definitions - buses, word size, main memory, program counter, operating system]]
