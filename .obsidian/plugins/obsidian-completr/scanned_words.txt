@@ -147,6 +147,7 @@ Tuning
 Top
 TCP
 Things
+Terminologies
 WIRED
 Worried
 Web
@@ -313,6 +314,7 @@ Dmitri
 Demo
 Dependency
 Dependencies
+Degree
 URL
 Unix
 Users
@@ -629,6 +631,7 @@ square
 smell
 sequence
 showing
+starting
 movement
 more
 modify
@@ -776,6 +779,7 @@ gifts
 gifted
 generally
 git
+graphs
 the
 time
 then
@@ -889,6 +893,7 @@ throttled
 threads
 tonnes
 transmitted
+traversing
 related
 released
 release
@@ -1037,6 +1042,7 @@ reducing
 realised
 readable
 realise
+represent
 but
 based
 beer
@@ -1560,6 +1566,7 @@ windows
 wrongly
 willing
 won
+weighted
 create
 code
 creates
@@ -1775,6 +1782,8 @@ consuming
 classes
 command
 converted
+connecting
+coming
 alternative
 about
 away
@@ -1934,6 +1943,7 @@ attributes
 able
 above
 arguments
+anything
 dubbed
 derivative
 doesn
@@ -2064,6 +2074,7 @@ determine
 development
 dependency
 directly
+directional
 his
 help
 hardware
@@ -2146,6 +2157,7 @@ Newest
 New
 Nested
 Nesteruk
+Negative
 idea
 its
 important
@@ -2243,6 +2255,7 @@ ignore
 identify
 interfaces
 interface
+indicating
 ensuring
 explain
 example
@@ -2352,6 +2365,8 @@ extend
 exposed
 exposes
 ends
+ending
+edge
 users
 use
 under
@@ -2396,6 +2411,7 @@ unlikely
 undo
 unexpected
 upcoming
+unweighted
 license
 licensed
 long
@@ -2529,6 +2545,7 @@ Patterns
 Python
 Principles
 Principle
+Path
 viral
 vitriolic
 vulnerabilities
@@ -2559,6 +2576,8 @@ video
 validations
 valid
 violates
+vertices
+vertex
 you
 your
 years
@@ -2602,6 +2621,7 @@ numerous
 noted
 next
 noting
+negative
 Bundles
 But
 Bash
@@ -2689,6 +2709,9 @@ Command
 Course
 Closed
 Conversion
+Connection
+Cycle
+Connectivity
 You
 Your
 Yup
@@ -2729,6 +2752,7 @@ Error
 Easy
 Electric
 Explanation
+Edge
 Just
 Jain
 JohnSanFrancisco
@@ -2757,6 +2781,7 @@ Vector
 Version
 Value
 View
+Vertex
 Quotes
 Quorum
 Questions
