@@ -87,6 +87,9 @@ Ask
 Analyze
 Are
 Alternate
+Abbreviated
+AMCs
+AMC
 Full
 For
 Finnish
@@ -114,6 +117,7 @@ Framework
 Front
 Future
 Flipping
+Fund
 Title
 The
 Tags
@@ -225,6 +229,7 @@ Oldest
 Only
 Outflow
 Oxygen
+Offer
 Source
 Software
 Stallman
@@ -303,6 +308,8 @@ Silence
 Slow
 Set
 Situation
+Schemes
+SBI
 Document
 Databases
 Data
@@ -375,6 +382,7 @@ Headers
 Hennings
 Helps
 Help
+HDFC
 open
 out
 operating
@@ -838,6 +846,8 @@ gestures
 gesturing
 general
 gut
+generate
+gitignore
 the
 time
 then
@@ -1318,6 +1328,8 @@ follow
 feet
 framework
 frameworks
+files
+folder
 Richard
 Red
 Requires
@@ -1353,6 +1365,7 @@ Responsibility
 Response
 Repetition
 Relevance
+Reliance
 programmer
 purposes
 phrase
@@ -1550,6 +1563,7 @@ pauses
 performance
 planned
 pumped
+puts
 Intelligence
 Importantly
 Innovative
@@ -1584,6 +1598,7 @@ Identify
 Interesting
 IBI
 Introduction
+Ignoring
 Laboratory
 License
 Linus
@@ -1689,6 +1704,7 @@ weed
 worked
 wingspan
 whenever
+wealth
 create
 code
 creates
@@ -1913,6 +1929,7 @@ clear
 contact
 continuous
 context
+checked
 alternative
 about
 away
@@ -2402,6 +2419,9 @@ inspire
 ingredient
 irrelevant
 internalizing
+invests
+intending
+investments
 ensuring
 explain
 example
@@ -2524,6 +2544,7 @@ expand
 excitement
 energetic
 energy
+edit
 users
 use
 under
@@ -2570,6 +2591,7 @@ unexpected
 upcoming
 unweighted
 urgency
+untracked
 license
 licensed
 long
@@ -2897,6 +2919,7 @@ Craft
 Conclusion
 Collect
 Change
+Collects
 You
 Your
 Yup
@@ -2942,6 +2965,7 @@ Electric
 Explanation
 Edge
 Expect
+Edit
 Just
 Jain
 JohnSanFrancisco
