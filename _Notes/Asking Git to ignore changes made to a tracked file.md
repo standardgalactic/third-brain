@@ -1,3 +1,5 @@
+#shorts 
+
 ## Command
 `git update-index --assume-unchanged <file>`
 

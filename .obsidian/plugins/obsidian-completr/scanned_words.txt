@@ -31,6 +31,8 @@ Minimal
 Mitigates
 Microsoft
 Make
+Modify
+Meaning
 Author
 Artificial
 Around
@@ -90,6 +92,8 @@ Alternate
 Abbreviated
 AMCs
 AMC
+Amending
+Amended
 Full
 For
 Finnish
@@ -686,6 +690,7 @@ script
 sentences
 soundtrack
 shorts
+snapshot
 movement
 more
 modify
@@ -1131,6 +1136,8 @@ repetition
 relevant
 repetitive
 repeated
+replaces
+ref
 but
 based
 beer
@@ -1229,6 +1236,7 @@ brighten
 bore
 breath
 brisk
+branch
 free
 for
 fit
@@ -1367,6 +1375,7 @@ Response
 Repetition
 Relevance
 Reliance
+Running
 programmer
 purposes
 phrase
@@ -1565,6 +1574,7 @@ performance
 planned
 pumped
 puts
+prompted
 Intelligence
 Importantly
 Innovative
@@ -1931,6 +1941,8 @@ contact
 continuous
 context
 checked
+commits
+changing
 alternative
 about
 away
@@ -2098,6 +2110,9 @@ anxious
 answering
 aspects
 activity
+amended
+altering
+amendment
 dubbed
 derivative
 doesn
@@ -2546,6 +2561,9 @@ excitement
 energetic
 energy
 edit
+entirely
+entity
+editor
 users
 use
 under
@@ -2683,6 +2701,7 @@ lively
 loud
 legs
 lined
+lets
 known
 kernel
 keyboard
@@ -2824,6 +2843,7 @@ navel
 naturality
 nervousness
 nervous
+nothing
 Bundles
 But
 Bash
@@ -2921,6 +2941,7 @@ Conclusion
 Collect
 Change
 Collects
+Combine
 You
 Your
 Yup
