@@ -685,6 +685,7 @@ silent
 script
 sentences
 soundtrack
+shorts
 movement
 more
 modify
