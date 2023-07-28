@@ -33,6 +33,7 @@ Microsoft
 Make
 Modify
 Meaning
+Multiple
 Author
 Artificial
 Around
@@ -94,6 +95,8 @@ AMCs
 AMC
 Amending
 Amended
+Additional
+Advance
 Full
 For
 Finnish
@@ -122,6 +125,7 @@ Front
 Future
 Flipping
 Fund
+False
 Title
 The
 Tags
@@ -169,6 +173,7 @@ Terminologies
 TED
 Tell
 Try
+Toggles
 WIRED
 Worried
 Web
@@ -193,6 +198,7 @@ Withdrawal
 Withdraw
 Word
 Who
+Will
 Guide
 GNU
 GPL
@@ -314,6 +320,7 @@ Set
 Situation
 Schemes
 SBI
+Stops
 Document
 Databases
 Data
@@ -353,6 +360,7 @@ Degree
 DNA
 DNAs
 Delivery
+Discard
 URL
 Unix
 Users
@@ -452,6 +460,10 @@ ons
 opts
 opted
 otherwise
+onto
+opportunity
+opens
+output
 source
 software
 separate
@@ -691,6 +703,9 @@ sentences
 soundtrack
 shorts
 snapshot
+standard
+stop
+squash
 movement
 more
 modify
@@ -795,6 +810,12 @@ metaphor
 marker
 minds
 marketing
+mode
+modes
+meld
+mind
+missing
+messages
 grew
 giving
 guarantees
@@ -854,6 +875,8 @@ general
 gut
 generate
 gitignore
+green
+gone
 the
 time
 then
@@ -978,6 +1001,8 @@ telling
 thinking
 tent
 talking
+top
+toggles
 related
 released
 release
@@ -1138,6 +1163,13 @@ repetitive
 repeated
 replaces
 ref
+rewrite
+rebase
+relative
+rebasing
+rebases
+rewritten
+restore
 but
 based
 beer
@@ -1237,6 +1269,8 @@ bore
 breath
 brisk
 branch
+base
+blindly
 free
 for
 fit
@@ -1339,6 +1373,9 @@ framework
 frameworks
 files
 folder
+formed
+formatting
+flags
 Richard
 Red
 Requires
@@ -1376,6 +1413,9 @@ Repetition
 Relevance
 Reliance
 Running
+Rebasing
+Rebase
+Reset
 programmer
 purposes
 phrase
@@ -1575,6 +1615,9 @@ planned
 pumped
 puts
 prompted
+pick
+properties
+prints
 Intelligence
 Importantly
 Innovative
@@ -1610,6 +1653,7 @@ Interesting
 IBI
 Introduction
 Ignoring
+Interactive
 Laboratory
 License
 Linus
@@ -1633,6 +1677,7 @@ Linked
 Liskov
 Look
 Listen
+Leaves
 would
 was
 were
@@ -1716,6 +1761,9 @@ worked
 wingspan
 whenever
 wealth
+warning
+warns
+warnings
 create
 code
 creates
@@ -1943,6 +1991,7 @@ context
 checked
 commits
 changing
+commands
 alternative
 about
 away
@@ -2113,6 +2162,8 @@ activity
 amended
 altering
 amendment
+appear
+amending
 dubbed
 derivative
 doesn
@@ -2247,6 +2298,8 @@ directional
 differently
 dialogues
 dip
+discard
+diffstat
 his
 help
 hardware
@@ -2438,6 +2491,9 @@ internalizing
 invests
 intending
 investments
+interactive
+individual
+ignores
 ensuring
 explain
 example
@@ -2564,6 +2620,7 @@ edit
 entirely
 entity
 editor
+executes
 users
 use
 under
@@ -2611,6 +2668,7 @@ upcoming
 unweighted
 urgency
 untracked
+untouched
 license
 licensed
 long
@@ -2702,6 +2760,7 @@ loud
 legs
 lined
 lets
+lost
 known
 kernel
 keyboard
@@ -2761,6 +2820,8 @@ PER
 Provide
 Past
 Present
+Process
+Prints
 viral
 vitriolic
 vulnerabilities
@@ -2795,6 +2856,7 @@ vertices
 vertex
 visualise
 vent
+visual
 you
 your
 years
@@ -2873,6 +2935,8 @@ Benefits
 Blast
 BOF
 Body
+Branch
+Boolean
 Christine
 Community
 Companies
@@ -2942,6 +3006,10 @@ Collect
 Change
 Collects
 Combine
+Changes
+Commits
+Configuration
+Cancel
 You
 Your
 Yup

@@ -1,3 +1,5 @@
+#shorts 
+
 ## Command
 `git commit --amend`
 
