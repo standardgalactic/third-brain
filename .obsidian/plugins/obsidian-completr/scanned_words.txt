@@ -1003,6 +1003,7 @@ tent
 talking
 top
 toggles
+tips
 related
 released
 release
@@ -1170,6 +1171,8 @@ rebasing
 rebases
 rewritten
 restore
+refs
+repo
 but
 based
 beer
@@ -1271,6 +1274,7 @@ brisk
 branch
 base
 blindly
+branched
 free
 for
 fit
@@ -1618,6 +1622,8 @@ prompted
 pick
 properties
 prints
+powerful
+passing
 Intelligence
 Importantly
 Innovative
@@ -3056,6 +3062,7 @@ Explanation
 Edge
 Expect
 Edit
+Enables
 Just
 Jain
 JohnSanFrancisco
