@@ -97,6 +97,7 @@ Amending
 Amended
 Additional
 Advance
+Arrays
 Full
 For
 Finnish
@@ -175,6 +176,7 @@ Tell
 Try
 Toggles
 Typescript
+Types
 WIRED
 Worried
 Web
@@ -376,6 +378,7 @@ Used
 Use
 Useful
 Udemy
+UpperCamelCased
 Highlights
 Hat
 Half
@@ -710,6 +713,7 @@ standard
 stop
 squash
 sign
+syntax
 movement
 more
 modify
@@ -1009,6 +1013,9 @@ top
 toggles
 tips
 try
+throws
+thrown
+throw
 related
 released
 release
@@ -1181,6 +1188,7 @@ repo
 realizing
 regret
 risks
+runtime
 but
 based
 beer
@@ -1389,6 +1397,7 @@ folder
 formed
 formatting
 flags
+functions
 Richard
 Red
 Requires
@@ -1429,6 +1438,7 @@ Running
 Rebasing
 Rebase
 Reset
+Representing
 programmer
 purposes
 phrase
@@ -1635,6 +1645,7 @@ powerful
 passing
 principal
 push
+program
 Intelligence
 Importantly
 Innovative
@@ -2012,6 +2023,10 @@ changing
 commands
 conservatism
 coerce
+compiler
+compilation
+checking
+consists
 alternative
 about
 away
@@ -2323,6 +2338,7 @@ dip
 discard
 diffstat
 doubles
+definition
 his
 help
 hardware
@@ -2518,6 +2534,9 @@ interactive
 individual
 ignores
 insatiable
+inspect
+inference
+infer
 ensuring
 explain
 example
@@ -2645,6 +2664,7 @@ entirely
 entity
 editor
 executes
+erasure
 users
 use
 under
@@ -2799,6 +2819,7 @@ keys
 key
 keeps
 kids
+keyword
 Public
 Peterson
 Problems
@@ -2933,6 +2954,7 @@ naturality
 nervousness
 nervous
 nothing
+names
 Bundles
 But
 Bash
@@ -3037,6 +3059,8 @@ Changes
 Commits
 Configuration
 Cancel
+Conventionally
+Caveat
 You
 Your
 Yup
@@ -3085,6 +3109,7 @@ Expect
 Edit
 Enables
 Enough
+Expression
 Just
 Jain
 JohnSanFrancisco
