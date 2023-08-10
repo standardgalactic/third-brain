@@ -46,11 +46,47 @@ function double(x: number): number {
 const add1 = (n: number): number => n + 1;
 ```
 
+#### Function types
+What if we want to hold a function in a variable. The variable needs a type that represents the function. This is how to define a function type:
+
+```ts
+type numberToNumber = (n: number) => number;
+const double: numberToNumber = (n: number): number => {
+  return n * 2;
+}
+// Equivalent to 👇🏽
+function double(n: number): number {
+  return n * 2
+}
+const myDouble: (n: number) => number = double;
+```
+
+When defining a function with an explicit function type, we can only use the arrow function syntax. Also, the name of the parameter in the function type is not important.
+
 ### Representing Arrays
 An array of numbers is `number[]`.
 
 ```ts
 let numbers: number[] = [1,2,3]
+```
+
+It can also be represented like: `Array<number>`
+
+```ts
+let numbers: Array<number> = [1,2,3]
+let numbersNumbers: Array<Array<number>> = [[1,2], [3,4]]
+```
+
+### Tuples
+Tuple is a special array. Tuple defined with length = 2 must have exactly two elements, not 1 or 3
+```ts
+let numbers: [number, number] = [1, 2]
+```
+
+Tuple can hold elements of different types.
+
+```ts
+let numbers: [number, string] = [1, 'a']
 ```
 
 ## List of types
