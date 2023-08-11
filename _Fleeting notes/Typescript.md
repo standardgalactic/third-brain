@@ -63,6 +63,23 @@ const myDouble: (n: number) => number = double;
 
 When defining a function with an explicit function type, we can only use the arrow function syntax. Also, the name of the parameter in the function type is not important.
 
+### Object types
+Used to define types for objects. The following example will make it clear:
+
+```ts
+type User = {
+  email: string,
+  admin: boolean
+};
+
+let amir: User = {
+  email: 'amir@example.com',
+  admin: true,
+};
+
+amir.admin;
+```
+
 ### Representing Arrays
 An array of numbers is `number[]`.
 
