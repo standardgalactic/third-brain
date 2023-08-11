@@ -127,6 +127,7 @@ Future
 Flipping
 Fund
 False
+Function
 Title
 The
 Tags
@@ -177,6 +178,8 @@ Try
 Toggles
 Typescript
 Types
+Tuples
+Tuple
 WIRED
 Worried
 Web
@@ -2201,6 +2204,7 @@ appear
 amending
 approximate
 appetite
+arrow
 dubbed
 derivative
 doesn
@@ -2339,6 +2343,7 @@ discard
 diffstat
 doubles
 definition
+defining
 his
 help
 hardware
@@ -2905,6 +2910,7 @@ vertex
 visualise
 vent
 visual
+variable
 you
 your
 years
