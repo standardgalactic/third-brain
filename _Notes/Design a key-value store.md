@@ -32,6 +32,24 @@
 - Replication gives high availability but causes inconsistencies among replicas
 - We will use [[Resolving inconsistencies using versioning and vector clocks|versioning and vector clocks]] to detect and resolve inconsistencies
 
+## Handling failures
+- Failures can be detected using [[Failure detection using gossip protocol|gossip protocol]]
+- Use [[Improve availability after failures - Using sloppy quorum|sloppy quorum]] to improve availability after the failure is detected
+- [[Recovering from temporary failures - Hinted handoff]]
+- [[Recover from permanent failures - Merkle Trees]]
+
+## High level architecture
+![[Pasted image 20230615175044.png]]
+
+- Clients communicate with the key-value store through APIs: `get(key)` and `put(key, value)`
+- Coordinator is a node that acts as a proxy between the client and the key-value store
+- Nodes are distributed on a hash ring
+- System is completely decentralized - adding/removing nodes can be automatic
+- Data is replicated at multiple nodes
+- No single point of failure as every node has the same set of responsibilities
+
+![[Pasted image 20230615175103.png|Responsibilities of each node]]
+
 ## Related Notes
 - [[Scaling a web app]] 
 - [[Consistent hashing]]

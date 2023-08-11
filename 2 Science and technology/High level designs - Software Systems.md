@@ -26,6 +26,11 @@
 - [[Automating application maintenance cycle]]
 - [[Typical system latency times]]
 - [[Service Level Agreement (SLA)]]
+- [[Resolving inconsistencies using versioning and vector clocks]]
+- [[Failure detection using gossip protocol]]
+- [[Improve availability after failures - Using sloppy quorum]]
+- [[Recovering from temporary failures - Hinted handoff]]
+- [[Recover from permanent failures - Merkle Trees]]
 
 ### Miscellaneous
 - [[Tips for System Design Interviews]]

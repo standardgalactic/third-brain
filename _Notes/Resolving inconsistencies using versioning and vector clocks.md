@@ -24,6 +24,19 @@ Assume the following data modifications
 
 ![[Pasted image 20230614131654.png]]
 
+Here, when the client reads $\text{D3}$ and $\text{D4}$, it will discover a conflict (caused by $\text{D2}$ being modified by $s_{y}$ and $s_{z}$). The conflict is resolved by client and updated data is sent to the server. Assuming that the write is handled by $s_{x}$, we end up with $\text{D5}$
+
+## Detecting conflicts
+- We can tell that a version X is an ancestor (no conflict) of version Y if the version counters of each participant in the vectors clock of Y is greater than or equal to the ones in version X.
+	- Example: $D([s_{0}, 1], [s_{1}, 1])$ is an ancestor of $D([s_{0}, 1], [s_{1}, 2])$
+- Version X is a sibling (conflict exists) of version Y if there is any participant in Y's version clock who has a counter that is less than its corresponding counter in X
+	- Example: $D([s_{0}, 1], [s_{1}, 2])$ and $D([s_{0}, 2], [s_{1}, 1])$ have a conflict
+
+## Drawbacks of vector clocks
+- Adds complexity to the client because it needs to implement conflict resolution logic
+- The $[\text{server}, \text{version}]$ pairs in the vector clock could grow rapidly.
+	- To fix this, we can set a threshold for the number of pairs we want to hold. The oldest pairs are removed as the limit is exceeded.
+	- This may lead to inefficiencies in reconciliation because the descendant relationship cannot be determined accurately. However, based on this [research paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) published by Amazon on DynamoDB, Amazon has not yet encountered this problem in production.
 
 ## Related Notes
 - [[Meaning of consistency in distributed systems]]
