@@ -35,6 +35,7 @@ Modify
 Meaning
 Multiple
 Map
+Malariotherapy
 Author
 Artificial
 Around
@@ -99,6 +100,7 @@ Amended
 Additional
 Advance
 Arrays
+Advent
 Full
 For
 Finnish
@@ -211,6 +213,8 @@ Word
 Who
 Will
 Working
+Won
+Wagner
 Guide
 GNU
 GPL
@@ -235,6 +239,7 @@ Gifting
 Gift
 Give
 Going
+Growth
 Open
 Other
 One
@@ -336,6 +341,7 @@ SBI
 Stops
 SHA
 Sloppy
+Specialty
 Document
 Databases
 Data
@@ -377,6 +383,7 @@ DNAs
 Delivery
 Discard
 DynamoDB
+Dividend
 URL
 Unix
 Users
@@ -486,6 +493,8 @@ opposite
 outperform
 originally
 outcome
+organization
+obsolete
 source
 software
 separate
@@ -734,6 +743,11 @@ serverIndex
 storm
 spread
 spaces
+severe
+strains
+smallpox
+syphilis
+stay
 movement
 more
 modify
@@ -848,6 +862,12 @@ modular
 misses
 mitigate
 measures
+misfortune
+malaria
+malariotherapy
+medicine
+mental
+manager
 grew
 giving
 guarantees
@@ -1044,6 +1064,12 @@ traditional
 tables
 twice
 techniques
+treatment
+tended
+typhoid
+trigger
+throughout
+tiny
 related
 released
 release
@@ -1220,6 +1246,13 @@ runtime
 redistributed
 range
 research
+recover
+reported
+recovered
+realized
+reflect
+rising
+reflects
 but
 based
 beer
@@ -1324,6 +1357,8 @@ blindly
 branched
 boolean
 bidirectional
+began
+booked
 free
 for
 fit
@@ -1434,6 +1469,9 @@ fetch
 fall
 fraction
 fairly
+fatal
+fevers
+fever
 Richard
 Red
 Requires
@@ -1683,6 +1721,13 @@ principal
 push
 program
 positions
+psychiatrist
+patients
+pattern
+prolonged
+prize
+prizes
+profits
 Intelligence
 Importantly
 Innovative
@@ -2071,6 +2116,11 @@ cryptography
 corresponds
 collecting
 carried
+countered
+concerned
+cure
+compounding
+cost
 alternative
 about
 away
@@ -2250,6 +2300,8 @@ assumed
 arise
 arrows
 arbitrarily
+ailment
+alone
 dubbed
 derivative
 doesn
@@ -2391,6 +2443,10 @@ definition
 defining
 described
 deviation
+diagnosis
+days
+disease
+dividend
 his
 help
 hardware
@@ -2478,6 +2534,8 @@ New
 Nested
 Nesteruk
 Negative
+Nobel
+NAV
 idea
 its
 important
@@ -2592,6 +2650,9 @@ inference
 infer
 indexes
 identified
+injecting
+inducing
+invested
 ensuring
 explain
 example
@@ -2722,6 +2783,8 @@ executes
 erasure
 encounters
 experiment
+early
+endeavour
 users
 use
 under
@@ -2772,6 +2835,9 @@ untracked
 untouched
 unnecessary
 uniformly
+unrelated
+units
+unhappy
 license
 licensed
 long
@@ -2931,6 +2997,10 @@ Prints
 Peculiarities
 Prep
 Partitions
+Prize
+Penicillin
+Profits
+Portability
 viral
 vitriolic
 vulnerabilities
@@ -3018,6 +3088,9 @@ nervous
 nothing
 names
 nearly
+neurosyphilis
+noticed
+nobel
 Bundles
 But
 Bash
@@ -3181,6 +3254,7 @@ JohnNewYork
 JSON
 July
 Jennifer
+Jauregg
 quite
 qualify
 qualified
@@ -3196,6 +3270,7 @@ questions
 quality
 queue
 quota
+quinine
 Visualize
 Versioning
 Virtual
