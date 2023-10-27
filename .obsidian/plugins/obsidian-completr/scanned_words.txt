@@ -342,6 +342,7 @@ Stops
 SHA
 Sloppy
 Specialty
+Shift
 Document
 Databases
 Data
@@ -384,6 +385,7 @@ Delivery
 Discard
 DynamoDB
 Dividend
+Distributive
 URL
 Unix
 Users
@@ -495,6 +497,8 @@ originally
 outcome
 organization
 obsolete
+object
+ordering
 source
 software
 separate
@@ -748,6 +752,11 @@ strains
 smallpox
 syphilis
 stay
+shifting
+shifts
+shift
+smallest
+scenarios
 movement
 more
 modify
@@ -868,6 +877,7 @@ malariotherapy
 medicine
 mental
 manager
+machines
 grew
 giving
 guarantees
@@ -1253,6 +1263,7 @@ realized
 reflect
 rising
 reflects
+repetitions
 but
 based
 beer
@@ -1359,6 +1370,7 @@ boolean
 bidirectional
 began
 booked
+bit
 free
 for
 fit
@@ -1472,6 +1484,7 @@ fairly
 fatal
 fevers
 fever
+fills
 Richard
 Red
 Requires
@@ -1790,6 +1803,8 @@ Look
 Listen
 Leaves
 List
+Left
+Little
 would
 was
 were
@@ -2121,6 +2136,8 @@ concerned
 cure
 compounding
 cost
+contiguous
+conventions
 alternative
 about
 away
@@ -2302,6 +2319,8 @@ arrows
 arbitrarily
 ailment
 alone
+arithmetic
+arranged
 dubbed
 derivative
 doesn
@@ -2510,6 +2529,7 @@ hours
 head
 habit
 hundred
+holds
 Not
 Netflix
 Notes
@@ -2653,6 +2673,9 @@ identified
 injecting
 inducing
 invested
+instructions
+italicised
+interesting
 ensuring
 explain
 example
@@ -2785,6 +2808,10 @@ encounters
 experiment
 early
 endeavour
+expression
+expressions
+endian
+established
 users
 use
 under
@@ -2932,6 +2959,7 @@ lets
 lost
 lakh
 let
+logical
 known
 kernel
 keyboard
@@ -3001,6 +3029,7 @@ Prize
 Penicillin
 Profits
 Portability
+Playing
 viral
 vitriolic
 vulnerabilities
@@ -3037,6 +3066,8 @@ visualise
 vent
 visual
 variable
+vise
+versa
 you
 your
 years
@@ -3122,6 +3153,8 @@ BOF
 Body
 Branch
 Boolean
+Bytes
+Big
 Christine
 Community
 Companies
@@ -3284,3 +3317,5 @@ Quorum
 Questions
 xml
 xmlns
+XOR
+zeroes
