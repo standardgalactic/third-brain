@@ -101,6 +101,7 @@ Additional
 Advance
 Arrays
 Advent
+Array
 Full
 For
 Finnish
@@ -215,6 +216,7 @@ Will
 Working
 Won
 Wagner
+While
 Guide
 GNU
 GPL
@@ -240,6 +242,7 @@ Gift
 Give
 Going
 Growth
+Generic
 Open
 Other
 One
@@ -258,6 +261,7 @@ Only
 Outflow
 Oxygen
 Offer
+Object
 Source
 Software
 Stallman
@@ -343,6 +347,7 @@ SHA
 Sloppy
 Specialty
 Shift
+Spread
 Document
 Databases
 Data
@@ -401,6 +406,7 @@ Use
 Useful
 Udemy
 UpperCamelCased
+Union
 Highlights
 Hat
 Half
@@ -499,6 +505,7 @@ organization
 obsolete
 object
 ordering
+objects
 source
 software
 separate
@@ -757,6 +764,7 @@ shifts
 shift
 smallest
 scenarios
+strings
 movement
 more
 modify
@@ -878,6 +886,7 @@ medicine
 mental
 manager
 machines
+mix
 grew
 giving
 guarantees
@@ -1264,6 +1273,7 @@ reflect
 rising
 reflects
 repetitions
+returning
 but
 based
 beer
@@ -1485,6 +1495,8 @@ fatal
 fevers
 fever
 fills
+fine
+forks
 Richard
 Red
 Requires
@@ -1805,6 +1817,7 @@ Leaves
 List
 Left
 Little
+Like
 would
 was
 were
@@ -2138,6 +2151,8 @@ compounding
 cost
 contiguous
 conventions
+convention
+custom
 alternative
 about
 away
@@ -2321,6 +2336,9 @@ ailment
 alone
 arithmetic
 arranged
+arbitrary
+arrays
+analogy
 dubbed
 derivative
 doesn
@@ -2466,6 +2484,7 @@ diagnosis
 days
 disease
 dividend
+drawer
 his
 help
 hardware
@@ -2530,6 +2549,8 @@ head
 habit
 hundred
 holds
+hole
+handful
 Not
 Netflix
 Notes
@@ -2556,6 +2577,7 @@ Nesteruk
 Negative
 Nobel
 NAV
+Nice
 idea
 its
 important
@@ -2812,6 +2834,7 @@ expression
 expressions
 endian
 established
+element
 users
 use
 under
@@ -2865,6 +2888,8 @@ uniformly
 unrelated
 units
 unhappy
+unions
+union
 license
 licensed
 long
@@ -2960,6 +2985,7 @@ lost
 lakh
 let
 logical
+labeled
 known
 kernel
 keyboard
@@ -2973,6 +2999,7 @@ key
 keeps
 kids
 keyword
+knives
 Public
 Peterson
 Problems
@@ -3068,6 +3095,7 @@ visual
 variable
 vise
 versa
+violating
 you
 your
 years
@@ -3122,6 +3150,8 @@ nearly
 neurosyphilis
 noticed
 nobel
+named
+necessarily
 Bundles
 But
 Bash

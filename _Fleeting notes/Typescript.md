@@ -166,6 +166,58 @@ However, the vise-versa is fine. A value with type `string` can be assigned to a
 As a real world analogy, if we have a drawer labeled as knives and we have a handful of knives and forks. We cannot put the knives and forks in the drawer. 
 But, if we have a drawer labeled as "knives and forks", and we have a handful of knives only, we can put the knives in the drawer without violating any label.
 
+### Literal Types
+```ts
+let one: 1 = 1;
+
+// Here one can only take the value of: `1`
+```
+
+```ts
+let one: 1 = 2;
+
+// Type error
+```
+
+Can be used with unions:
+```ts
+let oneOrTwo: 1 | 2 = 2;
+```
+
+Its practical usage can be seen in places where a variable can have only a limited set of values. Example:
+```ts
+function sort2(numbers: number[], direction: 'asc' | 'desc'): number[] { ... }
+```
+
+### Literal object types
+Instead of defining types for objects, we can also directly define the types inline.
+
+```ts
+function extractEmail(user: {email: string}): string {
+  return user.email;
+}
+```
+
+We can also use destructuring:
+```ts
+function userName({name}: {name: string}): string {
+  return name;
+}
+
+userName({name: 'Amir'});
+// 'Amir'
+```
+
+### Creating generic object types
+Like we have array data types with holes, `Array<T>`, we can also create generic object types with holes:
+
+```ts
+types Pants<T>: {
+	left: T,
+	right: T
+}
+```
+
 ## List of types
 - number
 - string
