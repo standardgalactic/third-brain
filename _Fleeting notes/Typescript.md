@@ -82,6 +82,14 @@ first<numbers>([1, 2])
 //=> 1
 ```
 
+We can also skip specifying the `T` type explicitly and call `first` this way:
+
+```ts
+first([true, false])
+```
+
+In the above case, the compiler figures that the values of `T` must be boolean.
+
 ### Object types
 Used to define types for objects. The following example will make it clear:
 
@@ -212,9 +220,14 @@ userName({name: 'Amir'});
 Like we have array data types with holes, `Array<T>`, we can also create generic object types with holes:
 
 ```ts
-types Pants<T>: {
+type Pants<T> = {
 	left: T,
 	right: T
+}
+
+type Pants<T,V> = {
+	left: T,
+	right: V
 }
 ```
 
