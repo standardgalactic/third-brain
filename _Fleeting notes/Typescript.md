@@ -187,6 +187,39 @@ let one: 1 = 2;
 // Type error
 ```
 
+#### `undefined` type
+Only the value `undefined` can have the type `undefined`. No other type, too, can have the value `undefined`.
+
+
+> [!important] --strictNullChecks in typescript
+> Typescript's `--strictNullChecks` option determines the type checking level for `null` and `undefined`.
+
+
+```ts
+// Valid
+const x: undefined = undefined;
+const y: number = 5;
+
+// Invalid
+const x: undefined = null;
+const y: number = undefined;
+
+// Even this is invalid
+let mightBeAString: string | undefined = true ? 'a' : undefined;
+let s: string = mightBeAString; // since s can only be a string
+```
+
+In the last case, if we introduce some checks, then we can do [[#Object narrowing in typescript|object narrowing]]. The following is fine:
+```ts
+let mightBeAString: string | undefined = true ? 'a' : undefined;
+let s: string;
+if (mightBeAString === undefined) {
+  s = '';
+} else {
+  s = mightBeAString;
+}
+```
+
 Can be used with unions:
 ```ts
 let oneOrTwo: 1 | 2 = 2;
@@ -230,6 +263,41 @@ type Pants<T,V> = {
 	right: V
 }
 ```
+
+## Object narrowing in typescript
+Consider a type:
+
+```ts
+type User = {
+	name: string,
+	admin: boolean
+};
+
+const ayush: User = {
+	name: 'ayush',
+	admin: true
+}
+```
+
+Now, we are just interested in the name of the user. We can define in the user's name. So, we define another type:
+```ts
+type Name = {
+	name: string
+}
+```
+
+If we define a new variable of `Name` type and assign its value to be equal to `ayush`, typescript will automatically throw away the `admin` attribute.
+
+```ts
+const justName: Name = ayush;
+
+console.log(justName)
+//=> { 'name': 'ayush' }
+```
+
+This is called **structural typing** (*also called duck typing*): the object's structure determines the type. This narrowing is useful when, for example:
+
+An email sending function essentially requires a user's email. But, if the function asks for the whole `User` as an argument, then it would not be possible to send emails to "non-users". However, if the argument is typed as just `{ email }: { email: string }`, then any object with the `email` attribute can be passed.
 
 ## List of types
 - number
