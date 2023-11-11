@@ -765,6 +765,11 @@ shift
 smallest
 scenarios
 strings
+specifying
+strictNullChecks
+structural
+sending
+send
 movement
 more
 modify
@@ -1089,6 +1094,9 @@ typhoid
 trigger
 throughout
 tiny
+typescript
+typing
+typed
 related
 released
 release
@@ -1497,6 +1505,7 @@ fever
 fills
 fine
 forks
+figures
 Richard
 Red
 Requires
@@ -1818,6 +1827,7 @@ List
 Left
 Little
 Like
+Literal
 would
 was
 were
@@ -2339,6 +2349,8 @@ arranged
 arbitrary
 arrays
 analogy
+attribute
+asks
 dubbed
 derivative
 doesn
@@ -2485,6 +2497,8 @@ days
 disease
 dividend
 drawer
+destructuring
+duck
 his
 help
 hardware
@@ -2551,6 +2565,7 @@ hundred
 holds
 hole
 handful
+holes
 Not
 Netflix
 Notes
@@ -2698,6 +2713,8 @@ invested
 instructions
 italicised
 interesting
+introduce
+inline
 ensuring
 explain
 example
@@ -2835,6 +2852,10 @@ expressions
 endian
 established
 element
+explicitly
+email
+essentially
+emails
 users
 use
 under
@@ -2890,6 +2911,7 @@ units
 unhappy
 unions
 union
+usage
 license
 licensed
 long
@@ -3152,6 +3174,7 @@ noticed
 nobel
 named
 necessarily
+narrowing
 Bundles
 But
 Bash
