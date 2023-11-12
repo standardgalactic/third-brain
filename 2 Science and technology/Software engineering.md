@@ -26,6 +26,7 @@
 	- [[Using git rebase onto]]
 - [[Ignore files in Git without changing gitignore]]
 - [[Asking Git to ignore changes made to a tracked file]]
+- [[Tracking evolution of function using Git logs]]
 
 ## Web
 - [[Difference between PUT and PATCH request]]
