@@ -316,6 +316,22 @@ An email sending function essentially requires a user's email. But, if the funct
 //=> '11'
 ```
 
+### Typescript breaking type rules for arrays
+```ts
+let strings: string[] = ['a'];
+let element: string = strings[5];
+element;
+
+// => undefined
+```
+
+`element` gets the value `undefined` even though it is defined as a `string`.
+
+#### Solution
+There are two ways to work around this problem:
+1. Manually include checks for `undefined`.
+2. Enable `--noUncheckedIndexedAccess` and `--strictNullChecks` options to force typescript to raise errors in such cases.
+
 ## Nice to know JS and TS features
 ### Spread syntax
 Given two arrays `a1` and `a2`, the result of `[...a1, ...a2]` gives an array with all the elements of `a1` followed by the elements of `a2`

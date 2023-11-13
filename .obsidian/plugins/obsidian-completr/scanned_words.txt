@@ -188,6 +188,7 @@ Tuple
 Technical
 Table
 Tree
+Troubleshooting
 WIRED
 Worried
 Web
@@ -770,6 +771,7 @@ strictNullChecks
 structural
 sending
 send
+supported
 movement
 more
 modify
@@ -953,6 +955,7 @@ generate
 gitignore
 green
 gone
+globally
 the
 time
 then
@@ -2351,6 +2354,7 @@ arrays
 analogy
 attribute
 asks
+adjust
 dubbed
 derivative
 doesn
@@ -2499,6 +2503,7 @@ dividend
 drawer
 destructuring
 duck
+diff
 his
 help
 hardware
