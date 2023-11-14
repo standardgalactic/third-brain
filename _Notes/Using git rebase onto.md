@@ -9,7 +9,7 @@ git rebase --onto <newbase> <oldbase>
 ## Explanation
 Consider this example repo 👇🏽
 
-![[Pasted image 20221208155445.png]]
+![[Pasted image 20231114143837.png]]
 
 We don't want `featureB` to be based off `featureA`. We want it to be branched off `main`.
 
