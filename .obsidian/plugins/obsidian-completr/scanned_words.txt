@@ -36,6 +36,7 @@ Meaning
 Multiple
 Map
 Malariotherapy
+Manually
 Author
 Artificial
 Around
@@ -2861,6 +2862,7 @@ explicitly
 email
 essentially
 emails
+errors
 users
 use
 under
@@ -3338,6 +3340,7 @@ Edit
 Enables
 Enough
 Expression
+Enable
 Just
 Jain
 JohnSanFrancisco
