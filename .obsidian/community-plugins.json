@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "obsidian-vimrc-support",
-  "table-editor-obsidian",
   "file-tree-alternative",
   "no-dupe-leaves",
   "oz-clear-unused-images",
@@ -12,8 +11,7 @@
   "image-captions",
   "smart-random-note",
   "obsidian-local-images",
-  "cycle-through-panes",
   "obsidian-latex-suite",
-  "obsidian-completr",
-  "copilot"
+  "copilot",
+  "table-editor-obsidian"
 ]

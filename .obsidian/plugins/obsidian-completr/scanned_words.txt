@@ -103,6 +103,7 @@ Advance
 Arrays
 Advent
 Array
+Algorithms
 Full
 For
 Finnish
@@ -350,6 +351,10 @@ Sloppy
 Specialty
 Shift
 Spread
+Structures
+Seminar
+SREs
+Summarized
 Document
 Databases
 Data
@@ -393,6 +398,8 @@ Discard
 DynamoDB
 Dividend
 Distributive
+Developers
+DevOps
 URL
 Unix
 Users
@@ -773,6 +780,8 @@ structural
 sending
 send
 supported
+scalable
+serving
 movement
 more
 modify
@@ -895,6 +904,7 @@ mental
 manager
 machines
 mix
+marketers
 grew
 giving
 guarantees
@@ -1101,6 +1111,8 @@ tiny
 typescript
 typing
 typed
+targeted
+targeting
 related
 released
 release
@@ -1286,6 +1298,7 @@ rising
 reflects
 repetitions
 returning
+reach
 but
 based
 beer
@@ -1510,6 +1523,7 @@ fills
 fine
 forks
 figures
+feed
 Richard
 Red
 Requires
@@ -1766,6 +1780,11 @@ prolonged
 prize
 prizes
 profits
+perceived
+pitches
+perception
+prefer
+poorly
 Intelligence
 Importantly
 Innovative
@@ -1832,6 +1851,7 @@ Left
 Little
 Like
 Literal
+Link
 would
 was
 were
@@ -1918,6 +1938,8 @@ wealth
 warning
 warns
 warnings
+wider
+watch
 create
 code
 creates
@@ -2167,6 +2189,8 @@ contiguous
 conventions
 convention
 custom
+confident
+chatgpt
 alternative
 about
 away
@@ -2356,6 +2380,9 @@ analogy
 attribute
 asks
 adjust
+averse
+amplify
+allocating
 dubbed
 derivative
 doesn
@@ -2505,6 +2532,7 @@ drawer
 destructuring
 duck
 diff
+developer
 his
 help
 hardware
@@ -2721,6 +2749,9 @@ italicised
 interesting
 introduce
 inline
+influencer
+influencers
+intrusive
 ensuring
 explain
 example
@@ -2863,6 +2894,7 @@ email
 essentially
 emails
 errors
+engagement
 users
 use
 under
@@ -2919,6 +2951,7 @@ unhappy
 unions
 union
 usage
+unfounded
 license
 licensed
 long
@@ -3015,6 +3048,7 @@ lakh
 let
 logical
 labeled
+limits
 known
 kernel
 keyboard
@@ -3086,6 +3120,8 @@ Penicillin
 Profits
 Portability
 Playing
+Paid
+Pull
 viral
 vitriolic
 vulnerabilities
@@ -3125,6 +3161,7 @@ variable
 vise
 versa
 violating
+voices
 you
 your
 years
@@ -3290,6 +3327,7 @@ Configuration
 Cancel
 Conventionally
 Caveat
+Conquer
 You
 Your
 Yup

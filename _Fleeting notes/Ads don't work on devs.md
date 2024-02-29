@@ -16,3 +16,16 @@ When users self-qualify for ads, marketers can be more confident that they are a
 
 From: https://thedevmarketer.substack.com/p/do-ads-even-work-on-devs
 Summarized using chatgpt
+
+| n | $\log_{2}n$ | $\sqrt{ n }$ |
+| ---- | ---- | ---- |
+| 1 | 0 | 1 |
+| 2 | 1 | 1.414 |
+| 4 | 2 | 2 |
+| 8 | 3 | 2.8284271247 |
+| 16 | 4 | 5 |
+| 32 | 5 | 5.6568542495 |
+| 64 | 6 | 8 |
+| 128 | 7 | 11.313708499 |
+| 256 | 8 | 16 |
+| 512 | 9 | 22.627416998 |
