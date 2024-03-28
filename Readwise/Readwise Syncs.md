@@ -198,3 +198,28 @@
 - [[2023-06-10]] 5:57 PM — Synced 35 highlights from 1 document.
     - 35 highlights from The Engineer’s Guide to Career Growth — Advice From My Time at Stripe and Facebook
 
+- [[2024-03-28]] 1:38 PM — Synced 452 highlights from 23 documents.
+    - 30 highlights from An Introduction to Debt Mutual Funds for New Investors
+    - 8 highlights from Live Coding Interviews
+    - 6 highlights from Deciding on Asset Allocation for a Financial Goal
+    - 1 highlights from Asset Allocation for Long-Term Goals
+    - 22 highlights from How to Select Mutual Fund Categories Suitable for Your Financial Goals?
+    - 6 highlights from Want to Rent Out Your Property? Do It Right to Avoid Legal Troubles Later!
+    - 66 highlights from Understanding AWK
+    - 62 highlights from Design A Web Crawler
+    - 6 highlights from Design A Notification System
+    - 13 highlights from Design A News Feed System
+    - 15 highlights from Everyday Types
+    - 19 highlights from Processes, Loaders, Fork, and Exec
+    - 9 highlights from Basics of stderr and stdout on Ruby scripts Oct 23 2018
+    - 3 highlights from Manage Your Priorities and Energy.
+    - 4 highlights from Vectors Are the New JSON in PostgreSQL
+    - 2 highlights from Why Did South Korea Ban Short-Selling?
+    - 3 highlights from The OpenAI Keynote
+    - 6 highlights from How Photoshop Solved Working With Files Larger Than Can Fit Into Memory
+    - 4 highlights from Here, There and Everywhere
+    - 3 highlights from Arguments for static and dynamic types
+    - 6 highlights from A v-Marc Stock Rigging Scandal?
+    - 144 highlights from Influence, New and Expanded
+    - 14 highlights from State of the Terminal
+
