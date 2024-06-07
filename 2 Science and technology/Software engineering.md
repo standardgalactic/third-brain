@@ -10,6 +10,7 @@
 - [[Abelian group]]
 - [[How to view all TCP packets being sent to a port]]
 - [[Graph data structure]]
+- [[How to solve a Problem - according to George Polya]]
 
 ## Ruby on Rails
 - [[How to get the Puma worker index within a rails index]]
